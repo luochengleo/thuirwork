@@ -88,9 +88,11 @@ def generateDqrels(runname):
     fout.close()
 import os
 runlist = open('../data/Dqrels/sakai/ownrunlist','w')
+batch = open('../data/Dqrels/sakai/batch.sh','w')
 for f in os.listdir('../data/cnrun/'):
     print f
     generateDqrels(f.replace('.txt',''))
     runlist.write(f.replace('.txt','.run')+'\n')
+    batch.write('./DIN-splitqrels imine.Iprob '+f.replace('.txt','')+'.Dqrels'+' '+f.replace('.txt','')+'\n')
 runlist.close()
-
+batch.close()
