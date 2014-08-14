@@ -47,15 +47,22 @@ def loadcsv(filename):
     return csv.reader(open(filename))
 
 idandsls2fls = dict()
-for l in loadcsv('../data/csv/task6.csv'):
+annofls2id = dict()
+for l in loadcsv('../data/csv/task5.csv'):
+    annofls = l[3]
     id = l[0]
+    if annofls != '' and id.isdigit():
+        annofls2id[annofls] =id
+for l in loadcsv('../data/csv/task6.csv'):
     if len(id) ==1:
         id = '000'+id
     else:
         id = '00'+id
     query = l[1]
     fls = l[3]
-    idandsls2fls[(id,query)] = fls
+    if fls != '':
+        id = annofls2id[fls]
+        idandsls2fls[(id,query)] = fls
 
 def generateDqrels(runname):
     fout = open('../data/Dqrels/sakai/'+runname+'.Dqrels','w')
@@ -72,6 +79,7 @@ def generateDqrels(runname):
             fls = ''
         
         if fls =='':
+            print 'empty flss'
             intent = '0'
             tag = "L0"
         else:
