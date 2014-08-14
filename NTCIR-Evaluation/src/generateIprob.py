@@ -57,10 +57,13 @@ for l in open('../data/csv/task6.csv'):
 
 def generateDqrels(runname):
     fout = open('../data/Dqrels/'+runname+'.Dqrels','w')
+    trec = open('../data/Dqrels/'+runname +'.run','w')
     for l in open('../data/cnrun/'+runname+'.txt').readlines()[1:]:
         segs = l.replace(codecs.BOM_UTF8,'').strip().split(';')
         id = segs[0]
         sls = segs[6]
+        slsrank = segs[7]
+        slsscore = segs[8]
         try:
             fls = idandsls2fls[(id,sls)]
         except:
@@ -78,10 +81,16 @@ def generateDqrels(runname):
                 tag = 'L0'
                 print 'except',id,fls
             
-        
-        fout.write(id+' '+intent+' '+str(sls.__hash__())+' '+tag+'\n')
+        docid = str(sls.__hash__())
+        fout.write(id+' '+intent+' '+docid+' '+tag+'\n')
+        trec.write(id+' Q0 '+docid+' '+slsrank+' '+slsscore+' '+runname+'\n')
+    trec.close()
     fout.close()
 import os
+runlist = open('../data/Dqrels/sakai/ownrunlist','w')
 for f in os.listdir('../data/cnrun/'):
     print f
     generateDqrels(f.replace('.txt',''))
+    runlist.write(f.replace('.txt','.run')+'\n')
+runlist.close()
+
