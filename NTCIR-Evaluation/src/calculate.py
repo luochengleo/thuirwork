@@ -61,10 +61,10 @@ def calculateHscore(runname):
                 accu = 0
             hscore[topicid][rankfls]+=(accu)
             hcount[topicid][rankfls]+=1
-        if (item.topicid,item.fls,item.sls) in accuracy:
-            print item.topicid,item.rankfls,item.ranksls,'hit',accuracy[(item.topicid,item.fls,item.sls)]
-        else:
-            print item.topicid,item.rankfls,item.ranksls,'miss','0'
+#         if (item.topicid,item.fls,item.sls) in accuracy:
+#             print item.topicid,item.rankfls,item.ranksls,'hit',accuracy[(item.topicid,item.fls,item.sls)]
+#         else:
+#             print item.topicid,item.rankfls,item.ranksls,'miss','0'
         
     h_score_fls = defaultdict(lambda:defaultdict(lambda:0))
     for t in hscore:
@@ -152,9 +152,9 @@ def calculateFscore(runname):
 
 
 if __name__=="__main__":
-    print calculateHscore('CNU-S-C-2A')
-    print len(calculateHscore('CNU-S-C-2A'))
-    print calculateHscore('CNU-S-C-2A')
-#     for f in os.listdir('../data/cnrun/'):
-#         runname = f.replace('.txt','')
-#         print runname,'\t',calculateHscore(runname)
+#     print calculateHscore('CNU-S-C-2A')
+#     print len(calculateHscore('CNU-S-C-2A'))
+#     print calculateHscore('CNU-S-C-2A')
+    for f in os.listdir('../data/cnrun/'):
+        runname = f.replace('.txt','')
+        print runname,'\t',mean(calculateFscore(runname))
