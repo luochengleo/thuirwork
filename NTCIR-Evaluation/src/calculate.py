@@ -34,30 +34,57 @@ def loadfile(filename):
     return rtr
         
 
-def calculateH(runname):
+def calculateHscore(runname):
+    
     filename = '../data/cnrun/'+runname+'.txt'
     results = loadfile(filename)
     accuracy = dict()
-    hscorelist = list()
-    accudict  = defaultdict(lambda:list())
+    
+    hcount = defaultdict(lambda:defaultdict(lambda:0))
+    hscore = defaultdict(lambda:defaultdict(lambda:0))
+    
     
     for l in open('../data/csv/task2.csv'):
-        print len(l.split(','))
         queryid,fls,sls,accu = l.strip().split(',')
         if queryid.isdigit():
             accuracy[(queryid,fls,sls)] = int(accu)
+    
     for item in results:
         topicid = item.topicid
+        rankfls = item.rankfls
+        
         if int(topicid)<34:
             try:
-                accudict[topicid].append(accuracy[(item.topicid,item.fls,item.sls)])
-            except:
-                print 'EXCEPT',item.topicid,item.fls,item.sls
-                
-    
-    for item in accudict:
-        print item ,accudict[item]
+                accu = accuracy[(item.topicid,item.fls,item.sls)]
 
+            except:
+                accu = 0
+            hscore[topicid][rankfls]+=(accu)
+            hcount[topicid][rankfls]+=1
+        if (item.topicid,item.fls,item.sls) in accuracy:
+            print item.topicid,item.rankfls,item.ranksls,'hit',accuracy[(item.topicid,item.fls,item.sls)]
+        else:
+            print item.topicid,item.rankfls,item.ranksls,'miss','0'
+        
+    h_score_fls = defaultdict(lambda:defaultdict(lambda:0))
+    for t in hscore:
+        for f in hscore[t]:
+            h_score_fls[t][f] = float(hscore[t][f])/float(hcount[t][f])
+    
+    rtr = list()
+    for t in evaid():
+        sum = 0.0
+        for f in h_score_fls[t]:
+            sum +=h_score_fls[t][f]
+        try:
+            rtr.append(sum/float(len(h_score_fls[t].keys())))
+        except:
+            rtr.append(0.0)
+    return rtr
+        
+        
+    
+    
 def dcg( r ):
     rtr = list()
     for i in range(0,len(r),1):
@@ -90,8 +117,12 @@ def mean(r):
     rtr = 0.0
     for item in r:
         rtr+= float(item)
-    return rtr/float(len(r))
+    if rtr == 0 :
+        return 0.0
+    else:
+        return rtr/float(len(r))
 def calculateFscore(runname):
+    
     filename = '../data/cnrun/'+runname+'.txt'
     results = loadfile(filename)
     flsrel = dict()
@@ -119,11 +150,11 @@ def calculateFscore(runname):
         rtr.append(ndcg(fls[id])[-1])
     return rtr
 
-def 
 
 if __name__=="__main__":
-#     calculateFscore('CNU-S-C-2A')
-    
-    for f in os.listdir('../data/cnrun/'):
-        runname = f.replace('.txt','')
-        print runname,mean(calculateFscore(runname))
+    print calculateHscore('CNU-S-C-2A')
+    print len(calculateHscore('CNU-S-C-2A'))
+    print calculateHscore('CNU-S-C-2A')
+#     for f in os.listdir('../data/cnrun/'):
+#         runname = f.replace('.txt','')
+#         print runname,'\t',calculateHscore(runname)
