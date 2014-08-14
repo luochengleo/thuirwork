@@ -71,7 +71,7 @@ IRELSUF="Irelv"
 DINSUF="din"
 GRELSUF="Grelv"
 
-AWK=/usr/bin/gawk
+AWK=/usr/local/bin/gawk
 
 # create a topicid file from the intp file
 

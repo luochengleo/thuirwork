@@ -56,8 +56,8 @@ for l in open('../data/csv/task6.csv'):
     idandsls2fls[(id,query)] = fls
 
 def generateDqrels(runname):
-    fout = open('../data/Dqrels/'+runname+'.Dqrels','w')
-    trec = open('../data/Dqrels/'+runname +'.run','w')
+    fout = open('../data/Dqrels/sakai/'+runname+'.Dqrels','w')
+    trec = open('../data/Dqrels/sakai/'+runname +'.run','w')
     for l in open('../data/cnrun/'+runname+'.txt').readlines()[1:]:
         segs = l.replace(codecs.BOM_UTF8,'').strip().split(';')
         id = segs[0]
@@ -81,7 +81,7 @@ def generateDqrels(runname):
                 tag = 'L0'
                 print 'except',id,fls
             
-        docid = str(sls.__hash__())
+        docid = str(sls.__hash__()).replace('-','')
         fout.write(id+' '+intent+' '+docid+' '+tag+'\n')
         trec.write(id+' Q0 '+docid+' '+slsrank+' '+slsscore+' '+runname+'\n')
     trec.close()
@@ -89,10 +89,13 @@ def generateDqrels(runname):
 import os
 runlist = open('../data/Dqrels/sakai/ownrunlist','w')
 batch = open('../data/Dqrels/sakai/batch.sh','w')
+evaluate = open('../data/Dqrels/sakai/evaluate.sh','w')
 for f in os.listdir('../data/cnrun/'):
     print f
     generateDqrels(f.replace('.txt',''))
+    runname =f.replace('.txt','')
     runlist.write(f.replace('.txt','.run')+'\n')
     batch.write('./DIN-splitqrels imine.Iprob '+f.replace('.txt','')+'.Dqrels'+' '+f.replace('.txt','')+'\n')
+    evaluate.write('echo '+runname+'.run | ./D-NTCIR-eval imine.Iprob.tid '+runname+' 50 110\n')
 runlist.close()
 batch.close()

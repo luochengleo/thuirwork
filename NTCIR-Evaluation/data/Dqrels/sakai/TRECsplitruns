@@ -15,7 +15,7 @@ if [ $# -lt 1 ]; then
     exit 1
 fi
 
-AWK=/usr/bin/gawk
+AWK=/usr/local/bin/gawk
 
 TIDLIST=$1
 shift
