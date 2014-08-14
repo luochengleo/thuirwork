@@ -96,6 +96,6 @@ for f in os.listdir('../data/cnrun/'):
     runname =f.replace('.txt','')
     runlist.write(f.replace('.txt','.run')+'\n')
     batch.write('./DIN-splitqrels imine.Iprob '+f.replace('.txt','')+'.Dqrels'+' '+f.replace('.txt','')+'\n')
-    evaluate.write('echo '+runname+'.run | ./D-NTCIR-eval imine.Iprob.tid '+runname+' 50 110\n')
+    evaluate.write('echo '+runname+'.run | ./D-NTCIR-eval imine.Iprob.tid '+runname+' 10 110\n')
 runlist.close()
 batch.close()
