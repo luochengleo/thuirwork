@@ -1,0 +1,421 @@
+<SYSDESC> Explicit modeling of query aspects based on embedding, by incorporating one single external resource (query logs), while considering the sparsity constraint. </SYSDESC>
+0051;0;apple company;1;0.64;0;computer;1;0.91;UM13-S-E-3A
+0051;0;apple company;1;0.64;0;pictures;2;0.83;UM13-S-E-3A
+0051;0;apple company;1;0.64;0;store;3;0.75;UM13-S-E-3A
+0051;0;apple company;1;0.64;0;itunes;4;0.71;UM13-S-E-3A
+0051;0;apple company;1;0.64;0;tools;5;0.66;UM13-S-E-3A
+0051;0;apple company;1;0.64;0;laptops;6;0.59;UM13-S-E-3A
+0051;0;apple company;1;0.64;0;vacation;7;0.48;UM13-S-E-3A
+0051;0;apple company;1;0.64;0;iphone;8;0.39;UM13-S-E-3A
+0051;0;apple company;1;0.64;0;macs;9;0.21;UM13-S-E-3A
+0051;0;apple company;1;0.64;0;ipod;10;0.15;UM13-S-E-3A
+0051;0;apple fruit;2;0.23;0;coconut;1;0.79;UM13-S-E-3A
+0051;0;apple fruit;2;0.23;0;fiber grams;2;0.68;UM13-S-E-3A
+0051;0;apple fruit;2;0.23;0;fly speck;3;0.52;UM13-S-E-3A
+0051;0;apple fruit;2;0.23;0;topping recipes;4;0.45;UM13-S-E-3A
+0051;0;apple fruit;2;0.23;0;fiber;5;0.40;UM13-S-E-3A
+0051;0;apple fruit;2;0.23;0;facts;6;0.33;UM13-S-E-3A
+0051;0;apple fruit;2;0.23;0;sugar;7;0.27;UM13-S-E-3A
+0051;0;apple fruit;2;0.23;0;picture;8;0.21;UM13-S-E-3A
+0051;0;apple fruit;2;0.23;0;definition;9;0.16;UM13-S-E-3A
+0051;0;apple valley;3;0.11;0;photos;1;0.88;UM13-S-E-3A
+0051;0;apple valley;3;0.11;0;minnesota;2;0.83;UM13-S-E-3A
+0051;0;apple valley;3;0.11;0;viva marias;3;0.81;UM13-S-E-3A
+0051;0;apple valley;3;0.11;0;homes;4;0.74;UM13-S-E-3A
+0051;0;apple valley;3;0.11;0;high school;5;0.72;UM13-S-E-3A
+0051;0;apple valley;3;0.11;0;santa rosa;6;0.70;UM13-S-E-3A
+0051;0;apple valley;3;0.11;0;century 21;7;0.64;UM13-S-E-3A
+0051;0;apple valley;3;0.11;0;california;8;0.50;UM13-S-E-3A
+0051;0;apple valley;3;0.11;0;ca;9;0.31;UM13-S-E-3A
+0051;0;apple valley;3;0.11;0;walmart;10;0.22;UM13-S-E-3A
+0052;0;cathedral;1;1.0;0;photos;1;0.77;UM13-S-E-3A
+0052;0;cathedral;1;1.0;0;rome;2;0.71;UM13-S-E-3A
+0052;0;cathedral;1;1.0;0;catholic;3;0.62;UM13-S-E-3A
+0052;0;cathedral;1;1.0;0;france;4;0.60;UM13-S-E-3A
+0052;0;cathedral;1;1.0;0;german;5;0.54;UM13-S-E-3A
+0052;0;cathedral;1;1.0;0;st sophia;6;0.49;UM13-S-E-3A
+0052;0;cathedral;1;1.0;0;notre dame;7;0.38;UM13-S-E-3A
+0052;0;cathedral;1;1.0;0;las vegas;8;0.35;UM13-S-E-3A
+0052;0;cathedral;1;1.0;0;family;9;0.27;UM13-S-E-3A
+0052;0;cathedral;1;1.0;0;portugal;10;0.13;UM13-S-E-3A
+0053;0;eclipse automobile;1;0.58;0;parts;1;0.95;UM13-S-E-3A
+0053;0;eclipse automobile;1;0.58;0;2006;2;0.89;UM13-S-E-3A
+0053;0;eclipse automobile;1;0.58;0;tint;3;0.86;UM13-S-E-3A
+0053;0;eclipse automobile;1;0.58;0;stereo;4;0.80;UM13-S-E-3A
+0053;0;eclipse automobile;1;0.58;0;mitsubishi;5;0.75;UM13-S-E-3A
+0053;0;eclipse automobile;1;0.58;0;audio;6;0.62;UM13-S-E-3A
+0053;0;eclipse automobile;1;0.58;0;custom;7;0.60;UM13-S-E-3A
+0053;0;eclipse automobile;1;0.58;0;wiring;8;0.55;UM13-S-E-3A
+0053;0;eclipse automobile;1;0.58;0;sst;9;0.31;UM13-S-E-3A
+0053;0;eclipse automobile;1;0.58;0;2003;10;0.14;UM13-S-E-3A
+0053;0;eclipse astronomy;2;0.24;0;solar;1;0.90;UM13-S-E-3A
+0053;0;eclipse astronomy;2;0.24;0;lunar;2;0.86;UM13-S-E-3A
+0053;0;eclipse astronomy;2;0.24;0;facts;3;0.81;UM13-S-E-3A
+0053;0;eclipse astronomy;2;0.24;0;2012;4;0.76;UM13-S-E-3A
+0053;0;eclipse astronomy;2;0.24;0;videos;5;0.71;UM13-S-E-3A
+0053;0;eclipse astronomy;2;0.24;0;pictures;6;0.66;UM13-S-E-3A
+0053;0;eclipse astronomy;2;0.24;0;nasa;7;0.53;UM13-S-E-3A
+0053;0;eclipse astronomy;2;0.24;0;occurrence;8;0.31;UM13-S-E-3A
+0053;0;eclipse astronomy;2;0.24;0;moon;9;0.24;UM13-S-E-3A
+0053;0;eclipse software;3;0.16;0;download;1;0.73;UM13-S-E-3A
+0053;0;eclipse software;3;0.16;0;forum;2;0.59;UM13-S-E-3A
+0053;0;eclipse software;3;0.16;0;code;3;0.41;UM13-S-E-3A
+0053;0;eclipse software;3;0.16;0;javadoc;4;0.26;UM13-S-E-3A
+0054;0;fas;1;1.0;0;checklist;1;0.83;UM13-S-E-3A
+0054;0;fas;1;1.0;0;recognition;2;0.80;UM13-S-E-3A
+0054;0;fas;1;1.0;0;prevention;3;0.76;UM13-S-E-3A
+0054;0;fas;1;1.0;0;symptoms;4;0.63;UM13-S-E-3A
+0054;0;fas;1;1.0;0;pictures;5;0.57;UM13-S-E-3A
+0054;0;fas;1;1.0;0;behavior;6;0.54;UM13-S-E-3A
+0055;0;flesh;1;1.0;0;eating;1;0.42;UM13-S-E-3A
+0055;0;flesh;1;1.0;0;fly;2;0.40;UM13-S-E-3A
+0055;0;flesh;1;1.0;0;fire;3;0.36;UM13-S-E-3A
+0055;0;flesh;1;1.0;0;bacteria;4;0.31;UM13-S-E-3A
+0055;0;flesh;1;1.0;0;diseases;5;0.28;UM13-S-E-3A
+0055;0;flesh;1;1.0;0;tattoo;6;0.22;UM13-S-E-3A
+0055;0;flesh;1;1.0;0;beyond;7;0.19;UM13-S-E-3A
+0055;0;flesh;1;1.0;0;photos;8;0.13;UM13-S-E-3A
+0056;0;ir interest rate;1;0.58;0;calculator;1;0.92;UM13-S-E-3A
+0056;0;ir interest rate;1;0.58;0;federal;2;0.88;UM13-S-E-3A
+0056;0;ir interest rate;1;0.58;0;highest;3;0.82;UM13-S-E-3A
+0056;0;ir interest rate;1;0.58;0;savings;4;0.74;UM13-S-E-3A
+0056;0;ir interest rate;1;0.58;0;prime;5;0.66;UM13-S-E-3A
+0056;0;ir interest rate;1;0.58;0;mortgage;6;0.49;UM13-S-E-3A
+0056;0;ir interest rate;1;0.58;0;current;7;0.41;UM13-S-E-3A
+0056;0;ir interest rate;1;0.58;0;investment;8;0.40;UM13-S-E-3A
+0056;0;ir interest rate;1;0.58;0;banks;9;0.28;UM13-S-E-3A
+0056;0;ir interest rate;1;0.58;0;history;10;0.17;UM13-S-E-3A
+0056;0;ir international relations;2;0.26;0;us;1;0.84;UM13-S-E-3A
+0056;0;ir international relations;2;0.26;0;schools;2;0.80;UM13-S-E-3A
+0056;0;ir international relations;2;0.26;0;department;3;0.71;UM13-S-E-3A
+0056;0;ir international relations;2;0.26;0;israel;4;0.66;UM13-S-E-3A
+0056;0;ir international relations;2;0.26;0;online;5;0.57;UM13-S-E-3A
+0056;0;ir international relations;2;0.26;0;college;6;0.43;UM13-S-E-3A
+0056;0;ir international relations;2;0.26;0;iceland;7;0.37;UM13-S-E-3A
+0056;0;ir international relations;2;0.26;0;resume;8;0.22;UM13-S-E-3A
+0056;0;ir indian railways;3;0.14;0;pictures;1;0.69;UM13-S-E-3A
+0056;0;ir indian railways;3;0.14;0;train;2;0.47;UM13-S-E-3A
+0056;0;ir indian railways;3;0.14;0;position;3;0.21;UM13-S-E-3A
+0057;0;lost cinema;1;0.64;0;season 2;1;0.94;UM13-S-E-3A
+0057;0;lost cinema;1;0.64;0;abc;2;0.90;UM13-S-E-3A
+0057;0;lost cinema;1;0.64;0;pictures;3;0.83;UM13-S-E-3A
+0057;0;lost cinema;1;0.64;0;finale;4;0.76;UM13-S-E-3A
+0057;0;lost cinema;1;0.64;0;episode;5;0.70;UM13-S-E-3A
+0057;0;lost cinema;1;0.64;0;spoilers;6;0.64;UM13-S-E-3A
+0057;0;lost cinema;1;0.64;0;tv;7;0.50;UM13-S-E-3A
+0057;0;lost cinema;1;0.64;0;world;8;0.35;UM13-S-E-3A
+0057;0;lost cinema;1;0.64;0;money;9;0.19;UM13-S-E-3A
+0057;0;lost music;2;0.28;0;dvd;1;0.89;UM13-S-E-3A
+0057;0;lost music;2;0.28;0;songs;2;0.82;UM13-S-E-3A
+0057;0;lost music;2;0.28;0;angels;3;0.54;UM13-S-E-3A
+0057;0;lost music;2;0.28;0;lostprophets;4;0.41;UM13-S-E-3A
+0057;0;lost music;2;0.28;0;blog;5;0.30;UM13-S-E-3A
+0057;0;lost music;2;0.28;0;forum;6;0.25;UM13-S-E-3A
+0057;0;lost music;2;0.28;0;lyrics;7;0.18;UM13-S-E-3A
+0058;0;shrew animal;1;0.58;0;babies;1;0.75;UM13-S-E-3A
+0058;0;shrew animal;1;0.58;0;folktales;2;0.51;UM13-S-E-3A
+0058;0;shrew animal;1;0.58;0;elephant shrew;3;0.37;UM13-S-E-3A
+0058;0;shrew animal;1;0.58;0;pictures;4;0.24;UM13-S-E-3A
+0058;0;shrew animal;1;0.58;0;catching;5;0.11;UM13-S-E-3A
+0058;0;shrew comedy;2;0.39;0;taming;1;0.61;UM13-S-E-3A
+0058;0;shrew comedy;2;0.39;0;shakespeare;2;0.49;UM13-S-E-3A
+0058;0;shrew comedy;2;0.39;0;quiz;3;0.46;UM13-S-E-3A
+0058;0;shrew comedy;2;0.39;0;text;4;0.32;UM13-S-E-3A
+0058;0;shrew comedy;2;0.39;0;john cleese;5;0.28;UM13-S-E-3A
+0058;0;shrew comedy;2;0.39;0;online;6;0.17;UM13-S-E-3A
+0059;0;symmetry;1;1.0;0;examples;1;0.78;UM13-S-E-3A
+0059;0;symmetry;1;1.0;0;pcs;2;0.70;UM13-S-E-3A
+0059;0;symmetry;1;1.0;0;mathematics;3;0.62;UM13-S-E-3A
+0059;0;symmetry;1;1.0;0;line;4;0.56;UM13-S-E-3A
+0059;0;symmetry;1;1.0;0;turn;5;0.44;UM13-S-E-3A
+0059;0;symmetry;1;1.0;0;axis;6;0.30;UM13-S-E-3A
+0059;0;symmetry;1;1.0;0;history;7;0.25;UM13-S-E-3A
+0059;0;symmetry;1;1.0;0;help;8;0.16;UM13-S-E-3A
+0060;0;the presidents of the united states of america politics;1;0.73;0;list;1;0.92;UM13-S-E-3A
+0060;0;the presidents of the united states of america politics;1;0.73;0;48th;2;0.85;UM13-S-E-3A
+0060;0;the presidents of the united states of america politics;1;0.73;0;seal;3;0.79;UM13-S-E-3A
+0060;0;the presidents of the united states of america politics;1;0.73;0;contact;4;0.64;UM13-S-E-3A
+0060;0;the presidents of the united states of america politics;1;0.73;0;black;5;0.53;UM13-S-E-3A
+0060;0;the presidents of the united states of america politics;1;0.73;0;names;6;0.39;UM13-S-E-3A
+0060;0;the presidents of the united states of america politics;1;0.73;0;30th;7;0.22;UM13-S-E-3A
+0060;0;the presidents of the united states of america politics;1;0.73;0;universities;8;0.20;UM13-S-E-3A
+0060;0;the presidents of the united states of america politics;1;0.73;0;pictures;9;0.15;UM13-S-E-3A
+0060;0;the presidents of the united states of america politics;1;0.73;0;last;10;0.11;UM13-S-E-3A
+0060;0;the presidents of the united states of america band;2;0.26;0;pictures;1;0.68;UM13-S-E-3A
+0060;0;the presidents of the united states of america band;2;0.26;0;lyrics;2;0.29;UM13-S-E-3A
+0061;0;windows software;1;0.64;0;update;1;0.90;UM13-S-E-3A
+0061;0;windows software;1;0.64;0;xp;2;0.85;UM13-S-E-3A
+0061;0;windows software;1;0.64;0;live;3;0.81;UM13-S-E-3A
+0061;0;windows software;1;0.64;0;installer;4;0.77;UM13-S-E-3A
+0061;0;windows software;1;0.64;0;2000;5;0.70;UM13-S-E-3A
+0061;0;windows software;1;0.64;0;security;6;0.57;UM13-S-E-3A
+0061;0;windows software;1;0.64;0;vista;7;0.43;UM13-S-E-3A
+0061;0;windows software;1;0.64;0;remove;8;0.35;UM13-S-E-3A
+0061;0;windows software;1;0.64;0;dvd;9;0.20;UM13-S-E-3A
+0061;0;windows house;2;0.35;0;shutters;1;0.87;UM13-S-E-3A
+0061;0;windows house;2;0.35;0;future;2;0.83;UM13-S-E-3A
+0061;0;windows house;2;0.35;0;large;3;0.75;UM13-S-E-3A
+0061;0;windows house;2;0.35;0;landscape;4;0.63;UM13-S-E-3A
+0061;0;windows house;2;0.35;0;catalog;5;0.57;UM13-S-E-3A
+0061;0;windows house;2;0.35;0;glass;6;0.50;UM13-S-E-3A
+0061;0;windows house;2;0.35;0;pictures;7;0.48;UM13-S-E-3A
+0061;0;windows house;2;0.35;0;pulls;8;0.29;UM13-S-E-3A
+0061;0;windows house;2;0.35;0;antique;9;0.24;UM13-S-E-3A
+0061;0;windows house;2;0.35;0;replacement;10;0.15;UM13-S-E-3A
+0062;0;prophet;1;1.0;0;book;1;0.89;UM13-S-E-3A
+0062;0;prophet;1;1.0;0;muhammad;2;0.82;UM13-S-E-3A
+0062;0;prophet;1;1.0;0;false;3;0.74;UM13-S-E-3A
+0062;0;prophet;1;1.0;0;elijah;4;0.70;UM13-S-E-3A
+0062;0;prophet;1;1.0;0;hebrew;5;0.63;UM13-S-E-3A
+0062;0;prophet;1;1.0;0;famous;6;0.55;UM13-S-E-3A
+0062;0;prophet;1;1.0;0;danial;7;0.41;UM13-S-E-3A
+0062;0;prophet;1;1.0;0;pictures;8;0.29;UM13-S-E-3A
+0062;0;prophet;1;1.0;0;lost;9;0.22;UM13-S-E-3A
+0062;0;prophet;1;1.0;0;chuck;10;0.13;UM13-S-E-3A
+0063;0;gold;1;1.0;0;prices;1;0.94;UM13-S-E-3A
+0063;0;gold;1;1.0;0;decorative;2;0.81;UM13-S-E-3A
+0063;0;gold;1;1.0;0;gallery;3;0.72;UM13-S-E-3A
+0063;0;gold;1;1.0;0;teeth;4;0.70;UM13-S-E-3A
+0063;0;gold;1;1.0;0;coins;5;0.61;UM13-S-E-3A
+0063;0;gold;1;1.0;0;14k;6;0.54;UM13-S-E-3A
+0063;0;gold;1;1.0;0;miner;7;0.49;UM13-S-E-3A
+0063;0;gold;1;1.0;0;wholesale;8;0.35;UM13-S-E-3A
+0063;0;gold;1;1.0;0;antique;9;0.24;UM13-S-E-3A
+0063;0;gold;1;1.0;0;medal;10;0.13;UM13-S-E-3A
+0064;0;owl;1;1.0;0;pictures;1;0.70;UM13-S-E-3A
+0064;0;owl;1;1.0;0;eat;2;0.62;UM13-S-E-3A
+0064;0;owl;1;1.0;0;baby;3;0.50;UM13-S-E-3A
+0064;0;owl;1;1.0;0;pellets;4;0.43;UM13-S-E-3A
+0064;0;owl;1;1.0;0;luck;5;0.38;UM13-S-E-3A
+0064;0;owl;1;1.0;0;florida;6;0.31;UM13-S-E-3A
+0064;0;owl;1;1.0;0;symbolism;7;0.25;UM13-S-E-3A
+0064;0;owl;1;1.0;0;sound;8;0.16;UM13-S-E-3A
+0065;0;adobe company;1;0.62;0;reader;1;0.90;UM13-S-E-3A
+0065;0;adobe company;1;0.62;0;download;2;0.83;UM13-S-E-3A
+0065;0;adobe company;1;0.62;0;acrobat;3;0.70;UM13-S-E-3A
+0065;0;adobe company;1;0.62;0;free;4;0.61;UM13-S-E-3A
+0065;0;adobe company;1;0.62;0;photoshop;5;0.52;UM13-S-E-3A
+0065;0;adobe company;1;0.62;0;windows;6;0.39;UM13-S-E-3A
+0065;0;adobe company;1;0.62;0;books;7;0.24;UM13-S-E-3A
+0065;0;adobe company;1;0.62;0;illustrator;8;0.15;UM13-S-E-3A
+0065;0;adobe material;2;0.37;0;building;1;0.79;UM13-S-E-3A
+0065;0;adobe material;2;0.37;0;bricks;2;0.67;UM13-S-E-3A
+0065;0;adobe material;2;0.37;0;catalog;3;0.60;UM13-S-E-3A
+0065;0;adobe material;2;0.37;0;house;4;0.51;UM13-S-E-3A
+0065;0;adobe material;2;0.37;0;architects;5;0.42;UM13-S-E-3A
+0065;0;adobe material;2;0.37;0;dome;6;0.30;UM13-S-E-3A
+0065;0;adobe material;2;0.37;0;villages;7;0.13;UM13-S-E-3A
+0066;0;legend narrative;1;0.47;0;zelda;1;0.77;UM13-S-E-3A
+0066;0;legend narrative;1;0.47;0;urban;2;0.61;UM13-S-E-3A
+0066;0;legend narrative;1;0.47;0;pictures;3;0.49;UM13-S-E-3A
+0066;0;legend narrative;1;0.47;0;videos;4;0.33;UM13-S-E-3A
+0066;0;legend narrative;1;0.47;0;tomb raider;5;0.31;UM13-S-E-3A
+0066;0;legend narrative;1;0.47;0;xmen;6;0.26;UM13-S-E-3A
+0066;0;legend narrative;1;0.47;0;dragon;7;0.14;UM13-S-E-3A
+0066;0;legend car;2;0.39;0;honda;1;0.62;UM13-S-E-3A
+0066;0;legend car;2;0.39;0;course;2;0.41;UM13-S-E-3A
+0066;0;legend car;2;0.39;0;site;3;0.30;UM13-S-E-3A
+0066;0;legend car;2;0.39;0;acura;4;0.27;UM13-S-E-3A
+0066;0;legend car;2;0.39;0;1990;5;0.19;UM13-S-E-3A
+0066;0;legend car;2;0.39;0;auto;6;0.12;UM13-S-E-3A
+0066;0;legend people;3;0.12;0;john;1;0.53;UM13-S-E-3A
+0066;0;legend people;3;0.12;0;concert;2;0.44;UM13-S-E-3A
+0066;0;legend people;3;0.12;0;pictures;3;0.40;UM13-S-E-3A
+0066;0;legend people;3;0.12;0;lyrics;4;0.23;UM13-S-E-3A
+0066;0;legend people;3;0.12;0;refugee;5;0.15;UM13-S-E-3A
+0067;0;beijing subways;1;1.0;0;history;1;0.72;UM13-S-E-3A
+0067;0;beijing subways;1;1.0;0;nyc;2;0.53;UM13-S-E-3A
+0067;0;beijing subways;1;1.0;0;map;3;0.42;UM13-S-E-3A
+0067;0;beijing subways;1;1.0;0;news;4;0.33;UM13-S-E-3A
+0067;0;beijing subways;1;1.0;0;sandwiches;5;0.21;UM13-S-E-3A
+0068;0;camera device;1;0.87;0;digital;1;0.86;UM13-S-E-3A
+0068;0;camera device;1;0.87;0;nikon;2;0.80;UM13-S-E-3A
+0068;0;camera device;1;0.87;0;canon;3;0.69;UM13-S-E-3A
+0068;0;camera device;1;0.87;0;security;4;0.65;UM13-S-E-3A
+0068;0;camera device;1;0.87;0;reviews;5;0.61;UM13-S-E-3A
+0068;0;camera device;1;0.87;0;panasonic;6;0.58;UM13-S-E-3A
+0068;0;camera device;1;0.87;0;pixel;7;0.40;UM13-S-E-3A
+0068;0;camera device;1;0.87;0;ritz;8;0.36;UM13-S-E-3A
+0068;0;camera device;1;0.87;0;sony;9;0.28;UM13-S-E-3A
+0068;0;camera device;1;0.87;0;kodak;10;0.20;UM13-S-E-3A
+0068;0;camera newspaper;2;0.12;0;boulder;1;0.54;UM13-S-E-3A
+0068;0;camera newspaper;2;0.12;0;daily;2;0.32;UM13-S-E-3A
+0068;0;camera newspaper;2;0.12;0;history;3;0.17;UM13-S-E-3A
+0069;0;free dvd burner;1;1.0;0;software;1;0.90;UM13-S-E-3A
+0069;0;free dvd burner;1;1.0;0;download;2;0.77;UM13-S-E-3A
+0069;0;free dvd burner;1;1.0;0;avs;3;0.61;UM13-S-E-3A
+0069;0;free dvd burner;1;1.0;0;absolutely;4;0.48;UM13-S-E-3A
+0069;0;free dvd burner;1;1.0;0;program;5;0.37;UM13-S-E-3A
+0069;0;free dvd burner;1;1.0;0;nero;6;0.26;UM13-S-E-3A
+0069;0;free dvd burner;1;1.0;0;memorex;7;0.15;UM13-S-E-3A
+0070;0;lost season 5;1;1.0;0;dvd;1;0.73;UM13-S-E-3A
+0070;0;lost season 5;1;1.0;0;finale;2;0.62;UM13-S-E-3A
+0070;0;lost season 5;1;1.0;0;episodes;3;0.55;UM13-S-E-3A
+0070;0;lost season 5;1;1.0;0;spoilers;4;0.39;UM13-S-E-3A
+0070;0;lost season 5;1;1.0;0;opinions;5;0.30;UM13-S-E-3A
+0070;0;lost season 5;1;1.0;0;download;6;0.18;UM13-S-E-3A
+0071;0;mobile phones;1;1.0;0;unlock;1;0.92;UM13-S-E-3A
+0071;0;mobile phones;1;1.0;0;motorola;2;0.88;UM13-S-E-3A
+0071;0;mobile phones;1;1.0;0;activation;3;0.83;UM13-S-E-3A
+0071;0;mobile phones;1;1.0;0;tools;4;0.76;UM13-S-E-3A
+0071;0;mobile phones;1;1.0;0;sale;5;0.70;UM13-S-E-3A
+0071;0;mobile phones;1;1.0;0;accessories;6;0.62;UM13-S-E-3A
+0071;0;mobile phones;1;1.0;0;samsung;7;0.57;UM13-S-E-3A
+0071;0;mobile phones;1;1.0;0;comparison;8;0.40;UM13-S-E-3A
+0071;0;mobile phones;1;1.0;0;prepaid;9;0.26;UM13-S-E-3A
+0072;0;programming languages;1;1.0;0;download;1;0.77;UM13-S-E-3A
+0072;0;programming languages;1;1.0;0;java;2;0.68;UM13-S-E-3A
+0072;0;programming languages;1;1.0;0;history;3;0.55;UM13-S-E-3A
+0072;0;programming languages;1;1.0;0;differences;4;0.52;UM13-S-E-3A
+0072;0;programming languages;1;1.0;0;python;5;0.45;UM13-S-E-3A
+0072;0;programming languages;1;1.0;0;computer;6;0.31;UM13-S-E-3A
+0072;0;programming languages;1;1.0;0;c++;7;0.17;UM13-S-E-3A
+0073;0;tom cruise;1;1.0;0;movies;1;0.90;UM13-S-E-3A
+0073;0;tom cruise;1;1.0;0;katie;2;0.83;UM13-S-E-3A
+0073;0;tom cruise;1;1.0;0;pictures;3;0.75;UM13-S-E-3A
+0073;0;tom cruise;1;1.0;0;baby;4;0.72;UM13-S-E-3A
+0073;0;tom cruise;1;1.0;0;oprah;5;0.60;UM13-S-E-3A
+0073;0;tom cruise;1;1.0;0;website;6;0.56;UM13-S-E-3A
+0073;0;tom cruise;1;1.0;0;biography;7;0.41;UM13-S-E-3A
+0073;0;tom cruise;1;1.0;0;scientology;8;0.32;UM13-S-E-3A
+0073;0;tom cruise;1;1.0;0;jerk;9;0.20;UM13-S-E-3A
+0075;0;watches;1;1.0;0;swiss;1;0.90;UM13-S-E-3A
+0075;0;watches;1;1.0;0;rolex;2;0.85;UM13-S-E-3A
+0075;0;watches;1;1.0;0;antique;3;0.81;UM13-S-E-3A
+0075;0;watches;1;1.0;0;citizen;4;0.74;UM13-S-E-3A
+0075;0;watches;1;1.0;0;replica;5;0.72;UM13-S-E-3A
+0075;0;watches;1;1.0;0;sheraton;6;0.64;UM13-S-E-3A
+0075;0;watches;1;1.0;0;logo;7;0.60;UM13-S-E-3A
+0075;0;watches;1;1.0;0;price;8;0.52;UM13-S-E-3A
+0075;0;watches;1;1.0;0;women;9;0.38;UM13-S-E-3A
+0075;0;watches;1;1.0;0;solar;10;0.19;UM13-S-E-3A
+0076;0;thai specialties;1;1.0;0;variety;1;0.74;UM13-S-E-3A
+0076;0;thai specialties;1;1.0;0;diner;2;0.56;UM13-S-E-3A
+0076;0;thai specialties;1;1.0;0;drag;3;0.38;UM13-S-E-3A
+0076;0;thai specialties;1;1.0;0;frozen;4;0.31;UM13-S-E-3A
+0076;0;thai specialties;1;1.0;0;youth;5;0.22;UM13-S-E-3A
+0077;0;scientific american;1;1.0;0;magazine;1;0.59;UM13-S-E-3A
+0077;0;scientific american;1;1.0;0;subscriber;2;0.27;UM13-S-E-3A
+0078;0;persian cat;1;1.0;0;rescue;1;0.81;UM13-S-E-3A
+0078;0;persian cat;1;1.0;0;breeding;2;0.70;UM13-S-E-3A
+0078;0;persian cat;1;1.0;0;adoption;3;0.55;UM13-S-E-3A
+0078;0;persian cat;1;1.0;0;health;4;0.39;UM13-S-E-3A
+0078;0;persian cat;1;1.0;0;sale;5;0.24;UM13-S-E-3A
+0079;0;bathtub;1;1.0;0;cleaning;1;0.85;UM13-S-E-3A
+0079;0;bathtub;1;1.0;0;liners;2;0.80;UM13-S-E-3A
+0079;0;bathtub;1;1.0;0;lifts;3;0.73;UM13-S-E-3A
+0079;0;bathtub;1;1.0;0;install;4;0.66;UM13-S-E-3A
+0079;0;bathtub;1;1.0;0;glaze;5;0.48;UM13-S-E-3A
+0079;0;bathtub;1;1.0;0;repair;6;0.33;UM13-S-E-3A
+0079;0;bathtub;1;1.0;0;whirlpool;7;0.15;UM13-S-E-3A
+0080;0;wedding ring;1;1.0;0;pictures;1;0.81;UM13-S-E-3A
+0080;0;wedding ring;1;1.0;0;men;2;0.72;UM13-S-E-3A
+0080;0;wedding ring;1;1.0;0;antique;3;0.60;UM13-S-E-3A
+0080;0;wedding ring;1;1.0;0;discount;4;0.45;UM13-S-E-3A
+0080;0;wedding ring;1;1.0;0;cheap;5;0.38;UM13-S-E-3A
+0080;0;wedding ring;1;1.0;0;hawaiian;6;0.26;UM13-S-E-3A
+0080;0;wedding ring;1;1.0;0;golden;7;0.17;UM13-S-E-3A
+0081;0;samsung;1;1.0;0;phones;1;0.93;UM13-S-E-3A
+0081;0;samsung;1;1.0;0;ringtones;2;0.90;UM13-S-E-3A
+0081;0;samsung;1;1.0;0;tv;3;0.83;UM13-S-E-3A
+0081;0;samsung;1;1.0;0;repair;4;0.78;UM13-S-E-3A
+0081;0;samsung;1;1.0;0;refrigerators;5;0.72;UM13-S-E-3A
+0081;0;samsung;1;1.0;0;cameras;6;0.54;UM13-S-E-3A
+0081;0;samsung;1;1.0;0;price;7;0.50;UM13-S-E-3A
+0081;0;samsung;1;1.0;0;x427m;8;0.37;UM13-S-E-3A
+0081;0;samsung;1;1.0;0;battery;9;0.28;UM13-S-E-3A
+0081;0;samsung;1;1.0;0;t809;10;0.15;UM13-S-E-3A
+0082;0;the hunger games novel;1;0.61;0;free;1;0.73;UM13-S-E-3A
+0082;0;the hunger games novel;1;0.61;0;card;2;0.52;UM13-S-E-3A
+0082;0;the hunger games novel;1;0.61;0;book;3;0.40;UM13-S-E-3A
+0082;0;the hunger games novel;1;0.61;0;internet;4;0.31;UM13-S-E-3A
+0082;0;the hunger games novel;1;0.61;0;themes;5;0.22;UM13-S-E-3A
+0082;0;the hunger games film;2;0.36;0;pictures;1;0.64;UM13-S-E-3A
+0082;0;the hunger games film;2;0.36;0;online;2;0.43;UM13-S-E-3A
+0082;0;the hunger games film;2;0.36;0;wheels;3;0.19;UM13-S-E-3A
+0083;0;harry potter film;1;0.49;0;movies;1;0.90;UM13-S-E-3A
+0083;0;harry potter film;1;0.49;0;music;2;0.85;UM13-S-E-3A
+0083;0;harry potter film;1;0.49;0;phoenix;3;0.80;UM13-S-E-3A
+0083;0;harry potter film;1;0.49;0;costumes;4;0.69;UM13-S-E-3A
+0083;0;harry potter film;1;0.49;0;character;5;0.51;UM13-S-E-3A
+0083;0;harry potter film;1;0.49;0;equipment;6;0.45;UM13-S-E-3A
+0083;0;harry potter film;1;0.49;0;images;7;0.32;UM13-S-E-3A
+0083;0;harry potter film;1;0.49;0;actors;8;0.24;UM13-S-E-3A
+0083;0;harry potter book;2;0.38;0;download;1;0.84;UM13-S-E-3A
+0083;0;harry potter book;2;0.38;0;seventh;2;0.80;UM13-S-E-3A
+0083;0;harry potter book;2;0.38;0;quiz;3;0.77;UM13-S-E-3A
+0083;0;harry potter book;2;0.38;0;stories;4;0.71;UM13-S-E-3A
+0083;0;harry potter book;2;0.38;0;2001;5;0.60;UM13-S-E-3A
+0083;0;harry potter book;2;0.38;0;poems;6;0.40;UM13-S-E-3A
+0083;0;harry potter book;2;0.38;0;cover;7;0.31;UM13-S-E-3A
+0083;0;harry potter book;2;0.38;0;art;8;0.19;UM13-S-E-3A
+0084;0;21 weeks pregnant;1;1.0;0;weight;1;0.76;UM13-S-E-3A
+0084;0;21 weeks pregnant;1;1.0;0;fetus;2;0.72;UM13-S-E-3A
+0084;0;21 weeks pregnant;1;1.0;0;months;3;0.61;UM13-S-E-3A
+0084;0;21 weeks pregnant;1;1.0;0;pictures;4;0.53;UM13-S-E-3A
+0084;0;21 weeks pregnant;1;1.0;0;forum;5;0.38;UM13-S-E-3A
+0084;0;21 weeks pregnant;1;1.0;0;body;6;0.25;UM13-S-E-3A
+0084;0;21 weeks pregnant;1;1.0;0;twins;7;0.16;UM13-S-E-3A
+0085;0;7zip;1;1.0;0;codes;1;0.94;UM13-S-E-3A
+0085;0;7zip;1;1.0;0;download;2;0.83;UM13-S-E-3A
+0085;0;7zip;1;1.0;0;compression;3;0.68;UM13-S-E-3A
+0085;0;7zip;1;1.0;0;products;4;0.54;UM13-S-E-3A
+0085;0;7zip;1;1.0;0;utility;5;0.40;UM13-S-E-3A
+0085;0;7zip;1;1.0;0;open;6;0.22;UM13-S-E-3A
+0089;0;mcdonalds nutrition guide;1;1.0;0;facts;1;0.71;UM13-S-E-3A
+0089;0;mcdonalds nutrition guide;1;1.0;0;value;2;0.66;UM13-S-E-3A
+0089;0;mcdonalds nutrition guide;1;1.0;0;information;3;0.62;UM13-S-E-3A
+0089;0;mcdonalds nutrition guide;1;1.0;0;calorie;4;0.51;UM13-S-E-3A
+0089;0;mcdonalds nutrition guide;1;1.0;0;content;5;0.35;UM13-S-E-3A
+0089;0;mcdonalds nutrition guide;1;1.0;0;food;6;0.24;UM13-S-E-3A
+0090;0;sausalito art festival;1;1.0;0;spring;1;0.92;UM13-S-E-3A
+0090;0;sausalito art festival;1;1.0;0;events;2;0.83;UM13-S-E-3A
+0090;0;sausalito art festival;1;1.0;0;tourism;3;0.80;UM13-S-E-3A
+0090;0;sausalito art festival;1;1.0;0;2006;4;0.71;UM13-S-E-3A
+0090;0;sausalito art festival;1;1.0;0;pictures;5;0.60;UM13-S-E-3A
+0090;0;sausalito art festival;1;1.0;0;hotels;6;0.48;UM13-S-E-3A
+0090;0;sausalito art festival;1;1.0;0;memorial;7;0.31;UM13-S-E-3A
+0090;0;sausalito art festival;1;1.0;0;cannes;8;0.16;UM13-S-E-3A
+0091;0;tennessee unemployment;1;1.0;0;benefits;1;0.90;UM13-S-E-3A
+0091;0;tennessee unemployment;1;1.0;0;office;2;0.82;UM13-S-E-3A
+0091;0;tennessee unemployment;1;1.0;0;jackson;3;0.72;UM13-S-E-3A
+0091;0;tennessee unemployment;1;1.0;0;state;4;0.65;UM13-S-E-3A
+0091;0;tennessee unemployment;1;1.0;0;department;5;0.50;UM13-S-E-3A
+0091;0;tennessee unemployment;1;1.0;0;collierville;6;0.43;UM13-S-E-3A
+0091;0;tennessee unemployment;1;1.0;0;university;7;0.26;UM13-S-E-3A
+0091;0;tennessee unemployment;1;1.0;0;western;8;0.14;UM13-S-E-3A
+0093;0;obama biography;1;1.0;0;family;1;0.73;UM13-S-E-3A
+0093;0;obama biography;1;1.0;0;video;2;0.70;UM13-S-E-3A
+0093;0;obama biography;1;1.0;0;mother;3;0.66;UM13-S-E-3A
+0093;0;obama biography;1;1.0;0;barack;4;0.49;UM13-S-E-3A
+0093;0;obama biography;1;1.0;0;senator;5;0.41;UM13-S-E-3A
+0093;0;obama biography;1;1.0;0;clooney;6;0.33;UM13-S-E-3A
+0093;0;obama biography;1;1.0;0;illinois;7;0.20;UM13-S-E-3A
+0096;0;yellow teeth treatment;1;1.0;0;adult;1;0.88;UM13-S-E-3A
+0096;0;yellow teeth treatment;1;1.0;0;product;2;0.81;UM13-S-E-3A
+0096;0;yellow teeth treatment;1;1.0;0;clean;3;0.69;UM13-S-E-3A
+0096;0;yellow teeth treatment;1;1.0;0;lipsticks;4;0.57;UM13-S-E-3A
+0096;0;yellow teeth treatment;1;1.0;0;dentistry;5;0.44;UM13-S-E-3A
+0096;0;yellow teeth treatment;1;1.0;0;colgate;6;0.36;UM13-S-E-3A
+0096;0;yellow teeth treatment;1;1.0;0;babies;7;0.30;UM13-S-E-3A
+0096;0;yellow teeth treatment;1;1.0;0;dangers;8;0.21;UM13-S-E-3A
+0097;0;myopia treatment;1;1.0;0;glass;1;0.95;UM13-S-E-3A
+0097;0;myopia treatment;1;1.0;0;eye;2;0.90;UM13-S-E-3A
+0097;0;myopia treatment;1;1.0;0;hyperopia;3;0.82;UM13-S-E-3A
+0097;0;myopia treatment;1;1.0;0;pathological;4;0.73;UM13-S-E-3A
+0097;0;myopia treatment;1;1.0;0;doctor;5;0.60;UM13-S-E-3A
+0097;0;myopia treatment;1;1.0;0;clinical;6;0.54;UM13-S-E-3A
+0097;0;myopia treatment;1;1.0;0;medical;7;0.51;UM13-S-E-3A
+0097;0;myopia treatment;1;1.0;0;diagnosis;8;0.39;UM13-S-E-3A
+0097;0;myopia treatment;1;1.0;0;chronic;9;0.28;UM13-S-E-3A
+0097;0;myopia treatment;1;1.0;0;cancer;10;0.15;UM13-S-E-3A
+0100;0;online photo printing;1;1.0;0;layout;1;0.79;UM13-S-E-3A
+0100;0;online photo printing;1;1.0;0;wizard;2;0.73;UM13-S-E-3A
+0100;0;online photo printing;1;1.0;0;hp;3;0.65;UM13-S-E-3A
+0100;0;online photo printing;1;1.0;0;canvas;4;0.53;UM13-S-E-3A
+0100;0;online photo printing;1;1.0;0;comparing;5;0.48;UM13-S-E-3A
+0100;0;online photo printing;1;1.0;0;digital;6;0.41;UM13-S-E-3A
+0100;0;online photo printing;1;1.0;0;sizes;7;0.35;UM13-S-E-3A
+0100;0;online photo printing;1;1.0;0;questions;8;0.32;UM13-S-E-3A
+0100;0;online photo printing;1;1.0;0;professional;9;0.19;UM13-S-E-3A
+0100;0;online photo printing;1;1.0;0;service;10;0.12;UM13-S-E-3A

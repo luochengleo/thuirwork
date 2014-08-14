@@ -1,0 +1,1752 @@
+<SYSDESC>Our method extracts hierarchical intents from Web page structures. The method first extracts candidate first-level topics from Web search results. It then extracts second-level topics by counting the co-occurrence of words in different potions.</SYSDESC>
+0051;0;apple free;1;1.0;0;apple free therapy;1;1.0;KUIDL-S-E-1A
+0051;0;apple free;1;1.0;0;apple free physical;8;0.550831916414;KUIDL-S-E-1A
+0051;0;apple free;1;1.0;0;apple free spanish;10;0.501302830237;KUIDL-S-E-1A
+0051;0;apple free;1;1.0;0;apple free plants;11;0.499916167665;KUIDL-S-E-1A
+0051;0;apple free;1;1.0;0;apple free flickr;12;0.48148502994;KUIDL-S-E-1A
+0051;0;apple free;1;1.0;0;apple free forum;13;0.458164751578;KUIDL-S-E-1A
+0051;0;apple free;1;1.0;0;apple free hope;14;0.443113772455;KUIDL-S-E-1A
+0051;0;apple free;1;1.0;0;apple free free;29;0.132409947289;KUIDL-S-E-1A
+0051;0;apple free;1;1.0;0;apple free learn;41;0.0520893348438;KUIDL-S-E-1A
+0051;0;apple support;2;0.949152542373;0;apple support nyc;2;0.949152542373;KUIDL-S-E-1A
+0051;0;apple support;2;0.949152542373;0;apple support finance;17;0.417627118644;KUIDL-S-E-1A
+0051;0;apple support;2;0.949152542373;0;apple support support;20;0.372742749529;KUIDL-S-E-1A
+0051;0;apple support;2;0.949152542373;0;apple support inc;21;0.329039548023;KUIDL-S-E-1A
+0051;0;apple support;2;0.949152542373;0;apple support sites;26;0.211525423729;KUIDL-S-E-1A
+0051;0;apple support;2;0.949152542373;0;apple support events;33;0.124098153301;KUIDL-S-E-1A
+0051;0;apple support;2;0.949152542373;0;apple support login;34;0.107570621469;KUIDL-S-E-1A
+0051;0;apple support;2;0.949152542373;0;apple support service;40;0.0597695377045;KUIDL-S-E-1A
+0051;0;apple support;2;0.949152542373;0;apple support itunes;42;0.0195298877031;KUIDL-S-E-1A
+0051;0;apple support;2;0.949152542373;0;apple support welcome;43;0.00962801502125;KUIDL-S-E-1A
+0051;0;apple games;3;0.677966101695;0;apple games games;3;0.677966101695;KUIDL-S-E-1A
+0051;0;apple games;3;0.677966101695;0;apple games manuals;5;0.613652463662;KUIDL-S-E-1A
+0051;0;apple games;3;0.677966101695;0;apple games ny;15;0.432590731959;KUIDL-S-E-1A
+0051;0;apple games;3;0.677966101695;0;apple games shooter;16;0.431081884195;KUIDL-S-E-1A
+0051;0;apple games;3;0.677966101695;0;apple games graphics;31;0.129121791693;KUIDL-S-E-1A
+0051;0;apple games;3;0.677966101695;0;apple games ads;35;0.105138663987;KUIDL-S-E-1A
+0051;0;apple games;3;0.677966101695;0;apple games stock;38;0.0725170240077;KUIDL-S-E-1A
+0051;0;apple games;3;0.677966101695;0;apple games york;39;0.0677848725292;KUIDL-S-E-1A
+0051;0;apple apples;4;0.661016949153;0;apple apples missouri;4;0.661016949153;KUIDL-S-E-1A
+0051;0;apple apples;4;0.661016949153;0;apple apples shoes;6;0.560058369149;KUIDL-S-E-1A
+0051;0;apple apples;4;0.661016949153;0;apple apples dance;7;0.554251067934;KUIDL-S-E-1A
+0051;0;apple apples;4;0.661016949153;0;apple apples lady;19;0.373704854292;KUIDL-S-E-1A
+0051;0;apple apples;4;0.661016949153;0;apple apples virginia;23;0.286853209414;KUIDL-S-E-1A
+0051;0;apple apples;4;0.661016949153;0;apple apples massachusetts;24;0.280224407362;KUIDL-S-E-1A
+0051;0;apple apples;4;0.661016949153;0;apple apples apples;27;0.197448686609;KUIDL-S-E-1A
+0051;0;apple apples;4;0.661016949153;0;apple apples pink;28;0.141417829842;KUIDL-S-E-1A
+0051;0;apple apples;4;0.661016949153;0;apple apples facts;32;0.124614159644;KUIDL-S-E-1A
+0051;0;apple apples;4;0.661016949153;0;apple apples university;36;0.0972831021473;KUIDL-S-E-1A
+0051;0;apple festival;5;0.542372881356;0;apple festival schnapps;9;0.542372881356;KUIDL-S-E-1A
+0051;0;apple festival;5;0.542372881356;0;apple festival bottoms;9;0.542372881356;KUIDL-S-E-1A
+0051;0;apple festival;5;0.542372881356;0;apple festival chevrolet;18;0.384591679507;KUIDL-S-E-1A
+0051;0;apple festival;5;0.542372881356;0;apple festival dress;22;0.325423728814;KUIDL-S-E-1A
+0051;0;apple festival;5;0.542372881356;0;apple festival georgia;25;0.259769728715;KUIDL-S-E-1A
+0051;0;apple festival;5;0.542372881356;0;apple festival festival;30;0.130457436026;KUIDL-S-E-1A
+0051;0;apple festival;5;0.542372881356;0;apple festival park;37;0.085637823372;KUIDL-S-E-1A
+0052;0;cathedral saint;1;1.0;0;cathedral saint christ;1;1.0;KUIDL-S-E-1A
+0052;0;cathedral saint;1;1.0;0;cathedral saint john;3;0.419243957863;KUIDL-S-E-1A
+0052;0;cathedral saint;1;1.0;0;cathedral saint immaculate;4;0.414481190589;KUIDL-S-E-1A
+0052;0;cathedral saint;1;1.0;0;cathedral saint saint;15;0.10539915439;KUIDL-S-E-1A
+0052;0;cathedral saint;1;1.0;0;cathedral saint mary;22;0.029828309957;KUIDL-S-E-1A
+0052;0;cathedral saint;1;1.0;0;cathedral saint st;26;0.00433369843553;KUIDL-S-E-1A
+0052;0;cathedral school;2;0.745454545455;0;cathedral school quest;2;0.745454545455;KUIDL-S-E-1A
+0052;0;cathedral school;2;0.745454545455;0;cathedral school basilica;5;0.319037197586;KUIDL-S-E-1A
+0052;0;cathedral school;2;0.745454545455;0;cathedral school school;9;0.217154586892;KUIDL-S-E-1A
+0052;0;cathedral school;2;0.745454545455;0;cathedral school cathedrals;11;0.188356830335;KUIDL-S-E-1A
+0052;0;cathedral school;2;0.745454545455;0;cathedral school john;23;0.0236925621117;KUIDL-S-E-1A
+0052;0;cathedral school;2;0.745454545455;0;cathedral school online;24;0.0164311785425;KUIDL-S-E-1A
+0052;0;cathedral school;2;0.745454545455;0;cathedral school high;25;0.00443415869021;KUIDL-S-E-1A
+0052;0;cathedral school;2;0.745454545455;0;cathedral school city;28;0.00196897723141;KUIDL-S-E-1A
+0052;0;cathedral trinity;3;0.281818181818;0;cathedral trinity brentwood;6;0.281818181818;KUIDL-S-E-1A
+0052;0;cathedral trinity;3;0.281818181818;0;cathedral trinity abstract;12;0.182352941176;KUIDL-S-E-1A
+0052;0;cathedral trinity;3;0.281818181818;0;cathedral trinity annunciation;14;0.136764705882;KUIDL-S-E-1A
+0052;0;cathedral trinity;3;0.281818181818;0;cathedral trinity trinity;19;0.0606880026719;KUIDL-S-E-1A
+0052;0;cathedral philadelphia;4;0.272727272727;0;cathedral philadelphia shmoop;7;0.272727272727;KUIDL-S-E-1A
+0052;0;cathedral philadelphia;4;0.272727272727;0;cathedral philadelphia cchs;7;0.272727272727;KUIDL-S-E-1A
+0052;0;cathedral philadelphia;4;0.272727272727;0;cathedral philadelphia sentence;10;0.204545454545;KUIDL-S-E-1A
+0052;0;cathedral philadelphia;4;0.272727272727;0;cathedral philadelphia philadelphia;10;0.204545454545;KUIDL-S-E-1A
+0052;0;cathedral philadelphia;4;0.272727272727;0;cathedral philadelphia corporation;17;0.0681818181818;KUIDL-S-E-1A
+0052;0;cathedral peter;5;0.254545454545;0;cathedral peter paul;8;0.254545454545;KUIDL-S-E-1A
+0052;0;cathedral peter;5;0.254545454545;0;cathedral peter wowwiki;13;0.137129785862;KUIDL-S-E-1A
+0052;0;cathedral peter;5;0.254545454545;0;cathedral peter ely;16;0.0866479416163;KUIDL-S-E-1A
+0052;0;cathedral peter;5;0.254545454545;0;cathedral peter peter;18;0.0623778241903;KUIDL-S-E-1A
+0052;0;cathedral peter;5;0.254545454545;0;cathedral peter irish;20;0.0476812505583;KUIDL-S-E-1A
+0052;0;cathedral peter;5;0.254545454545;0;cathedral peter conference;21;0.0340626871933;KUIDL-S-E-1A
+0052;0;cathedral peter;5;0.254545454545;0;cathedral peter basilica;27;0.00279446882444;KUIDL-S-E-1A
+0052;0;cathedral peter;5;0.254545454545;0;cathedral peter saints;29;0.00137115017593;KUIDL-S-E-1A
+0052;0;cathedral peter;5;0.254545454545;0;cathedral peter bible;30;3.02016942155e-06;KUIDL-S-E-1A
+0053;0;eclipse plugin;1;1.0;0;eclipse plugin plugin;1;1.0;KUIDL-S-E-1A
+0053;0;eclipse plugin;1;1.0;0;eclipse plugin sourceforge;3;0.628197945845;KUIDL-S-E-1A
+0053;0;eclipse plugin;1;1.0;0;eclipse plugin mitsubishi;8;0.47619047619;KUIDL-S-E-1A
+0053;0;eclipse plugin;1;1.0;0;eclipse plugin installation;18;0.185185185185;KUIDL-S-E-1A
+0053;0;eclipse plugin;1;1.0;0;eclipse plugin tutorial;20;0.126181722689;KUIDL-S-E-1A
+0053;0;eclipse plugin;1;1.0;0;eclipse plugin parts;26;0.0677966101695;KUIDL-S-E-1A
+0053;0;eclipse project;2;0.8125;0;eclipse project download;2;0.8125;KUIDL-S-E-1A
+0053;0;eclipse project;2;0.8125;0;eclipse project condos;6;0.545354931239;KUIDL-S-E-1A
+0053;0;eclipse project;2;0.8125;0;eclipse project project;14;0.269143701579;KUIDL-S-E-1A
+0053;0;eclipse project;2;0.8125;0;eclipse project software;15;0.256877462939;KUIDL-S-E-1A
+0053;0;eclipse project;2;0.8125;0;eclipse project google;30;0.0339370631931;KUIDL-S-E-1A
+0053;0;eclipse project;2;0.8125;0;eclipse project downloads;32;0.0131864076413;KUIDL-S-E-1A
+0053;0;eclipse project;2;0.8125;0;eclipse project resources;36;0.000319797650717;KUIDL-S-E-1A
+0053;0;eclipse home;3;0.575;0;eclipse home softonic;4;0.575;KUIDL-S-E-1A
+0053;0;eclipse home;3;0.575;0;eclipse home burners;4;0.575;KUIDL-S-E-1A
+0053;0;eclipse home;3;0.575;0;eclipse home combustion;5;0.554390681004;KUIDL-S-E-1A
+0053;0;eclipse home;3;0.575;0;eclipse home lounge;7;0.516919191919;KUIDL-S-E-1A
+0053;0;eclipse home;3;0.575;0;eclipse home festival;10;0.393180838501;KUIDL-S-E-1A
+0053;0;eclipse home;3;0.575;0;eclipse home industrial;11;0.38175679727;KUIDL-S-E-1A
+0053;0;eclipse home;3;0.575;0;eclipse home shopping;13;0.291049382716;KUIDL-S-E-1A
+0053;0;eclipse home;3;0.575;0;eclipse home welcome;25;0.0878145315828;KUIDL-S-E-1A
+0053;0;eclipse home;3;0.575;0;eclipse home home;28;0.0481924821211;KUIDL-S-E-1A
+0053;0;eclipse planet;5;0.3625;0;eclipse planet motorcycle;12;0.3625;KUIDL-S-E-1A
+0053;0;eclipse planet;5;0.3625;0;eclipse planet planet;17;0.21806640625;KUIDL-S-E-1A
+0053;0;eclipse planet;5;0.3625;0;eclipse planet valve;19;0.145862505232;KUIDL-S-E-1A
+0053;0;eclipse planet;5;0.3625;0;eclipse planet etha;21;0.121303581075;KUIDL-S-E-1A
+0053;0;eclipse planet;5;0.3625;0;eclipse planet dragon;22;0.0997913411458;KUIDL-S-E-1A
+0053;0;eclipse planet;5;0.3625;0;eclipse planet paintball;27;0.0658093261719;KUIDL-S-E-1A
+0053;0;eclipse planet;5;0.3625;0;eclipse planet ego;27;0.0658093261719;KUIDL-S-E-1A
+0053;0;eclipse planet;5;0.3625;0;eclipse planet wiki;31;0.0213616071429;KUIDL-S-E-1A
+0053;0;eclipse planet;5;0.3625;0;eclipse planet inc;31;0.0213616071429;KUIDL-S-E-1A
+0053;0;eclipse planet;5;0.3625;0;eclipse planet engineering;33;0.00845132938508;KUIDL-S-E-1A
+0053;0;eclipse eclipses;4;0.4125;0;eclipse eclipses solar;9;0.4125;KUIDL-S-E-1A
+0053;0;eclipse eclipses;4;0.4125;0;eclipse eclipses mreclipse;16;0.224240047617;KUIDL-S-E-1A
+0053;0;eclipse eclipses;4;0.4125;0;eclipse eclipses beginners;23;0.0955230471622;KUIDL-S-E-1A
+0053;0;eclipse eclipses;4;0.4125;0;eclipse eclipses eclipses;24;0.0933062130178;KUIDL-S-E-1A
+0053;0;eclipse eclipses;4;0.4125;0;eclipse eclipses lunar;29;0.0370654924222;KUIDL-S-E-1A
+0053;0;eclipse eclipses;4;0.4125;0;eclipse eclipses nasa;34;0.00794370454571;KUIDL-S-E-1A
+0053;0;eclipse eclipses;4;0.4125;0;eclipse eclipses resource;35;0.00268898147824;KUIDL-S-E-1A
+0054;0;fas alcohol;1;1.0;0;fas alcohol sage;1;1.0;KUIDL-S-E-1A
+0054;0;fas alcohol;1;1.0;0;fas alcohol definition;3;0.486327323954;KUIDL-S-E-1A
+0054;0;fas alcohol;1;1.0;0;fas alcohol asset;7;0.313718539525;KUIDL-S-E-1A
+0054;0;fas alcohol;1;1.0;0;fas alcohol accounting;10;0.209232837055;KUIDL-S-E-1A
+0054;0;fas alcohol;1;1.0;0;fas alcohol alcohol;13;0.104735444532;KUIDL-S-E-1A
+0054;0;fas alcohol;1;1.0;0;fas alcohol syndrome;15;0.0859962880026;KUIDL-S-E-1A
+0054;0;fas alcohol;1;1.0;0;fas alcohol fetal;16;0.0609529833439;KUIDL-S-E-1A
+0054;0;fas alcohol;1;1.0;0;fas alcohol welcome;19;0.0412091984747;KUIDL-S-E-1A
+0054;0;fas alcohol;1;1.0;0;fas alcohol university;20;0.0396505376344;KUIDL-S-E-1A
+0054;0;fas harvard;2;0.873873873874;0;fas harvard relocation;2;0.873873873874;KUIDL-S-E-1A
+0054;0;fas harvard;2;0.873873873874;0;fas harvard university;4;0.411423577732;KUIDL-S-E-1A
+0054;0;fas harvard;2;0.873873873874;0;fas harvard harvard;18;0.0512732119875;KUIDL-S-E-1A
+0054;0;fas harvard;2;0.873873873874;0;fas harvard arts;23;0.0169900779722;KUIDL-S-E-1A
+0054;0;fas windows;3;0.333333333333;0;fas windows 141r;5;0.333333333333;KUIDL-S-E-1A
+0054;0;fas windows;3;0.333333333333;0;fas windows windows;9;0.261437908497;KUIDL-S-E-1A
+0054;0;fas windows;3;0.333333333333;0;fas windows football;14;0.0980392156863;KUIDL-S-E-1A
+0054;0;fas agricultural;4;0.324324324324;0;fas agricultural foreign;6;0.324324324324;KUIDL-S-E-1A
+0054;0;fas agricultural;4;0.324324324324;0;fas agricultural barcelona;22;0.0267134354689;KUIDL-S-E-1A
+0054;0;fas agricultural;4;0.324324324324;0;fas agricultural agricultural;24;0.0141915125928;KUIDL-S-E-1A
+0054;0;fas agricultural;4;0.324324324324;0;fas agricultural embassy;25;0.0126173280027;KUIDL-S-E-1A
+0054;0;fas agricultural;4;0.324324324324;0;fas agricultural usda;26;0.00100279732366;KUIDL-S-E-1A
+0054;0;fas fixed;3;0.333333333333;0;fas fixed accounting;5;0.333333333333;KUIDL-S-E-1A
+0054;0;fas fixed;3;0.333333333333;0;fas fixed assets;8;0.27584898573;KUIDL-S-E-1A
+0054;0;fas fixed;3;0.333333333333;0;fas fixed crop;11;0.185686383929;KUIDL-S-E-1A
+0054;0;fas fixed;3;0.333333333333;0;fas fixed asset;12;0.172471788194;KUIDL-S-E-1A
+0054;0;fas fixed;3;0.333333333333;0;fas fixed fixed;17;0.0526168258102;KUIDL-S-E-1A
+0054;0;fas fixed;3;0.333333333333;0;fas fixed practice;21;0.0371997974537;KUIDL-S-E-1A
+0054;0;fas fixed;3;0.333333333333;0;fas fixed sage;27;0.000255766369048;KUIDL-S-E-1A
+0055;0;flesh free;1;1.0;0;flesh free plugs;1;1.0;KUIDL-S-E-1A
+0055;0;flesh free;1;1.0;0;flesh free stretching;2;0.953885350318;KUIDL-S-E-1A
+0055;0;flesh free;1;1.0;0;flesh free rotten;3;0.834876271012;KUIDL-S-E-1A
+0055;0;flesh free;1;1.0;0;flesh free ear;5;0.68558193399;KUIDL-S-E-1A
+0055;0;flesh free;1;1.0;0;flesh free lyrics;14;0.369186395866;KUIDL-S-E-1A
+0055;0;flesh free;1;1.0;0;flesh free definition;16;0.237514231377;KUIDL-S-E-1A
+0055;0;flesh free;1;1.0;0;flesh free free;17;0.230976919444;KUIDL-S-E-1A
+0055;0;flesh free;1;1.0;0;flesh free body;19;0.215507516781;KUIDL-S-E-1A
+0055;0;flesh free;1;1.0;0;flesh free blood;30;0.0116206488119;KUIDL-S-E-1A
+0055;0;flesh spirit;2;0.698630136986;0;flesh spirit god;4;0.698630136986;KUIDL-S-E-1A
+0055;0;flesh spirit;2;0.698630136986;0;flesh spirit spirit;12;0.404601039913;KUIDL-S-E-1A
+0055;0;flesh spirit;2;0.698630136986;0;flesh spirit john;23;0.130723356133;KUIDL-S-E-1A
+0055;0;flesh spirit;2;0.698630136986;0;flesh spirit nature;24;0.0934398086407;KUIDL-S-E-1A
+0055;0;flesh spirit;2;0.698630136986;0;flesh spirit bible;28;0.0343413670882;KUIDL-S-E-1A
+0055;0;flesh spirit;2;0.698630136986;0;flesh spirit christ;28;0.0343413670882;KUIDL-S-E-1A
+0055;0;flesh spirit;2;0.698630136986;0;flesh spirit became;29;0.0195872443692;KUIDL-S-E-1A
+0055;0;flesh spirit;2;0.698630136986;0;flesh spirit jesus;31;0.00761966665157;KUIDL-S-E-1A
+0055;0;flesh spirit;2;0.698630136986;0;flesh spirit meaning;34;0.000221407269105;KUIDL-S-E-1A
+0055;0;flesh lyrics;3;0.602739726027;0;flesh lyrics mod;6;0.602739726027;KUIDL-S-E-1A
+0055;0;flesh lyrics;3;0.602739726027;0;flesh lyrics floyd;18;0.220709027658;KUIDL-S-E-1A
+0055;0;flesh lyrics;3;0.602739726027;0;flesh lyrics curtis;20;0.185740857922;KUIDL-S-E-1A
+0055;0;flesh lyrics;3;0.602739726027;0;flesh lyrics lyrics;25;0.058270140203;KUIDL-S-E-1A
+0055;0;flesh lyrics;3;0.602739726027;0;flesh lyrics simon;26;0.0563020817751;KUIDL-S-E-1A
+0055;0;flesh lyrics;3;0.602739726027;0;flesh lyrics official;32;0.00338440364244;KUIDL-S-E-1A
+0055;0;flesh wiki;4;0.58904109589;0;flesh wiki raider;7;0.58904109589;KUIDL-S-E-1A
+0055;0;flesh wiki;4;0.58904109589;0;flesh wiki warcraft;8;0.567935943541;KUIDL-S-E-1A
+0055;0;flesh wiki;4;0.58904109589;0;flesh wiki terraria;10;0.490769599572;KUIDL-S-E-1A
+0055;0;flesh wiki;4;0.58904109589;0;flesh wiki proud;11;0.425839409856;KUIDL-S-E-1A
+0055;0;flesh wiki;4;0.58904109589;0;flesh wiki golem;13;0.402856365021;KUIDL-S-E-1A
+0055;0;flesh wiki;4;0.58904109589;0;flesh wiki guild;15;0.32570564927;KUIDL-S-E-1A
+0055;0;flesh wiki;4;0.58904109589;0;flesh wiki wiki;21;0.158289243619;KUIDL-S-E-1A
+0055;0;flesh wiki;4;0.58904109589;0;flesh wiki wars;22;0.143769788026;KUIDL-S-E-1A
+0055;0;flesh wiki;4;0.58904109589;0;flesh wiki wall;27;0.0557928608844;KUIDL-S-E-1A
+0055;0;flesh wiki;4;0.58904109589;0;flesh wiki guide;33;0.00159408562123;KUIDL-S-E-1A
+0055;0;flesh vimeo;5;0.520547945205;0;flesh vimeo vimeo;9;0.520547945205;KUIDL-S-E-1A
+0055;0;flesh vimeo;5;0.520547945205;0;flesh vimeo rhymezone;9;0.520547945205;KUIDL-S-E-1A
+0056;0;ir free;1;1.0;0;ir free optics;1;1.0;KUIDL-S-E-1A
+0056;0;ir free;1;1.0;0;ir free dictionary;6;0.357464860721;KUIDL-S-E-1A
+0056;0;ir free;1;1.0;0;ir free definition;8;0.258430871454;KUIDL-S-E-1A
+0056;0;ir free;1;1.0;0;ir free free;17;0.047104007104;KUIDL-S-E-1A
+0056;0;ir free;1;1.0;0;ir free investor;25;0.00841558441558;KUIDL-S-E-1A
+0056;0;ir free;1;1.0;0;ir free relations;25;0.00841558441558;KUIDL-S-E-1A
+0056;0;ir free;1;1.0;0;ir free online;27;0.0053765341188;KUIDL-S-E-1A
+0056;0;ir free;1;1.0;0;ir free international;29;0.00131714908185;KUIDL-S-E-1A
+0056;0;ir investor;2;0.532110091743;0;ir investor nissan;2;0.532110091743;KUIDL-S-E-1A
+0056;0;ir investor;2;0.532110091743;0;ir investor broadridge;2;0.532110091743;KUIDL-S-E-1A
+0056;0;ir investor;2;0.532110091743;0;ir investor hitachi;3;0.531755502346;KUIDL-S-E-1A
+0056;0;ir investor;2;0.532110091743;0;ir investor panasonic;4;0.517645337528;KUIDL-S-E-1A
+0056;0;ir investor;2;0.532110091743;0;ir investor investors;12;0.126651820196;KUIDL-S-E-1A
+0056;0;ir investor;2;0.532110091743;0;ir investor overview;14;0.116784394213;KUIDL-S-E-1A
+0056;0;ir investor;2;0.532110091743;0;ir investor investor;21;0.0267905948381;KUIDL-S-E-1A
+0056;0;ir investor;2;0.532110091743;0;ir investor relations;23;0.0223958531611;KUIDL-S-E-1A
+0056;0;ir investor;2;0.532110091743;0;ir investor global;28;0.00308753958157;KUIDL-S-E-1A
+0056;0;ir iran;3;0.495412844037;0;ir iran ucla;5;0.495412844037;KUIDL-S-E-1A
+0056;0;ir iran;3;0.495412844037;0;ir iran introduction;11;0.140975774743;KUIDL-S-E-1A
+0056;0;ir iran;3;0.495412844037;0;ir iran iran;13;0.117706880933;KUIDL-S-E-1A
+0056;0;ir iran;3;0.495412844037;0;ir iran registration;16;0.0601531932001;KUIDL-S-E-1A
+0056;0;ir iran;3;0.495412844037;0;ir iran university;18;0.0469414502367;KUIDL-S-E-1A
+0056;0;ir iran;3;0.495412844037;0;ir iran country;20;0.0367631791996;KUIDL-S-E-1A
+0056;0;ir iran;3;0.495412844037;0;ir iran domain;22;0.0239272711724;KUIDL-S-E-1A
+0056;0;ir iran;3;0.495412844037;0;ir iran code;31;0.00043007573793;KUIDL-S-E-1A
+0056;0;ir spanish;4;0.284403669725;0;ir spanish sentences;7;0.284403669725;KUIDL-S-E-1A
+0056;0;ir spanish;4;0.284403669725;0;ir spanish spanish;9;0.224507466372;KUIDL-S-E-1A
+0056;0;ir spanish;4;0.284403669725;0;ir spanish verb;19;0.0417385999625;KUIDL-S-E-1A
+0056;0;ir spanish;4;0.284403669725;0;ir spanish verbs;30;0.000968205392326;KUIDL-S-E-1A
+0056;0;ir spanish;4;0.284403669725;0;ir spanish words;32;5.71702231659e-05;KUIDL-S-E-1A
+0056;0;ir institutional;5;0.183486238532;0;ir institutional theirapp;10;0.183486238532;KUIDL-S-E-1A
+0056;0;ir institutional;5;0.183486238532;0;ir institutional institutional;15;0.104357798165;KUIDL-S-E-1A
+0056;0;ir institutional;5;0.183486238532;0;ir institutional ipad;24;0.0222986748216;KUIDL-S-E-1A
+0056;0;ir institutional;5;0.183486238532;0;ir institutional effectiveness;26;0.00773318042813;KUIDL-S-E-1A
+0057;0;lost flickr;1;1.0;0;lost flickr authority;1;1.0;KUIDL-S-E-1A
+0057;0;lost flickr;1;1.0;0;lost flickr flickr;6;0.583333333333;KUIDL-S-E-1A
+0057;0;lost season;3;0.884615384615;0;lost season series;3;0.884615384615;KUIDL-S-E-1A
+0057;0;lost season;3;0.884615384615;0;lost season season;14;0.257394657724;KUIDL-S-E-1A
+0057;0;lost season;3;0.884615384615;0;lost season 15;23;0.0866319053351;KUIDL-S-E-1A
+0057;0;lost season;3;0.884615384615;0;lost season 16;27;0.0399246704841;KUIDL-S-E-1A
+0057;0;lost season;3;0.884615384615;0;lost season watch;29;0.0334605545401;KUIDL-S-E-1A
+0057;0;lost property;2;0.923076923077;0;lost property blackberry;2;0.923076923077;KUIDL-S-E-1A
+0057;0;lost property;2;0.923076923077;0;lost property unclaimed;4;0.857665120742;KUIDL-S-E-1A
+0057;0;lost property;2;0.923076923077;0;lost property metro;5;0.698544698545;KUIDL-S-E-1A
+0057;0;lost property;2;0.923076923077;0;lost property property;10;0.415685797133;KUIDL-S-E-1A
+0057;0;lost property;2;0.923076923077;0;lost property jewelry;13;0.343733887734;KUIDL-S-E-1A
+0057;0;lost property;2;0.923076923077;0;lost property money;31;3.40753511485e-05;KUIDL-S-E-1A
+0057;0;lost home;5;0.538461538462;0;lost home wikipedia;8;0.538461538462;KUIDL-S-E-1A
+0057;0;lost home;5;0.538461538462;0;lost home encyclopedia;9;0.450409685704;KUIDL-S-E-1A
+0057;0;lost home;5;0.538461538462;0;lost home fish;11;0.409255573961;KUIDL-S-E-1A
+0057;0;lost home;5;0.538461538462;0;lost home download;17;0.215325215325;KUIDL-S-E-1A
+0057;0;lost home;5;0.538461538462;0;lost home home;18;0.204428757917;KUIDL-S-E-1A
+0057;0;lost home;5;0.538461538462;0;lost home city;21;0.0980328754765;KUIDL-S-E-1A
+0057;0;lost home;5;0.538461538462;0;lost home game;22;0.093343087519;KUIDL-S-E-1A
+0057;0;lost home;5;0.538461538462;0;lost home big;24;0.0839462604168;KUIDL-S-E-1A
+0057;0;lost home;5;0.538461538462;0;lost home free;28;0.0351882032376;KUIDL-S-E-1A
+0057;0;lost home;5;0.538461538462;0;lost home news;30;0.00024167743275;KUIDL-S-E-1A
+0057;0;lost site;4;0.576923076923;0;lost site brewery;7;0.576923076923;KUIDL-S-E-1A
+0057;0;lost site;4;0.576923076923;0;lost site virtual;12;0.367425870219;KUIDL-S-E-1A
+0057;0;lost site;4;0.576923076923;0;lost site seattle;12;0.367425870219;KUIDL-S-E-1A
+0057;0;lost site;4;0.576923076923;0;lost site license;15;0.244192219217;KUIDL-S-E-1A
+0057;0;lost site;4;0.576923076923;0;lost site hawaii;15;0.244192219217;KUIDL-S-E-1A
+0057;0;lost site;4;0.576923076923;0;lost site tour;16;0.22776106575;KUIDL-S-E-1A
+0057;0;lost site;4;0.576923076923;0;lost site enjoy;19;0.131265382662;KUIDL-S-E-1A
+0057;0;lost site;4;0.576923076923;0;lost site adventure;20;0.128000491129;KUIDL-S-E-1A
+0057;0;lost site;4;0.576923076923;0;lost site visit;25;0.0560527643355;KUIDL-S-E-1A
+0057;0;lost site;4;0.576923076923;0;lost site site;26;0.0525882601444;KUIDL-S-E-1A
+0058;0;shrew shrews;1;1.0;0;shrew shrews ehow;1;1.0;KUIDL-S-E-1A
+0058;0;shrew shrews;1;1.0;0;shrew shrews parva;5;0.41412899141;KUIDL-S-E-1A
+0058;0;shrew shrews;1;1.0;0;shrew shrews shrews;6;0.388056848348;KUIDL-S-E-1A
+0058;0;shrew shrews;1;1.0;0;shrew shrews blarina;16;0.116198091984;KUIDL-S-E-1A
+0058;0;shrew shrews;1;1.0;0;shrew shrews wildlife;20;0.050076269133;KUIDL-S-E-1A
+0058;0;shrew shrews;1;1.0;0;shrew shrews species;21;0.0396625926009;KUIDL-S-E-1A
+0058;0;shrew shrews;1;1.0;0;shrew shrews sorex;23;0.0375781120607;KUIDL-S-E-1A
+0058;0;shrew shrews;1;1.0;0;shrew shrews information;28;0.0128743441369;KUIDL-S-E-1A
+0058;0;shrew shrews;1;1.0;0;shrew shrews common;32;0.005685818968;KUIDL-S-E-1A
+0058;0;shrew shrews;1;1.0;0;shrew shrews least;33;0.00273496538912;KUIDL-S-E-1A
+0058;0;shrew taming;2;0.745098039216;0;shrew taming puzzle;2;0.745098039216;KUIDL-S-E-1A
+0058;0;shrew taming;2;0.745098039216;0;shrew taming definition;4;0.44579970946;KUIDL-S-E-1A
+0058;0;shrew taming;2;0.745098039216;0;shrew taming mole;7;0.36347009392;KUIDL-S-E-1A
+0058;0;shrew taming;2;0.745098039216;0;shrew taming photo;9;0.247829842785;KUIDL-S-E-1A
+0058;0;shrew taming;2;0.745098039216;0;shrew taming books;12;0.198734165894;KUIDL-S-E-1A
+0058;0;shrew taming;2;0.745098039216;0;shrew taming northern;14;0.171678533089;KUIDL-S-E-1A
+0058;0;shrew taming;2;0.745098039216;0;shrew taming online;15;0.119215946713;KUIDL-S-E-1A
+0058;0;shrew taming;2;0.745098039216;0;shrew taming taming;30;0.0119283495007;KUIDL-S-E-1A
+0058;0;shrew taming;2;0.745098039216;0;shrew taming free;34;0.00269220413873;KUIDL-S-E-1A
+0058;0;shrew taming;2;0.745098039216;0;shrew taming shakespeare;36;0.00236970051795;KUIDL-S-E-1A
+0058;0;shrew definition;3;0.5;0;shrew definition sentence;3;0.5;KUIDL-S-E-1A
+0058;0;shrew definition;3;0.5;0;shrew definition pictures;8;0.262152086724;KUIDL-S-E-1A
+0058;0;shrew definition;3;0.5;0;shrew definition florida;11;0.207509027142;KUIDL-S-E-1A
+0058;0;shrew definition;3;0.5;0;shrew definition dictionary;19;0.0606746755713;KUIDL-S-E-1A
+0058;0;shrew definition;3;0.5;0;shrew definition definitions;22;0.0393759810969;KUIDL-S-E-1A
+0058;0;shrew definition;3;0.5;0;shrew definition meaning;25;0.0298184150333;KUIDL-S-E-1A
+0058;0;shrew definition;3;0.5;0;shrew definition definition;35;0.00263545859069;KUIDL-S-E-1A
+0058;0;shrew definition;3;0.5;0;shrew definition masked;37;7.57882544413e-06;KUIDL-S-E-1A
+0058;0;shrew control;4;0.235294117647;0;shrew control vimeo;10;0.235294117647;KUIDL-S-E-1A
+0058;0;shrew control;4;0.235294117647;0;shrew control control;17;0.10625;KUIDL-S-E-1A
+0058;0;shrew control;4;0.235294117647;0;shrew control translation;18;0.0609756097561;KUIDL-S-E-1A
+0058;0;shrew control;4;0.235294117647;0;shrew control spanish;24;0.0348557692308;KUIDL-S-E-1A
+0058;0;shrew control;4;0.235294117647;0;shrew control rid;26;0.0192920918367;KUIDL-S-E-1A
+0058;0;shrew control;4;0.235294117647;0;shrew control vole;27;0.0156445556946;KUIDL-S-E-1A
+0058;0;shrew control;4;0.235294117647;0;shrew control pest;29;0.0120204160247;KUIDL-S-E-1A
+0058;0;shrew ron;5;0.176470588235;0;shrew ron bow;13;0.176470588235;KUIDL-S-E-1A
+0058;0;shrew ron;5;0.176470588235;0;shrew ron ron;31;0.00600490196078;KUIDL-S-E-1A
+0059;0;symmetry university;1;1.0;0;symmetry university digital;1;1.0;KUIDL-S-E-1A
+0059;0;symmetry university;1;1.0;0;symmetry university teacher;3;0.551441770054;KUIDL-S-E-1A
+0059;0;symmetry university;1;1.0;0;symmetry university international;6;0.449350464617;KUIDL-S-E-1A
+0059;0;symmetry university;1;1.0;0;symmetry university theory;12;0.27680030127;KUIDL-S-E-1A
+0059;0;symmetry university;1;1.0;0;symmetry university definition;16;0.125093095235;KUIDL-S-E-1A
+0059;0;symmetry university;1;1.0;0;symmetry university group;20;0.0290035933874;KUIDL-S-E-1A
+0059;0;symmetry university;1;1.0;0;symmetry university groups;22;0.0199322205615;KUIDL-S-E-1A
+0059;0;symmetry university;1;1.0;0;symmetry university university;25;0.00534589333616;KUIDL-S-E-1A
+0059;0;symmetry university;1;1.0;0;symmetry university draw;26;0.00528967052191;KUIDL-S-E-1A
+0059;0;symmetry math;2;0.975308641975;0;symmetry math free;2;0.975308641975;KUIDL-S-E-1A
+0059;0;symmetry math;2;0.975308641975;0;symmetry math worksheets;7;0.407638990125;KUIDL-S-E-1A
+0059;0;symmetry math;2;0.975308641975;0;symmetry math page;8;0.396536063631;KUIDL-S-E-1A
+0059;0;symmetry math;2;0.975308641975;0;symmetry math math;15;0.149285313081;KUIDL-S-E-1A
+0059;0;symmetry math;2;0.975308641975;0;symmetry math games;17;0.105810132479;KUIDL-S-E-1A
+0059;0;symmetry math;2;0.975308641975;0;symmetry math lines;18;0.0721976030545;KUIDL-S-E-1A
+0059;0;symmetry math;2;0.975308641975;0;symmetry math types;19;0.0306998910281;KUIDL-S-E-1A
+0059;0;symmetry math;2;0.975308641975;0;symmetry math rotational;21;0.0232398655986;KUIDL-S-E-1A
+0059;0;symmetry math;2;0.975308641975;0;symmetry math geometry;27;0.000445587541194;KUIDL-S-E-1A
+0059;0;symmetry dictionary;3;0.493827160494;0;symmetry dictionary physics;4;0.493827160494;KUIDL-S-E-1A
+0059;0;symmetry dictionary;3;0.493827160494;0;symmetry dictionary wikipedia;5;0.490031362007;KUIDL-S-E-1A
+0059;0;symmetry dictionary;3;0.493827160494;0;symmetry dictionary synonyms;11;0.286351851852;KUIDL-S-E-1A
+0059;0;symmetry dictionary;3;0.493827160494;0;symmetry dictionary dictionary;13;0.211967054264;KUIDL-S-E-1A
+0059;0;symmetry dictionary;3;0.493827160494;0;symmetry dictionary meaning;14;0.171362665113;KUIDL-S-E-1A
+0059;0;symmetry dictionary;3;0.493827160494;0;symmetry dictionary mean;24;0.00600198412698;KUIDL-S-E-1A
+0059;0;symmetry acupuncture;4;0.37037037037;0;symmetry acupuncture acupuncture;9;0.37037037037;KUIDL-S-E-1A
+0059;0;symmetry nutritional;5;0.296296296296;0;symmetry nutritional sentence;10;0.296296296296;KUIDL-S-E-1A
+0059;0;symmetry nutritional;5;0.296296296296;0;symmetry nutritional nutritional;23;0.0185185185185;KUIDL-S-E-1A
+0060;0;the presidents of the united states of america president;1;1.0;0;the presidents of the united states of america president united;1;1.0;KUIDL-S-E-1A
+0060;0;the presidents of the united states of america president;1;1.0;0;the presidents of the united states of america president states;1;1.0;KUIDL-S-E-1A
+0060;0;the presidents of the united states of america president;1;1.0;0;the presidents of the united states of america president america;4;0.487335145436;KUIDL-S-E-1A
+0060;0;the presidents of the united states of america president;1;1.0;0;the presidents of the united states of america president facts;6;0.458472776234;KUIDL-S-E-1A
+0060;0;the presidents of the united states of america president;1;1.0;0;the presidents of the united states of america president president;11;0.342123060745;KUIDL-S-E-1A
+0060;0;the presidents of the united states of america president;1;1.0;0;the presidents of the united states of america president list;17;0.147616232436;KUIDL-S-E-1A
+0060;0;the presidents of the united states of america president;1;1.0;0;the presidents of the united states of america president vice;19;0.141097556713;KUIDL-S-E-1A
+0060;0;the presidents of the united states of america president;1;1.0;0;the presidents of the united states of america president first;21;0.13832816197;KUIDL-S-E-1A
+0060;0;the presidents of the united states of america president;1;1.0;0;the presidents of the united states of america president presidents;28;0.0272197881483;KUIDL-S-E-1A
+0060;0;the presidents of the united states of america president;1;1.0;0;the presidents of the united states of america president george;33;0.000210559246313;KUIDL-S-E-1A
+0060;0;the presidents of the united states of america history;3;0.342342342342;0;the presidents of the united states of america history history;10;0.342342342342;KUIDL-S-E-1A
+0060;0;the presidents of the united states of america history;3;0.342342342342;0;the presidents of the united states of america history national;14;0.180336733007;KUIDL-S-E-1A
+0060;0;the presidents of the united states of america history;3;0.342342342342;0;the presidents of the united states of america history mexican;15;0.154113917592;KUIDL-S-E-1A
+0060;0;the presidents of the united states of america history;3;0.342342342342;0;the presidents of the united states of america history general;26;0.0391978085402;KUIDL-S-E-1A
+0060;0;the presidents of the united states of america history;3;0.342342342342;0;the presidents of the united states of america history facts;27;0.0340215399229;KUIDL-S-E-1A
+0060;0;the presidents of the united states of america history;3;0.342342342342;0;the presidents of the united states of america history usa;30;0.0158195886333;KUIDL-S-E-1A
+0060;0;the presidents of the united states of america history;3;0.342342342342;0;the presidents of the united states of america history obama;32;0.00587545275995;KUIDL-S-E-1A
+0060;0;the presidents of the united states of america presidents;2;0.585585585586;0;the presidents of the united states of america presidents pal;2;0.585585585586;KUIDL-S-E-1A
+0060;0;the presidents of the united states of america presidents;2;0.585585585586;0;the presidents of the united states of america presidents donald;3;0.514223407753;KUIDL-S-E-1A
+0060;0;the presidents of the united states of america presidents;2;0.585585585586;0;the presidents of the united states of america presidents states;5;0.466855509681;KUIDL-S-E-1A
+0060;0;the presidents of the united states of america presidents;2;0.585585585586;0;the presidents of the united states of america presidents united;5;0.466855509681;KUIDL-S-E-1A
+0060;0;the presidents of the united states of america presidents;2;0.585585585586;0;the presidents of the united states of america presidents lyrics;7;0.396888968032;KUIDL-S-E-1A
+0060;0;the presidents of the united states of america presidents;2;0.585585585586;0;the presidents of the united states of america presidents lump;8;0.372020854494;KUIDL-S-E-1A
+0060;0;the presidents of the united states of america presidents;2;0.585585585586;0;the presidents of the united states of america presidents peaches;9;0.352428878311;KUIDL-S-E-1A
+0060;0;the presidents of the united states of america presidents;2;0.585585585586;0;the presidents of the united states of america presidents america;13;0.258299058408;KUIDL-S-E-1A
+0060;0;the presidents of the united states of america presidents;2;0.585585585586;0;the presidents of the united states of america presidents music;18;0.143500793124;KUIDL-S-E-1A
+0060;0;the presidents of the united states of america presidents;2;0.585585585586;0;the presidents of the united states of america presidents presidents;25;0.0477991159789;KUIDL-S-E-1A
+0060;0;the presidents of the united states of america map;5;0.153153153153;0;the presidents of the united states of america map map;16;0.153153153153;KUIDL-S-E-1A
+0060;0;the presidents of the united states of america map;5;0.153153153153;0;the presidents of the united states of america map tabs;22;0.10006006006;KUIDL-S-E-1A
+0060;0;the presidents of the united states of america map;5;0.153153153153;0;the presidents of the united states of america map abstract;22;0.10006006006;KUIDL-S-E-1A
+0060;0;the presidents of the united states of america map;5;0.153153153153;0;the presidents of the united states of america map 154;23;0.0575855855856;KUIDL-S-E-1A
+0060;0;the presidents of the united states of america map;5;0.153153153153;0;the presidents of the united states of america map ladybug;24;0.0517936117936;KUIDL-S-E-1A
+0060;0;the presidents of the united states of america map;5;0.153153153153;0;the presidents of the united states of america map lyrics;31;0.00772424598512;KUIDL-S-E-1A
+0060;0;the presidents of the united states of america seal;4;0.261261261261;0;the presidents of the united states of america seal seal;12;0.261261261261;KUIDL-S-E-1A
+0060;0;the presidents of the united states of america seal;4;0.261261261261;0;the presidents of the united states of america seal humane;20;0.140679140679;KUIDL-S-E-1A
+0060;0;the presidents of the united states of america seal;4;0.261261261261;0;the presidents of the united states of america seal dedicated;29;0.0261261261261;KUIDL-S-E-1A
+0061;0;windows replacement;1;1.0;0;windows replacement window;1;1.0;KUIDL-S-E-1A
+0061;0;windows replacement;1;1.0;0;windows replacement siding;13;0.074802007818;KUIDL-S-E-1A
+0061;0;windows replacement;1;1.0;0;windows replacement replacement;14;0.0677552964023;KUIDL-S-E-1A
+0061;0;windows replacement;1;1.0;0;windows replacement doors;16;0.0357581814884;KUIDL-S-E-1A
+0061;0;windows replacement;1;1.0;0;windows replacement energy;17;0.028104151138;KUIDL-S-E-1A
+0061;0;windows replacement;1;1.0;0;windows replacement door;19;0.0112009433261;KUIDL-S-E-1A
+0061;0;windows replacement;1;1.0;0;windows replacement efficient;20;0.00702227376041;KUIDL-S-E-1A
+0061;0;windows replacement;1;1.0;0;windows replacement vinyl;21;0.00347073301327;KUIDL-S-E-1A
+0061;0;windows downloads;2;0.747252747253;0;windows downloads downloads;2;0.747252747253;KUIDL-S-E-1A
+0061;0;windows downloads;2;0.747252747253;0;windows downloads media;11;0.141955704434;KUIDL-S-E-1A
+0061;0;windows downloads;2;0.747252747253;0;windows downloads player;15;0.0383923473791;KUIDL-S-E-1A
+0061;0;windows downloads;2;0.747252747253;0;windows downloads updates;22;0.00103350615955;KUIDL-S-E-1A
+0061;0;windows downloads;2;0.747252747253;0;windows downloads phone;23;9.23289134533e-05;KUIDL-S-E-1A
+0061;0;windows audacity;3;0.615384615385;0;windows audacity lyx;3;0.615384615385;KUIDL-S-E-1A
+0061;0;windows audacity;3;0.615384615385;0;windows audacity audacity;3;0.615384615385;KUIDL-S-E-1A
+0061;0;windows xp;4;0.582417582418;0;windows xp ehow;4;0.582417582418;KUIDL-S-E-1A
+0061;0;windows xp;4;0.582417582418;0;windows xp tex;5;0.509399097634;KUIDL-S-E-1A
+0061;0;windows xp;4;0.582417582418;0;windows xp reinstall;7;0.298411962495;KUIDL-S-E-1A
+0061;0;windows xp;4;0.582417582418;0;windows xp tutorial;8;0.243937594062;KUIDL-S-E-1A
+0061;0;windows xp;4;0.582417582418;0;windows xp xp;9;0.192253043718;KUIDL-S-E-1A
+0061;0;windows xp;4;0.582417582418;0;windows xp group;10;0.150839449158;KUIDL-S-E-1A
+0061;0;windows xp;4;0.582417582418;0;windows xp registry;12;0.124092734071;KUIDL-S-E-1A
+0061;0;windows xp;4;0.582417582418;0;windows xp install;18;0.0179181344659;KUIDL-S-E-1A
+0061;0;windows nymgo;5;0.318681318681;0;windows nymgo;6;0.318681318681;KUIDL-S-E-1A
+0062;0;prophet bible;1;1.0;0;prophet bible bible;1;1.0;KUIDL-S-E-1A
+0062;0;prophet bible;1;1.0;0;prophet bible prophecy;5;0.659186197917;KUIDL-S-E-1A
+0062;0;prophet bible;1;1.0;0;prophet bible false;7;0.475494791667;KUIDL-S-E-1A
+0062;0;prophet bible;1;1.0;0;prophet bible prophetess;17;0.132087109375;KUIDL-S-E-1A
+0062;0;prophet bible;1;1.0;0;prophet bible definition;23;0.0989029166667;KUIDL-S-E-1A
+0062;0;prophet bible;1;1.0;0;prophet bible dictionary;25;0.0711245598592;KUIDL-S-E-1A
+0062;0;prophet bible;1;1.0;0;prophet bible names;33;0.0231381733021;KUIDL-S-E-1A
+0062;0;prophet bible;1;1.0;0;prophet bible meaning;37;0.00143652376205;KUIDL-S-E-1A
+0062;0;prophet free;2;0.936708860759;0;prophet free romantic;2;0.936708860759;KUIDL-S-E-1A
+0062;0;prophet free;2;0.936708860759;0;prophet free mohamed;3;0.863416985014;KUIDL-S-E-1A
+0062;0;prophet free;2;0.936708860759;0;prophet free linkedin;4;0.820779109211;KUIDL-S-E-1A
+0062;0;prophet free;2;0.936708860759;0;prophet free gibran;6;0.585586187334;KUIDL-S-E-1A
+0062;0;prophet free;2;0.936708860759;0;prophet free rock;13;0.248670779978;KUIDL-S-E-1A
+0062;0;prophet free;2;0.936708860759;0;prophet free free;15;0.226088166785;KUIDL-S-E-1A
+0062;0;prophet free;2;0.936708860759;0;prophet free welcome;16;0.156276367398;KUIDL-S-E-1A
+0062;0;prophet free;2;0.936708860759;0;prophet free let;35;0.0143663676084;KUIDL-S-E-1A
+0062;0;prophet free;2;0.936708860759;0;prophet free online;39;0.000231527401622;KUIDL-S-E-1A
+0062;0;prophet net;3;0.443037974684;0;prophet net tabs;8;0.443037974684;KUIDL-S-E-1A
+0062;0;prophet net;3;0.443037974684;0;prophet net net;11;0.335634829306;KUIDL-S-E-1A
+0062;0;prophet net;3;0.443037974684;0;prophet net vintage;18;0.12082853855;KUIDL-S-E-1A
+0062;0;prophet net;3;0.443037974684;0;prophet net circuits;26;0.0671269658611;KUIDL-S-E-1A
+0062;0;prophet net;3;0.443037974684;0;prophet net sequential;26;0.0671269658611;KUIDL-S-E-1A
+0062;0;prophet net;3;0.443037974684;0;prophet net webster;26;0.0671269658611;KUIDL-S-E-1A
+0062;0;prophet net;3;0.443037974684;0;prophet net explorer;29;0.0464725148269;KUIDL-S-E-1A
+0062;0;prophet net;3;0.443037974684;0;prophet net synth;29;0.0464725148269;KUIDL-S-E-1A
+0062;0;prophet muhammad;4;0.430379746835;0;prophet muhammad itsislam;9;0.430379746835;KUIDL-S-E-1A
+0062;0;prophet muhammad;4;0.430379746835;0;prophet muhammad supporting;12;0.285518545732;KUIDL-S-E-1A
+0062;0;prophet muhammad;4;0.430379746835;0;prophet muhammad pbuh;20;0.103303237124;KUIDL-S-E-1A
+0062;0;prophet muhammad;4;0.430379746835;0;prophet muhammad muhammad;24;0.0969724959203;KUIDL-S-E-1A
+0062;0;prophet muhammad;4;0.430379746835;0;prophet muhammad stories;28;0.0476442473415;KUIDL-S-E-1A
+0062;0;prophet muhammad;4;0.430379746835;0;prophet muhammad articles;31;0.0397355756585;KUIDL-S-E-1A
+0062;0;prophet muhammad;4;0.430379746835;0;prophet muhammad islam;32;0.028584620884;KUIDL-S-E-1A
+0062;0;prophet muhammad;4;0.430379746835;0;prophet muhammad saw;40;3.77098212042e-06;KUIDL-S-E-1A
+0062;0;prophet dragon;5;0.405063291139;0;prophet dragon games;10;0.405063291139;KUIDL-S-E-1A
+0062;0;prophet dragon;5;0.405063291139;0;prophet dragon game;14;0.24390346534;KUIDL-S-E-1A
+0062;0;prophet dragon;5;0.405063291139;0;prophet dragon preview;19;0.104064604095;KUIDL-S-E-1A
+0062;0;prophet dragon;5;0.405063291139;0;prophet dragon wikia;21;0.101845901616;KUIDL-S-E-1A
+0062;0;prophet dragon;5;0.405063291139;0;prophet dragon reviews;22;0.101638239807;KUIDL-S-E-1A
+0062;0;prophet dragon;5;0.405063291139;0;prophet dragon pc;27;0.0509119593615;KUIDL-S-E-1A
+0062;0;prophet dragon;5;0.405063291139;0;prophet dragon dragon;30;0.0440027431972;KUIDL-S-E-1A
+0062;0;prophet dragon;5;0.405063291139;0;prophet dragon wiki;34;0.0206762658381;KUIDL-S-E-1A
+0062;0;prophet dragon;5;0.405063291139;0;prophet dragon mmo;36;0.0101670760108;KUIDL-S-E-1A
+0062;0;prophet dragon;5;0.405063291139;0;prophet dragon dragons;38;0.000371958945031;KUIDL-S-E-1A
+0063;0;gold coins;1;1.0;0;gold coins metals;1;1.0;KUIDL-S-E-1A
+0063;0;gold coins;1;1.0;0;gold coins coins;3;0.616128097209;KUIDL-S-E-1A
+0063;0;gold coins;1;1.0;0;gold coins bullion;7;0.448015583151;KUIDL-S-E-1A
+0063;0;gold coins;1;1.0;0;gold coins sell;9;0.37363805037;KUIDL-S-E-1A
+0063;0;gold coins;1;1.0;0;gold coins cash;14;0.315315685919;KUIDL-S-E-1A
+0063;0;gold coins;1;1.0;0;gold coins live;21;0.128284438206;KUIDL-S-E-1A
+0063;0;gold california;3;0.51724137931;0;gold california ehow;6;0.51724137931;KUIDL-S-E-1A
+0063;0;gold california;3;0.51724137931;0;gold california california;13;0.319284802043;KUIDL-S-E-1A
+0063;0;gold california;3;0.51724137931;0;gold california girl;17;0.202839756592;KUIDL-S-E-1A
+0063;0;gold california;3;0.51724137931;0;gold california rush;26;0.0965707041241;KUIDL-S-E-1A
+0063;0;gold california;3;0.51724137931;0;gold california random;29;0.0766283524904;KUIDL-S-E-1A
+0063;0;gold california;3;0.51724137931;0;gold california uses;31;0.0553426990209;KUIDL-S-E-1A
+0063;0;gold california;3;0.51724137931;0;gold california panning;36;0.0143096830047;KUIDL-S-E-1A
+0063;0;gold california;3;0.51724137931;0;gold california prospecting;39;0.000933581292525;KUIDL-S-E-1A
+0063;0;gold standard;2;0.655172413793;0;gold standard standard;2;0.655172413793;KUIDL-S-E-1A
+0063;0;gold standard;2;0.655172413793;0;gold standard bands;4;0.574136904965;KUIDL-S-E-1A
+0063;0;gold standard;2;0.655172413793;0;gold standard periodic;5;0.566216069299;KUIDL-S-E-1A
+0063;0;gold standard;2;0.655172413793;0;gold standard chains;12;0.323844963907;KUIDL-S-E-1A
+0063;0;gold standard;2;0.655172413793;0;gold standard wedding;18;0.193257864224;KUIDL-S-E-1A
+0063;0;gold standard;2;0.655172413793;0;gold standard black;34;0.0292429662971;KUIDL-S-E-1A
+0063;0;gold jewelry;5;0.333333333333;0;gold jewelry palace;10;0.333333333333;KUIDL-S-E-1A
+0063;0;gold jewelry;5;0.333333333333;0;gold jewelry oregon;15;0.229429458577;KUIDL-S-E-1A
+0063;0;gold jewelry;5;0.333333333333;0;gold jewelry yahoo;16;0.210374393335;KUIDL-S-E-1A
+0063;0;gold jewelry;5;0.333333333333;0;gold jewelry jewelers;19;0.165865452025;KUIDL-S-E-1A
+0063;0;gold jewelry;5;0.333333333333;0;gold jewelry summary;20;0.164273429038;KUIDL-S-E-1A
+0063;0;gold jewelry;5;0.333333333333;0;gold jewelry finance;22;0.126567393426;KUIDL-S-E-1A
+0063;0;gold jewelry;5;0.333333333333;0;gold jewelry jewelry;24;0.104166346778;KUIDL-S-E-1A
+0063;0;gold jewelry;5;0.333333333333;0;gold jewelry custom;25;0.0974927663442;KUIDL-S-E-1A
+0063;0;gold jewelry;5;0.333333333333;0;gold jewelry chains;28;0.0873127737316;KUIDL-S-E-1A
+0063;0;gold jewelry;5;0.333333333333;0;gold jewelry rings;38;0.00368349331981;KUIDL-S-E-1A
+0063;0;gold weight;4;0.390804597701;0;gold weight weight;8;0.390804597701;KUIDL-S-E-1A
+0063;0;gold weight;4;0.390804597701;0;gold weight lance;11;0.328884908195;KUIDL-S-E-1A
+0063;0;gold weight;4;0.390804597701;0;gold weight magic;23;0.110344827586;KUIDL-S-E-1A
+0063;0;gold weight;4;0.390804597701;0;gold weight tickets;27;0.0873981191223;KUIDL-S-E-1A
+0063;0;gold weight;4;0.390804597701;0;gold weight vegas;30;0.0755770874893;KUIDL-S-E-1A
+0063;0;gold weight;4;0.390804597701;0;gold weight corporation;32;0.053686288169;KUIDL-S-E-1A
+0063;0;gold weight;4;0.390804597701;0;gold weight coast;33;0.0361736487128;KUIDL-S-E-1A
+0063;0;gold weight;4;0.390804597701;0;gold weight calculator;35;0.0164719293246;KUIDL-S-E-1A
+0063;0;gold weight;4;0.390804597701;0;gold weight conversion;37;0.00835945663532;KUIDL-S-E-1A
+0064;0;owl writing;1;1.0;0;owl writing deviantart;1;1.0;KUIDL-S-E-1A
+0064;0;owl writing;1;1.0;0;owl writing writing;4;0.677419354839;KUIDL-S-E-1A
+0064;0;owl writing;1;1.0;0;owl writing lab;23;0.0537634408602;KUIDL-S-E-1A
+0064;0;owl writing;1;1.0;0;owl writing college;29;0.0120967741935;KUIDL-S-E-1A
+0064;0;owl pictures;2;0.821917808219;0;owl pictures coloring;2;0.821917808219;KUIDL-S-E-1A
+0064;0;owl pictures;2;0.821917808219;0;owl pictures lyrics;5;0.594884567487;KUIDL-S-E-1A
+0064;0;owl pictures;2;0.821917808219;0;owl pictures definition;8;0.484435963888;KUIDL-S-E-1A
+0064;0;owl pictures;2;0.821917808219;0;owl pictures city;9;0.454920855044;KUIDL-S-E-1A
+0064;0;owl pictures;2;0.821917808219;0;owl pictures pictures;10;0.444406269489;KUIDL-S-E-1A
+0064;0;owl pictures;2;0.821917808219;0;owl pictures learning;20;0.082054220349;KUIDL-S-E-1A
+0064;0;owl pictures;2;0.821917808219;0;owl pictures reading;26;0.0385162021691;KUIDL-S-E-1A
+0064;0;owl owls;3;0.72602739726;0;owl owls minnesota;3;0.72602739726;KUIDL-S-E-1A
+0064;0;owl owls;3;0.72602739726;0;owl owls owls;11;0.370624058718;KUIDL-S-E-1A
+0064;0;owl owls;3;0.72602739726;0;owl owls facts;13;0.257645677211;KUIDL-S-E-1A
+0064;0;owl owls;3;0.72602739726;0;owl owls burrowing;15;0.240816302777;KUIDL-S-E-1A
+0064;0;owl owls;3;0.72602739726;0;owl owls snowy;21;0.0790144086524;KUIDL-S-E-1A
+0064;0;owl owls;3;0.72602739726;0;owl owls animals;22;0.068245961481;KUIDL-S-E-1A
+0064;0;owl owls;3;0.72602739726;0;owl owls barred;24;0.0496141635758;KUIDL-S-E-1A
+0064;0;owl owls;3;0.72602739726;0;owl owls information;30;9.2200002549e-05;KUIDL-S-E-1A
+0064;0;owl owls;3;0.72602739726;0;owl owls birds;31;6.0350287227e-05;KUIDL-S-E-1A
+0064;0;owl wiki;4;0.575342465753;0;owl wiki knowledgebase;6;0.575342465753;KUIDL-S-E-1A
+0064;0;owl wiki;4;0.575342465753;0;owl wiki intranet;7;0.493150684932;KUIDL-S-E-1A
+0064;0;owl wiki;4;0.575342465753;0;owl wiki wiki;16;0.147945205479;KUIDL-S-E-1A
+0064;0;owl wiki;4;0.575342465753;0;owl wiki bible;17;0.147945205479;KUIDL-S-E-1A
+0064;0;owl wiki;4;0.575342465753;0;owl wiki domain;19;0.0896637608966;KUIDL-S-E-1A
+0064;0;owl barred;5;0.356164383562;0;owl barred photobucket;12;0.356164383562;KUIDL-S-E-1A
+0064;0;owl barred;5;0.356164383562;0;owl barred owlcam;14;0.243562800652;KUIDL-S-E-1A
+0064;0;owl barred;5;0.356164383562;0;owl barred barred;18;0.0954162280602;KUIDL-S-E-1A
+0064;0;owl barred;5;0.356164383562;0;owl barred center;25;0.0411548850522;KUIDL-S-E-1A
+0064;0;owl barred;5;0.356164383562;0;owl barred cute;27;0.0295123344073;KUIDL-S-E-1A
+0064;0;owl barred;5;0.356164383562;0;owl barred pictures;28;0.019369950631;KUIDL-S-E-1A
+0064;0;owl barred;5;0.356164383562;0;owl barred nature;32;5.98940261343e-05;KUIDL-S-E-1A
+0065;0;adobe groups;1;1.0;0;adobe groups definition;1;1.0;KUIDL-S-E-1A
+0065;0;adobe groups;1;1.0;0;adobe groups summary;1;1.0;KUIDL-S-E-1A
+0065;0;adobe groups;1;1.0;0;adobe groups groups;16;0.108552851229;KUIDL-S-E-1A
+0065;0;adobe softonic;2;0.984615384615;0;adobe softonic player;2;0.984615384615;KUIDL-S-E-1A
+0065;0;adobe softonic;2;0.984615384615;0;adobe softonic raw;14;0.182597659911;KUIDL-S-E-1A
+0065;0;adobe softonic;2;0.984615384615;0;adobe softonic cc;23;0.0013818377041;KUIDL-S-E-1A
+0065;0;adobe reader;3;0.8;0;adobe reader softpedia;3;0.8;KUIDL-S-E-1A
+0065;0;adobe reader;3;0.8;0;adobe reader pdf;5;0.653184323235;KUIDL-S-E-1A
+0065;0;adobe reader;3;0.8;0;adobe reader informer;7;0.54192444878;KUIDL-S-E-1A
+0065;0;adobe reader;3;0.8;0;adobe reader reader;9;0.419024281577;KUIDL-S-E-1A
+0065;0;adobe reader;3;0.8;0;adobe reader stock;9;0.419024281577;KUIDL-S-E-1A
+0065;0;adobe building;4;0.784615384615;0;adobe building kits;4;0.784615384615;KUIDL-S-E-1A
+0065;0;adobe building;4;0.784615384615;0;adobe building building;6;0.614457831325;KUIDL-S-E-1A
+0065;0;adobe building;4;0.784615384615;0;adobe building tucson;10;0.349012048193;KUIDL-S-E-1A
+0065;0;adobe building;4;0.784615384615;0;adobe building mud;17;0.0848124893942;KUIDL-S-E-1A
+0065;0;adobe building;4;0.784615384615;0;adobe building house;19;0.0307228915663;KUIDL-S-E-1A
+0065;0;adobe building;4;0.784615384615;0;adobe building clay;20;0.0228326584775;KUIDL-S-E-1A
+0065;0;adobe building;4;0.784615384615;0;adobe building homes;22;0.00384036144578;KUIDL-S-E-1A
+0065;0;adobe building;4;0.784615384615;0;adobe building construction;24;0.000877796901893;KUIDL-S-E-1A
+0065;0;adobe building;4;0.784615384615;0;adobe building brick;25;0.00053199812236;KUIDL-S-E-1A
+0065;0;adobe training;5;0.538461538462;0;adobe training peachpit;8;0.538461538462;KUIDL-S-E-1A
+0065;0;adobe training;5;0.538461538462;0;adobe training revel;11;0.346153846154;KUIDL-S-E-1A
+0065;0;adobe training;5;0.538461538462;0;adobe training translation;12;0.324300699301;KUIDL-S-E-1A
+0065;0;adobe training;5;0.538461538462;0;adobe training training;13;0.210685025034;KUIDL-S-E-1A
+0065;0;adobe training;5;0.538461538462;0;adobe training labs;15;0.147077216632;KUIDL-S-E-1A
+0065;0;adobe training;5;0.538461538462;0;adobe training cs6;18;0.0730959998929;KUIDL-S-E-1A
+0065;0;adobe training;5;0.538461538462;0;adobe training cs4;21;0.00778942744334;KUIDL-S-E-1A
+0066;0;legend definition;1;1.0;0;legend definition shirts;1;1.0;KUIDL-S-E-1A
+0066;0;legend definition;1;1.0;0;legend definition drug;2;0.851891707479;KUIDL-S-E-1A
+0066;0;legend definition;1;1.0;0;legend definition homes;4;0.51355661882;KUIDL-S-E-1A
+0066;0;legend definition;1;1.0;0;legend definition definition;23;0.0149711738253;KUIDL-S-E-1A
+0066;0;legend carnival;2;0.65671641791;0;legend carnival galapagos;3;0.65671641791;KUIDL-S-E-1A
+0066;0;legend carnival;2;0.65671641791;0;legend carnival carnival;9;0.383084577114;KUIDL-S-E-1A
+0066;0;legend lyrics;3;0.492537313433;0;legend lyrics quackit;5;0.492537313433;KUIDL-S-E-1A
+0066;0;legend lyrics;3;0.492537313433;0;legend lyrics tal;8;0.406538734897;KUIDL-S-E-1A
+0066;0;legend lyrics;3;0.492537313433;0;legend lyrics lyrics;14;0.234541577825;KUIDL-S-E-1A
+0066;0;legend acura;4;0.462686567164;0;legend acura cellular;6;0.462686567164;KUIDL-S-E-1A
+0066;0;legend acura;4;0.462686567164;0;legend acura windsor;6;0.462686567164;KUIDL-S-E-1A
+0066;0;legend acura;4;0.462686567164;0;legend acura acura;12;0.269900497512;KUIDL-S-E-1A
+0066;0;legend acura;4;0.462686567164;0;legend acura pvc;17;0.119955776672;KUIDL-S-E-1A
+0066;0;legend acura;4;0.462686567164;0;legend acura vw;19;0.101212686567;KUIDL-S-E-1A
+0066;0;legend acura;4;0.462686567164;0;legend acura rl;22;0.0168687810945;KUIDL-S-E-1A
+0066;0;legend games;5;0.44776119403;0;legend games patches;7;0.44776119403;KUIDL-S-E-1A
+0066;0;legend games;5;0.44776119403;0;legend games games;10;0.308337777604;KUIDL-S-E-1A
+0066;0;legend games;5;0.44776119403;0;legend games wedding;11;0.279330899681;KUIDL-S-E-1A
+0066;0;legend games;5;0.44776119403;0;legend games tx;13;0.244575442117;KUIDL-S-E-1A
+0066;0;legend games;5;0.44776119403;0;legend games lyrics;15;0.159335909204;KUIDL-S-E-1A
+0066;0;legend games;5;0.44776119403;0;legend games trailers;16;0.120691741515;KUIDL-S-E-1A
+0066;0;legend games;5;0.44776119403;0;legend games series;18;0.101845933178;KUIDL-S-E-1A
+0066;0;legend games;5;0.44776119403;0;legend games kids;20;0.0660104126939;KUIDL-S-E-1A
+0066;0;legend games;5;0.44776119403;0;legend games east;21;0.0333909004579;KUIDL-S-E-1A
+0067;0;beijing subways line;1;1.0;0;beijing subways line wiki;1;1.0;KUIDL-S-E-1A
+0067;0;beijing subways line;1;1.0;0;beijing subways line line;5;0.505300365984;KUIDL-S-E-1A
+0067;0;beijing subways line;1;1.0;0;beijing subways line internet;9;0.362033435153;KUIDL-S-E-1A
+0067;0;beijing subways line;1;1.0;0;beijing subways line wikipedia;11;0.314597340701;KUIDL-S-E-1A
+0067;0;beijing subways line;1;1.0;0;beijing subways line full;15;0.236931909745;KUIDL-S-E-1A
+0067;0;beijing subways line;1;1.0;0;beijing subways line express;22;0.0453780955705;KUIDL-S-E-1A
+0067;0;beijing subways line;1;1.0;0;beijing subways line map;25;0.0241469459117;KUIDL-S-E-1A
+0067;0;beijing subways line;1;1.0;0;beijing subways line railway;27;0.00862221345332;KUIDL-S-E-1A
+0067;0;beijing subways line;1;1.0;0;beijing subways line metro;31;0.00355621069762;KUIDL-S-E-1A
+0067;0;beijing subways line;1;1.0;0;beijing subways line airport;32;0.000254135975463;KUIDL-S-E-1A
+0067;0;beijing subways video;2;0.845070422535;0;beijing subways video video;2;0.845070422535;KUIDL-S-E-1A
+0067;0;beijing subways video;2;0.845070422535;0;beijing subways video rush;7;0.453669384729;KUIDL-S-E-1A
+0067;0;beijing subways video;2;0.845070422535;0;beijing subways video viral;12;0.313967635295;KUIDL-S-E-1A
+0067;0;beijing subways video;2;0.845070422535;0;beijing subways video hour;13;0.285926082813;KUIDL-S-E-1A
+0067;0;beijing subways video;2;0.845070422535;0;beijing subways video subways;20;0.0667160859896;KUIDL-S-E-1A
+0067;0;beijing subways video;2;0.845070422535;0;beijing subways video four;29;0.00448434597187;KUIDL-S-E-1A
+0067;0;beijing subways map;3;0.661971830986;0;beijing subways map city;3;0.661971830986;KUIDL-S-E-1A
+0067;0;beijing subways map;3;0.661971830986;0;beijing subways map map;18;0.113396471829;KUIDL-S-E-1A
+0067;0;beijing subways map;3;0.661971830986;0;beijing subways map travel;19;0.0849236575403;KUIDL-S-E-1A
+0067;0;beijing subways map;3;0.661971830986;0;beijing subways map tours;21;0.0613425274261;KUIDL-S-E-1A
+0067;0;beijing subways map;3;0.661971830986;0;beijing subways map tour;24;0.024501537031;KUIDL-S-E-1A
+0067;0;beijing subways map;3;0.661971830986;0;beijing subways map transportation;28;0.00698433924627;KUIDL-S-E-1A
+0067;0;beijing subways map;3;0.661971830986;0;beijing subways map metro;30;0.00430700807142;KUIDL-S-E-1A
+0067;0;beijing subways map;3;0.661971830986;0;beijing subways map system;33;3.48983020073e-05;KUIDL-S-E-1A
+0067;0;beijing subways map;3;0.661971830986;0;beijing subways map guide;34;8.42946571013e-07;KUIDL-S-E-1A
+0067;0;beijing subways surfers;4;0.56338028169;0;beijing subways surfers download;4;0.56338028169;KUIDL-S-E-1A
+0067;0;beijing subways surfers;4;0.56338028169;0;beijing subways surfers unlimited;8;0.401776657112;KUIDL-S-E-1A
+0067;0;beijing subways surfers;4;0.56338028169;0;beijing subways surfers android;10;0.345337372247;KUIDL-S-E-1A
+0067;0;beijing subways surfers;4;0.56338028169;0;beijing subways surfers apk;14;0.270986052052;KUIDL-S-E-1A
+0067;0;beijing subways surfers;4;0.56338028169;0;beijing subways surfers hack;16;0.193150988948;KUIDL-S-E-1A
+0067;0;beijing subways surfers;4;0.56338028169;0;beijing subways surfers game;17;0.188949892639;KUIDL-S-E-1A
+0067;0;beijing subways surfers;4;0.56338028169;0;beijing subways surfers coins;23;0.0382800227662;KUIDL-S-E-1A
+0067;0;beijing subways surfers;4;0.56338028169;0;beijing subways surfers surfers;26;0.0146433695419;KUIDL-S-E-1A
+0067;0;beijing subways allo;5;0.464788732394;0;beijing subways allo;6;0.464788732394;KUIDL-S-E-1A
+0068;0;camera digital;1;1.0;0;camera digital camera;1;1.0;KUIDL-S-E-1A
+0068;0;camera digital;1;1.0;0;camera digital rentals;2;0.395383800069;KUIDL-S-E-1A
+0068;0;camera digital;1;1.0;0;camera digital iso;3;0.378847679712;KUIDL-S-E-1A
+0068;0;camera digital;1;1.0;0;camera digital repair;5;0.276515399008;KUIDL-S-E-1A
+0068;0;camera digital;1;1.0;0;camera digital cameras;14;0.183830700419;KUIDL-S-E-1A
+0068;0;camera digital;1;1.0;0;camera digital digital;16;0.135977906276;KUIDL-S-E-1A
+0068;0;camera digital;1;1.0;0;camera digital world;18;0.13032624593;KUIDL-S-E-1A
+0068;0;camera digital;1;1.0;0;camera digital home;21;0.0944956656087;KUIDL-S-E-1A
+0068;0;camera digital;1;1.0;0;camera digital buy;25;0.0460448108588;KUIDL-S-E-1A
+0068;0;camera digital;1;1.0;0;camera digital accessories;33;0.00171337191409;KUIDL-S-E-1A
+0068;0;camera security;2;0.349514563107;0;camera security systems;4;0.349514563107;KUIDL-S-E-1A
+0068;0;camera security;2;0.349514563107;0;camera security security;20;0.105358442812;KUIDL-S-E-1A
+0068;0;camera security;2;0.349514563107;0;camera security spy;24;0.0518289864048;KUIDL-S-E-1A
+0068;0;camera security;2;0.349514563107;0;camera security car;29;0.0266177143208;KUIDL-S-E-1A
+0068;0;camera security;2;0.349514563107;0;camera security surveillance;31;0.0131959298201;KUIDL-S-E-1A
+0068;0;camera security;2;0.349514563107;0;camera security cctv;34;3.87939762245e-05;KUIDL-S-E-1A
+0068;0;camera security;2;0.349514563107;0;camera security ip;35;1.26149405696e-07;KUIDL-S-E-1A
+0068;0;camera art;4;0.252427184466;0;camera art lakevision;7;0.252427184466;KUIDL-S-E-1A
+0068;0;camera art;4;0.252427184466;0;camera art clipart;17;0.13239370606;KUIDL-S-E-1A
+0068;0;camera art;4;0.252427184466;0;camera art art;22;0.080571364803;KUIDL-S-E-1A
+0068;0;camera art;4;0.252427184466;0;camera art clip;26;0.0360539611042;KUIDL-S-E-1A
+0068;0;camera art;4;0.252427184466;0;camera art canada;28;0.0269987148612;KUIDL-S-E-1A
+0068;0;camera art;4;0.252427184466;0;camera art graphics;30;0.0252775359893;KUIDL-S-E-1A
+0068;0;camera home;3;0.26213592233;0;camera home cinemas;6;0.26213592233;KUIDL-S-E-1A
+0068;0;camera home;3;0.26213592233;0;camera home vector;8;0.241729507172;KUIDL-S-E-1A
+0068;0;camera home;3;0.26213592233;0;camera home clipart;9;0.235331220033;KUIDL-S-E-1A
+0068;0;camera home;3;0.26213592233;0;camera home rf;9;0.235331220033;KUIDL-S-E-1A
+0068;0;camera home;3;0.26213592233;0;camera home shops;11;0.223387750707;KUIDL-S-E-1A
+0068;0;camera home;3;0.26213592233;0;camera home illustrations;12;0.212460746855;KUIDL-S-E-1A
+0068;0;camera home;3;0.26213592233;0;camera home database;13;0.189879255508;KUIDL-S-E-1A
+0068;0;camera home;3;0.26213592233;0;camera home home;23;0.0760873322436;KUIDL-S-E-1A
+0068;0;camera home;3;0.26213592233;0;camera home page;27;0.0343435927951;KUIDL-S-E-1A
+0068;0;camera home;3;0.26213592233;0;camera home video;32;0.0115865429946;KUIDL-S-E-1A
+0068;0;camera trail;5;0.233009708738;0;camera trail cyberinfrastructure;10;0.233009708738;KUIDL-S-E-1A
+0068;0;camera trail;5;0.233009708738;0;camera trail coloring;15;0.153348269853;KUIDL-S-E-1A
+0068;0;camera trail;5;0.233009708738;0;camera trail trail;19;0.125466766243;KUIDL-S-E-1A
+0069;0;free dvd burner burn;1;1.0;0;free dvd burner burn dvd;1;1.0;KUIDL-S-E-1A
+0069;0;free dvd burner burn;1;1.0;0;free dvd burner burn burn;5;0.681847627304;KUIDL-S-E-1A
+0069;0;free dvd burner burn;1;1.0;0;free dvd burner burn video;8;0.400778688666;KUIDL-S-E-1A
+0069;0;free dvd burner burn;1;1.0;0;free dvd burner burn burner;11;0.363540868328;KUIDL-S-E-1A
+0069;0;free dvd burner burn;1;1.0;0;free dvd burner burn creator;24;0.0518355333733;KUIDL-S-E-1A
+0069;0;free dvd burner burn;1;1.0;0;free dvd burner burn avi;29;0.00601062114834;KUIDL-S-E-1A
+0069;0;free dvd burner burn;1;1.0;0;free dvd burner burn movie;31;0.00529333008527;KUIDL-S-E-1A
+0069;0;free dvd burner burn;1;1.0;0;free dvd burner burn best;32;0.00176453382755;KUIDL-S-E-1A
+0069;0;free dvd burner burn;1;1.0;0;free dvd burner burn convert;33;0.000985620761131;KUIDL-S-E-1A
+0069;0;free dvd burner burn;1;1.0;0;free dvd burner burn converter;34;0.000113585383854;KUIDL-S-E-1A
+0069;0;free dvd burner burning;2;0.990196078431;0;free dvd burner burning free;2;0.990196078431;KUIDL-S-E-1A
+0069;0;free dvd burner burning;2;0.990196078431;0;free dvd burner burning software;3;0.914287437087;KUIDL-S-E-1A
+0069;0;free dvd burner burning;2;0.990196078431;0;free dvd burner burning burning;4;0.804588115273;KUIDL-S-E-1A
+0069;0;free dvd burner burning;2;0.990196078431;0;free dvd burner burning download;6;0.542761874076;KUIDL-S-E-1A
+0069;0;free dvd burner burning;2;0.990196078431;0;free dvd burner burning cd;9;0.387035156284;KUIDL-S-E-1A
+0069;0;free dvd burner burning;2;0.990196078431;0;free dvd burner burning windows;12;0.339702504386;KUIDL-S-E-1A
+0069;0;free dvd burner burning;2;0.990196078431;0;free dvd burner burning burner;13;0.284680209447;KUIDL-S-E-1A
+0069;0;free dvd burner burning;2;0.990196078431;0;free dvd burner burning easy;22;0.0762089020681;KUIDL-S-E-1A
+0069;0;free dvd burner burning;2;0.990196078431;0;free dvd burner burning iso;27;0.013812323323;KUIDL-S-E-1A
+0069;0;free dvd burner burning;2;0.990196078431;0;free dvd burner burning best;30;0.00531074190564;KUIDL-S-E-1A
+0069;0;free dvd burner mac;4;0.382352941176;0;free dvd burner mac top;10;0.382352941176;KUIDL-S-E-1A
+0069;0;free dvd burner mac;4;0.382352941176;0;free dvd burner mac mac;14;0.235024679583;KUIDL-S-E-1A
+0069;0;free dvd burner mac;4;0.382352941176;0;free dvd burner mac microsoft;28;0.0119462326216;KUIDL-S-E-1A
+0069;0;free dvd burner brothersoft;3;0.480392156863;0;free dvd burner brothersoft brothersoft;7;0.480392156863;KUIDL-S-E-1A
+0069;0;free dvd burner download;5;0.225490196078;0;free dvd burner download cnet;15;0.225490196078;KUIDL-S-E-1A
+0069;0;free dvd burner download;5;0.225490196078;0;free dvd burner download afreecodec;16;0.211205718589;KUIDL-S-E-1A
+0069;0;free dvd burner download;5;0.225490196078;0;free dvd burner download watermark;17;0.206728465166;KUIDL-S-E-1A
+0069;0;free dvd burner download;5;0.225490196078;0;free dvd burner download sonic;18;0.206062186331;KUIDL-S-E-1A
+0069;0;free dvd burner download;5;0.225490196078;0;free dvd burner download cyberlink;19;0.200843851682;KUIDL-S-E-1A
+0069;0;free dvd burner download;5;0.225490196078;0;free dvd burner download roxio;20;0.166919047639;KUIDL-S-E-1A
+0069;0;free dvd burner download;5;0.225490196078;0;free dvd burner download free;21;0.078927328388;KUIDL-S-E-1A
+0069;0;free dvd burner download;5;0.225490196078;0;free dvd burner download download;23;0.0558156788097;KUIDL-S-E-1A
+0069;0;free dvd burner download;5;0.225490196078;0;free dvd burner download windows;25;0.0249010788947;KUIDL-S-E-1A
+0069;0;free dvd burner download;5;0.225490196078;0;free dvd burner download without;26;0.015696978069;KUIDL-S-E-1A
+0070;0;lost season 5 episode;1;1.0;0;lost season 5 episode satellite;1;1.0;KUIDL-S-E-1A
+0070;0;lost season 5 episode;1;1.0;0;lost season 5 episode greek;3;0.823257391431;KUIDL-S-E-1A
+0070;0;lost season 5 episode;1;1.0;0;lost season 5 episode subtitles;5;0.770936649528;KUIDL-S-E-1A
+0070;0;lost season 5 episode;1;1.0;0;lost season 5 episode download;16;0.267219451365;KUIDL-S-E-1A
+0070;0;lost season 5 episode;1;1.0;0;lost season 5 episode episode;18;0.202746949122;KUIDL-S-E-1A
+0070;0;lost season 5 episode;1;1.0;0;lost season 5 episode tv;20;0.126060059998;KUIDL-S-E-1A
+0070;0;lost season 5 episode;1;1.0;0;lost season 5 episode 2009;30;0.054746305933;KUIDL-S-E-1A
+0070;0;lost season 5 episode;1;1.0;0;lost season 5 episode dead;31;0.0507702304427;KUIDL-S-E-1A
+0070;0;lost season 5 episode;1;1.0;0;lost season 5 episode watch;39;0.00216828982838;KUIDL-S-E-1A
+0070;0;lost season 5 dvd;2;0.921875;0;lost season 5 dvd complete;2;0.921875;KUIDL-S-E-1A
+0070;0;lost season 5 dvd;2;0.921875;0;lost season 5 dvd dvd;6;0.69612590799;KUIDL-S-E-1A
+0070;0;lost season 5 dvd;2;0.921875;0;lost season 5 dvd 5th;7;0.6105617534;KUIDL-S-E-1A
+0070;0;lost season 5 dvd;2;0.921875;0;lost season 5 dvd trailer;17;0.206703925589;KUIDL-S-E-1A
+0070;0;lost season 5 dvd;2;0.921875;0;lost season 5 dvd date;27;0.0733810459259;KUIDL-S-E-1A
+0070;0;lost season 5 dvd;2;0.921875;0;lost season 5 dvd review;29;0.0551575587413;KUIDL-S-E-1A
+0070;0;lost season 5 dvd;2;0.921875;0;lost season 5 dvd five;37;0.00353609012053;KUIDL-S-E-1A
+0070;0;lost season 5 watch;3;0.796875;0;lost season 5 watch tv;4;0.796875;KUIDL-S-E-1A
+0070;0;lost season 5 watch;3;0.796875;0;lost season 5 watch episode;8;0.518267214042;KUIDL-S-E-1A
+0070;0;lost season 5 watch;3;0.796875;0;lost season 5 watch nowtorrents;9;0.516300210079;KUIDL-S-E-1A
+0070;0;lost season 5 watch;3;0.796875;0;lost season 5 watch streaming;14;0.316889128773;KUIDL-S-E-1A
+0070;0;lost season 5 watch;3;0.796875;0;lost season 5 watch watch;22;0.10737321484;KUIDL-S-E-1A
+0070;0;lost season 5 watch;3;0.796875;0;lost season 5 watch girl;25;0.0818978282473;KUIDL-S-E-1A
+0070;0;lost season 5 watch;3;0.796875;0;lost season 5 watch free;34;0.0151729045019;KUIDL-S-E-1A
+0070;0;lost season 5 watch;3;0.796875;0;lost season 5 watch 14;36;0.00923297887151;KUIDL-S-E-1A
+0070;0;lost season 5 watch;3;0.796875;0;lost season 5 watch online;38;0.00239548493254;KUIDL-S-E-1A
+0070;0;lost season 5 watch;3;0.796875;0;lost season 5 watch full;40;0.00213875780844;KUIDL-S-E-1A
+0070;0;lost season 5 download;5;0.40625;0;lost season 5 download isaacs;11;0.40625;KUIDL-S-E-1A
+0070;0;lost season 5 download;5;0.40625;0;lost season 5 download torrentz;12;0.403579206391;KUIDL-S-E-1A
+0070;0;lost season 5 download;5;0.40625;0;lost season 5 download topic;15;0.307609031859;KUIDL-S-E-1A
+0070;0;lost season 5 download;5;0.40625;0;lost season 5 download jason;19;0.20139884535;KUIDL-S-E-1A
+0070;0;lost season 5 download;5;0.40625;0;lost season 5 download girls;24;0.0893942563597;KUIDL-S-E-1A
+0070;0;lost season 5 download;5;0.40625;0;lost season 5 download torrent;26;0.0818594819607;KUIDL-S-E-1A
+0070;0;lost season 5 download;5;0.40625;0;lost season 5 download download;28;0.0627551438482;KUIDL-S-E-1A
+0070;0;lost season 5 download;5;0.40625;0;lost season 5 download files;33;0.0241047645986;KUIDL-S-E-1A
+0070;0;lost season 5 2010;4;0.4375;0;lost season 5 2010 locatetv;10;0.4375;KUIDL-S-E-1A
+0070;0;lost season 5 2010;4;0.4375;0;lost season 5 2010 2010;13;0.323403776978;KUIDL-S-E-1A
+0070;0;lost season 5 2010;4;0.4375;0;lost season 5 2010 references;21;0.111510791367;KUIDL-S-E-1A
+0070;0;lost season 5 2010;4;0.4375;0;lost season 5 2010 ipod;23;0.100172036284;KUIDL-S-E-1A
+0070;0;lost season 5 2010;4;0.4375;0;lost season 5 2010 itunes;32;0.0396135951408;KUIDL-S-E-1A
+0070;0;lost season 5 2010;4;0.4375;0;lost season 5 2010 soundtrack;35;0.0122713270062;KUIDL-S-E-1A
+0070;0;lost season 5 2010;4;0.4375;0;lost season 5 2010 download;41;9.99273868897e-05;KUIDL-S-E-1A
+0071;0;mobile phones deals;1;1.0;0;mobile phones deals buy;1;1.0;KUIDL-S-E-1A
+0071;0;mobile phones deals;1;1.0;0;mobile phones deals deals;20;0.0433691331796;KUIDL-S-E-1A
+0071;0;mobile phones deals;1;1.0;0;mobile phones deals accessories;23;0.0180871318789;KUIDL-S-E-1A
+0071;0;mobile phones reviews;3;0.911111111111;0;mobile phones reviews zedge;4;0.911111111111;KUIDL-S-E-1A
+0071;0;mobile phones reviews;3;0.911111111111;0;mobile phones reviews google;5;0.901910298556;KUIDL-S-E-1A
+0071;0;mobile phones reviews;3;0.911111111111;0;mobile phones reviews asia;10;0.380149416525;KUIDL-S-E-1A
+0071;0;mobile phones reviews;3;0.911111111111;0;mobile phones reviews reviews;13;0.300994454188;KUIDL-S-E-1A
+0071;0;mobile phones reviews;3;0.911111111111;0;mobile phones reviews unlock;14;0.249538507318;KUIDL-S-E-1A
+0071;0;mobile phones reviews;3;0.911111111111;0;mobile phones reviews 2013;29;0.00110558109895;KUIDL-S-E-1A
+0071;0;mobile phones virgin;2;0.977777777778;0;mobile phones virgin zopo;2;0.977777777778;KUIDL-S-E-1A
+0071;0;mobile phones virgin;2;0.977777777778;0;mobile phones virgin virgin;11;0.370122275385;KUIDL-S-E-1A
+0071;0;mobile phones virgin;2;0.977777777778;0;mobile phones virgin broadband;16;0.160822802928;KUIDL-S-E-1A
+0071;0;mobile phones virgin;2;0.977777777778;0;mobile phones virgin australia;18;0.0946377242541;KUIDL-S-E-1A
+0071;0;mobile phones virgin;2;0.977777777778;0;mobile phones virgin prepaid;24;0.0145879851143;KUIDL-S-E-1A
+0071;0;mobile phones phone;2;0.977777777778;0;mobile phones phone yahoo;2;0.977777777778;KUIDL-S-E-1A
+0071;0;mobile phones phone;2;0.977777777778;0;mobile phones phone spain;3;0.953584667052;KUIDL-S-E-1A
+0071;0;mobile phones phone;2;0.977777777778;0;mobile phones phone mail;6;0.87370516056;KUIDL-S-E-1A
+0071;0;mobile phones phone;2;0.977777777778;0;mobile phones phone japan;7;0.805069352347;KUIDL-S-E-1A
+0071;0;mobile phones phone;2;0.977777777778;0;mobile phones phone market;9;0.458708074869;KUIDL-S-E-1A
+0071;0;mobile phones phone;2;0.977777777778;0;mobile phones phone deals;12;0.303672335667;KUIDL-S-E-1A
+0071;0;mobile phones phone;2;0.977777777778;0;mobile phones phone phone;15;0.185592120156;KUIDL-S-E-1A
+0071;0;mobile phones phone;2;0.977777777778;0;mobile phones phone cell;17;0.103515986488;KUIDL-S-E-1A
+0071;0;mobile phones phone;2;0.977777777778;0;mobile phones phone free;30;0.00102941682073;KUIDL-S-E-1A
+0071;0;mobile phones cell;4;0.8;0;mobile phones cell phones;8;0.8;KUIDL-S-E-1A
+0071;0;mobile phones cell;4;0.8;0;mobile phones cell detection;19;0.0658229316743;KUIDL-S-E-1A
+0071;0;mobile phones cell;4;0.8;0;mobile phones cell free;21;0.0316744504074;KUIDL-S-E-1A
+0071;0;mobile phones cell;4;0.8;0;mobile phones cell watch;22;0.0181423041132;KUIDL-S-E-1A
+0071;0;mobile phones cell;4;0.8;0;mobile phones cell android;25;0.0123145833196;KUIDL-S-E-1A
+0071;0;mobile phones cell;4;0.8;0;mobile phones cell calls;26;0.0109401526171;KUIDL-S-E-1A
+0071;0;mobile phones cell;4;0.8;0;mobile phones cell used;27;0.00743991897866;KUIDL-S-E-1A
+0071;0;mobile phones cell;4;0.8;0;mobile phones cell cell;28;0.00510817048899;KUIDL-S-E-1A
+0071;0;mobile phones cell;4;0.8;0;mobile phones cell 4g;31;1.4605591471e-05;KUIDL-S-E-1A
+0072;0;programming languages languages;1;1.0;0;programming languages languages history;1;1.0;KUIDL-S-E-1A
+0072;0;programming languages languages;1;1.0;0;programming languages languages top;3;0.393234271592;KUIDL-S-E-1A
+0072;0;programming languages languages;1;1.0;0;programming languages languages 10;6;0.328856851765;KUIDL-S-E-1A
+0072;0;programming languages languages;1;1.0;0;programming languages languages language;11;0.248807964343;KUIDL-S-E-1A
+0072;0;programming languages languages;1;1.0;0;programming languages languages languages;12;0.245889748522;KUIDL-S-E-1A
+0072;0;programming languages languages;1;1.0;0;programming languages languages popular;14;0.239306928073;KUIDL-S-E-1A
+0072;0;programming languages languages;1;1.0;0;programming languages languages best;15;0.212134406211;KUIDL-S-E-1A
+0072;0;programming languages languages;1;1.0;0;programming languages languages learn;20;0.13841928072;KUIDL-S-E-1A
+0072;0;programming languages languages;1;1.0;0;programming languages languages basic;25;0.104604790897;KUIDL-S-E-1A
+0072;0;programming languages languages;1;1.0;0;programming languages languages computer;33;0.0160031533447;KUIDL-S-E-1A
+0072;0;programming languages language;2;0.560975609756;0;programming languages language programing;2;0.560975609756;KUIDL-S-E-1A
+0072;0;programming languages language;2;0.560975609756;0;programming languages language definition;4;0.360319018323;KUIDL-S-E-1A
+0072;0;programming languages language;2;0.560975609756;0;programming languages language university;5;0.343034149404;KUIDL-S-E-1A
+0072;0;programming languages language;2;0.560975609756;0;programming languages language books;10;0.269796545518;KUIDL-S-E-1A
+0072;0;programming languages language;2;0.560975609756;0;programming languages language science;17;0.189400975137;KUIDL-S-E-1A
+0072;0;programming languages language;2;0.560975609756;0;programming languages language language;22;0.118142144054;KUIDL-S-E-1A
+0072;0;programming languages language;2;0.560975609756;0;programming languages language languages;28;0.0709516265218;KUIDL-S-E-1A
+0072;0;programming languages language;2;0.560975609756;0;programming languages language computer;35;0.00186849076403;KUIDL-S-E-1A
+0072;0;programming languages language;2;0.560975609756;0;programming languages language used;36;0.00118990869172;KUIDL-S-E-1A
+0072;0;programming languages best;3;0.325203252033;0;programming languages best quora;7;0.325203252033;KUIDL-S-E-1A
+0072;0;programming languages best;3;0.325203252033;0;programming languages best learn;9;0.299073698512;KUIDL-S-E-1A
+0072;0;programming languages best;3;0.325203252033;0;programming languages best geek;13;0.245689838433;KUIDL-S-E-1A
+0072;0;programming languages best;3;0.325203252033;0;programming languages best best;16;0.208585926434;KUIDL-S-E-1A
+0072;0;programming languages best;3;0.325203252033;0;programming languages best trends;23;0.116785080277;KUIDL-S-E-1A
+0072;0;programming languages best;3;0.325203252033;0;programming languages best popular;27;0.0800526229187;KUIDL-S-E-1A
+0072;0;programming languages best;3;0.325203252033;0;programming languages best top;32;0.0310817639721;KUIDL-S-E-1A
+0072;0;programming languages list;3;0.325203252033;0;programming languages list howstuffworks;7;0.325203252033;KUIDL-S-E-1A
+0072;0;programming languages list;3;0.325203252033;0;programming languages list buzzle;8;0.316200825407;KUIDL-S-E-1A
+0072;0;programming languages list;3;0.325203252033;0;programming languages list list;19;0.155389014016;KUIDL-S-E-1A
+0072;0;programming languages list;3;0.325203252033;0;programming languages list alphabetical;24;0.109301150006;KUIDL-S-E-1A
+0072;0;programming languages list;3;0.325203252033;0;programming languages list define;30;0.0480293698089;KUIDL-S-E-1A
+0072;0;programming languages list;3;0.325203252033;0;programming languages list order;38;7.96167561909e-05;KUIDL-S-E-1A
+0072;0;programming languages web;4;0.162601626016;0;programming languages web web;18;0.162601626016;KUIDL-S-E-1A
+0072;0;programming languages web;4;0.162601626016;0;programming languages web github;21;0.11876754296;KUIDL-S-E-1A
+0072;0;programming languages web;4;0.162601626016;0;programming languages web opinions;26;0.0985921551393;KUIDL-S-E-1A
+0072;0;programming languages web;4;0.162601626016;0;programming languages web space;29;0.0488758702301;KUIDL-S-E-1A
+0072;0;programming languages web;4;0.162601626016;0;programming languages web mysql;31;0.0399747645438;KUIDL-S-E-1A
+0072;0;programming languages web;4;0.162601626016;0;programming languages web top;34;0.00212960511255;KUIDL-S-E-1A
+0072;0;programming languages web;4;0.162601626016;0;programming languages web windows;37;0.000187044276834;KUIDL-S-E-1A
+0073;0;tom cruise biography;1;1.0;0;tom cruise biography askmen;1;1.0;KUIDL-S-E-1A
+0073;0;tom cruise biography;1;1.0;0;tom cruise biography encyclopedia;4;0.554819401851;KUIDL-S-E-1A
+0073;0;tom cruise biography;1;1.0;0;tom cruise biography biography;10;0.212293463779;KUIDL-S-E-1A
+0073;0;tom cruise biography;1;1.0;0;tom cruise biography bio;17;0.150434710728;KUIDL-S-E-1A
+0073;0;tom cruise biography;1;1.0;0;tom cruise biography information;32;0.0262574412658;KUIDL-S-E-1A
+0073;0;tom cruise news;2;0.609523809524;0;tom cruise news popsugar;2;0.609523809524;KUIDL-S-E-1A
+0073;0;tom cruise news;2;0.609523809524;0;tom cruise news srk;2;0.609523809524;KUIDL-S-E-1A
+0073;0;tom cruise news;2;0.609523809524;0;tom cruise news surgery;3;0.559501121374;KUIDL-S-E-1A
+0073;0;tom cruise news;2;0.609523809524;0;tom cruise news plastic;5;0.545766871229;KUIDL-S-E-1A
+0073;0;tom cruise news;2;0.609523809524;0;tom cruise news worth;9;0.238792936847;KUIDL-S-E-1A
+0073;0;tom cruise news;2;0.609523809524;0;tom cruise news gallery;13;0.182840094114;KUIDL-S-E-1A
+0073;0;tom cruise news;2;0.609523809524;0;tom cruise news news;14;0.18191363126;KUIDL-S-E-1A
+0073;0;tom cruise news;2;0.609523809524;0;tom cruise news biography;23;0.0812655885289;KUIDL-S-E-1A
+0073;0;tom cruise news;2;0.609523809524;0;tom cruise news tv;33;0.0227267095007;KUIDL-S-E-1A
+0073;0;tom cruise news;2;0.609523809524;0;tom cruise news latest;41;0.00125779253767;KUIDL-S-E-1A
+0073;0;tom cruise 2014;3;0.32380952381;0;tom cruise 2014 ivillage;6;0.32380952381;KUIDL-S-E-1A
+0073;0;tom cruise 2014;3;0.32380952381;0;tom cruise 2014 learns;12;0.195901395901;KUIDL-S-E-1A
+0073;0;tom cruise 2014;3;0.32380952381;0;tom cruise 2014 2014;15;0.180799468718;KUIDL-S-E-1A
+0073;0;tom cruise 2014;3;0.32380952381;0;tom cruise 2014 oscars;29;0.0353092821621;KUIDL-S-E-1A
+0073;0;tom cruise 2014;3;0.32380952381;0;tom cruise 2014 weight;31;0.0331826137023;KUIDL-S-E-1A
+0073;0;tom cruise 2014;3;0.32380952381;0;tom cruise 2014 son;36;0.00830903596995;KUIDL-S-E-1A
+0073;0;tom cruise 2014;3;0.32380952381;0;tom cruise 2014 height;38;0.00476645053389;KUIDL-S-E-1A
+0073;0;tom cruise 2014;3;0.32380952381;0;tom cruise 2014 scientology;42;0.00118284223295;KUIDL-S-E-1A
+0073;0;tom cruise 2014;3;0.32380952381;0;tom cruise 2014 celebrity;43;0.000995958010433;KUIDL-S-E-1A
+0073;0;tom cruise 2014;3;0.32380952381;0;tom cruise 2014 entertainment;44;0.000318208290241;KUIDL-S-E-1A
+0073;0;tom cruise new;5;0.266666666667;0;tom cruise new new;8;0.266666666667;KUIDL-S-E-1A
+0073;0;tom cruise new;5;0.266666666667;0;tom cruise new trivia;16;0.151818430407;KUIDL-S-E-1A
+0073;0;tom cruise new;5;0.266666666667;0;tom cruise new prince;18;0.150364742889;KUIDL-S-E-1A
+0073;0;tom cruise new;5;0.266666666667;0;tom cruise new freeman;20;0.102654498768;KUIDL-S-E-1A
+0073;0;tom cruise new;5;0.266666666667;0;tom cruise new girlfriend;24;0.0621400354143;KUIDL-S-E-1A
+0073;0;tom cruise new;5;0.266666666667;0;tom cruise new movie;25;0.0512617594711;KUIDL-S-E-1A
+0073;0;tom cruise new;5;0.266666666667;0;tom cruise new 24;30;0.033259387727;KUIDL-S-E-1A
+0073;0;tom cruise new;5;0.266666666667;0;tom cruise new movies;37;0.0051157353587;KUIDL-S-E-1A
+0073;0;tom cruise new;5;0.266666666667;0;tom cruise new oblivion;39;0.00441683919945;KUIDL-S-E-1A
+0073;0;tom cruise new;5;0.266666666667;0;tom cruise new watch;40;0.00255132850242;KUIDL-S-E-1A
+0073;0;tom cruise life;4;0.27619047619;0;tom cruise life socialite;7;0.27619047619;KUIDL-S-E-1A
+0073;0;tom cruise life;4;0.27619047619;0;tom cruise life life;11;0.197832630046;KUIDL-S-E-1A
+0073;0;tom cruise life;4;0.27619047619;0;tom cruise life dies;19;0.132820302582;KUIDL-S-E-1A
+0073;0;tom cruise life;4;0.27619047619;0;tom cruise life viral;21;0.0961425456998;KUIDL-S-E-1A
+0073;0;tom cruise life;4;0.27619047619;0;tom cruise life scoop;22;0.0833740027766;KUIDL-S-E-1A
+0073;0;tom cruise life;4;0.27619047619;0;tom cruise life depp;26;0.0512473678768;KUIDL-S-E-1A
+0073;0;tom cruise life;4;0.27619047619;0;tom cruise life car;27;0.0480029897919;KUIDL-S-E-1A
+0073;0;tom cruise life;4;0.27619047619;0;tom cruise life johnny;28;0.037586828572;KUIDL-S-E-1A
+0073;0;tom cruise life;4;0.27619047619;0;tom cruise life tomorrow;34;0.0175131061091;KUIDL-S-E-1A
+0073;0;tom cruise life;4;0.27619047619;0;tom cruise life baby;35;0.00942864626487;KUIDL-S-E-1A
+0074;0;top ipad games 10;1;1.0;0;top ipad games 10 games;1;1.0;KUIDL-S-E-1A
+0074;0;top ipad games 10;1;1.0;0;top ipad games 10 game;2;0.549867981836;KUIDL-S-E-1A
+0074;0;top ipad games 10;1;1.0;0;top ipad games 10 best;3;0.529763031919;KUIDL-S-E-1A
+0074;0;top ipad games 10;1;1.0;0;top ipad games 10 ehow;7;0.375234099654;KUIDL-S-E-1A
+0074;0;top ipad games 10;1;1.0;0;top ipad games 10 free;11;0.266216819184;KUIDL-S-E-1A
+0074;0;top ipad games 10;1;1.0;0;top ipad games 10 iphone;12;0.245244384937;KUIDL-S-E-1A
+0074;0;top ipad games 10;1;1.0;0;top ipad games 10 top;13;0.24166194082;KUIDL-S-E-1A
+0074;0;top ipad games 10;1;1.0;0;top ipad games 10 apps;19;0.131652493775;KUIDL-S-E-1A
+0074;0;top ipad games 10;1;1.0;0;top ipad games 10 10;22;0.120148792893;KUIDL-S-E-1A
+0074;0;top ipad games 10;1;1.0;0;top ipad games 10 mini;33;0.047965655432;KUIDL-S-E-1A
+0074;0;top ipad games apps;3;0.352941176471;0;top ipad games apps g5;8;0.352941176471;KUIDL-S-E-1A
+0074;0;top ipad games apps;3;0.352941176471;0;top ipad games apps games;10;0.276332092791;KUIDL-S-E-1A
+0074;0;top ipad games apps;3;0.352941176471;0;top ipad games apps baseball;14;0.225210958297;KUIDL-S-E-1A
+0074;0;top ipad games apps;3;0.352941176471;0;top ipad games apps best;16;0.197175285874;KUIDL-S-E-1A
+0074;0;top ipad games apps;3;0.352941176471;0;top ipad games apps free;21;0.123189745931;KUIDL-S-E-1A
+0074;0;top ipad games apps;3;0.352941176471;0;top ipad games apps top;25;0.104369200526;KUIDL-S-E-1A
+0074;0;top ipad games apps;3;0.352941176471;0;top ipad games apps apps;29;0.0982716424493;KUIDL-S-E-1A
+0074;0;top ipad games apps;3;0.352941176471;0;top ipad games apps apple;36;0.0197501435167;KUIDL-S-E-1A
+0074;0;top ipad games apps;3;0.352941176471;0;top ipad games apps 2012;40;0.0149230601031;KUIDL-S-E-1A
+0074;0;top ipad games apps;3;0.352941176471;0;top ipad games apps action;41;0.00746184999925;KUIDL-S-E-1A
+0074;0;top ipad games top;2;0.46218487395;0;top ipad games top yahoo;4;0.46218487395;KUIDL-S-E-1A
+0074;0;top ipad games top;2;0.46218487395;0;top ipad games top dress;5;0.43892339274;KUIDL-S-E-1A
+0074;0;top ipad games top;2;0.46218487395;0;top ipad games top girl;6;0.401515994344;KUIDL-S-E-1A
+0074;0;top ipad games top;2;0.46218487395;0;top ipad games top game;17;0.148303733212;KUIDL-S-E-1A
+0074;0;top ipad games top;2;0.46218487395;0;top ipad games top word;18;0.145779918539;KUIDL-S-E-1A
+0074;0;top ipad games top;2;0.46218487395;0;top ipad games top best;20;0.129108091184;KUIDL-S-E-1A
+0074;0;top ipad games top;2;0.46218487395;0;top ipad games top sports;26;0.10221650161;KUIDL-S-E-1A
+0074;0;top ipad games top;2;0.46218487395;0;top ipad games top top;28;0.100046686859;KUIDL-S-E-1A
+0074;0;top ipad games top;2;0.46218487395;0;top ipad games top free;31;0.0828317620084;KUIDL-S-E-1A
+0074;0;top ipad games top;2;0.46218487395;0;top ipad games top apps;34;0.0361013033007;KUIDL-S-E-1A
+0074;0;top ipad games iphone;5;0.201680672269;0;top ipad games iphone toddler;15;0.201680672269;KUIDL-S-E-1A
+0074;0;top ipad games iphone;5;0.201680672269;0;top ipad games iphone laptop;24;0.104840137593;KUIDL-S-E-1A
+0074;0;top ipad games iphone;5;0.201680672269;0;top ipad games iphone forums;27;0.10207171407;KUIDL-S-E-1A
+0074;0;top ipad games iphone;5;0.201680672269;0;top ipad games iphone shooting;30;0.084700436083;KUIDL-S-E-1A
+0074;0;top ipad games iphone;5;0.201680672269;0;top ipad games iphone iphone;32;0.0824700745806;KUIDL-S-E-1A
+0074;0;top ipad games iphone;5;0.201680672269;0;top ipad games iphone arcade;35;0.0205282842284;KUIDL-S-E-1A
+0074;0;top ipad games iphone;5;0.201680672269;0;top ipad games iphone made;38;0.0180203071026;KUIDL-S-E-1A
+0074;0;top ipad games iphone;5;0.201680672269;0;top ipad games iphone 10;39;0.0163024944455;KUIDL-S-E-1A
+0074;0;top ipad games iphone;5;0.201680672269;0;top ipad games iphone touch;44;0.00459351836776;KUIDL-S-E-1A
+0074;0;top ipad games iphone;5;0.201680672269;0;top ipad games iphone 2013;46;0.00114191529892;KUIDL-S-E-1A
+0074;0;top ipad games kids;4;0.27731092437;0;top ipad games kids ixibo;9;0.27731092437;KUIDL-S-E-1A
+0074;0;top ipad games kids;4;0.27731092437;0;top ipad games kids kids;23;0.108093184922;KUIDL-S-E-1A
+0074;0;top ipad games kids;4;0.27731092437;0;top ipad games kids draw;37;0.0189923666101;KUIDL-S-E-1A
+0074;0;top ipad games kids;4;0.27731092437;0;top ipad games kids something;42;0.00508522497574;KUIDL-S-E-1A
+0074;0;top ipad games kids;4;0.27731092437;0;top ipad games kids education;43;0.00485109466672;KUIDL-S-E-1A
+0074;0;top ipad games kids;4;0.27731092437;0;top ipad games kids educational;45;0.00140732166156;KUIDL-S-E-1A
+0075;0;watches rolex;1;1.0;0;watches rolex luxury;1;1.0;KUIDL-S-E-1A
+0075;0;watches rolex;1;1.0;0;watches rolex pre;2;0.863573472494;KUIDL-S-E-1A
+0075;0;watches rolex;1;1.0;0;watches rolex rolex;9;0.407715627796;KUIDL-S-E-1A
+0075;0;watches rolex;1;1.0;0;watches rolex antique;12;0.320283085191;KUIDL-S-E-1A
+0075;0;watches rolex;1;1.0;0;watches rolex used;23;0.0191027894595;KUIDL-S-E-1A
+0075;0;watches rolex;1;1.0;0;watches rolex fine;27;0.00984976702298;KUIDL-S-E-1A
+0075;0;watches rolex;1;1.0;0;watches rolex vintage;28;0.00576025893119;KUIDL-S-E-1A
+0075;0;watches bulova;2;0.695652173913;0;watches bulova bulova;3;0.695652173913;KUIDL-S-E-1A
+0075;0;watches bulova;2;0.695652173913;0;watches bulova discount;25;0.0111046714164;KUIDL-S-E-1A
+0075;0;watches bulova;2;0.695652173913;0;watches bulova timex;26;0.00990887996043;KUIDL-S-E-1A
+0075;0;watches unique;3;0.550724637681;0;watches unique racquets;4;0.550724637681;KUIDL-S-E-1A
+0075;0;watches unique;3;0.550724637681;0;watches unique happened;4;0.550724637681;KUIDL-S-E-1A
+0075;0;watches unique;3;0.550724637681;0;watches unique unique;16;0.231056863097;KUIDL-S-E-1A
+0075;0;watches unique;3;0.550724637681;0;watches unique tennis;20;0.114212779974;KUIDL-S-E-1A
+0075;0;watches unique;3;0.550724637681;0;watches unique express;21;0.0806349447654;KUIDL-S-E-1A
+0075;0;watches unique;3;0.550724637681;0;watches unique cool;22;0.0690563809005;KUIDL-S-E-1A
+0075;0;watches unique;3;0.550724637681;0;watches unique unusual;24;0.0138763514836;KUIDL-S-E-1A
+0075;0;watches watch;4;0.507246376812;0;watches watch ethos;5;0.507246376812;KUIDL-S-E-1A
+0075;0;watches watch;4;0.507246376812;0;watches watch tokyoflash;6;0.476757353704;KUIDL-S-E-1A
+0075;0;watches watch;4;0.507246376812;0;watches watch distributor;8;0.418177410491;KUIDL-S-E-1A
+0075;0;watches watch;4;0.507246376812;0;watches watch lcd;10;0.390480091243;KUIDL-S-E-1A
+0075;0;watches watch;4;0.507246376812;0;watches watch timeless;13;0.318771958258;KUIDL-S-E-1A
+0075;0;watches watch;4;0.507246376812;0;watches watch phone;14;0.261978405872;KUIDL-S-E-1A
+0075;0;watches watch;4;0.507246376812;0;watches watch japan;14;0.261978405872;KUIDL-S-E-1A
+0075;0;watches watch;4;0.507246376812;0;watches watch swatch;15;0.231733636402;KUIDL-S-E-1A
+0075;0;watches watch;4;0.507246376812;0;watches watch watch;18;0.174883024869;KUIDL-S-E-1A
+0075;0;watches watch;4;0.507246376812;0;watches watch time;29;0.00297405092388;KUIDL-S-E-1A
+0075;0;watches pocket;5;0.434782608696;0;watches pocket wikipedia;7;0.434782608696;KUIDL-S-E-1A
+0075;0;watches pocket;5;0.434782608696;0;watches pocket encyclopedia;11;0.386956521739;KUIDL-S-E-1A
+0075;0;watches pocket;5;0.434782608696;0;watches pocket pocket;17;0.200803024796;KUIDL-S-E-1A
+0075;0;watches pocket;5;0.434782608696;0;watches pocket oakley;19;0.16149068323;KUIDL-S-E-1A
+0075;0;watches pocket;5;0.434782608696;0;watches pocket guide;30;0.00114082900241;KUIDL-S-E-1A
+0076;0;thai specialties specialties;1;1.0;0;thai specialties specialties keo;1;1.0;KUIDL-S-E-1A
+0076;0;thai specialties specialties;1;1.0;0;thai specialties specialties sushi;2;0.579471896819;KUIDL-S-E-1A
+0076;0;thai specialties specialties;1;1.0;0;thai specialties specialties bangkok;5;0.502830379242;KUIDL-S-E-1A
+0076;0;thai specialties specialties;1;1.0;0;thai specialties specialties chef;8;0.248777299854;KUIDL-S-E-1A
+0076;0;thai specialties specialties;1;1.0;0;thai specialties specialties cuisine;10;0.222420116321;KUIDL-S-E-1A
+0076;0;thai specialties specialties;1;1.0;0;thai specialties specialties dishes;14;0.175863379899;KUIDL-S-E-1A
+0076;0;thai specialties specialties;1;1.0;0;thai specialties specialties house;18;0.127494221815;KUIDL-S-E-1A
+0076;0;thai specialties specialties;1;1.0;0;thai specialties specialties restaurant;22;0.071153763559;KUIDL-S-E-1A
+0076;0;thai specialties specialties;1;1.0;0;thai specialties specialties specialties;29;0.0307541476435;KUIDL-S-E-1A
+0076;0;thai specialties specialties;1;1.0;0;thai specialties specialties menu;31;0.0197379314945;KUIDL-S-E-1A
+0076;0;thai specialties restaurant;2;0.514084507042;0;thai specialties restaurant rutherford;3;0.514084507042;KUIDL-S-E-1A
+0076;0;thai specialties restaurant;2;0.514084507042;0;thai specialties restaurant bistro;7;0.408000447092;KUIDL-S-E-1A
+0076;0;thai specialties restaurant;2;0.514084507042;0;thai specialties restaurant sushi;9;0.243220312104;KUIDL-S-E-1A
+0076;0;thai specialties restaurant;2;0.514084507042;0;thai specialties restaurant asian;16;0.153318439997;KUIDL-S-E-1A
+0076;0;thai specialties restaurant;2;0.514084507042;0;thai specialties restaurant home;19;0.112613597832;KUIDL-S-E-1A
+0076;0;thai specialties restaurant;2;0.514084507042;0;thai specialties restaurant menu;21;0.0985991347988;KUIDL-S-E-1A
+0076;0;thai specialties restaurant;2;0.514084507042;0;thai specialties restaurant cuisine;24;0.0585221600359;KUIDL-S-E-1A
+0076;0;thai specialties restaurant;2;0.514084507042;0;thai specialties restaurant specialty;33;0.0016487682797;KUIDL-S-E-1A
+0076;0;thai specialties restaurant;2;0.514084507042;0;thai specialties restaurant restaurant;35;0.00106770525859;KUIDL-S-E-1A
+0076;0;thai specialties restaurant;2;0.514084507042;0;thai specialties restaurant food;37;4.17214566061e-07;KUIDL-S-E-1A
+0076;0;thai specialties specialty;3;0.507042253521;0;thai specialties specialty detroit;4;0.507042253521;KUIDL-S-E-1A
+0076;0;thai specialties specialty;3;0.507042253521;0;thai specialties specialty brea;6;0.48572827626;KUIDL-S-E-1A
+0076;0;thai specialties specialty;3;0.507042253521;0;thai specialties specialty ca;12;0.20997883501;KUIDL-S-E-1A
+0076;0;thai specialties specialty;3;0.507042253521;0;thai specialties specialty thailand;13;0.199619591642;KUIDL-S-E-1A
+0076;0;thai specialties specialty;3;0.507042253521;0;thai specialties specialty noodles;26;0.0468854409906;KUIDL-S-E-1A
+0076;0;thai specialties specialty;3;0.507042253521;0;thai specialties specialty lunch;27;0.0355974846902;KUIDL-S-E-1A
+0076;0;thai specialties specialty;3;0.507042253521;0;thai specialties specialty restaurant;30;0.0240207807701;KUIDL-S-E-1A
+0076;0;thai specialties specialty;3;0.507042253521;0;thai specialties specialty rice;32;0.0040518815237;KUIDL-S-E-1A
+0076;0;thai specialties specialty;3;0.507042253521;0;thai specialties specialty specialties;34;0.00146791088121;KUIDL-S-E-1A
+0076;0;thai specialties specialty;3;0.507042253521;0;thai specialties specialty specialty;36;8.1328802063e-06;KUIDL-S-E-1A
+0076;0;thai specialties art;4;0.218309859155;0;thai specialties art art;11;0.218309859155;KUIDL-S-E-1A
+0076;0;thai specialties art;4;0.218309859155;0;thai specialties art supermarket;17;0.130985915493;KUIDL-S-E-1A
+0076;0;thai specialties art;4;0.218309859155;0;thai specialties art christine;20;0.106036217304;KUIDL-S-E-1A
+0076;0;thai specialties art;4;0.218309859155;0;thai specialties art md;23;0.0611267605634;KUIDL-S-E-1A
+0076;0;thai specialties art;4;0.218309859155;0;thai specialties art word;25;0.0516005121639;KUIDL-S-E-1A
+0076;0;thai specialties art;4;0.218309859155;0;thai specialties art courses;28;0.0311871227364;KUIDL-S-E-1A
+0076;0;thai specialties foods;5;0.161971830986;0;thai specialties foods emporium;15;0.161971830986;KUIDL-S-E-1A
+0076;0;thai specialties foods;5;0.161971830986;0;thai specialties foods foods;15;0.161971830986;KUIDL-S-E-1A
+0077;0;scientific american scientific;1;1.0;0;scientific american scientific museum;1;1.0;KUIDL-S-E-1A
+0077;0;scientific american scientific;1;1.0;0;scientific american scientific chemical;3;0.808624027853;KUIDL-S-E-1A
+0077;0;scientific american scientific;1;1.0;0;scientific american scientific company;5;0.663300267265;KUIDL-S-E-1A
+0077;0;scientific american scientific;1;1.0;0;scientific american scientific association;7;0.554442922846;KUIDL-S-E-1A
+0077;0;scientific american scientific;1;1.0;0;scientific american scientific society;8;0.441593079121;KUIDL-S-E-1A
+0077;0;scientific american scientific;1;1.0;0;scientific american scientific magazine;10;0.373053017477;KUIDL-S-E-1A
+0077;0;scientific american scientific;1;1.0;0;scientific american scientific american;17;0.244073906914;KUIDL-S-E-1A
+0077;0;scientific american scientific;1;1.0;0;scientific american scientific science;25;0.0719767077426;KUIDL-S-E-1A
+0077;0;scientific american scientific;1;1.0;0;scientific american scientific scientific;28;0.023020983352;KUIDL-S-E-1A
+0077;0;scientific american scientific;1;1.0;0;scientific american scientific new;32;0.00135991872378;KUIDL-S-E-1A
+0077;0;scientific american science;2;0.843373493976;0;scientific american science tumblr;2;0.843373493976;KUIDL-S-E-1A
+0077;0;scientific american science;2;0.843373493976;0;scientific american science sessions;4;0.740200015333;KUIDL-S-E-1A
+0077;0;scientific american science;2;0.843373493976;0;scientific american science engineering;11;0.323315559541;KUIDL-S-E-1A
+0077;0;scientific american science;2;0.843373493976;0;scientific american science journal;12;0.306411026808;KUIDL-S-E-1A
+0077;0;scientific american science;2;0.843373493976;0;scientific american science magazine;16;0.272561619533;KUIDL-S-E-1A
+0077;0;scientific american science;2;0.843373493976;0;scientific american science american;20;0.1550318402;KUIDL-S-E-1A
+0077;0;scientific american science;2;0.843373493976;0;scientific american science science;23;0.116384920043;KUIDL-S-E-1A
+0077;0;scientific american science;2;0.843373493976;0;scientific american science information;26;0.0317624279586;KUIDL-S-E-1A
+0077;0;scientific american science;2;0.843373493976;0;scientific american science scientific;31;0.00249331197252;KUIDL-S-E-1A
+0077;0;scientific american magazine;3;0.578313253012;0;scientific american magazine subscriber;6;0.578313253012;KUIDL-S-E-1A
+0077;0;scientific american magazine;3;0.578313253012;0;scientific american magazine magazine;18;0.175278261236;KUIDL-S-E-1A
+0077;0;scientific american magazine;3;0.578313253012;0;scientific american magazine facebook;24;0.0817369162216;KUIDL-S-E-1A
+0077;0;scientific american magazine;3;0.578313253012;0;scientific american magazine subscription;29;0.0174722903243;KUIDL-S-E-1A
+0077;0;scientific american magazine;3;0.578313253012;0;scientific american magazine address;30;0.00754319011694;KUIDL-S-E-1A
+0077;0;scientific american magazine;3;0.578313253012;0;scientific american magazine mind;33;0.00101834553649;KUIDL-S-E-1A
+0077;0;scientific american computer;4;0.421686746988;0;scientific american computer computer;9;0.421686746988;KUIDL-S-E-1A
+0077;0;scientific american computer;4;0.421686746988;0;scientific american computer asei;13;0.300837496327;KUIDL-S-E-1A
+0077;0;scientific american computer;4;0.421686746988;0;scientific american computer nasdaq;15;0.279511157975;KUIDL-S-E-1A
+0077;0;scientific american computer;4;0.421686746988;0;scientific american computer quotes;19;0.161396053256;KUIDL-S-E-1A
+0077;0;scientific american computer;4;0.421686746988;0;scientific american computer inc;22;0.131648545401;KUIDL-S-E-1A
+0077;0;scientific american computer;4;0.421686746988;0;scientific american computer political;27;0.0235950977511;KUIDL-S-E-1A
+0077;0;scientific american computer;4;0.421686746988;0;scientific american computer summer;34;0.000450234423396;KUIDL-S-E-1A
+0077;0;scientific american acc;5;0.289156626506;0;scientific american acc biotech;14;0.289156626506;KUIDL-S-E-1A
+0077;0;scientific american acc;5;0.289156626506;0;scientific american acc acc;21;0.134939759036;KUIDL-S-E-1A
+0078;0;persian cat cat;1;1.0;0;persian cat cat pictures;1;1.0;KUIDL-S-E-1A
+0078;0;persian cat cat;1;1.0;0;persian cat cat pets;4;0.463767589081;KUIDL-S-E-1A
+0078;0;persian cat cat;1;1.0;0;persian cat cat cat;6;0.417648894842;KUIDL-S-E-1A
+0078;0;persian cat cat;1;1.0;0;persian cat cat information;7;0.383453116664;KUIDL-S-E-1A
+0078;0;persian cat cat;1;1.0;0;persian cat cat breeds;8;0.363127209134;KUIDL-S-E-1A
+0078;0;persian cat cat;1;1.0;0;persian cat cat care;11;0.270997962713;KUIDL-S-E-1A
+0078;0;persian cat cat;1;1.0;0;persian cat cat cats;12;0.24786304072;KUIDL-S-E-1A
+0078;0;persian cat cat;1;1.0;0;persian cat cat health;17;0.126650290741;KUIDL-S-E-1A
+0078;0;persian cat cat;1;1.0;0;persian cat cat kittens;24;0.0406855650045;KUIDL-S-E-1A
+0078;0;persian cat cat;1;1.0;0;persian cat cat breed;31;0.00645768628676;KUIDL-S-E-1A
+0078;0;persian cat kittens;2;0.631205673759;0;persian cat kittens tumblr;2;0.631205673759;KUIDL-S-E-1A
+0078;0;persian cat kittens;2;0.631205673759;0;persian cat kittens ebay;3;0.467528617895;KUIDL-S-E-1A
+0078;0;persian cat kittens;2;0.631205673759;0;persian cat kittens classifieds;5;0.455944565141;KUIDL-S-E-1A
+0078;0;persian cat kittens;2;0.631205673759;0;persian cat kittens cats;9;0.361328928405;KUIDL-S-E-1A
+0078;0;persian cat kittens;2;0.631205673759;0;persian cat kittens teacup;10;0.344925658273;KUIDL-S-E-1A
+0078;0;persian cat kittens;2;0.631205673759;0;persian cat kittens kittens;18;0.126218051117;KUIDL-S-E-1A
+0078;0;persian cat kittens;2;0.631205673759;0;persian cat kittens pictures;20;0.0979732398819;KUIDL-S-E-1A
+0078;0;persian cat kittens;2;0.631205673759;0;persian cat kittens persians;22;0.0750988667425;KUIDL-S-E-1A
+0078;0;persian cat kittens;2;0.631205673759;0;persian cat kittens sale;30;0.00858031575454;KUIDL-S-E-1A
+0078;0;persian cat kittens;2;0.631205673759;0;persian cat kittens himalayan;32;0.0010732502925;KUIDL-S-E-1A
+0078;0;persian cat names;3;0.219858156028;0;persian cat names names;13;0.219858156028;KUIDL-S-E-1A
+0078;0;persian cat names;3;0.219858156028;0;persian cat names gifts;21;0.0919844170306;KUIDL-S-E-1A
+0078;0;persian cat names;3;0.219858156028;0;persian cat names lovers;23;0.0634596326553;KUIDL-S-E-1A
+0078;0;persian cat names;3;0.219858156028;0;persian cat names guide;25;0.0398603220747;KUIDL-S-E-1A
+0078;0;persian cat socks;4;0.156028368794;0;persian cat socks socks;14;0.156028368794;KUIDL-S-E-1A
+0078;0;persian cat breeders;5;0.148936170213;0;persian cat breeders jubileum;15;0.148936170213;KUIDL-S-E-1A
+0078;0;persian cat breeders;5;0.148936170213;0;persian cat breeders catillak;16;0.141937745697;KUIDL-S-E-1A
+0078;0;persian cat breeders;5;0.148936170213;0;persian cat breeders creek;19;0.122975526949;KUIDL-S-E-1A
+0078;0;persian cat breeders;5;0.148936170213;0;persian cat breeders breeders;26;0.0379337966852;KUIDL-S-E-1A
+0078;0;persian cat breeders;5;0.148936170213;0;persian cat breeders sale;27;0.0187252462664;KUIDL-S-E-1A
+0078;0;persian cat breeders;5;0.148936170213;0;persian cat breeders colors;28;0.0139452003969;KUIDL-S-E-1A
+0078;0;persian cat breeders;5;0.148936170213;0;persian cat breeders gallery;29;0.0132287054947;KUIDL-S-E-1A
+0079;0;bathtub bathtubs;1;1.0;0;bathtub bathtubs tub;1;1.0;KUIDL-S-E-1A
+0079;0;bathtub bathtubs;1;1.0;0;bathtub bathtubs bath;16;0.187094262363;KUIDL-S-E-1A
+0079;0;bathtub bathtubs;1;1.0;0;bathtub bathtubs bathtubs;19;0.148577655094;KUIDL-S-E-1A
+0079;0;bathtub bathtubs;1;1.0;0;bathtub bathtubs walk;20;0.124278118833;KUIDL-S-E-1A
+0079;0;bathtub bathtubs;1;1.0;0;bathtub bathtubs styles;21;0.0851263268129;KUIDL-S-E-1A
+0079;0;bathtub bathtubs;1;1.0;0;bathtub bathtubs modern;23;0.0561130861477;KUIDL-S-E-1A
+0079;0;bathtub bathtubs;1;1.0;0;bathtub bathtubs clawfoot;24;0.0411905970367;KUIDL-S-E-1A
+0079;0;bathtub bathtubs;1;1.0;0;bathtub bathtubs tubs;25;0.0381636531272;KUIDL-S-E-1A
+0079;0;bathtub bathtubs;1;1.0;0;bathtub bathtubs small;27;0.0249898248167;KUIDL-S-E-1A
+0079;0;bathtub bathtubs;1;1.0;0;bathtub bathtubs whirlpool;28;0.0158645247876;KUIDL-S-E-1A
+0079;0;bathtub refinishing;2;0.951219512195;0;bathtub refinishing pkb;2;0.951219512195;KUIDL-S-E-1A
+0079;0;bathtub refinishing;2;0.951219512195;0;bathtub refinishing tile;7;0.404896281575;KUIDL-S-E-1A
+0079;0;bathtub refinishing;2;0.951219512195;0;bathtub refinishing resurfacing;12;0.259725492636;KUIDL-S-E-1A
+0079;0;bathtub refinishing;2;0.951219512195;0;bathtub refinishing refinishing;14;0.194837177153;KUIDL-S-E-1A
+0079;0;bathtub refinishing;2;0.951219512195;0;bathtub refinishing reglazing;15;0.190930761101;KUIDL-S-E-1A
+0079;0;bathtub refinishing;2;0.951219512195;0;bathtub refinishing repair;22;0.0593138212323;KUIDL-S-E-1A
+0079;0;bathtub refinishing;2;0.951219512195;0;bathtub refinishing sink;29;0.00797987994613;KUIDL-S-E-1A
+0079;0;bathtub cost;3;0.719512195122;0;bathtub cost vimeo;3;0.719512195122;KUIDL-S-E-1A
+0079;0;bathtub cost;3;0.719512195122;0;bathtub cost hometips;4;0.641779181185;KUIDL-S-E-1A
+0079;0;bathtub cost;3;0.719512195122;0;bathtub cost cost;6;0.441894288203;KUIDL-S-E-1A
+0079;0;bathtub cost;3;0.719512195122;0;bathtub cost installation;18;0.161536256489;KUIDL-S-E-1A
+0079;0;bathtub cost;3;0.719512195122;0;bathtub cost install;26;0.0307210505531;KUIDL-S-E-1A
+0079;0;bathtub cost;3;0.719512195122;0;bathtub cost remove;30;0.00277553705307;KUIDL-S-E-1A
+0079;0;bathtub cost;3;0.719512195122;0;bathtub cost replace;31;3.52811375861e-06;KUIDL-S-E-1A
+0079;0;bathtub soaking;4;0.585365853659;0;bathtub soaking shipping;5;0.585365853659;KUIDL-S-E-1A
+0079;0;bathtub soaking;4;0.585365853659;0;bathtub soaking beach;8;0.384813649224;KUIDL-S-E-1A
+0079;0;bathtub soaking;4;0.585365853659;0;bathtub soaking soaking;9;0.367540763832;KUIDL-S-E-1A
+0079;0;bathtub soaking;4;0.585365853659;0;bathtub soaking seat;11;0.283704076201;KUIDL-S-E-1A
+0079;0;bathtub soaking;4;0.585365853659;0;bathtub soaking designs;13;0.219594745481;KUIDL-S-E-1A
+0079;0;bathtub dimensions;5;0.353658536585;0;bathtub dimensions dimensions;10;0.353658536585;KUIDL-S-E-1A
+0079;0;bathtub dimensions;5;0.353658536585;0;bathtub dimensions mosaic;17;0.181363352095;KUIDL-S-E-1A
+0079;0;bathtub dimensions;5;0.353658536585;0;bathtub dimensions battle;17;0.181363352095;KUIDL-S-E-1A
+0080;0;wedding ring diamond;1;1.0;0;wedding ring diamond rings;1;1.0;KUIDL-S-E-1A
+0080;0;wedding ring diamond;1;1.0;0;wedding ring diamond ring;2;0.958975295259;KUIDL-S-E-1A
+0080;0;wedding ring diamond;1;1.0;0;wedding ring diamond engagement;15;0.119802835417;KUIDL-S-E-1A
+0080;0;wedding ring diamond;1;1.0;0;wedding ring diamond diamond;18;0.098933397158;KUIDL-S-E-1A
+0080;0;wedding ring diamond;1;1.0;0;wedding ring diamond gold;19;0.0732872084782;KUIDL-S-E-1A
+0080;0;wedding ring diamond;1;1.0;0;wedding ring diamond jewelry;20;0.055392653992;KUIDL-S-E-1A
+0080;0;wedding ring diamond;1;1.0;0;wedding ring diamond online;21;0.0343883316254;KUIDL-S-E-1A
+0080;0;wedding ring diamond;1;1.0;0;wedding ring diamond bands;24;0.0231102179151;KUIDL-S-E-1A
+0080;0;wedding ring diamond;1;1.0;0;wedding ring diamond diamonds;25;0.0206586798532;KUIDL-S-E-1A
+0080;0;wedding ring diamond;1;1.0;0;wedding ring diamond platinum;32;0.00111631838557;KUIDL-S-E-1A
+0080;0;wedding ring ring;2;0.572463768116;0;wedding ring ring direct;3;0.572463768116;KUIDL-S-E-1A
+0080;0;wedding ring ring;2;0.572463768116;0;wedding ring ring types;4;0.474845763952;KUIDL-S-E-1A
+0080;0;wedding ring ring;2;0.572463768116;0;wedding ring ring tungsten;5;0.34898433345;KUIDL-S-E-1A
+0080;0;wedding ring ring;2;0.572463768116;0;wedding ring ring history;6;0.316454275163;KUIDL-S-E-1A
+0080;0;wedding ring ring;2;0.572463768116;0;wedding ring ring guide;7;0.253353844944;KUIDL-S-E-1A
+0080;0;wedding ring ring;2;0.572463768116;0;wedding ring ring titanium;8;0.229589279765;KUIDL-S-E-1A
+0080;0;wedding ring ring;2;0.572463768116;0;wedding ring ring ring;10;0.167350611489;KUIDL-S-E-1A
+0080;0;wedding ring ring;2;0.572463768116;0;wedding ring ring rings;13;0.153085373966;KUIDL-S-E-1A
+0080;0;wedding ring ring;2;0.572463768116;0;wedding ring ring men;27;0.0153612749269;KUIDL-S-E-1A
+0080;0;wedding ring ring;2;0.572463768116;0;wedding ring ring bands;28;0.00749828910229;KUIDL-S-E-1A
+0080;0;wedding ring titanium;3;0.217391304348;0;wedding ring titanium zoara;9;0.217391304348;KUIDL-S-E-1A
+0080;0;wedding ring titanium;3;0.217391304348;0;wedding ring titanium verragio;14;0.13345410628;KUIDL-S-E-1A
+0080;0;wedding ring titanium;3;0.217391304348;0;wedding ring titanium titanium;16;0.110741626106;KUIDL-S-E-1A
+0080;0;wedding ring titanium;3;0.217391304348;0;wedding ring titanium houston;17;0.102277432712;KUIDL-S-E-1A
+0080;0;wedding ring titanium;3;0.217391304348;0;wedding ring titanium history;29;0.00726280850504;KUIDL-S-E-1A
+0080;0;wedding ring titanium;3;0.217391304348;0;wedding ring titanium sale;31;0.00228585199895;KUIDL-S-E-1A
+0080;0;wedding ring claddagh;5;0.159420289855;0;wedding ring claddagh claddagh;12;0.159420289855;KUIDL-S-E-1A
+0080;0;wedding ring claddagh;5;0.159420289855;0;wedding ring claddagh compare;23;0.0275754014884;KUIDL-S-E-1A
+0080;0;wedding ring claddagh;5;0.159420289855;0;wedding ring claddagh ireland;30;0.00664764143025;KUIDL-S-E-1A
+0080;0;wedding ring vows;4;0.166666666667;0;wedding ring vows vows;11;0.166666666667;KUIDL-S-E-1A
+0080;0;wedding ring vows;4;0.166666666667;0;wedding ring vows hawaiian;22;0.0308641975309;KUIDL-S-E-1A
+0080;0;wedding ring vows;4;0.166666666667;0;wedding ring vows jesus;26;0.0189255189255;KUIDL-S-E-1A
+0081;0;samsung bizrate;1;1.0;0;samsung bizrate;1;1.0;KUIDL-S-E-1A
+0081;0;samsung softonic;2;0.978723404255;0;samsung softonic passmark;2;0.978723404255;KUIDL-S-E-1A
+0081;0;samsung softonic;2;0.978723404255;0;samsung softonic easystudio;4;0.873860182371;KUIDL-S-E-1A
+0081;0;samsung softonic;2;0.978723404255;0;samsung softonic softonic;15;0.244680851064;KUIDL-S-E-1A
+0081;0;samsung tv;3;0.893617021277;0;samsung tv un32eh4003;3;0.893617021277;KUIDL-S-E-1A
+0081;0;samsung tv;3;0.893617021277;0;samsung tv trends;7;0.680728075625;KUIDL-S-E-1A
+0081;0;samsung tv;3;0.893617021277;0;samsung tv tv;12;0.369651041865;KUIDL-S-E-1A
+0081;0;samsung tv;3;0.893617021277;0;samsung tv reviews;19;0.116471970016;KUIDL-S-E-1A
+0081;0;samsung tv;3;0.893617021277;0;samsung tv review;21;0.0869020001256;KUIDL-S-E-1A
+0081;0;samsung tv;3;0.893617021277;0;samsung tv technology;22;0.083573516996;KUIDL-S-E-1A
+0081;0;samsung tv;3;0.893617021277;0;samsung tv electronics;23;0.0652922412304;KUIDL-S-E-1A
+0081;0;samsung tv;3;0.893617021277;0;samsung tv plasma;25;0.0265767432051;KUIDL-S-E-1A
+0081;0;samsung tv;3;0.893617021277;0;samsung tv 2013;27;0.00125351747461;KUIDL-S-E-1A
+0081;0;samsung tv;3;0.893617021277;0;samsung tv led;29;0.000540716601375;KUIDL-S-E-1A
+0081;0;samsung group;4;0.829787234043;0;samsung group wikipedia;5;0.829787234043;KUIDL-S-E-1A
+0081;0;samsung group;4;0.829787234043;0;samsung group encyclopedia;6;0.732978723404;KUIDL-S-E-1A
+0081;0;samsung group;4;0.829787234043;0;samsung group football;10;0.40625;KUIDL-S-E-1A
+0081;0;samsung group;4;0.829787234043;0;samsung group global;11;0.378659574468;KUIDL-S-E-1A
+0081;0;samsung group;4;0.829787234043;0;samsung group group;14;0.279122823985;KUIDL-S-E-1A
+0081;0;samsung group;4;0.829787234043;0;samsung group logo;20;0.103723404255;KUIDL-S-E-1A
+0081;0;samsung group;4;0.829787234043;0;samsung group history;24;0.0509515091539;KUIDL-S-E-1A
+0081;0;samsung group;4;0.829787234043;0;samsung group careers;26;0.00176395022079;KUIDL-S-E-1A
+0081;0;samsung software;4;0.829787234043;0;samsung software brothersoft;5;0.829787234043;KUIDL-S-E-1A
+0081;0;samsung software;4;0.829787234043;0;samsung software drivers;8;0.464629131782;KUIDL-S-E-1A
+0081;0;samsung software;4;0.829787234043;0;samsung software converter;9;0.437065636856;KUIDL-S-E-1A
+0081;0;samsung software;4;0.829787234043;0;samsung software software;13;0.363929628096;KUIDL-S-E-1A
+0081;0;samsung software;4;0.829787234043;0;samsung software studio;16;0.22886547859;KUIDL-S-E-1A
+0081;0;samsung software;4;0.829787234043;0;samsung software informer;17;0.206209182468;KUIDL-S-E-1A
+0081;0;samsung software;4;0.829787234043;0;samsung software download;18;0.168231671245;KUIDL-S-E-1A
+0081;0;samsung software;4;0.829787234043;0;samsung software pc;28;0.000655055550235;KUIDL-S-E-1A
+0082;0;the hunger games review;1;1.0;0;the hunger games review celebuzz;1;1.0;KUIDL-S-E-1A
+0082;0;the hunger games review;1;1.0;0;the hunger games review wiki;9;0.511944595751;KUIDL-S-E-1A
+0082;0;the hunger games review;1;1.0;0;the hunger games review video;10;0.434194183027;KUIDL-S-E-1A
+0082;0;the hunger games review;1;1.0;0;the hunger games review volunteer;11;0.337464251174;KUIDL-S-E-1A
+0082;0;the hunger games review;1;1.0;0;the hunger games review review;12;0.321521688162;KUIDL-S-E-1A
+0082;0;the hunger games review;1;1.0;0;the hunger games review themes;22;0.0782353562959;KUIDL-S-E-1A
+0082;0;the hunger games review;1;1.0;0;the hunger games review guide;26;0.0325866176997;KUIDL-S-E-1A
+0082;0;the hunger games review;1;1.0;0;the hunger games review family;28;0.0185651015531;KUIDL-S-E-1A
+0082;0;the hunger games review;1;1.0;0;the hunger games review play;29;0.0139612369097;KUIDL-S-E-1A
+0082;0;the hunger games movie;2;0.919540229885;0;the hunger games movie quiz;2;0.919540229885;KUIDL-S-E-1A
+0082;0;the hunger games movie;2;0.919540229885;0;the hunger games movie summary;4;0.646385771414;KUIDL-S-E-1A
+0082;0;the hunger games movie;2;0.919540229885;0;the hunger games movie movie;8;0.513598680764;KUIDL-S-E-1A
+0082;0;the hunger games movie;2;0.919540229885;0;the hunger games movie hollywood;14;0.295629694445;KUIDL-S-E-1A
+0082;0;the hunger games movie;2;0.919540229885;0;the hunger games movie photos;18;0.184741828608;KUIDL-S-E-1A
+0082;0;the hunger games movie;2;0.919540229885;0;the hunger games movie online;19;0.169297294612;KUIDL-S-E-1A
+0082;0;the hunger games movie;2;0.919540229885;0;the hunger games movie 2012;23;0.0513939822377;KUIDL-S-E-1A
+0082;0;the hunger games movie;2;0.919540229885;0;the hunger games movie fire;24;0.046654342084;KUIDL-S-E-1A
+0082;0;the hunger games movie;2;0.919540229885;0;the hunger games movie news;32;0.00479571008821;KUIDL-S-E-1A
+0082;0;the hunger games movie;2;0.919540229885;0;the hunger games movie catching;34;0.00260557816293;KUIDL-S-E-1A
+0082;0;the hunger games 2012;3;0.701149425287;0;the hunger games 2012 county;3;0.701149425287;KUIDL-S-E-1A
+0082;0;the hunger games 2012;3;0.701149425287;0;the hunger games 2012 rotten;5;0.602865651029;KUIDL-S-E-1A
+0082;0;the hunger games 2012;3;0.701149425287;0;the hunger games 2012 fire;6;0.574010635737;KUIDL-S-E-1A
+0082;0;the hunger games 2012;3;0.701149425287;0;the hunger games 2012 tomatoes;7;0.57077298583;KUIDL-S-E-1A
+0082;0;the hunger games 2012;3;0.701149425287;0;the hunger games 2012 2012;15;0.280980437787;KUIDL-S-E-1A
+0082;0;the hunger games 2012;3;0.701149425287;0;the hunger games 2012 school;20;0.0947762371677;KUIDL-S-E-1A
+0082;0;the hunger games 2012;3;0.701149425287;0;the hunger games 2012 catching;30;0.00870352384564;KUIDL-S-E-1A
+0082;0;the hunger games 2012;3;0.701149425287;0;the hunger games 2012 free;31;0.00860914960468;KUIDL-S-E-1A
+0082;0;the hunger games npr;5;0.218390804598;0;the hunger games npr npr;17;0.218390804598;KUIDL-S-E-1A
+0082;0;the hunger games npr;5;0.218390804598;0;the hunger games npr eileen;21;0.0849297573436;KUIDL-S-E-1A
+0082;0;the hunger games facebook;4;0.310344827586;0;the hunger games facebook shmoop;13;0.310344827586;KUIDL-S-E-1A
+0082;0;the hunger games facebook;4;0.310344827586;0;the hunger games facebook facebook;13;0.310344827586;KUIDL-S-E-1A
+0082;0;the hunger games facebook;4;0.310344827586;0;the hunger games facebook boxoffice;16;0.264587339638;KUIDL-S-E-1A
+0082;0;the hunger games facebook;4;0.310344827586;0;the hunger games facebook angeles;25;0.0357998998973;KUIDL-S-E-1A
+0082;0;the hunger games facebook;4;0.310344827586;0;the hunger games facebook los;27;0.0300802139037;KUIDL-S-E-1A
+0082;0;the hunger games facebook;4;0.310344827586;0;the hunger games facebook trailer;33;0.00386841550179;KUIDL-S-E-1A
+0082;0;the hunger games facebook;4;0.310344827586;0;the hunger games facebook times;35;0.00115116624866;KUIDL-S-E-1A
+0083;0;harry potter wiki;1;1.0;0;harry potter wiki uncyclopedia;1;1.0;KUIDL-S-E-1A
+0083;0;harry potter wiki;1;1.0;0;harry potter wiki summary;4;0.748778469317;KUIDL-S-E-1A
+0083;0;harry potter wiki;1;1.0;0;harry potter wiki lyrics;9;0.588477366255;KUIDL-S-E-1A
+0083;0;harry potter wiki;1;1.0;0;harry potter wiki wiki;11;0.393939393939;KUIDL-S-E-1A
+0083;0;harry potter wiki;1;1.0;0;harry potter wiki wikia;23;0.023582274271;KUIDL-S-E-1A
+0083;0;harry potter wiki;1;1.0;0;harry potter wiki lines;29;0.000442131755263;KUIDL-S-E-1A
+0083;0;harry potter meetup;2;0.888888888889;0;harry potter meetup houston;2;0.888888888889;KUIDL-S-E-1A
+0083;0;harry potter free;4;0.685185185185;0;harry potter free movies;5;0.685185185185;KUIDL-S-E-1A
+0083;0;harry potter free;4;0.685185185185;0;harry potter free free;6;0.646958298654;KUIDL-S-E-1A
+0083;0;harry potter free;4;0.685185185185;0;harry potter free part;20;0.0441550051811;KUIDL-S-E-1A
+0083;0;harry potter free;4;0.685185185185;0;harry potter free deathly;21;0.0400516681491;KUIDL-S-E-1A
+0083;0;harry potter free;4;0.685185185185;0;harry potter free film;22;0.0288811615515;KUIDL-S-E-1A
+0083;0;harry potter free;4;0.685185185185;0;harry potter free secrets;24;0.0142767205075;KUIDL-S-E-1A
+0083;0;harry potter free;4;0.685185185185;0;harry potter free hallows;27;0.00802176398926;KUIDL-S-E-1A
+0083;0;harry potter games;3;0.851851851852;0;harry potter games rotten;3;0.851851851852;KUIDL-S-E-1A
+0083;0;harry potter games;3;0.851851851852;0;harry potter games flickr;7;0.62303435177;KUIDL-S-E-1A
+0083;0;harry potter games;3;0.851851851852;0;harry potter games trailers;10;0.49975308642;KUIDL-S-E-1A
+0083;0;harry potter games;3;0.851851851852;0;harry potter games fanfiction;10;0.49975308642;KUIDL-S-E-1A
+0083;0;harry potter games;3;0.851851851852;0;harry potter games games;12;0.291248093281;KUIDL-S-E-1A
+0083;0;harry potter games;3;0.851851851852;0;harry potter games save;14;0.0993458629193;KUIDL-S-E-1A
+0083;0;harry potter games;3;0.851851851852;0;harry potter games photos;15;0.0897142251672;KUIDL-S-E-1A
+0083;0;harry potter games;3;0.851851851852;0;harry potter games game;17;0.0731195219783;KUIDL-S-E-1A
+0083;0;harry potter games;3;0.851851851852;0;harry potter games better;18;0.0591861498794;KUIDL-S-E-1A
+0083;0;harry potter games;3;0.851851851852;0;harry potter games play;26;0.00839599561206;KUIDL-S-E-1A
+0083;0;harry potter quotes;5;0.592592592593;0;harry potter quotes crosswords;8;0.592592592593;KUIDL-S-E-1A
+0083;0;harry potter quotes;5;0.592592592593;0;harry potter quotes quotes;13;0.274278229796;KUIDL-S-E-1A
+0083;0;harry potter quotes;5;0.592592592593;0;harry potter quotes quizzes;16;0.0806934594169;KUIDL-S-E-1A
+0083;0;harry potter quotes;5;0.592592592593;0;harry potter quotes fictional;19;0.0557734204793;KUIDL-S-E-1A
+0083;0;harry potter quotes;5;0.592592592593;0;harry potter quotes trailer;19;0.0557734204793;KUIDL-S-E-1A
+0083;0;harry potter quotes;5;0.592592592593;0;harry potter quotes activities;25;0.0118518518519;KUIDL-S-E-1A
+0083;0;harry potter quotes;5;0.592592592593;0;harry potter quotes wedding;28;0.00235403871768;KUIDL-S-E-1A
+0084;0;21 weeks pregnant week;1;1.0;0;21 weeks pregnant week pregnancy;1;1.0;KUIDL-S-E-1A
+0084;0;21 weeks pregnant week;1;1.0;0;21 weeks pregnant week baby;2;0.814211170111;KUIDL-S-E-1A
+0084;0;21 weeks pregnant week;1;1.0;0;21 weeks pregnant week week;3;0.768105377558;KUIDL-S-E-1A
+0084;0;21 weeks pregnant week;1;1.0;0;21 weeks pregnant week 21;4;0.654655357086;KUIDL-S-E-1A
+0084;0;21 weeks pregnant week;1;1.0;0;21 weeks pregnant week pregnant;5;0.605902804051;KUIDL-S-E-1A
+0084;0;21 weeks pregnant week;1;1.0;0;21 weeks pregnant week weeks;6;0.575289822259;KUIDL-S-E-1A
+0084;0;21 weeks pregnant week;1;1.0;0;21 weeks pregnant week calendar;8;0.372165987135;KUIDL-S-E-1A
+0084;0;21 weeks pregnant week;1;1.0;0;21 weeks pregnant week development;22;0.0482132655354;KUIDL-S-E-1A
+0084;0;21 weeks pregnant week;1;1.0;0;21 weeks pregnant week symptoms;25;0.0128984287559;KUIDL-S-E-1A
+0084;0;21 weeks pregnant week;1;1.0;0;21 weeks pregnant week weight;30;0.000585876278485;KUIDL-S-E-1A
+0084;0;21 weeks pregnant baby;2;0.404761904762;0;21 weeks pregnant baby pregnancy;7;0.404761904762;KUIDL-S-E-1A
+0084;0;21 weeks pregnant baby;2;0.404761904762;0;21 weeks pregnant baby baby;10;0.31356712958;KUIDL-S-E-1A
+0084;0;21 weeks pregnant baby;2;0.404761904762;0;21 weeks pregnant baby update;11;0.30667406175;KUIDL-S-E-1A
+0084;0;21 weeks pregnant baby;2;0.404761904762;0;21 weeks pregnant baby 21;12;0.276611676117;KUIDL-S-E-1A
+0084;0;21 weeks pregnant baby;2;0.404761904762;0;21 weeks pregnant baby week;13;0.272841432994;KUIDL-S-E-1A
+0084;0;21 weeks pregnant baby;2;0.404761904762;0;21 weeks pregnant baby weeks;13;0.272841432994;KUIDL-S-E-1A
+0084;0;21 weeks pregnant baby;2;0.404761904762;0;21 weeks pregnant baby pregnant;14;0.252135036984;KUIDL-S-E-1A
+0084;0;21 weeks pregnant baby;2;0.404761904762;0;21 weeks pregnant baby healthy;24;0.0209868973568;KUIDL-S-E-1A
+0084;0;21 weeks pregnant baby;2;0.404761904762;0;21 weeks pregnant baby little;28;0.00287703249894;KUIDL-S-E-1A
+0084;0;21 weeks pregnant baby;2;0.404761904762;0;21 weeks pregnant baby life;29;0.00085769477752;KUIDL-S-E-1A
+0084;0;21 weeks pregnant abortion;5;0.126984126984;0;21 weeks pregnant abortion wikipedia;17;0.126984126984;KUIDL-S-E-1A
+0084;0;21 weeks pregnant abortion;5;0.126984126984;0;21 weeks pregnant abortion twelve;19;0.108981945605;KUIDL-S-E-1A
+0084;0;21 weeks pregnant abortion;5;0.126984126984;0;21 weeks pregnant abortion clinton;19;0.108981945605;KUIDL-S-E-1A
+0084;0;21 weeks pregnant abortion;5;0.126984126984;0;21 weeks pregnant abortion abortion;20;0.0903356759838;KUIDL-S-E-1A
+0084;0;21 weeks pregnant abortion;5;0.126984126984;0;21 weeks pregnant abortion surgical;21;0.078882170152;KUIDL-S-E-1A
+0084;0;21 weeks pregnant abortion;5;0.126984126984;0;21 weeks pregnant abortion national;26;0.0100516320323;KUIDL-S-E-1A
+0084;0;21 weeks pregnant yahoo;3;0.365079365079;0;21 weeks pregnant yahoo jockeying;9;0.365079365079;KUIDL-S-E-1A
+0084;0;21 weeks pregnant yahoo;3;0.365079365079;0;21 weeks pregnant yahoo presidential;18;0.117130641094;KUIDL-S-E-1A
+0084;0;21 weeks pregnant yahoo;3;0.365079365079;0;21 weeks pregnant yahoo yahoo;27;0.00305298666276;KUIDL-S-E-1A
+0084;0;21 weeks pregnant countdown;4;0.246031746032;0;21 weeks pregnant countdown babycentre;15;0.246031746032;KUIDL-S-E-1A
+0084;0;21 weeks pregnant countdown;4;0.246031746032;0;21 weeks pregnant countdown countdown;16;0.180423280423;KUIDL-S-E-1A
+0084;0;21 weeks pregnant countdown;4;0.246031746032;0;21 weeks pregnant countdown internal;23;0.0273368606702;KUIDL-S-E-1A
+0085;0;7zip download;1;1.0;0;7zip download freeware;1;1.0;KUIDL-S-E-1A
+0085;0;7zip download;1;1.0;0;7zip download file;2;0.941946084062;KUIDL-S-E-1A
+0085;0;7zip download;1;1.0;0;7zip download download;3;0.547294801309;KUIDL-S-E-1A
+0085;0;7zip download;1;1.0;0;7zip download zip;4;0.512478999925;KUIDL-S-E-1A
+0085;0;7zip download;1;1.0;0;7zip download windows;5;0.499190519487;KUIDL-S-E-1A
+0085;0;7zip download;1;1.0;0;7zip download free;6;0.496346803788;KUIDL-S-E-1A
+0085;0;7zip download;1;1.0;0;7zip download software;8;0.328611911266;KUIDL-S-E-1A
+0085;0;7zip download;1;1.0;0;7zip download files;9;0.314578445686;KUIDL-S-E-1A
+0085;0;7zip download;1;1.0;0;7zip download open;27;0.0472546720432;KUIDL-S-E-1A
+0085;0;7zip download;1;1.0;0;7zip download 7zip;30;0.031404399433;KUIDL-S-E-1A
+0085;0;7zip files;2;0.344537815126;0;7zip files ehow;7;0.344537815126;KUIDL-S-E-1A
+0085;0;7zip files;2;0.344537815126;0;7zip files files;17;0.108911928694;KUIDL-S-E-1A
+0085;0;7zip files;2;0.344537815126;0;7zip files zip;20;0.0912316537126;KUIDL-S-E-1A
+0085;0;7zip files;2;0.344537815126;0;7zip files split;23;0.0776018708726;KUIDL-S-E-1A
+0085;0;7zip files;2;0.344537815126;0;7zip files multiple;26;0.0565870217241;KUIDL-S-E-1A
+0085;0;7zip files;2;0.344537815126;0;7zip files folders;28;0.0440406623278;KUIDL-S-E-1A
+0085;0;7zip files;2;0.344537815126;0;7zip files microsoft;31;0.028331746857;KUIDL-S-E-1A
+0085;0;7zip files;2;0.344537815126;0;7zip files line;34;0.00927348682744;KUIDL-S-E-1A
+0085;0;7zip files;2;0.344537815126;0;7zip files 7zip;35;0.00899263954186;KUIDL-S-E-1A
+0085;0;7zip files;2;0.344537815126;0;7zip files using;36;0.00741938873233;KUIDL-S-E-1A
+0085;0;7zip 7z;3;0.268907563025;0;7zip 7z wikipedia;10;0.268907563025;KUIDL-S-E-1A
+0085;0;7zip 7z;3;0.268907563025;0;7zip 7z 7z;11;0.226069968414;KUIDL-S-E-1A
+0085;0;7zip 7z;3;0.268907563025;0;7zip 7z console;12;0.214100116242;KUIDL-S-E-1A
+0085;0;7zip 7z;3;0.268907563025;0;7zip 7z alpha;22;0.0781542012154;KUIDL-S-E-1A
+0085;0;7zip 7z;3;0.268907563025;0;7zip 7z 7zip;24;0.0762267113654;KUIDL-S-E-1A
+0085;0;7zip 7z;3;0.268907563025;0;7zip 7z format;29;0.0414882314787;KUIDL-S-E-1A
+0085;0;7zip 7z;3;0.268907563025;0;7zip 7z default;33;0.0154269955434;KUIDL-S-E-1A
+0085;0;7zip 7z;3;0.268907563025;0;7zip 7z source;39;0.00344608990927;KUIDL-S-E-1A
+0085;0;7zip 7z;3;0.268907563025;0;7zip 7z linux;40;0.00210809975224;KUIDL-S-E-1A
+0085;0;7zip 7z;3;0.268907563025;0;7zip 7z manager;41;1.55805055483e-06;KUIDL-S-E-1A
+0085;0;7zip rt;4;0.193277310924;0;7zip rt rt;13;0.193277310924;KUIDL-S-E-1A
+0085;0;7zip rt;4;0.193277310924;0;7zip rt securezip;13;0.193277310924;KUIDL-S-E-1A
+0085;0;7zip rt;4;0.193277310924;0;7zip rt sid;13;0.193277310924;KUIDL-S-E-1A
+0085;0;7zip rt;4;0.193277310924;0;7zip rt binaries4all;13;0.193277310924;KUIDL-S-E-1A
+0085;0;7zip windows;5;0.168067226891;0;7zip windows windows;14;0.168067226891;KUIDL-S-E-1A
+0085;0;7zip windows;5;0.168067226891;0;7zip windows shareware;15;0.158675653509;KUIDL-S-E-1A
+0085;0;7zip windows;5;0.168067226891;0;7zip windows download;16;0.123020609055;KUIDL-S-E-1A
+0085;0;7zip windows;5;0.168067226891;0;7zip windows 64;18;0.101358060533;KUIDL-S-E-1A
+0085;0;7zip windows;5;0.168067226891;0;7zip windows free;19;0.0972875128164;KUIDL-S-E-1A
+0085;0;7zip windows;5;0.168067226891;0;7zip windows software;21;0.0905199033005;KUIDL-S-E-1A
+0085;0;7zip windows;5;0.168067226891;0;7zip windows bit;25;0.0589730049769;KUIDL-S-E-1A
+0085;0;7zip windows;5;0.168067226891;0;7zip windows vista;32;0.0226618763314;KUIDL-S-E-1A
+0085;0;7zip windows;5;0.168067226891;0;7zip windows downloads;37;0.00568451054308;KUIDL-S-E-1A
+0085;0;7zip windows;5;0.168067226891;0;7zip windows 7zip;38;0.00564494008676;KUIDL-S-E-1A
+0086;0;appendix pain symptoms pain;1;1.0;0;appendix pain symptoms pain pain;1;1.0;KUIDL-S-E-1A
+0086;0;appendix pain symptoms pain;1;1.0;0;appendix pain symptoms pain symptoms;2;0.974363925854;KUIDL-S-E-1A
+0086;0;appendix pain symptoms pain;1;1.0;0;appendix pain symptoms pain appendix;3;0.931686434535;KUIDL-S-E-1A
+0086;0;appendix pain symptoms pain;1;1.0;0;appendix pain symptoms pain appendicitis;4;0.915448307196;KUIDL-S-E-1A
+0086;0;appendix pain symptoms pain;1;1.0;0;appendix pain symptoms pain location;5;0.581022732733;KUIDL-S-E-1A
+0086;0;appendix pain symptoms pain;1;1.0;0;appendix pain symptoms pain children;22;0.0974794987691;KUIDL-S-E-1A
+0086;0;appendix pain symptoms pain;1;1.0;0;appendix pain symptoms pain treatment;24;0.0335684713962;KUIDL-S-E-1A
+0086;0;appendix pain symptoms pain;1;1.0;0;appendix pain symptoms pain causes;25;0.0326694607109;KUIDL-S-E-1A
+0086;0;appendix pain symptoms pain;1;1.0;0;appendix pain symptoms pain signs;29;0.00939183611761;KUIDL-S-E-1A
+0086;0;appendix pain symptoms pain;1;1.0;0;appendix pain symptoms pain diagnosis;33;3.34570980109e-05;KUIDL-S-E-1A
+0086;0;appendix pain symptoms appendix;2;0.517730496454;0;appendix pain symptoms appendix yahoo;6;0.517730496454;KUIDL-S-E-1A
+0086;0;appendix pain symptoms appendix;2;0.517730496454;0;appendix pain symptoms appendix definition;7;0.410349216732;KUIDL-S-E-1A
+0086;0;appendix pain symptoms appendix;2;0.517730496454;0;appendix pain symptoms appendix answers;8;0.267570292327;KUIDL-S-E-1A
+0086;0;appendix pain symptoms appendix;2;0.517730496454;0;appendix pain symptoms appendix free;13;0.164434322118;KUIDL-S-E-1A
+0086;0;appendix pain symptoms appendix;2;0.517730496454;0;appendix pain symptoms appendix appendix;16;0.126265799637;KUIDL-S-E-1A
+0086;0;appendix pain symptoms appendix;2;0.517730496454;0;appendix pain symptoms appendix symptoms;17;0.125523482991;KUIDL-S-E-1A
+0086;0;appendix pain symptoms appendix;2;0.517730496454;0;appendix pain symptoms appendix pain;18;0.122544970764;KUIDL-S-E-1A
+0086;0;appendix pain symptoms appendix;2;0.517730496454;0;appendix pain symptoms appendix ruptured;20;0.105670513653;KUIDL-S-E-1A
+0086;0;appendix pain symptoms appendix;2;0.517730496454;0;appendix pain symptoms appendix burst;21;0.0981608441228;KUIDL-S-E-1A
+0086;0;appendix pain symptoms appendix;2;0.517730496454;0;appendix pain symptoms appendix children;27;0.0132366497639;KUIDL-S-E-1A
+0086;0;appendix pain symptoms wikipedia;4;0.198581560284;0;appendix pain symptoms wikipedia freemd;10;0.198581560284;KUIDL-S-E-1A
+0086;0;appendix pain symptoms wikipedia;4;0.198581560284;0;appendix pain symptoms wikipedia wikipedia;15;0.131414267835;KUIDL-S-E-1A
+0086;0;appendix pain symptoms wikipedia;4;0.198581560284;0;appendix pain symptoms wikipedia retrocecal;30;0.00715477680434;KUIDL-S-E-1A
+0086;0;appendix pain symptoms signs;5;0.177304964539;0;appendix pain symptoms signs signs;11;0.177304964539;KUIDL-S-E-1A
+0086;0;appendix pain symptoms signs;5;0.177304964539;0;appendix pain symptoms signs pictures;14;0.159049181504;KUIDL-S-E-1A
+0086;0;appendix pain symptoms signs;5;0.177304964539;0;appendix pain symptoms signs warning;19;0.115372322253;KUIDL-S-E-1A
+0086;0;appendix pain symptoms signs;5;0.177304964539;0;appendix pain symptoms signs children;26;0.0253657300685;KUIDL-S-E-1A
+0086;0;appendix pain symptoms signs;5;0.177304964539;0;appendix pain symptoms signs chronic;28;0.0126435492904;KUIDL-S-E-1A
+0086;0;appendix pain symptoms signs;5;0.177304964539;0;appendix pain symptoms signs problems;31;0.00592025332086;KUIDL-S-E-1A
+0086;0;appendix pain symptoms signs;5;0.177304964539;0;appendix pain symptoms signs make;32;0.000829775336765;KUIDL-S-E-1A
+0086;0;appendix pain symptoms gall;3;0.212765957447;0;appendix pain symptoms gall katherine;9;0.212765957447;KUIDL-S-E-1A
+0086;0;appendix pain symptoms gall;3;0.212765957447;0;appendix pain symptoms gall sharecare;9;0.212765957447;KUIDL-S-E-1A
+0086;0;appendix pain symptoms gall;3;0.212765957447;0;appendix pain symptoms gall gall;12;0.173083417764;KUIDL-S-E-1A
+0086;0;appendix pain symptoms gall;3;0.212765957447;0;appendix pain symptoms gall medlineplus;23;0.0540357987166;KUIDL-S-E-1A
+0087;0;brad paisley lyrics lyrics;1;1.0;0;brad paisley lyrics lyrics country;1;1.0;KUIDL-S-E-1A
+0087;0;brad paisley lyrics lyrics;1;1.0;0;brad paisley lyrics lyrics music;2;0.834905157536;KUIDL-S-E-1A
+0087;0;brad paisley lyrics lyrics;1;1.0;0;brad paisley lyrics lyrics song;3;0.829175269766;KUIDL-S-E-1A
+0087;0;brad paisley lyrics lyrics;1;1.0;0;brad paisley lyrics lyrics 92;4;0.594436982648;KUIDL-S-E-1A
+0087;0;brad paisley lyrics lyrics;1;1.0;0;brad paisley lyrics lyrics wil;5;0.592821337545;KUIDL-S-E-1A
+0087;0;brad paisley lyrics lyrics;1;1.0;0;brad paisley lyrics lyrics louis;8;0.449956641763;KUIDL-S-E-1A
+0087;0;brad paisley lyrics lyrics;1;1.0;0;brad paisley lyrics lyrics get;24;0.195997539699;KUIDL-S-E-1A
+0087;0;brad paisley lyrics lyrics;1;1.0;0;brad paisley lyrics lyrics alabama;27;0.140535356401;KUIDL-S-E-1A
+0087;0;brad paisley lyrics lyrics;1;1.0;0;brad paisley lyrics lyrics lyrics;29;0.0962341267144;KUIDL-S-E-1A
+0087;0;brad paisley lyrics lyrics;1;1.0;0;brad paisley lyrics lyrics going;41;0.000355003247907;KUIDL-S-E-1A
+0087;0;brad paisley lyrics secret;2;0.484536082474;0;brad paisley lyrics secret reveals;6;0.484536082474;KUIDL-S-E-1A
+0087;0;brad paisley lyrics secret;2;0.484536082474;0;brad paisley lyrics secret happy;6;0.484536082474;KUIDL-S-E-1A
+0087;0;brad paisley lyrics secret;2;0.484536082474;0;brad paisley lyrics secret secret;33;0.0513038204973;KUIDL-S-E-1A
+0087;0;brad paisley lyrics secret;2;0.484536082474;0;brad paisley lyrics secret marriage;36;0.0371766815198;KUIDL-S-E-1A
+0087;0;brad paisley lyrics songs;3;0.474226804124;0;brad paisley lyrics songs done;7;0.474226804124;KUIDL-S-E-1A
+0087;0;brad paisley lyrics songs;3;0.474226804124;0;brad paisley lyrics songs tickets;9;0.444618336322;KUIDL-S-E-1A
+0087;0;brad paisley lyrics songs;3;0.474226804124;0;brad paisley lyrics songs bryan;12;0.376831697602;KUIDL-S-E-1A
+0087;0;brad paisley lyrics songs;3;0.474226804124;0;brad paisley lyrics songs luke;15;0.33222537831;KUIDL-S-E-1A
+0087;0;brad paisley lyrics songs;3;0.474226804124;0;brad paisley lyrics songs songs;17;0.30307932515;KUIDL-S-E-1A
+0087;0;brad paisley lyrics songs;3;0.474226804124;0;brad paisley lyrics songs urban;23;0.197892705245;KUIDL-S-E-1A
+0087;0;brad paisley lyrics songs;3;0.474226804124;0;brad paisley lyrics songs keith;28;0.110715155294;KUIDL-S-E-1A
+0087;0;brad paisley lyrics songs;3;0.474226804124;0;brad paisley lyrics songs carrie;31;0.0756029443935;KUIDL-S-E-1A
+0087;0;brad paisley lyrics songs;3;0.474226804124;0;brad paisley lyrics songs underwood;37;0.0365904237139;KUIDL-S-E-1A
+0087;0;brad paisley lyrics songs;3;0.474226804124;0;brad paisley lyrics songs play;40;0.00328032301101;KUIDL-S-E-1A
+0087;0;brad paisley lyrics album;4;0.40206185567;0;brad paisley lyrics album lineup;10;0.40206185567;KUIDL-S-E-1A
+0087;0;brad paisley lyrics album;4;0.40206185567;0;brad paisley lyrics album album;11;0.390704913643;KUIDL-S-E-1A
+0087;0;brad paisley lyrics album;4;0.40206185567;0;brad paisley lyrics album breaking;11;0.390704913643;KUIDL-S-E-1A
+0087;0;brad paisley lyrics album;4;0.40206185567;0;brad paisley lyrics album tree;16;0.316203373946;KUIDL-S-E-1A
+0087;0;brad paisley lyrics album;4;0.40206185567;0;brad paisley lyrics album weekend;19;0.259971452308;KUIDL-S-E-1A
+0087;0;brad paisley lyrics album;4;0.40206185567;0;brad paisley lyrics album town;21;0.220931948714;KUIDL-S-E-1A
+0087;0;brad paisley lyrics album;4;0.40206185567;0;brad paisley lyrics album nation;32;0.0531779580708;KUIDL-S-E-1A
+0087;0;brad paisley lyrics album;4;0.40206185567;0;brad paisley lyrics album change;35;0.0486217529295;KUIDL-S-E-1A
+0087;0;brad paisley lyrics album;4;0.40206185567;0;brad paisley lyrics album revealed;38;0.0122334219536;KUIDL-S-E-1A
+0087;0;brad paisley lyrics country;5;0.360824742268;0;brad paisley lyrics country torrents;13;0.360824742268;KUIDL-S-E-1A
+0087;0;brad paisley lyrics country;5;0.360824742268;0;brad paisley lyrics country backing;14;0.337229265157;KUIDL-S-E-1A
+0087;0;brad paisley lyrics country;5;0.360824742268;0;brad paisley lyrics country holding;18;0.287015694012;KUIDL-S-E-1A
+0087;0;brad paisley lyrics country;5;0.360824742268;0;brad paisley lyrics country weird;20;0.233452861198;KUIDL-S-E-1A
+0087;0;brad paisley lyrics country;5;0.360824742268;0;brad paisley lyrics country country;22;0.198150233407;KUIDL-S-E-1A
+0087;0;brad paisley lyrics country;5;0.360824742268;0;brad paisley lyrics country mona;25;0.147820092473;KUIDL-S-E-1A
+0087;0;brad paisley lyrics country;5;0.360824742268;0;brad paisley lyrics country lisa;26;0.144358924875;KUIDL-S-E-1A
+0087;0;brad paisley lyrics country;5;0.360824742268;0;brad paisley lyrics country track;30;0.0948671326293;KUIDL-S-E-1A
+0087;0;brad paisley lyrics country;5;0.360824742268;0;brad paisley lyrics country billboard;34;0.0496097491259;KUIDL-S-E-1A
+0087;0;brad paisley lyrics country;5;0.360824742268;0;brad paisley lyrics country page;39;0.00899484485646;KUIDL-S-E-1A
+0088;0;craig's list phoenix phoenix;1;1.0;0;craig's list phoenix phoenix jordan;1;1.0;KUIDL-S-E-1A
+0088;0;craig's list phoenix phoenix;1;1.0;0;craig's list phoenix phoenix 721;2;0.976594290208;KUIDL-S-E-1A
+0088;0;craig's list phoenix phoenix;1;1.0;0;craig's list phoenix phoenix beaverton;3;0.9757409024;KUIDL-S-E-1A
+0088;0;craig's list phoenix phoenix;1;1.0;0;craig's list phoenix phoenix bass;4;0.866605132542;KUIDL-S-E-1A
+0088;0;craig's list phoenix phoenix;1;1.0;0;craig's list phoenix phoenix pro;5;0.76351461348;KUIDL-S-E-1A
+0088;0;craig's list phoenix phoenix;1;1.0;0;craig's list phoenix phoenix 2012;7;0.550480753408;KUIDL-S-E-1A
+0088;0;craig's list phoenix phoenix;1;1.0;0;craig's list phoenix phoenix 250;9;0.494541618802;KUIDL-S-E-1A
+0088;0;craig's list phoenix phoenix;1;1.0;0;craig's list phoenix phoenix 50;16;0.190422225219;KUIDL-S-E-1A
+0088;0;craig's list phoenix phoenix;1;1.0;0;craig's list phoenix phoenix phoenix;24;0.0575065870181;KUIDL-S-E-1A
+0088;0;craig's list phoenix phoenix;1;1.0;0;craig's list phoenix phoenix 100;25;0.0565998944319;KUIDL-S-E-1A
+0088;0;craig's list phoenix owner;2;0.67619047619;0;craig's list phoenix owner owner;6;0.67619047619;KUIDL-S-E-1A
+0088;0;craig's list phoenix owner;2;0.67619047619;0;craig's list phoenix owner classifieds;8;0.506301181611;KUIDL-S-E-1A
+0088;0;craig's list phoenix owner;2;0.67619047619;0;craig's list phoenix owner pets;10;0.486412212373;KUIDL-S-E-1A
+0088;0;craig's list phoenix owner;2;0.67619047619;0;craig's list phoenix owner rent;11;0.39367127041;KUIDL-S-E-1A
+0088;0;craig's list phoenix owner;2;0.67619047619;0;craig's list phoenix owner general;14;0.309732209082;KUIDL-S-E-1A
+0088;0;craig's list phoenix owner;2;0.67619047619;0;craig's list phoenix owner garden;21;0.092448634256;KUIDL-S-E-1A
+0088;0;craig's list phoenix owner;2;0.67619047619;0;craig's list phoenix owner craigslist;22;0.0714839564272;KUIDL-S-E-1A
+0088;0;craig's list phoenix owner;2;0.67619047619;0;craig's list phoenix owner farm;23;0.0667306558842;KUIDL-S-E-1A
+0088;0;craig's list phoenix owner;2;0.67619047619;0;craig's list phoenix owner stuff;26;0.0434967343658;KUIDL-S-E-1A
+0088;0;craig's list phoenix owner;2;0.67619047619;0;craig's list phoenix owner rvs;27;0.0432472878898;KUIDL-S-E-1A
+0088;0;craig's list phoenix jobs;3;0.361904761905;0;craig's list phoenix jobs sober;12;0.361904761905;KUIDL-S-E-1A
+0088;0;craig's list phoenix jobs;3;0.361904761905;0;craig's list phoenix jobs brownsville;13;0.352853804504;KUIDL-S-E-1A
+0088;0;craig's list phoenix jobs;3;0.361904761905;0;craig's list phoenix jobs apartments;15;0.226049750037;KUIDL-S-E-1A
+0088;0;craig's list phoenix jobs;3;0.361904761905;0;craig's list phoenix jobs living;17;0.181599398026;KUIDL-S-E-1A
+0088;0;craig's list phoenix jobs;3;0.361904761905;0;craig's list phoenix jobs jobs;20;0.119169143918;KUIDL-S-E-1A
+0088;0;craig's list phoenix jobs;3;0.361904761905;0;craig's list phoenix jobs classifieds;28;0.0386559432047;KUIDL-S-E-1A
+0088;0;craig's list phoenix jobs;3;0.361904761905;0;craig's list phoenix jobs arizona;29;0.0173061290993;KUIDL-S-E-1A
+0088;0;craig's list phoenix jobs;3;0.361904761905;0;craig's list phoenix jobs search;30;0.00255181152977;KUIDL-S-E-1A
+0088;0;craig's list phoenix jobs;3;0.361904761905;0;craig's list phoenix jobs craigslist;31;0.000204184087348;KUIDL-S-E-1A
+0088;0;craig's list phoenix jobs;3;0.361904761905;0;craig's list phoenix jobs north;32;3.98942101337e-05;KUIDL-S-E-1A
+0088;0;craig's list phoenix healthcare;5;0.171428571429;0;craig's list phoenix healthcare healthcare;19;0.171428571429;KUIDL-S-E-1A
+0088;0;craig's list phoenix arrested;4;0.180952380952;0;craig's list phoenix arrested arrested;18;0.180952380952;KUIDL-S-E-1A
+0089;0;mcdonalds nutrition guide guide;1;1.0;0;mcdonalds nutrition guide guide nutrition;1;1.0;KUIDL-S-E-1A
+0089;0;mcdonalds nutrition guide guide;1;1.0;0;mcdonalds nutrition guide guide mcdonald;16;0.161512020826;KUIDL-S-E-1A
+0089;0;mcdonalds nutrition guide guide;1;1.0;0;mcdonalds nutrition guide guide info;18;0.140290921407;KUIDL-S-E-1A
+0089;0;mcdonalds nutrition guide guide;1;1.0;0;mcdonalds nutrition guide guide guide;19;0.136285722702;KUIDL-S-E-1A
+0089;0;mcdonalds nutrition guide guide;1;1.0;0;mcdonalds nutrition guide guide information;22;0.0589011745045;KUIDL-S-E-1A
+0089;0;mcdonalds nutrition guide guide;1;1.0;0;mcdonalds nutrition guide guide calorie;24;0.0466345849523;KUIDL-S-E-1A
+0089;0;mcdonalds nutrition guide guide;1;1.0;0;mcdonalds nutrition guide guide menu;34;0.0104284590252;KUIDL-S-E-1A
+0089;0;mcdonalds nutrition guide guide;1;1.0;0;mcdonalds nutrition guide guide nutritional;36;0.00551731873701;KUIDL-S-E-1A
+0089;0;mcdonalds nutrition guide guide;1;1.0;0;mcdonalds nutrition guide guide mcdonalds;38;0.00169419560093;KUIDL-S-E-1A
+0089;0;mcdonalds nutrition guide mcdonalds;2;0.715909090909;0;mcdonalds nutrition guide mcdonalds nutrition;2;0.715909090909;KUIDL-S-E-1A
+0089;0;mcdonalds nutrition guide mcdonalds;2;0.715909090909;0;mcdonalds nutrition guide mcdonalds counters;3;0.661308192034;KUIDL-S-E-1A
+0089;0;mcdonalds nutrition guide mcdonalds;2;0.715909090909;0;mcdonalds nutrition guide mcdonalds food;4;0.64659576434;KUIDL-S-E-1A
+0089;0;mcdonalds nutrition guide mcdonalds;2;0.715909090909;0;mcdonalds nutrition guide mcdonalds tumblr;5;0.608218408142;KUIDL-S-E-1A
+0089;0;mcdonalds nutrition guide mcdonalds;2;0.715909090909;0;mcdonalds nutrition guide mcdonalds guide;17;0.157209776326;KUIDL-S-E-1A
+0089;0;mcdonalds nutrition guide mcdonalds;2;0.715909090909;0;mcdonalds nutrition guide mcdonalds calories;21;0.0612070074676;KUIDL-S-E-1A
+0089;0;mcdonalds nutrition guide mcdonalds;2;0.715909090909;0;mcdonalds nutrition guide mcdonalds mcdonalds;23;0.0573227887999;KUIDL-S-E-1A
+0089;0;mcdonalds nutrition guide mcdonalds;2;0.715909090909;0;mcdonalds nutrition guide mcdonalds fast;27;0.0272869597112;KUIDL-S-E-1A
+0089;0;mcdonalds nutrition guide mcdonalds;2;0.715909090909;0;mcdonalds nutrition guide mcdonalds calorie;32;0.0113760130023;KUIDL-S-E-1A
+0089;0;mcdonalds nutrition guide mcdonalds;2;0.715909090909;0;mcdonalds nutrition guide mcdonalds facts;41;0.000194795384098;KUIDL-S-E-1A
+0089;0;mcdonalds nutrition guide calories;3;0.568181818182;0;mcdonalds nutrition guide calories mcdonald;6;0.568181818182;KUIDL-S-E-1A
+0089;0;mcdonalds nutrition guide calories;3;0.568181818182;0;mcdonalds nutrition guide calories lyle;15;0.22890862389;KUIDL-S-E-1A
+0089;0;mcdonalds nutrition guide calories;3;0.568181818182;0;mcdonalds nutrition guide calories calories;20;0.0737936715233;KUIDL-S-E-1A
+0089;0;mcdonalds nutrition guide calories;3;0.568181818182;0;mcdonalds nutrition guide calories health;28;0.025004749108;KUIDL-S-E-1A
+0089;0;mcdonalds nutrition guide calories;3;0.568181818182;0;mcdonalds nutrition guide calories chicken;31;0.0122125883535;KUIDL-S-E-1A
+0089;0;mcdonalds nutrition guide calories;3;0.568181818182;0;mcdonalds nutrition guide calories diet;33;0.0106583300068;KUIDL-S-E-1A
+0089;0;mcdonalds nutrition guide calories;3;0.568181818182;0;mcdonalds nutrition guide calories mcdonalds;35;0.00929431136587;KUIDL-S-E-1A
+0089;0;mcdonalds nutrition guide calories;3;0.568181818182;0;mcdonalds nutrition guide calories facts;37;0.00272206360254;KUIDL-S-E-1A
+0089;0;mcdonalds nutrition guide calories;3;0.568181818182;0;mcdonalds nutrition guide calories fries;40;0.00107371956154;KUIDL-S-E-1A
+0089;0;mcdonalds nutrition guide improved;4;0.443181818182;0;mcdonalds nutrition guide improved improved;7;0.443181818182;KUIDL-S-E-1A
+0089;0;mcdonalds nutrition guide improved;4;0.443181818182;0;mcdonalds nutrition guide improved commitments;25;0.0411730205279;KUIDL-S-E-1A
+0089;0;mcdonalds nutrition guide improved;4;0.443181818182;0;mcdonalds nutrition guide improved announces;39;0.00132231404959;KUIDL-S-E-1A
+0089;0;mcdonalds nutrition guide mcdonald;5;0.397727272727;0;mcdonalds nutrition guide mcdonald melissa;8;0.397727272727;KUIDL-S-E-1A
+0089;0;mcdonalds nutrition guide mcdonald;5;0.397727272727;0;mcdonalds nutrition guide mcdonald wikipedia;9;0.386419295233;KUIDL-S-E-1A
+0089;0;mcdonalds nutrition guide mcdonald;5;0.397727272727;0;mcdonalds nutrition guide mcdonald codes;10;0.372545291935;KUIDL-S-E-1A
+0089;0;mcdonalds nutrition guide mcdonald;5;0.397727272727;0;mcdonalds nutrition guide mcdonald software;11;0.345562718394;KUIDL-S-E-1A
+0089;0;mcdonalds nutrition guide mcdonald;5;0.397727272727;0;mcdonalds nutrition guide mcdonald ronald;12;0.324046630084;KUIDL-S-E-1A
+0089;0;mcdonalds nutrition guide mcdonald;5;0.397727272727;0;mcdonalds nutrition guide mcdonald packaging;13;0.318905653359;KUIDL-S-E-1A
+0089;0;mcdonalds nutrition guide mcdonald;5;0.397727272727;0;mcdonalds nutrition guide mcdonald uk;14;0.308631679068;KUIDL-S-E-1A
+0089;0;mcdonalds nutrition guide mcdonald;5;0.397727272727;0;mcdonalds nutrition guide mcdonald food;26;0.0361484789367;KUIDL-S-E-1A
+0089;0;mcdonalds nutrition guide mcdonald;5;0.397727272727;0;mcdonalds nutrition guide mcdonald free;29;0.0214173966266;KUIDL-S-E-1A
+0089;0;mcdonalds nutrition guide mcdonald;5;0.397727272727;0;mcdonalds nutrition guide mcdonald mcdonald;30;0.0175278976886;KUIDL-S-E-1A
+0090;0;sausalito art festival artists;1;1.0;0;sausalito art festival artists san;1;1.0;KUIDL-S-E-1A
+0090;0;sausalito art festival artists;1;1.0;0;sausalito art festival artists artists;5;0.39893593159;KUIDL-S-E-1A
+0090;0;sausalito art festival artists;1;1.0;0;sausalito art festival artists francisco;14;0.212785818982;KUIDL-S-E-1A
+0090;0;sausalito art festival artists;1;1.0;0;sausalito art festival artists day;22;0.107640919257;KUIDL-S-E-1A
+0090;0;sausalito art festival artists;1;1.0;0;sausalito art festival artists shows;28;0.054102680149;KUIDL-S-E-1A
+0090;0;sausalito art festival artists;1;1.0;0;sausalito art festival artists arts;32;0.04360494616;KUIDL-S-E-1A
+0090;0;sausalito art festival artists;1;1.0;0;sausalito art festival artists festivals;38;0.00122933744544;KUIDL-S-E-1A
+0090;0;sausalito art festival artists;1;1.0;0;sausalito art festival artists galleries;39;0.000119556118222;KUIDL-S-E-1A
+0090;0;sausalito art festival festival;2;0.594339622642;0;sausalito art festival festival anne;2;0.594339622642;KUIDL-S-E-1A
+0090;0;sausalito art festival festival;2;0.594339622642;0;sausalito art festival festival yahoo;3;0.561461665056;KUIDL-S-E-1A
+0090;0;sausalito art festival festival;2;0.594339622642;0;sausalito art festival festival davis;4;0.557816271878;KUIDL-S-E-1A
+0090;0;sausalito art festival festival;2;0.594339622642;0;sausalito art festival festival ferry;8;0.327688323075;KUIDL-S-E-1A
+0090;0;sausalito art festival festival;2;0.594339622642;0;sausalito art festival festival family;10;0.286270560697;KUIDL-S-E-1A
+0090;0;sausalito art festival festival;2;0.594339622642;0;sausalito art festival festival fine;20;0.134338555961;KUIDL-S-E-1A
+0090;0;sausalito art festival festival;2;0.594339622642;0;sausalito art festival festival ca;27;0.0656794329197;KUIDL-S-E-1A
+0090;0;sausalito art festival festival;2;0.594339622642;0;sausalito art festival festival art;30;0.0468178441736;KUIDL-S-E-1A
+0090;0;sausalito art festival festival;2;0.594339622642;0;sausalito art festival festival festival;33;0.0428987916189;KUIDL-S-E-1A
+0090;0;sausalito art festival festival;2;0.594339622642;0;sausalito art festival festival california;34;0.0329462263519;KUIDL-S-E-1A
+0090;0;sausalito art festival san;3;0.367924528302;0;sausalito art festival san commerce;6;0.367924528302;KUIDL-S-E-1A
+0090;0;sausalito art festival san;3;0.367924528302;0;sausalito art festival san san;7;0.361097664953;KUIDL-S-E-1A
+0090;0;sausalito art festival san;3;0.367924528302;0;sausalito art festival san chamber;9;0.310248185059;KUIDL-S-E-1A
+0090;0;sausalito art festival san;3;0.367924528302;0;sausalito art festival san francisco;15;0.206410081273;KUIDL-S-E-1A
+0090;0;sausalito art festival san;3;0.367924528302;0;sausalito art festival san hotel;16;0.203272038372;KUIDL-S-E-1A
+0090;0;sausalito art festival san;3;0.367924528302;0;sausalito art festival san bay;17;0.184457097836;KUIDL-S-E-1A
+0090;0;sausalito art festival san;3;0.367924528302;0;sausalito art festival san guide;18;0.175693087593;KUIDL-S-E-1A
+0090;0;sausalito art festival san;3;0.367924528302;0;sausalito art festival san california;23;0.105029588677;KUIDL-S-E-1A
+0090;0;sausalito art festival san;3;0.367924528302;0;sausalito art festival san things;24;0.103350138949;KUIDL-S-E-1A
+0090;0;sausalito art festival san;3;0.367924528302;0;sausalito art festival san travel;29;0.0470165867813;KUIDL-S-E-1A
+0090;0;sausalito art festival marin;5;0.245283018868;0;sausalito art festival marin topix;12;0.245283018868;KUIDL-S-E-1A
+0090;0;sausalito art festival marin;5;0.245283018868;0;sausalito art festival marin marin;21;0.113600124829;KUIDL-S-E-1A
+0090;0;sausalito art festival marin;5;0.245283018868;0;sausalito art festival marin photographer;25;0.0993655664617;KUIDL-S-E-1A
+0090;0;sausalito art festival marin;5;0.245283018868;0;sausalito art festival marin artist;26;0.0878216123499;KUIDL-S-E-1A
+0090;0;sausalito art festival marin;5;0.245283018868;0;sausalito art festival marin parking;35;0.02269343011;KUIDL-S-E-1A
+0090;0;sausalito art festival marin;5;0.245283018868;0;sausalito art festival marin street;36;0.00265507200128;KUIDL-S-E-1A
+0090;0;sausalito art festival marin;5;0.245283018868;0;sausalito art festival marin valley;37;0.00253144337151;KUIDL-S-E-1A
+0090;0;sausalito art festival tiburon;4;0.264150943396;0;sausalito art festival tiburon beirut;11;0.264150943396;KUIDL-S-E-1A
+0090;0;sausalito art festival tiburon;4;0.264150943396;0;sausalito art festival tiburon moonlight;13;0.226600073992;KUIDL-S-E-1A
+0090;0;sausalito art festival tiburon;4;0.264150943396;0;sausalito art festival tiburon mona;19;0.174028856826;KUIDL-S-E-1A
+0090;0;sausalito art festival tiburon;4;0.264150943396;0;sausalito art festival tiburon tiburon;19;0.174028856826;KUIDL-S-E-1A
+0090;0;sausalito art festival tiburon;4;0.264150943396;0;sausalito art festival tiburon designs;31;0.0446227838015;KUIDL-S-E-1A
+0091;0;tennessee unemployment benefits;1;1.0;0;tennessee unemployment benefits benefits;1;1.0;KUIDL-S-E-1A
+0091;0;tennessee unemployment benefits;1;1.0;0;tennessee unemployment benefits labor;5;0.292557740068;KUIDL-S-E-1A
+0091;0;tennessee unemployment benefits;1;1.0;0;tennessee unemployment benefits insurance;10;0.142849896082;KUIDL-S-E-1A
+0091;0;tennessee unemployment benefits;1;1.0;0;tennessee unemployment benefits compensation;12;0.0958563267242;KUIDL-S-E-1A
+0091;0;tennessee unemployment benefits;1;1.0;0;tennessee unemployment benefits job;18;0.0739165364917;KUIDL-S-E-1A
+0091;0;tennessee unemployment benefits;1;1.0;0;tennessee unemployment benefits tn;22;0.0332744076756;KUIDL-S-E-1A
+0091;0;tennessee unemployment benefits;1;1.0;0;tennessee unemployment benefits department;24;0.0290420593643;KUIDL-S-E-1A
+0091;0;tennessee unemployment benefits;1;1.0;0;tennessee unemployment benefits online;26;0.014614592505;KUIDL-S-E-1A
+0091;0;tennessee unemployment benefits;1;1.0;0;tennessee unemployment benefits file;27;0.0137272558785;KUIDL-S-E-1A
+0091;0;tennessee unemployment news;2;0.776785714286;0;tennessee unemployment news hardest;2;0.776785714286;KUIDL-S-E-1A
+0091;0;tennessee unemployment news;2;0.776785714286;0;tennessee unemployment news lowers;3;0.773144720346;KUIDL-S-E-1A
+0091;0;tennessee unemployment news;2;0.776785714286;0;tennessee unemployment news reaches;4;0.511920731707;KUIDL-S-E-1A
+0091;0;tennessee unemployment news;2;0.776785714286;0;tennessee unemployment news hit;6;0.21326988729;KUIDL-S-E-1A
+0091;0;tennessee unemployment news;2;0.776785714286;0;tennessee unemployment news news;19;0.0692368575891;KUIDL-S-E-1A
+0091;0;tennessee unemployment news;2;0.776785714286;0;tennessee unemployment news rates;23;0.0325538245014;KUIDL-S-E-1A
+0091;0;tennessee unemployment news;2;0.776785714286;0;tennessee unemployment news rate;29;0.00984279322928;KUIDL-S-E-1A
+0091;0;tennessee unemployment news;2;0.776785714286;0;tennessee unemployment news tn;34;0.00162218003533;KUIDL-S-E-1A
+0091;0;tennessee unemployment office;4;0.178571428571;0;tennessee unemployment office ycharts;8;0.178571428571;KUIDL-S-E-1A
+0091;0;tennessee unemployment office;4;0.178571428571;0;tennessee unemployment office office;16;0.0769293309337;KUIDL-S-E-1A
+0091;0;tennessee unemployment office;4;0.178571428571;0;tennessee unemployment office certification;25;0.0243059882424;KUIDL-S-E-1A
+0091;0;tennessee unemployment office;4;0.178571428571;0;tennessee unemployment office house;30;0.00975688665182;KUIDL-S-E-1A
+0091;0;tennessee unemployment office;4;0.178571428571;0;tennessee unemployment office person;31;0.00785102107767;KUIDL-S-E-1A
+0091;0;tennessee unemployment office;4;0.178571428571;0;tennessee unemployment office live;33;0.00277353718752;KUIDL-S-E-1A
+0091;0;tennessee unemployment office;4;0.178571428571;0;tennessee unemployment office weekly;35;0.000143378519291;KUIDL-S-E-1A
+0091;0;tennessee unemployment development;3;0.205357142857;0;tennessee unemployment development workforce;7;0.205357142857;KUIDL-S-E-1A
+0091;0;tennessee unemployment development;3;0.205357142857;0;tennessee unemployment development teenage;13;0.0935279026081;KUIDL-S-E-1A
+0091;0;tennessee unemployment development;3;0.205357142857;0;tennessee unemployment development huntsville;17;0.0741821013246;KUIDL-S-E-1A
+0091;0;tennessee unemployment development;3;0.205357142857;0;tennessee unemployment development petition;20;0.0648674562621;KUIDL-S-E-1A
+0091;0;tennessee unemployment development;3;0.205357142857;0;tennessee unemployment development development;21;0.0384846863795;KUIDL-S-E-1A
+0091;0;tennessee unemployment development;3;0.205357142857;0;tennessee unemployment development appeal;28;0.010263797212;KUIDL-S-E-1A
+0091;0;tennessee unemployment released;5;0.151785714286;0;tennessee unemployment released dear;9;0.151785714286;KUIDL-S-E-1A
+0091;0;tennessee unemployment released;5;0.151785714286;0;tennessee unemployment released released;11;0.122448979592;KUIDL-S-E-1A
+0091;0;tennessee unemployment released;5;0.151785714286;0;tennessee unemployment released wikipedia;14;0.0913865546218;KUIDL-S-E-1A
+0091;0;tennessee unemployment released;5;0.151785714286;0;tennessee unemployment released consolidated;15;0.0833333333333;KUIDL-S-E-1A
+0091;0;tennessee unemployment released;5;0.151785714286;0;tennessee unemployment released topix;32;0.00529696928605;KUIDL-S-E-1A
+0092;0;men's shoe sizes conversion men;1;1.0;0;men's shoe sizes conversion men yahoo;1;1.0;KUIDL-S-E-1A
+0092;0;men's shoe sizes conversion men;1;1.0;0;men's shoe sizes conversion men table;7;0.418313286709;KUIDL-S-E-1A
+0092;0;men's shoe sizes conversion men;1;1.0;0;men's shoe sizes conversion men shoe;15;0.163216801386;KUIDL-S-E-1A
+0092;0;men's shoe sizes conversion men;1;1.0;0;men's shoe sizes conversion men men;16;0.152293146271;KUIDL-S-E-1A
+0092;0;men's shoe sizes conversion men;1;1.0;0;men's shoe sizes conversion men shoes;22;0.0905748013518;KUIDL-S-E-1A
+0092;0;men's shoe sizes conversion men;1;1.0;0;men's shoe sizes conversion men sizing;23;0.0855350385897;KUIDL-S-E-1A
+0092;0;men's shoe sizes conversion men;1;1.0;0;men's shoe sizes conversion men conversion;24;0.0840459728514;KUIDL-S-E-1A
+0092;0;men's shoe sizes conversion men;1;1.0;0;men's shoe sizes conversion men women;29;0.0631240031018;KUIDL-S-E-1A
+0092;0;men's shoe sizes conversion men;1;1.0;0;men's shoe sizes conversion men sizes;35;0.00858621641354;KUIDL-S-E-1A
+0092;0;men's shoe sizes conversion men;1;1.0;0;men's shoe sizes conversion men chart;36;0.00409642958473;KUIDL-S-E-1A
+0092;0;men's shoe sizes conversion shoes;2;0.858695652174;0;men's shoe sizes conversion shoes ehow;2;0.858695652174;KUIDL-S-E-1A
+0092;0;men's shoe sizes conversion shoes;2;0.858695652174;0;men's shoe sizes conversion shoes shoe;8;0.364776504454;KUIDL-S-E-1A
+0092;0;men's shoe sizes conversion shoes;2;0.858695652174;0;men's shoe sizes conversion shoes men;10;0.267381627783;KUIDL-S-E-1A
+0092;0;men's shoe sizes conversion shoes;2;0.858695652174;0;men's shoe sizes conversion shoes shoes;11;0.249910592095;KUIDL-S-E-1A
+0092;0;men's shoe sizes conversion shoes;2;0.858695652174;0;men's shoe sizes conversion shoes conversion;13;0.24103421532;KUIDL-S-E-1A
+0092;0;men's shoe sizes conversion shoes;2;0.858695652174;0;men's shoe sizes conversion shoes women;18;0.140038801303;KUIDL-S-E-1A
+0092;0;men's shoe sizes conversion shoes;2;0.858695652174;0;men's shoe sizes conversion shoes convert;19;0.122457066369;KUIDL-S-E-1A
+0092;0;men's shoe sizes conversion shoes;2;0.858695652174;0;men's shoe sizes conversion shoes chart;25;0.0805019242004;KUIDL-S-E-1A
+0092;0;men's shoe sizes conversion shoes;2;0.858695652174;0;men's shoe sizes conversion shoes sizes;27;0.0779684441206;KUIDL-S-E-1A
+0092;0;men's shoe sizes conversion shoes;2;0.858695652174;0;men's shoe sizes conversion shoes mens;33;0.0237293509226;KUIDL-S-E-1A
+0092;0;men's shoe sizes conversion chart;3;0.771739130435;0;men's shoe sizes conversion chart sock;3;0.771739130435;KUIDL-S-E-1A
+0092;0;men's shoe sizes conversion chart;3;0.771739130435;0;men's shoe sizes conversion chart converse;4;0.585376276275;KUIDL-S-E-1A
+0092;0;men's shoe sizes conversion chart;3;0.771739130435;0;men's shoe sizes conversion chart shoe;12;0.243291880866;KUIDL-S-E-1A
+0092;0;men's shoe sizes conversion chart;3;0.771739130435;0;men's shoe sizes conversion chart clothing;14;0.205813935547;KUIDL-S-E-1A
+0092;0;men's shoe sizes conversion chart;3;0.771739130435;0;men's shoe sizes conversion chart conversion;17;0.15059922193;KUIDL-S-E-1A
+0092;0;men's shoe sizes conversion chart;3;0.771739130435;0;men's shoe sizes conversion chart mens;20;0.0975564259475;KUIDL-S-E-1A
+0092;0;men's shoe sizes conversion chart;3;0.771739130435;0;men's shoe sizes conversion chart charts;21;0.0909754582188;KUIDL-S-E-1A
+0092;0;men's shoe sizes conversion chart;3;0.771739130435;0;men's shoe sizes conversion chart international;26;0.0794599735834;KUIDL-S-E-1A
+0092;0;men's shoe sizes conversion chart;3;0.771739130435;0;men's shoe sizes conversion chart chart;28;0.0633051976787;KUIDL-S-E-1A
+0092;0;men's shoe sizes conversion chart;3;0.771739130435;0;men's shoe sizes conversion chart sizes;32;0.0264209052258;KUIDL-S-E-1A
+0092;0;men's shoe sizes conversion mens;4;0.54347826087;0;men's shoe sizes conversion mens nike;5;0.54347826087;KUIDL-S-E-1A
+0092;0;men's shoe sizes conversion mens;4;0.54347826087;0;men's shoe sizes conversion mens mens;6;0.534853305794;KUIDL-S-E-1A
+0092;0;men's shoe sizes conversion mens;4;0.54347826087;0;men's shoe sizes conversion mens womens;31;0.0331469999682;KUIDL-S-E-1A
+0092;0;men's shoe sizes conversion bowling;5;0.358695652174;0;men's shoe sizes conversion bowling bowling;9;0.358695652174;KUIDL-S-E-1A
+0092;0;men's shoe sizes conversion bowling;5;0.358695652174;0;men's shoe sizes conversion bowling india;30;0.0553868286445;KUIDL-S-E-1A
+0092;0;men's shoe sizes conversion bowling;5;0.358695652174;0;men's shoe sizes conversion bowling london;34;0.018989769821;KUIDL-S-E-1A
+0093;0;obama biography biography;1;1.0;0;obama biography biography barack;1;1.0;KUIDL-S-E-1A
+0093;0;obama biography biography;1;1.0;0;obama biography biography bio;2;0.895237332029;KUIDL-S-E-1A
+0093;0;obama biography biography;1;1.0;0;obama biography biography facts;2;0.895237332029;KUIDL-S-E-1A
+0093;0;obama biography biography;1;1.0;0;obama biography biography kids;3;0.723969700371;KUIDL-S-E-1A
+0093;0;obama biography biography;1;1.0;0;obama biography biography photos;4;0.704600706091;KUIDL-S-E-1A
+0093;0;obama biography biography;1;1.0;0;obama biography biography president;5;0.682891969406;KUIDL-S-E-1A
+0093;0;obama biography biography;1;1.0;0;obama biography biography birth;6;0.581033841269;KUIDL-S-E-1A
+0093;0;obama biography biography;1;1.0;0;obama biography biography biography;12;0.116059692775;KUIDL-S-E-1A
+0093;0;obama biography biography;1;1.0;0;obama biography biography life;14;0.0522876933831;KUIDL-S-E-1A
+0093;0;obama biography biography;1;1.0;0;obama biography biography michelle;24;0.00017608501024;KUIDL-S-E-1A
+0093;0;obama biography profile;2;0.326666666667;0;obama biography profile keywiki;7;0.326666666667;KUIDL-S-E-1A
+0093;0;obama biography profile;2;0.326666666667;0;obama biography profile profile;13;0.103413421707;KUIDL-S-E-1A
+0093;0;obama biography profile;2;0.326666666667;0;obama biography profile pictures;25;0.000120724346076;KUIDL-S-E-1A
+0093;0;obama biography zimbio;3;0.3;0;obama biography zimbio zimbio;8;0.3;KUIDL-S-E-1A
+0093;0;obama biography life;4;0.193333333333;0;obama biography life president;9;0.193333333333;KUIDL-S-E-1A
+0093;0;obama biography life;4;0.193333333333;0;obama biography life filmography;15;0.0423663791447;KUIDL-S-E-1A
+0093;0;obama biography life;4;0.193333333333;0;obama biography life beck;16;0.039096691873;KUIDL-S-E-1A
+0093;0;obama biography life;4;0.193333333333;0;obama biography life glenn;17;0.0353462372855;KUIDL-S-E-1A
+0093;0;obama biography life;4;0.193333333333;0;obama biography life brief;18;0.0177626046395;KUIDL-S-E-1A
+0093;0;obama biography life;4;0.193333333333;0;obama biography life pictures;19;0.016699806176;KUIDL-S-E-1A
+0093;0;obama biography life;4;0.193333333333;0;obama biography life life;20;0.0130860006277;KUIDL-S-E-1A
+0093;0;obama biography life;4;0.193333333333;0;obama biography life american;21;0.00954688658258;KUIDL-S-E-1A
+0093;0;obama biography life;4;0.193333333333;0;obama biography life biography;22;0.00103372792556;KUIDL-S-E-1A
+0093;0;obama biography pages;5;0.166666666667;0;obama biography pages askmen;10;0.166666666667;KUIDL-S-E-1A
+0093;0;obama biography pages;5;0.166666666667;0;obama biography pages pages;11;0.137362637363;KUIDL-S-E-1A
+0093;0;obama biography pages;5;0.166666666667;0;obama biography pages 1991;23;0.000947328533535;KUIDL-S-E-1A
+0094;0;causes of obesity childhood;1;1.0;0;causes of obesity childhood children;1;1.0;KUIDL-S-E-1A
+0094;0;causes of obesity childhood;1;1.0;0;causes of obesity childhood childhood;5;0.179947413011;KUIDL-S-E-1A
+0094;0;causes of obesity childhood;1;1.0;0;causes of obesity childhood child;8;0.0894740922188;KUIDL-S-E-1A
+0094;0;causes of obesity childhood;1;1.0;0;causes of obesity childhood facts;10;0.0484488712093;KUIDL-S-E-1A
+0094;0;causes of obesity childhood;1;1.0;0;causes of obesity childhood common;15;0.0155901093768;KUIDL-S-E-1A
+0094;0;causes of obesity childhood;1;1.0;0;causes of obesity childhood main;19;0.00788896187395;KUIDL-S-E-1A
+0094;0;causes of obesity childhood;1;1.0;0;causes of obesity childhood america;24;0.00168192195234;KUIDL-S-E-1A
+0094;0;causes of obesity diabetes;2;0.522388059701;0;causes of obesity diabetes diabetes;2;0.522388059701;KUIDL-S-E-1A
+0094;0;causes of obesity diabetes;2;0.522388059701;0;causes of obesity diabetes loss;3;0.216952275659;KUIDL-S-E-1A
+0094;0;causes of obesity diabetes;2;0.522388059701;0;causes of obesity diabetes institute;9;0.0579741261277;KUIDL-S-E-1A
+0094;0;causes of obesity diabetes;2;0.522388059701;0;causes of obesity diabetes treatments;11;0.033651617688;KUIDL-S-E-1A
+0094;0;causes of obesity diabetes;2;0.522388059701;0;causes of obesity diabetes national;16;0.0126405011977;KUIDL-S-E-1A
+0094;0;causes of obesity diabetes;2;0.522388059701;0;causes of obesity diabetes cancer;22;0.00371504044609;KUIDL-S-E-1A
+0094;0;causes of obesity child;3;0.216417910448;0;causes of obesity child childhood;4;0.216417910448;KUIDL-S-E-1A
+0094;0;causes of obesity child;3;0.216417910448;0;causes of obesity child child;13;0.0181739636647;KUIDL-S-E-1A
+0094;0;causes of obesity child;3;0.216417910448;0;causes of obesity child answer;23;0.00293650846677;KUIDL-S-E-1A
+0094;0;causes of obesity child;3;0.216417910448;0;causes of obesity child share;26;0.000270428458292;KUIDL-S-E-1A
+0094;0;causes of obesity treatment;3;0.216417910448;0;causes of obesity treatment wellsphere;4;0.216417910448;KUIDL-S-E-1A
+0094;0;causes of obesity treatment;3;0.216417910448;0;causes of obesity treatment treatment;7;0.0977149579273;KUIDL-S-E-1A
+0094;0;causes of obesity treatment;3;0.216417910448;0;causes of obesity treatment statistics;14;0.0171220990245;KUIDL-S-E-1A
+0094;0;causes of obesity treatment;3;0.216417910448;0;causes of obesity treatment symptoms;20;0.0052171525345;KUIDL-S-E-1A
+0094;0;causes of obesity treatment;3;0.216417910448;0;causes of obesity treatment main;21;0.0041820159624;KUIDL-S-E-1A
+0094;0;causes of obesity treatment;3;0.216417910448;0;causes of obesity treatment diagnosis;25;0.00083787988903;KUIDL-S-E-1A
+0094;0;causes of obesity video;4;0.149253731343;0;causes of obesity video video;6;0.149253731343;KUIDL-S-E-1A
+0094;0;causes of obesity video;4;0.149253731343;0;causes of obesity video beliefs;12;0.0263645277263;KUIDL-S-E-1A
+0094;0;causes of obesity video;4;0.149253731343;0;causes of obesity video psychology;17;0.0122488759595;KUIDL-S-E-1A
+0094;0;causes of obesity video;4;0.149253731343;0;causes of obesity video remedies;18;0.00960690905129;KUIDL-S-E-1A
+0094;0;causes of obesity video;4;0.149253731343;0;causes of obesity video article;27;3.11269512708e-05;KUIDL-S-E-1A
+0095;0;what is a natural number number;1;1.0;0;what is a natural number number wiktionary;1;1.0;KUIDL-S-E-1A
+0095;0;what is a natural number number;1;1.0;0;what is a natural number number encyclopedia;4;0.828177397948;KUIDL-S-E-1A
+0095;0;what is a natural number number;1;1.0;0;what is a natural number number university;6;0.525583470099;KUIDL-S-E-1A
+0095;0;what is a natural number number;1;1.0;0;what is a natural number number definition;9;0.249541651821;KUIDL-S-E-1A
+0095;0;what is a natural number number;1;1.0;0;what is a natural number number natural;11;0.238001519956;KUIDL-S-E-1A
+0095;0;what is a natural number number;1;1.0;0;what is a natural number number math;14;0.167083952423;KUIDL-S-E-1A
+0095;0;what is a natural number number;1;1.0;0;what is a natural number number mathematics;16;0.160977196782;KUIDL-S-E-1A
+0095;0;what is a natural number number;1;1.0;0;what is a natural number number number;18;0.148953459788;KUIDL-S-E-1A
+0095;0;what is a natural number number;1;1.0;0;what is a natural number number whole;21;0.111505914685;KUIDL-S-E-1A
+0095;0;what is a natural number number;1;1.0;0;what is a natural number number numbers;27;0.0357800807646;KUIDL-S-E-1A
+0095;0;what is a natural number numbers;2;0.98275862069;0;what is a natural number numbers yahoo;2;0.98275862069;KUIDL-S-E-1A
+0095;0;what is a natural number numbers;2;0.98275862069;0;what is a natural number numbers sleep;3;0.860828774876;KUIDL-S-E-1A
+0095;0;what is a natural number numbers;2;0.98275862069;0;what is a natural number numbers university;5;0.540403109862;KUIDL-S-E-1A
+0095;0;what is a natural number numbers;2;0.98275862069;0;what is a natural number numbers difference;7;0.436558203031;KUIDL-S-E-1A
+0095;0;what is a natural number numbers;2;0.98275862069;0;what is a natural number numbers definition;8;0.302581509912;KUIDL-S-E-1A
+0095;0;what is a natural number numbers;2;0.98275862069;0;what is a natural number numbers natural;10;0.241852647378;KUIDL-S-E-1A
+0095;0;what is a natural number numbers;2;0.98275862069;0;what is a natural number numbers free;17;0.14995882947;KUIDL-S-E-1A
+0095;0;what is a natural number numbers;2;0.98275862069;0;what is a natural number numbers whole;20;0.123372931052;KUIDL-S-E-1A
+0095;0;what is a natural number numbers;2;0.98275862069;0;what is a natural number numbers number;22;0.0904856253177;KUIDL-S-E-1A
+0095;0;what is a natural number numbers;2;0.98275862069;0;what is a natural number numbers numbers;25;0.0636407188892;KUIDL-S-E-1A
+0095;0;what is a natural number prime;3;0.198275862069;0;what is a natural number prime matlab;12;0.198275862069;KUIDL-S-E-1A
+0095;0;what is a natural number prime;3;0.198275862069;0;what is a natural number prime answers;19;0.126180220277;KUIDL-S-E-1A
+0095;0;what is a natural number prime;3;0.198275862069;0;what is a natural number prime prime;24;0.0836664720722;KUIDL-S-E-1A
+0095;0;what is a natural number prime;3;0.198275862069;0;what is a natural number prime meaning;29;0.0106547048896;KUIDL-S-E-1A
+0095;0;what is a natural number prime;3;0.198275862069;0;what is a natural number prime map;31;0.00664434682185;KUIDL-S-E-1A
+0095;0;what is a natural number ln;4;0.189655172414;0;what is a natural number ln logarithm;13;0.189655172414;KUIDL-S-E-1A
+0095;0;what is a natural number ln;4;0.189655172414;0;what is a natural number ln ln;26;0.0360344827586;KUIDL-S-E-1A
+0095;0;what is a natural number ln;4;0.189655172414;0;what is a natural number ln exponential;35;0.00189655172414;KUIDL-S-E-1A
+0095;0;what is a natural number ln;4;0.189655172414;0;what is a natural number ln excel;36;0.00155711206897;KUIDL-S-E-1A
+0095;0;what is a natural number three;5;0.163793103448;0;what is a natural number three three;15;0.163793103448;KUIDL-S-E-1A
+0095;0;what is a natural number three;5;0.163793103448;0;what is a natural number three pennsylvania;23;0.0894668212112;KUIDL-S-E-1A
+0095;0;what is a natural number three;5;0.163793103448;0;what is a natural number three mass;28;0.0311716978881;KUIDL-S-E-1A
+0095;0;what is a natural number three;5;0.163793103448;0;what is a natural number three multiplication;30;0.00862068965517;KUIDL-S-E-1A
+0095;0;what is a natural number three;5;0.163793103448;0;what is a natural number three state;32;0.00512494065858;KUIDL-S-E-1A
+0095;0;what is a natural number three;5;0.163793103448;0;what is a natural number three product;33;0.00321162947938;KUIDL-S-E-1A
+0095;0;what is a natural number three;5;0.163793103448;0;what is a natural number three mean;34;0.00299286904508;KUIDL-S-E-1A
+0095;0;what is a natural number three;5;0.163793103448;0;what is a natural number three university;37;1.85894046655e-06;KUIDL-S-E-1A
+0096;0;yellow teeth treatment tooth;1;1.0;0;yellow teeth treatment tooth whitening;1;1.0;KUIDL-S-E-1A
+0096;0;yellow teeth treatment tooth;1;1.0;0;yellow teeth treatment tooth tooth;2;0.990454355224;KUIDL-S-E-1A
+0096;0;yellow teeth treatment tooth;1;1.0;0;yellow teeth treatment tooth dental;4;0.729900393868;KUIDL-S-E-1A
+0096;0;yellow teeth treatment tooth;1;1.0;0;yellow teeth treatment tooth treatment;6;0.384677788885;KUIDL-S-E-1A
+0096;0;yellow teeth treatment tooth;1;1.0;0;yellow teeth treatment tooth prevention;9;0.277061008659;KUIDL-S-E-1A
+0096;0;yellow teeth treatment tooth;1;1.0;0;yellow teeth treatment tooth causes;27;0.031407207619;KUIDL-S-E-1A
+0096;0;yellow teeth treatment tooth;1;1.0;0;yellow teeth treatment tooth discoloration;31;0.0183134664533;KUIDL-S-E-1A
+0096;0;yellow teeth treatment tooth;1;1.0;0;yellow teeth treatment tooth cosmetic;39;0.0032531565314;KUIDL-S-E-1A
+0096;0;yellow teeth treatment tooth;1;1.0;0;yellow teeth treatment tooth dentistry;44;0.000643278368962;KUIDL-S-E-1A
+0096;0;yellow teeth treatment remedies;2;0.772727272727;0;yellow teeth treatment remedies yellow;3;0.772727272727;KUIDL-S-E-1A
+0096;0;yellow teeth treatment remedies;2;0.772727272727;0;yellow teeth treatment remedies home;5;0.46425640355;KUIDL-S-E-1A
+0096;0;yellow teeth treatment remedies;2;0.772727272727;0;yellow teeth treatment remedies whitening;8;0.310344678308;KUIDL-S-E-1A
+0096;0;yellow teeth treatment remedies;2;0.772727272727;0;yellow teeth treatment remedies natural;19;0.0694547290033;KUIDL-S-E-1A
+0096;0;yellow teeth treatment remedies;2;0.772727272727;0;yellow teeth treatment remedies remedies;21;0.0525514382957;KUIDL-S-E-1A
+0096;0;yellow teeth treatment remedies;2;0.772727272727;0;yellow teeth treatment remedies prevent;23;0.0468904403702;KUIDL-S-E-1A
+0096;0;yellow teeth treatment remedies;2;0.772727272727;0;yellow teeth treatment remedies treatments;32;0.00975509342612;KUIDL-S-E-1A
+0096;0;yellow teeth treatment remedies;2;0.772727272727;0;yellow teeth treatment remedies top;35;0.00700098608017;KUIDL-S-E-1A
+0096;0;yellow teeth treatment remedies;2;0.772727272727;0;yellow teeth treatment remedies 10;37;0.00405774292581;KUIDL-S-E-1A
+0096;0;yellow teeth treatment remedies;2;0.772727272727;0;yellow teeth treatment remedies whiten;38;0.00347598069776;KUIDL-S-E-1A
+0096;0;yellow teeth treatment whitening;3;0.372727272727;0;yellow teeth treatment whitening howstuffworks;7;0.372727272727;KUIDL-S-E-1A
+0096;0;yellow teeth treatment whitening;3;0.372727272727;0;yellow teeth treatment whitening facts;10;0.2554783668;KUIDL-S-E-1A
+0096;0;yellow teeth treatment whitening;3;0.372727272727;0;yellow teeth treatment whitening yellow;13;0.214992407747;KUIDL-S-E-1A
+0096;0;yellow teeth treatment whitening;3;0.372727272727;0;yellow teeth treatment whitening whitening;15;0.11641824981;KUIDL-S-E-1A
+0096;0;yellow teeth treatment whitening;3;0.372727272727;0;yellow teeth treatment whitening children;20;0.0690314771426;KUIDL-S-E-1A
+0096;0;yellow teeth treatment whitening;3;0.372727272727;0;yellow teeth treatment whitening get;22;0.0497591234248;KUIDL-S-E-1A
+0096;0;yellow teeth treatment whitening;3;0.372727272727;0;yellow teeth treatment whitening rid;26;0.0322900596101;KUIDL-S-E-1A
+0096;0;yellow teeth treatment whitening;3;0.372727272727;0;yellow teeth treatment whitening stained;29;0.0291145827921;KUIDL-S-E-1A
+0096;0;yellow teeth treatment whitening;3;0.372727272727;0;yellow teeth treatment whitening treatments;40;0.00305608692808;KUIDL-S-E-1A
+0096;0;yellow teeth treatment treatment;4;0.236363636364;0;yellow teeth treatment treatment yellow;11;0.236363636364;KUIDL-S-E-1A
+0096;0;yellow teeth treatment treatment;4;0.236363636364;0;yellow teeth treatment treatment epilepsy;16;0.103617710738;KUIDL-S-E-1A
+0096;0;yellow teeth treatment treatment;4;0.236363636364;0;yellow teeth treatment treatment home;17;0.0916437928138;KUIDL-S-E-1A
+0096;0;yellow teeth treatment treatment;4;0.236363636364;0;yellow teeth treatment treatment colors;18;0.0786600316405;KUIDL-S-E-1A
+0096;0;yellow teeth treatment treatment;4;0.236363636364;0;yellow teeth treatment treatment treatment;30;0.0259844059969;KUIDL-S-E-1A
+0096;0;yellow teeth treatment treatment;4;0.236363636364;0;yellow teeth treatment treatment disease;34;0.00773244335479;KUIDL-S-E-1A
+0096;0;yellow teeth treatment treatment;4;0.236363636364;0;yellow teeth treatment treatment ways;36;0.00676052427471;KUIDL-S-E-1A
+0096;0;yellow teeth treatment treatment;4;0.236363636364;0;yellow teeth treatment treatment gum;41;0.00300077157826;KUIDL-S-E-1A
+0096;0;yellow teeth treatment treatment;4;0.236363636364;0;yellow teeth treatment treatment causes;42;0.0028200232228;KUIDL-S-E-1A
+0096;0;yellow teeth treatment articles;5;0.218181818182;0;yellow teeth treatment articles bubblews;12;0.218181818182;KUIDL-S-E-1A
+0096;0;yellow teeth treatment articles;5;0.218181818182;0;yellow teeth treatment articles bangalore;14;0.195088547816;KUIDL-S-E-1A
+0096;0;yellow teeth treatment articles;5;0.218181818182;0;yellow teeth treatment articles india;24;0.0466318097487;KUIDL-S-E-1A
+0096;0;yellow teeth treatment articles;5;0.218181818182;0;yellow teeth treatment articles false;25;0.0392089728453;KUIDL-S-E-1A
+0096;0;yellow teeth treatment articles;5;0.218181818182;0;yellow teeth treatment articles articles;28;0.0298593864937;KUIDL-S-E-1A
+0096;0;yellow teeth treatment articles;5;0.218181818182;0;yellow teeth treatment articles alternative;33;0.00892333216744;KUIDL-S-E-1A
+0096;0;yellow teeth treatment articles;5;0.218181818182;0;yellow teeth treatment articles news;43;0.000799915197644;KUIDL-S-E-1A
+0096;0;yellow teeth treatment articles;5;0.218181818182;0;yellow teeth treatment articles part;45;0.000514415992815;KUIDL-S-E-1A
+0096;0;yellow teeth treatment articles;5;0.218181818182;0;yellow teeth treatment articles pain;46;0.000459452884144;KUIDL-S-E-1A
+0096;0;yellow teeth treatment articles;5;0.218181818182;0;yellow teeth treatment articles page;47;2.65288424613e-05;KUIDL-S-E-1A
+0097;0;myopia treatment nearsightedness;1;1.0;0;myopia treatment nearsightedness myopia;1;1.0;KUIDL-S-E-1A
+0097;0;myopia treatment nearsightedness;1;1.0;0;myopia treatment nearsightedness eye;2;0.839706665094;KUIDL-S-E-1A
+0097;0;myopia treatment nearsightedness;1;1.0;0;myopia treatment nearsightedness treatment;3;0.684882756786;KUIDL-S-E-1A
+0097;0;myopia treatment nearsightedness;1;1.0;0;myopia treatment nearsightedness vision;5;0.491420581272;KUIDL-S-E-1A
+0097;0;myopia treatment nearsightedness;1;1.0;0;myopia treatment nearsightedness cure;11;0.350933035598;KUIDL-S-E-1A
+0097;0;myopia treatment nearsightedness;1;1.0;0;myopia treatment nearsightedness nearsightedness;17;0.159153259983;KUIDL-S-E-1A
+0097;0;myopia treatment nearsightedness;1;1.0;0;myopia treatment nearsightedness nearsighted;25;0.0391927853206;KUIDL-S-E-1A
+0097;0;myopia treatment nearsightedness;1;1.0;0;myopia treatment nearsightedness causes;26;0.0348792062752;KUIDL-S-E-1A
+0097;0;myopia treatment nearsightedness;1;1.0;0;myopia treatment nearsightedness astigmatism;28;0.0268052485271;KUIDL-S-E-1A
+0097;0;myopia treatment nearsightedness;1;1.0;0;myopia treatment nearsightedness symptoms;32;0.00603381790419;KUIDL-S-E-1A
+0097;0;myopia treatment control;3;0.398305084746;0;myopia treatment control hope;7;0.398305084746;KUIDL-S-E-1A
+0097;0;myopia treatment control;3;0.398305084746;0;myopia treatment control control;8;0.390333992395;KUIDL-S-E-1A
+0097;0;myopia treatment control;3;0.398305084746;0;myopia treatment control effective;15;0.235871609091;KUIDL-S-E-1A
+0097;0;myopia treatment control;3;0.398305084746;0;myopia treatment control offers;16;0.175510171828;KUIDL-S-E-1A
+0097;0;myopia treatment control;3;0.398305084746;0;myopia treatment control study;23;0.0526106529575;KUIDL-S-E-1A
+0097;0;myopia treatment control;3;0.398305084746;0;myopia treatment control orthokeratology;33;0.00471399780053;KUIDL-S-E-1A
+0097;0;myopia treatment remedies;4;0.305084745763;0;myopia treatment remedies medindia;14;0.305084745763;KUIDL-S-E-1A
+0097;0;myopia treatment remedies;4;0.305084745763;0;myopia treatment remedies remedies;21;0.0835252756508;KUIDL-S-E-1A
+0097;0;myopia treatment remedies;4;0.305084745763;0;myopia treatment remedies hypermetropia;27;0.0298952175823;KUIDL-S-E-1A
+0097;0;myopia treatment surgery;4;0.305084745763;0;myopia treatment surgery surgery;14;0.305084745763;KUIDL-S-E-1A
+0097;0;myopia treatment surgery;4;0.305084745763;0;myopia treatment surgery keratoconus;18;0.112821725346;KUIDL-S-E-1A
+0097;0;myopia treatment surgery;4;0.305084745763;0;myopia treatment surgery laser;22;0.0759726759568;KUIDL-S-E-1A
+0097;0;myopia treatment surgery;4;0.305084745763;0;myopia treatment surgery clinic;24;0.0497535251114;KUIDL-S-E-1A
+0097;0;myopia treatment surgery;4;0.305084745763;0;myopia treatment surgery causes;29;0.0198366135429;KUIDL-S-E-1A
+0097;0;myopia treatment surgery;4;0.305084745763;0;myopia treatment surgery conditions;30;0.0114987123325;KUIDL-S-E-1A
+0097;0;myopia treatment surgery;4;0.305084745763;0;myopia treatment surgery high;31;0.0105433587117;KUIDL-S-E-1A
+0097;0;myopia treatment surgery;4;0.305084745763;0;myopia treatment surgery symptoms;34;0.00428176858826;KUIDL-S-E-1A
+0097;0;myopia treatment treatment;2;0.508474576271;0;myopia treatment treatment yahoo;4;0.508474576271;KUIDL-S-E-1A
+0097;0;myopia treatment treatment;2;0.508474576271;0;myopia treatment treatment malignant;6;0.454330347381;KUIDL-S-E-1A
+0097;0;myopia treatment treatment;2;0.508474576271;0;myopia treatment treatment naturally;9;0.360461440442;KUIDL-S-E-1A
+0097;0;myopia treatment treatment;2;0.508474576271;0;myopia treatment treatment definition;10;0.358912085636;KUIDL-S-E-1A
+0097;0;myopia treatment treatment;2;0.508474576271;0;myopia treatment treatment easy;12;0.331189216704;KUIDL-S-E-1A
+0097;0;myopia treatment treatment;2;0.508474576271;0;myopia treatment treatment excimer;13;0.325504469988;KUIDL-S-E-1A
+0097;0;myopia treatment treatment;2;0.508474576271;0;myopia treatment treatment eye;19;0.0932983367059;KUIDL-S-E-1A
+0097;0;myopia treatment treatment;2;0.508474576271;0;myopia treatment treatment treatment;20;0.0843345566046;KUIDL-S-E-1A
+0097;0;myopia treatment treatment;2;0.508474576271;0;myopia treatment treatment health;35;0.00282904306543;KUIDL-S-E-1A
+0097;0;myopia treatment treatment;2;0.508474576271;0;myopia treatment treatment nearsightedness;36;0.000875125079736;KUIDL-S-E-1A
+0098;0;how to find my ip address yahoo;1;1.0;0;how to find my ip address yahoo nokia;1;1.0;KUIDL-S-E-1A
+0098;0;how to find my ip address yahoo;1;1.0;0;how to find my ip address yahoo locate;16;0.0468384074941;KUIDL-S-E-1A
+0098;0;how to find my ip address yahoo;1;1.0;0;how to find my ip address yahoo yahoo;21;0.00725623582766;KUIDL-S-E-1A
+0098;0;how to find my ip address router;2;0.691176470588;0;how to find my ip address router portfolio;2;0.691176470588;KUIDL-S-E-1A
+0098;0;how to find my ip address router;2;0.691176470588;0;how to find my ip address router aol;7;0.437291897891;KUIDL-S-E-1A
+0098;0;how to find my ip address router;2;0.691176470588;0;how to find my ip address router model;9;0.308974668787;KUIDL-S-E-1A
+0098;0;how to find my ip address router;2;0.691176470588;0;how to find my ip address router router;11;0.267997467935;KUIDL-S-E-1A
+0098;0;how to find my ip address router;2;0.691176470588;0;how to find my ip address router linksys;13;0.179051116887;KUIDL-S-E-1A
+0098;0;how to find my ip address router;2;0.691176470588;0;how to find my ip address router mac;17;0.0460889479237;KUIDL-S-E-1A
+0098;0;how to find my ip address router;2;0.691176470588;0;how to find my ip address router local;19;0.0259038050866;KUIDL-S-E-1A
+0098;0;how to find my ip address router;2;0.691176470588;0;how to find my ip address router static;20;0.0128246817951;KUIDL-S-E-1A
+0098;0;how to find my ip address router;2;0.691176470588;0;how to find my ip address router pc;25;0.00145038313713;KUIDL-S-E-1A
+0098;0;how to find my ip address lookup;2;0.691176470588;0;how to find my ip address lookup lookup;2;0.691176470588;KUIDL-S-E-1A
+0098;0;how to find my ip address lookup;2;0.691176470588;0;how to find my ip address lookup whats;3;0.63608636786;KUIDL-S-E-1A
+0098;0;how to find my ip address lookup;2;0.691176470588;0;how to find my ip address lookup tracker;4;0.619906510939;KUIDL-S-E-1A
+0098;0;how to find my ip address lookup;2;0.691176470588;0;how to find my ip address lookup locator;14;0.157925849409;KUIDL-S-E-1A
+0098;0;how to find my ip address hide;3;0.470588235294;0;how to find my ip address hide techspot;5;0.470588235294;KUIDL-S-E-1A
+0098;0;how to find my ip address hide;3;0.470588235294;0;how to find my ip address hide xoom;8;0.338436744561;KUIDL-S-E-1A
+0098;0;how to find my ip address hide;3;0.470588235294;0;how to find my ip address hide hide;10;0.281800391389;KUIDL-S-E-1A
+0098;0;how to find my ip address hide;3;0.470588235294;0;how to find my ip address hide step;22;0.00715287053084;KUIDL-S-E-1A
+0098;0;how to find my ip address forums;4;0.455882352941;0;how to find my ip address forums devshed;6;0.455882352941;KUIDL-S-E-1A
+0098;0;how to find my ip address forums;4;0.455882352941;0;how to find my ip address forums forums;12;0.195626525277;KUIDL-S-E-1A
+0098;0;how to find my ip address forums;4;0.455882352941;0;how to find my ip address forums someone;15;0.115217823462;KUIDL-S-E-1A
+0098;0;how to find my ip address forums;4;0.455882352941;0;how to find my ip address forums external;18;0.0332234730464;KUIDL-S-E-1A
+0098;0;how to find my ip address forums;4;0.455882352941;0;how to find my ip address forums tech;23;0.0024616945971;KUIDL-S-E-1A
+0098;0;how to find my ip address forums;4;0.455882352941;0;how to find my ip address forums lan;24;0.00226519338919;KUIDL-S-E-1A
+0099;0;postcode finder uk;1;1.0;0;postcode finder uk postcodes;1;1.0;KUIDL-S-E-1A
+0099;0;postcode finder uk;1;1.0;0;postcode finder uk maps;11;0.458450857296;KUIDL-S-E-1A
+0099;0;postcode finder uk;1;1.0;0;postcode finder uk uk;12;0.437639172208;KUIDL-S-E-1A
+0099;0;postcode finder uk;1;1.0;0;postcode finder uk tools;13;0.352781721316;KUIDL-S-E-1A
+0099;0;postcode finder uk;1;1.0;0;postcode finder uk free;24;0.0962573263758;KUIDL-S-E-1A
+0099;0;postcode finder uk;1;1.0;0;postcode finder uk list;26;0.075332183585;KUIDL-S-E-1A
+0099;0;postcode finder uk;1;1.0;0;postcode finder uk map;30;0.0354050200649;KUIDL-S-E-1A
+0099;0;postcode finder uk;1;1.0;0;postcode finder uk database;31;0.0320704703968;KUIDL-S-E-1A
+0099;0;postcode finder uk;1;1.0;0;postcode finder uk finder;35;0.00315818878445;KUIDL-S-E-1A
+0099;0;postcode finder royal;2;0.918032786885;0;postcode finder royal royal;2;0.918032786885;KUIDL-S-E-1A
+0099;0;postcode finder royal;2;0.918032786885;0;postcode finder royal group;22;0.102189628379;KUIDL-S-E-1A
+0099;0;postcode finder royal;2;0.918032786885;0;postcode finder royal ltd;37;0.000780091720923;KUIDL-S-E-1A
+0099;0;postcode finder finder;3;0.754098360656;0;postcode finder finder malta;3;0.754098360656;KUIDL-S-E-1A
+0099;0;postcode finder finder;3;0.754098360656;0;postcode finder finder zealand;10;0.515547837029;KUIDL-S-E-1A
+0099;0;postcode finder finder;3;0.754098360656;0;postcode finder finder lookup;14;0.310898172095;KUIDL-S-E-1A
+0099;0;postcode finder finder;3;0.754098360656;0;postcode finder finder address;17;0.193805392258;KUIDL-S-E-1A
+0099;0;postcode finder finder;3;0.754098360656;0;postcode finder finder uk;25;0.0859521919434;KUIDL-S-E-1A
+0099;0;postcode finder finder;3;0.754098360656;0;postcode finder finder royal;27;0.0637962003344;KUIDL-S-E-1A
+0099;0;postcode finder finder;3;0.754098360656;0;postcode finder finder finder;28;0.0530023807926;KUIDL-S-E-1A
+0099;0;postcode finder finder;3;0.754098360656;0;postcode finder finder mail;36;0.00130802258029;KUIDL-S-E-1A
+0099;0;postcode finder code;4;0.704918032787;0;postcode finder code yahoo;4;0.704918032787;KUIDL-S-E-1A
+0099;0;postcode finder code;4;0.704918032787;0;postcode finder code pakistan;5;0.620683875385;KUIDL-S-E-1A
+0099;0;postcode finder code;4;0.704918032787;0;postcode finder code philippines;6;0.599821812245;KUIDL-S-E-1A
+0099;0;postcode finder code;4;0.704918032787;0;postcode finder code union;9;0.527353979798;KUIDL-S-E-1A
+0099;0;postcode finder code;4;0.704918032787;0;postcode finder code code;16;0.22559473302;KUIDL-S-E-1A
+0099;0;postcode finder code;4;0.704918032787;0;postcode finder code ireland;21;0.12716319002;KUIDL-S-E-1A
+0099;0;postcode finder code;4;0.704918032787;0;postcode finder code find;23;0.0969354122619;KUIDL-S-E-1A
+0099;0;postcode finder code;4;0.704918032787;0;postcode finder code post;32;0.00719039843899;KUIDL-S-E-1A
+0099;0;postcode finder code;4;0.704918032787;0;postcode finder code uk;33;0.00666379206959;KUIDL-S-E-1A
+0099;0;postcode finder code;4;0.704918032787;0;postcode finder code postal;34;0.00583587978655;KUIDL-S-E-1A
+0099;0;postcode finder postcodes;4;0.704918032787;0;postcode finder postcodes epostcode;4;0.704918032787;KUIDL-S-E-1A
+0099;0;postcode finder postcodes;4;0.704918032787;0;postcode finder postcodes indonesia;7;0.599243660248;KUIDL-S-E-1A
+0099;0;postcode finder postcodes;4;0.704918032787;0;postcode finder postcodes nsw;8;0.541645100523;KUIDL-S-E-1A
+0099;0;postcode finder postcodes;4;0.704918032787;0;postcode finder postcodes australian;15;0.254436162216;KUIDL-S-E-1A
+0099;0;postcode finder postcodes;4;0.704918032787;0;postcode finder postcodes postcodes;18;0.166789971573;KUIDL-S-E-1A
+0099;0;postcode finder postcodes;4;0.704918032787;0;postcode finder postcodes australia;19;0.15864407237;KUIDL-S-E-1A
+0099;0;postcode finder postcodes;4;0.704918032787;0;postcode finder postcodes find;20;0.130488507671;KUIDL-S-E-1A
+0099;0;postcode finder postcodes;4;0.704918032787;0;postcode finder postcodes number;29;0.0496698353657;KUIDL-S-E-1A
+0100;0;online photo printing prints;1;1.0;0;online photo printing prints snapfish;1;1.0;KUIDL-S-E-1A
+0100;0;online photo printing prints;1;1.0;0;online photo printing prints prints;8;0.561223090211;KUIDL-S-E-1A
+0100;0;online photo printing prints;1;1.0;0;online photo printing prints online;9;0.507893104473;KUIDL-S-E-1A
+0100;0;online photo printing prints;1;1.0;0;online photo printing prints camera;14;0.375321175922;KUIDL-S-E-1A
+0100;0;online photo printing prints;1;1.0;0;online photo printing prints home;15;0.335829223791;KUIDL-S-E-1A
+0100;0;online photo printing prints;1;1.0;0;online photo printing prints print;19;0.252200044163;KUIDL-S-E-1A
+0100;0;online photo printing prints;1;1.0;0;online photo printing prints order;23;0.154501850731;KUIDL-S-E-1A
+0100;0;online photo printing prints;1;1.0;0;online photo printing prints printing;29;0.0955045876965;KUIDL-S-E-1A
+0100;0;online photo printing prints;1;1.0;0;online photo printing prints digital;33;0.0469056974083;KUIDL-S-E-1A
+0100;0;online photo printing free;2;0.952380952381;0;online photo printing free free;2;0.952380952381;KUIDL-S-E-1A
+0100;0;online photo printing free;2;0.952380952381;0;online photo printing free passport;18;0.291142254562;KUIDL-S-E-1A
+0100;0;online photo printing free;2;0.952380952381;0;online photo printing free gifts;27;0.139724782622;KUIDL-S-E-1A
+0100;0;online photo printing digital;4;0.761904761905;0;online photo printing digital online;4;0.761904761905;KUIDL-S-E-1A
+0100;0;online photo printing digital;4;0.761904761905;0;online photo printing digital prints;7;0.627648635715;KUIDL-S-E-1A
+0100;0;online photo printing digital;4;0.761904761905;0;online photo printing digital photos;13;0.43075696286;KUIDL-S-E-1A
+0100;0;online photo printing digital;4;0.761904761905;0;online photo printing digital photography;17;0.312478271961;KUIDL-S-E-1A
+0100;0;online photo printing digital;4;0.761904761905;0;online photo printing digital printing;20;0.236838066383;KUIDL-S-E-1A
+0100;0;online photo printing digital;4;0.761904761905;0;online photo printing digital large;21;0.212727870966;KUIDL-S-E-1A
+0100;0;online photo printing digital;4;0.761904761905;0;online photo printing digital custom;22;0.210322218299;KUIDL-S-E-1A
+0100;0;online photo printing digital;4;0.761904761905;0;online photo printing digital digital;25;0.150723459342;KUIDL-S-E-1A
+0100;0;online photo printing digital;4;0.761904761905;0;online photo printing digital canvas;32;0.0702944925229;KUIDL-S-E-1A
+0100;0;online photo printing digital;4;0.761904761905;0;online photo printing digital best;34;0.0424636577647;KUIDL-S-E-1A
+0100;0;online photo printing cards;3;0.84126984127;0;online photo printing cards drugs;3;0.84126984127;KUIDL-S-E-1A
+0100;0;online photo printing cards;3;0.84126984127;0;online photo printing cards photobox;5;0.696152119532;KUIDL-S-E-1A
+0100;0;online photo printing cards;3;0.84126984127;0;online photo printing cards pharmacy;6;0.656418716115;KUIDL-S-E-1A
+0100;0;online photo printing cards;3;0.84126984127;0;online photo printing cards imaging;12;0.434983119546;KUIDL-S-E-1A
+0100;0;online photo printing cards;3;0.84126984127;0;online photo printing cards cards;16;0.313662943724;KUIDL-S-E-1A
+0100;0;online photo printing cards;3;0.84126984127;0;online photo printing cards books;24;0.151573840945;KUIDL-S-E-1A
+0100;0;online photo printing cards;3;0.84126984127;0;online photo printing cards lifepics;30;0.0900117098715;KUIDL-S-E-1A
+0100;0;online photo printing books;5;0.460317460317;0;online photo printing books photoelf;10;0.460317460317;KUIDL-S-E-1A
+0100;0;online photo printing books;5;0.460317460317;0;online photo printing books jessops;11;0.441567179098;KUIDL-S-E-1A
+0100;0;online photo printing books;5;0.460317460317;0;online photo printing books books;26;0.148019614409;KUIDL-S-E-1A
+0100;0;online photo printing books;5;0.460317460317;0;online photo printing books gifts;28;0.114403160712;KUIDL-S-E-1A
+0100;0;online photo printing books;5;0.460317460317;0;online photo printing books software;31;0.070481778981;KUIDL-S-E-1A
+0100;0;online photo printing books;5;0.460317460317;0;online photo printing books professional;35;0.0383556385164;KUIDL-S-E-1A
+0100;0;online photo printing books;5;0.460317460317;0;online photo printing books book;36;0.037240612211;KUIDL-S-E-1A
