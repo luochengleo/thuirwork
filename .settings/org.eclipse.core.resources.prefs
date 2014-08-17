@@ -11,6 +11,7 @@ encoding//NTCIR-Evaluation/src/generateIprob.py=utf8
 encoding//NTCIR-Evaluation/src/temp.py=utf8
 encoding//english/src/ForFLSevaluation.py=utf8
 encoding//english/src/ForSLSevaluation.py=utf8
+encoding//english/src/ForSLSevaluation2.py=utf8
 encoding//english/src/MergeEvaluate.py=utf8
 encoding//english/src/NormailizeSlsWeight.py=utf8
 encoding//english/src/ResultFile2Xml.py=utf8

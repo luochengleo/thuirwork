@@ -52,7 +52,6 @@ for k in annosls2idx:
     print k,annosls2idx[k]
 ######################################################
 
-ot = open('../data/ot.txt','w')
 allsubsls = defaultdict(lambda:set())
 dqrels = open('../data/slseva/imine.Dqrels','w')
 for f in os.listdir('../data/enrun'):
@@ -62,9 +61,7 @@ for f in os.listdir('../data/enrun'):
         id = segs[0].strip()
         usersls = segs[6].strip()
         allsubsls[id].add(usersls)
-        ot.write(f+' add '+' id '+id +' '+usersls+' '+str2id(usersls)+'\n')
 
-ot.close()
 
 ############################################################
 for id in evaid():
