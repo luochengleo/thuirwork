@@ -91,7 +91,10 @@ for f in os.listdir('../data/enrun'):
 
 
 #############################################################################
+runlist = open('../data/flseva/iminerunlist','w')
+
 for f in os.listdir('../data/enrun'):
+    runlist.write(f.replace('txt','run')+'\n')
     runout = open('../data/flseva/'+f.replace('txt','run'),'w')
     alreadyin = set()
     allsubfls = defaultdict(lambda:list())
@@ -112,3 +115,4 @@ for f in os.listdir('../data/enrun'):
         for sub in allsubfls[id]:
             runout.write(id+' Q0 '+str2id(sub[0])+' '+sub[1]+' '+sub[2]+' '+f.replace('.txt','')+'\n')
     runout.close()
+runlist.close()
