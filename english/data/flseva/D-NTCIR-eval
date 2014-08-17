@@ -23,7 +23,7 @@ GAMMA=0.5
 # only one cutoff allowed
 COMPOPT="-cutoffs $CUTOFF"
 
-AWK=/usr/bin/gawk
+AWK=/usr/local/bin/gawk
 CUTSTR=`echo $CUTOFF | $AWK '{printf("%04d\n", $0)}'`
 
 GRELSUF="Grelv"
