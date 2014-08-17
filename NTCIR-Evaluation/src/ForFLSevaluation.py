@@ -54,7 +54,6 @@ allsubfls = defaultdict(lambda:set())
 dqrels = open('../data/flseva/imine.Dqrels','w')
 for f in os.listdir('../data/cnrun'):
     print f
-
     for l in open('../data/cnrun/'+f).readlines()[1:]:
         segs = l.strip().replace('&amp;','').split(';')
         id = segs[0]
