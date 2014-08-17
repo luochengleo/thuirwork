@@ -16,7 +16,7 @@ def loadcsv(filename):
 
 def evaid():
     rtr = []
-    for i in range(1,34,1):
+    for i in range(51,84,1):
         if i <10:
             rtr.append('000'+str(i))
         else:
@@ -29,19 +29,21 @@ if 'slseva' not in os.listdir('../data'):
 ####################################################
 usersls2annosls = defaultdict(lambda:'')
 for l in loadcsv('../data/csv/task6.csv'):
-    usersls2annosls[l[1]] = l[4]
+    usersls2annosls[l[1].strip()] = l[4].strip()
 
 ####################################################
 annosls2idx = dict()
 id = ''
 count = 1
+chosenannosls = set()
 iprob = open('../data/slseva/imine.Iprob','w')
 for l in open('../data/temp/slsposs.txt').readlines():
     segs=  l.strip().split('\t')
-    annosls = segs[1]
+    annosls = segs[1].strip()
+    chosenannosls.add(annosls)
     if segs[0] != id:
         count = 1
-        id = segs[0]
+        id = segs[0].strip()
     else:
         count +=1
     annosls2idx[(id,annosls)] = count
@@ -50,33 +52,37 @@ for k in annosls2idx:
     print k,annosls2idx[k]
 ######################################################
 
+ot = open('../data/ot.txt','w')
 allsubsls = defaultdict(lambda:set())
 dqrels = open('../data/slseva/imine.Dqrels','w')
-for f in os.listdir('../data/cnrun'):
+for f in os.listdir('../data/enrun'):
     print f
-    for l in open('../data/cnrun/'+f).readlines()[1:]:
+    for l in open('../data/enrun/'+f).readlines()[1:]:
         segs = l.strip().replace('&amp;','').split(';')
-        id = segs[0]
-        usersls = segs[6]
-        slsrank = int(segs[3])
+        id = segs[0].strip()
+        usersls = segs[6].strip()
         allsubsls[id].add(usersls)
-    
+        ot.write(f+' add '+' id '+id +' '+usersls+' '+str2id(usersls)+'\n')
+
+ot.close()
+
+############################################################
 for id in evaid():
     for usls in allsubsls[id]:
+        
         annosls = usersls2annosls[usls]
         if annosls != '':
             try:
                 intent = annosls2idx[(id,annosls)]
             except:
-                print '-------except-------'
-                print id
-                print usls
-                print annosls
-                bug = open('../data/out.sls.debug','w')
-                bug.write('fail key '+annosls+'\n')
-                for item in annosls2idx.keys():
-                    bug.write(item[0]+'\t'+item[1]+'\n')
-                bug.close()
+                if annosls in chosenannosls:
+                    print '-------except-------',id
+                    print usls,'|',annosls
+                    bug = open('../data/out.sls.debug','w')
+                    bug.write('fail key '+annosls+'\n')
+                    for item in annosls2idx.keys():
+                        bug.write(item[0]+'\t'+item[1]+'\n')
+                    bug.close()
                 intent = 0
                 
             if intent != 0:
@@ -86,24 +92,26 @@ for id in evaid():
         else:
             intent = 0
             rel = 'L0'
+        if usls =='apple app store':
+            print usls,annosls
         dqrels.write(id+' '+str(intent)+' '+str2id(usls)+' '+rel+'\n')
 
 
 #############################################################################
 runlist = open('../data/slseva/iminerunlist','w')
 
-for f in os.listdir('../data/cnrun'):
+for f in os.listdir('../data/enrun'):
     runlist.write(f.replace('txt','run')+'\n')
     runout = open('../data/slseva/'+f.replace('txt','run'),'w')
     alreadyin = set()
     allsubsls = defaultdict(lambda:list())
 
-    for l in open('../data/cnrun/'+f).readlines()[1:]:
+    for l in open('../data/enrun/'+f).readlines()[1:]:
         segs = l.strip().replace('&amp;','').split(';')
-        id = segs[0]
-        usersls = segs[6]
-        userslsrank = segs[3]
-        userslsscore = segs[4]
+        id = segs[0].strip()
+        usersls = segs[6].strip()
+        userslsrank = segs[7].strip()
+        userslsscore = segs[8].strip()
         if (usersls,userslsrank,userslsscore) in alreadyin:
             continue
         else:

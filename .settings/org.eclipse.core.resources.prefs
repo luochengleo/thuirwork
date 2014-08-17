@@ -1,6 +1,7 @@
 eclipse.preferences.version=1
 encoding//NTCIR-Evaluation/src/1.py=utf8
 encoding//NTCIR-Evaluation/src/ForFLSevaluation.py=utf8
+encoding//NTCIR-Evaluation/src/ForSLSevaluation.py=utf8
 encoding//NTCIR-Evaluation/src/GenerateXml.py=utf8
 encoding//NTCIR-Evaluation/src/MergeEvaluate.py=utf8
 encoding//NTCIR-Evaluation/src/NormailizeSlsWeight.py=utf8
@@ -9,6 +10,7 @@ encoding//NTCIR-Evaluation/src/calculate.py=utf8
 encoding//NTCIR-Evaluation/src/generateIprob.py=utf8
 encoding//NTCIR-Evaluation/src/temp.py=utf8
 encoding//english/src/ForFLSevaluation.py=utf8
+encoding//english/src/ForSLSevaluation.py=utf8
 encoding//english/src/MergeEvaluate.py=utf8
 encoding//english/src/NormailizeSlsWeight.py=utf8
 encoding//english/src/ResultFile2Xml.py=utf8
