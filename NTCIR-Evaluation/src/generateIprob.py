@@ -53,6 +53,7 @@ for l in open('../data/csv/task6.csv'):
         id = '00'+id
     query = segs[1]
     fls = segs[3]
+#     print 'put',id,query,fls
     idandsls2fls[(id,query)] = fls
 
 def generateDqrels(runname):
@@ -67,6 +68,7 @@ def generateDqrels(runname):
         try:
             fls = idandsls2fls[(id,sls)]
         except:
+            print 'miss find ',id ,sls
             fls = ''
         
         if fls =='':

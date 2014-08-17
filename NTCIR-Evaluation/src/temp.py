@@ -1,5 +1,6 @@
+#coding=utf8
 from collections import defaultdict
-
+import codecs
 anno = defaultdict(lambda:0)
 iddict =defaultdict(lambda:'')
 queryweightsum = defaultdict(lambda:0)

@@ -47,13 +47,14 @@ def calculateHscore(runname):
     
     count =0
     
-    for l in loadcsv('../data/csv/task2.csv'):
+    for l in loadcsv('../data/csv/task2.new.csv'):
         count +=1
-        queryid = l[0]
+        queryid ='00'+ l[0]
+        
         fls = l[1]
         sls = l[2]
         freq = l[3]
-        accu = l[4]
+        accu = l[3]
         if queryid.isdigit():
             accuracy[(queryid,fls,sls)] = int(accu)
     
@@ -150,7 +151,7 @@ def calculateFscore(runname):
             try:
                 fls[r.topicid].append(flsrel[(r.topicid,r.fls)])
             except:
-                print 'miss',r.topicid,r.fls
+#                 print 'miss',r.topicid,r.fls
                 fls[r.topicid].append(0)
             alreadyin[r.topicid].add(r.fls)
     rtr = []
@@ -162,4 +163,4 @@ if __name__=="__main__":
 #     print calculateHscore('hultech-S-E-4A')
     for f in os.listdir('../data/enrun/'):
         runname = f.replace('.txt','')
-        print runname,'\t',mean(calculateFscore(runname))
+        print runname,'\t',mean(calculateHscore(runname))
