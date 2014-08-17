@@ -49,7 +49,7 @@ for l in open('../data/temp/flsposs.txt').readlines():
 run1 = open('../data/flseva/run1.sh','w')
 runlist = open('../data/flseva/iminerunlist','w')
 run2 = open('../data/flseva/run2.sh','w')
-run2.write('cat ./iminerunlist | TRECsplitruns ./imine.Iprob.tid')
+run2.write('cat ./iminerunlist | ./TRECsplitruns ./imine.Iprob.tid')
 run2.close()
 
 run3 = open('../data/flseva/run3.sh','w')
