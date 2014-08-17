@@ -57,7 +57,7 @@ for f in os.listdir('../data/cnrun'):
     for l in open('../data/cnrun/'+f).readlines()[1:]:
         segs = l.strip().replace('&amp;','').split(';')
         id = segs[0]
-        usersls = segs[2]
+        usersls = segs[6]
         slsrank = int(segs[3])
         allsubsls[id].add(usersls)
     
@@ -101,7 +101,7 @@ for f in os.listdir('../data/cnrun'):
     for l in open('../data/cnrun/'+f).readlines()[1:]:
         segs = l.strip().replace('&amp;','').split(';')
         id = segs[0]
-        usersls = segs[2]
+        usersls = segs[6]
         userslsrank = segs[3]
         userslsscore = segs[4]
         if (usersls,userslsrank,userslsscore) in alreadyin:
