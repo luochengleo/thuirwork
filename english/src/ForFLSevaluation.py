@@ -57,8 +57,8 @@ run3 = open('../data/flseva/run3.sh','w')
 
 for f in os.listdir('../data/enrun'):
     run1.write('./DIN-splitqrels imine.Iprob '+f.replace('txt','Dqrels')+' imine'+'\n')
-    runlist.write(f.replace('txt')+'\n')
-    
+    runlist.write(f.replace('txt','')+'\n')
+    run3.write('echo '+f.replace('txt','')+' | D-NTCIR-eval imine.Iprob.tid imine 5 100\n')
     print f
     dreq = open('../data/flseva/'+f.replace('txt','Dqrels'),'w')
     alreadyin = set()
@@ -100,4 +100,7 @@ for f in os.listdir('../data/enrun'):
                 rel = 'L0'
             dreq.write(id+' '+str(intent)+' '+userfls.replace(' ','')+' '+rel+'\n')
     dreq.close()
-    
+
+run1.close()
+run3.close()
+runlist.close()

@@ -1,0 +1,1 @@
+cat ./iminerunlist | TRECsplitruns ./imine.Iprob.tid
