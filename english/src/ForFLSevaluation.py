@@ -28,7 +28,7 @@ if 'flseva' not in os.listdir('../data'):
 
 ####################################################
 userfls2annofls = defaultdict(lambda:'')
-for l in loadcsv('../data/csv/task3.csv'):
+for l in loadcsv('../data/csv/task3new.csv'):
     userfls2annofls[l[1]] = l[3]
 
 ####################################################
