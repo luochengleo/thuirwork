@@ -1,1 +1,1 @@
-cat ./iminerunlist | TRECsplitruns ./imine.Iprob.tid
+cat ./iminerunlist | ./TRECsplitruns ./imine.Iprob.tid

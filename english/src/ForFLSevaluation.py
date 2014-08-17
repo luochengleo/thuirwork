@@ -38,13 +38,16 @@ iprob = open('../data/flseva/imine.Iprob','w')
 for l in open('../data/temp/flsposs.txt').readlines():
     segs=  l.strip().split('\t')
     annofls = segs[1]
+    id = segs[0]
     if segs[0] != id:
         count = 1
         id = segs[0]
     else:
         count +=1
-    annofls2idx[annofls] = count
+    annofls2idx[(id,annofls)] = count
     iprob.write(id+' '+str(count)+' '+segs[2]+'\n')
+for k in annofls2idx:
+    print k,annofls2idx[k]
 ######################################################
 run1 = open('../data/flseva/run1.sh','w')
 runlist = open('../data/flseva/iminerunlist','w')
@@ -57,8 +60,8 @@ run3 = open('../data/flseva/run3.sh','w')
 
 for f in os.listdir('../data/enrun'):
     run1.write('./DIN-splitqrels imine.Iprob '+f.replace('txt','Dqrels')+' imine'+'\n')
-    runlist.write(f.replace('txt','')+'\n')
-    run3.write('echo '+f.replace('txt','')+' | ./D-NTCIR-eval imine.Iprob.tid imine 5 100\n')
+    runlist.write(f.replace('.txt','')+'\n')
+    run3.write('echo '+f.replace('.txt','')+' | ./D-NTCIR-eval imine.Iprob.tid imine 5 100\n')
     print f
     dreq = open('../data/flseva/'+f.replace('txt','Dqrels'),'w')
     alreadyin = set()
@@ -83,7 +86,7 @@ for f in os.listdir('../data/enrun'):
 
             if annofls !='':
                 try:
-                    intent = annofls2idx[annofls]
+                    intent = annofls2idx[(id,annofls)]
                 except:
                     print '-------except-------'
                     print userfls
@@ -91,10 +94,13 @@ for f in os.listdir('../data/enrun'):
                     bug = open('../data/out.debug','w')
                     bug.write('fail key '+annofls+'\n')
                     for item in annofls2idx.keys():
-                        bug.write(item+'\n')
+                        bug.write(item[0]+'\t'+item[1]+'\n')
                     bug.close()
-                    itent = 0
-                rel = 'L1'
+                intent = 0
+                if intent != 0:
+                    rel = 'L1'
+                else:
+                    rel = 'L0'
             else:
                 intent = 0
                 rel = 'L0'
