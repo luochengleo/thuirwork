@@ -1,5 +1,8 @@
 #coding=utf8
 import os
+import sys
+dir = sys.argv[1]
+cutoff = sys.argv[2]
 for f in os.listdir('../data/Dqrels/sakai/Dnev/'):
     Dsharpsum = 0.0
     Dsharpcount = 0.0
@@ -11,7 +14,7 @@ for f in os.listdir('../data/Dqrels/sakai/Dnev/'):
 
     for l in open('../data/Dqrels/sakai/Dnev/'+f):
         segs = l.strip().split(' ')
-        if segs[1] == 'nDCG@0010=':
+        if segs[1] == 'nDCG@'+cutoff+'=':
             for item in segs[2:]:
                 if item != '':
                     Dsharpsum += float(item)
@@ -22,7 +25,7 @@ for f in os.listdir('../data/Dqrels/sakai/Dnev/'):
                 if item != '':
                     IRelnsum += float(item)
             IRelncount +=1
-        if segs[1] == 'I-rec@0010=':
+        if segs[1] == 'I-rec@'+cutoff+'=':
             for item in segs[2:]:
                 if item != '':
                     IRel50sum += float(item)
