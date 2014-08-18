@@ -1,0 +1,1351 @@
+<?xml version='1.0' encoding='utf8'?>
+<data>
+ <query id="0001">
+  <candidate annotated_sls="先知_电影_概况" rank="1" vote1="15" vote2="18" vote3="19" votesum="52">
+  </candidate>
+  <candidate annotated_sls="先知_电影_观看" rank="2" vote1="11" vote2="20" vote3="20" votesum="51">
+  </candidate>
+  <candidate annotated_sls="先知_游戏_星际争霸" rank="3" vote1="18" vote2="10" vote3="18" votesum="46">
+  </candidate>
+  <candidate annotated_sls="先知_人物_纪伯伦" rank="4" vote1="13" vote2="17" vote3="15" votesum="45">
+  </candidate>
+  <candidate annotated_sls="先知_游戏_光晕系列" rank="5" vote1="17" vote2="11" vote3="14" votesum="42">
+  </candidate>
+  <candidate annotated_sls="先知_游戏_dota" rank="6" vote1="16" vote2="8" vote3="17" votesum="41">
+  </candidate>
+  <candidate annotated_sls="先知_人物_宗教先知" rank="7" vote1="12" vote2="16" vote3="11" votesum="39">
+  </candidate>
+  <candidate annotated_sls="先知_公司_先知电子" rank="8" vote1="14" vote2="12" vote3="13" votesum="39">
+  </candidate>
+  <candidate annotated_sls="先知_电影_演员" rank="9" vote1="10" vote2="19" vote3="10" votesum="39">
+  </candidate>
+  <candidate annotated_sls="先知_人物_女先知" rank="10" vote1="7" vote2="15" vote3="16" votesum="38">
+  </candidate>
+  <candidate annotated_sls="先知_游戏_lol" rank="11" vote1="19" vote2="9" vote3="8" votesum="36">
+  </candidate>
+  <candidate annotated_sls="先知_游戏_魔兽争霸" rank="12" vote1="20" vote2="7" vote3="7" votesum="34">
+  </candidate>
+  <candidate annotated_sls="先知_公司_先知集团" rank="13" vote1="8" vote2="13" vote3="12" votesum="33">
+  </candidate>
+  <candidate annotated_sls="先知_电子设备_电子狗" rank="14" vote1="9" vote2="14" vote3="9" votesum="32">
+  </candidate>
+ </query>
+ <query id="0002">
+  <candidate annotated_sls="波斯猫_视频_mv" rank="1" vote1="14" vote2="20" vote3="19" votesum="53">
+  </candidate>
+  <candidate annotated_sls="波斯猫_音乐_she" rank="2" vote1="17" vote2="16" vote3="18" votesum="51">
+  </candidate>
+  <candidate annotated_sls="波斯猫_音乐_歌曲" rank="3" vote1="16" vote2="17" vote3="16" votesum="49">
+  </candidate>
+  <candidate annotated_sls="波斯猫_音乐_下载" rank="4" vote1="9" vote2="18" vote3="20" votesum="47">
+  </candidate>
+  <candidate annotated_sls="波斯猫_动物_图片" rank="5" vote1="20" vote2="13" vote3="13" votesum="46">
+  </candidate>
+  <candidate annotated_sls="波斯猫_动物_资料" rank="6" vote1="19" vote2="11" vote3="14" votesum="44">
+  </candidate>
+  <candidate annotated_sls="波斯猫_动物_价格" rank="7" vote1="18" vote2="12" vote3="12" votesum="42">
+  </candidate>
+  <candidate annotated_sls="波斯猫_视频_在线" rank="8" vote1="13" vote2="14" vote3="15" votesum="42">
+  </candidate>
+  <candidate annotated_sls="波斯猫_舞蹈_教学" rank="9" vote1="10" vote2="19" vote3="11" votesum="40">
+  </candidate>
+  <candidate annotated_sls="波斯猫_音乐_歌词" rank="10" vote1="8" vote2="15" vote3="17" votesum="40">
+  </candidate>
+  <candidate annotated_sls="波斯猫_音乐_dj" rank="11" vote1="16" vote2="9" vote3="8" votesum="33">
+  </candidate>
+  <candidate annotated_sls="波斯猫_舞蹈_幼儿" rank="12" vote1="11" vote2="8" vote3="10" votesum="29">
+  </candidate>
+  <candidate annotated_sls="波斯猫_游戏_剑网3" rank="13" vote1="12" vote2="7" vote3="9" votesum="28">
+  </candidate>
+  <candidate annotated_sls="波斯猫_音乐_伤不起" rank="14" vote1="7" vote2="10" vote3="7" votesum="24">
+  </candidate>
+ </query>
+ <query id="0003">
+  <candidate annotated_sls="猫头鹰_动物_知识" rank="1" vote1="19" vote2="15" vote3="20" votesum="54">
+  </candidate>
+  <candidate annotated_sls="猫头鹰_动物_图片" rank="2" vote1="20" vote2="14" vote3="19" votesum="53">
+  </candidate>
+  <candidate annotated_sls="猫头鹰_电影_猫头鹰" rank="3" vote1="9" vote2="20" vote3="18" votesum="47">
+  </candidate>
+  <candidate annotated_sls="猫头鹰_电影_猫头鹰与小飞象" rank="4" vote1="11" vote2="19" vote3="16" votesum="46">
+  </candidate>
+  <candidate annotated_sls="猫头鹰_电影_猫头鹰王国之守卫者传奇" rank="5" vote1="10" vote2="17" vote3="17" votesum="44">
+  </candidate>
+  <candidate annotated_sls="猫头鹰_漫画_猫头鹰王国" rank="6" vote1="12" vote2="16" vote3="15" votesum="43">
+  </candidate>
+  <candidate annotated_sls="猫头鹰_漫画_海贼王" rank="7" vote1="15" vote2="18" vote3="8" votesum="41">
+  </candidate>
+  <candidate annotated_sls="猫头鹰_动物_骨骼作用" rank="8" vote1="18" vote2="13" vote3="9" votesum="40">
+  </candidate>
+  <candidate annotated_sls="猫头鹰_动物_作用" rank="9" vote1="14" vote2="11" vote3="14" votesum="39">
+  </candidate>
+  <candidate annotated_sls="猫头鹰_动物_保护动物" rank="10" vote1="13" vote2="12" vote3="13" votesum="38">
+  </candidate>
+  <candidate annotated_sls="猫头鹰_游戏_魔兽世界" rank="11" vote1="17" vote2="9" vote3="12" votesum="38">
+  </candidate>
+  <candidate annotated_sls="猫头鹰_游戏_dnf" rank="12" vote1="16" vote2="8" vote3="11" votesum="35">
+  </candidate>
+  <candidate annotated_sls="猫头鹰_动物_含义" rank="13" vote1="8" vote2="10" vote3="10" votesum="28">
+  </candidate>
+ </query>
+ <query id="0004">
+  <candidate annotated_sls="adobe_软件_photoshop" rank="1" vote1="19" vote2="20" vote3="19" votesum="58">
+  </candidate>
+  <candidate annotated_sls="adobe_软件_reader" rank="2" vote1="20" vote2="16" vote3="20" votesum="56">
+  </candidate>
+  <candidate annotated_sls="adobe_软件_flashplayer" rank="3" vote1="16" vote2="19" vote3="18" votesum="53">
+  </candidate>
+  <candidate annotated_sls="adobe_软件_pdfreader" rank="4" vote1="18" vote2="14" vote3="15" votesum="47">
+  </candidate>
+  <candidate annotated_sls="adobe_软件_下载" rank="5" vote1="15" vote2="4" vote3="16" votesum="35">
+  </candidate>
+  <candidate annotated_sls="adobe_网站_官网" rank="6" vote1="13" vote2="3" vote3="17" votesum="33">
+  </candidate>
+  <candidate annotated_sls="adobe_软件_产品试用" rank="7" vote1="14" vote2="5" vote3="14" votesum="33">
+  </candidate>
+  <candidate annotated_sls="adobe_软件_flashpaper" rank="8" vote1="2" vote2="18" vote3="12" votesum="32">
+  </candidate>
+  <candidate annotated_sls="adobe_软件_mediaserver" rank="9" vote1="6" vote2="13" vote3="11" votesum="30">
+  </candidate>
+  <candidate annotated_sls="adobe_软件_postscript" rank="10" vote1="7" vote2="15" vote3="6" votesum="28">
+  </candidate>
+  <candidate annotated_sls="adobe_网站_介绍" rank="11" vote1="12" vote2="2" vote3="13" votesum="27">
+  </candidate>
+  <candidate annotated_sls="adobe_软件_javascript" rank="12" vote1="17" vote2="0" vote3="9" votesum="26">
+  </candidate>
+  <candidate annotated_sls="adobe_软件_html" rank="13" vote1="5" vote2="17" vote3="0" votesum="22">
+  </candidate>
+  <candidate annotated_sls="adobe_软件_marketingcloud" rank="14" vote1="0" vote2="12" vote3="10" votesum="22">
+  </candidate>
+  <candidate annotated_sls="adobe_软件_leanprint" rank="15" vote1="0" vote2="10" vote3="8" votesum="18">
+  </candidate>
+  <candidate annotated_sls="adobe_软件_lightroom" rank="16" vote1="0" vote2="11" vote3="7" votesum="18">
+  </candidate>
+  <candidate annotated_sls="adobe_软件_premiere" rank="17" vote1="9" vote2="0" vote3="5" votesum="14">
+  </candidate>
+  <candidate annotated_sls="adobe_软件_pagemaker" rank="18" vote1="10" vote2="0" vote3="3" votesum="13">
+  </candidate>
+  <candidate annotated_sls="adobe_软件_代码泄露" rank="19" vote1="11" vote2="0" vote3="1" votesum="12">
+  </candidate>
+  <candidate annotated_sls="adobe_软件_flex" rank="20" vote1="3" vote2="9" vote3="0" votesum="12">
+  </candidate>
+  <candidate annotated_sls="adobe_软件_shockwave" rank="21" vote1="8" vote2="0" vote3="4" votesum="12">
+  </candidate>
+  <candidate annotated_sls="adobe_软件_director" rank="22" vote1="1" vote2="8" vote3="0" votesum="9">
+  </candidate>
+  <candidate annotated_sls="adobe_软件_air" rank="23" vote1="0" vote2="7" vote3="0" votesum="7">
+  </candidate>
+  <candidate annotated_sls="adobe_软件_acrobat" rank="24" vote1="0" vote2="6" vote3="0" votesum="6">
+  </candidate>
+  <candidate annotated_sls="adobe_软件_illustrator" rank="25" vote1="4" vote2="0" vote3="2" votesum="6">
+  </candidate>
+  <candidate annotated_sls="adobe_软件_fireworks" rank="26" vote1="0" vote2="1" vote3="0" votesum="1">
+  </candidate>
+  <candidate annotated_sls="adobe_网站_收购列表" rank="27" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="adobe_软件_audition" rank="28" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="adobe_软件_blazeds" rank="29" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="adobe_软件_captivate" rank="30" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="adobe_软件_coldfusion" rank="31" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="adobe_软件_contribute" rank="32" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="adobe_软件_creativesuite" rank="33" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="adobe_软件_dreamweaver" rank="34" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="adobe_软件_fileformat" rank="35" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="adobe_软件_font folio" rank="36" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="adobe_软件_formscentral" rank="37" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="adobe_软件_golive" rank="38" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="adobe_软件_indesign" rank="39" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="adobe_软件_integratedruntime" rank="40" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+ </query>
+ <query id="0005">
+  <candidate annotated_sls="传奇_电视节目_传奇视频" rank="1" vote1="19" vote2="18" vote3="17" votesum="54">
+  </candidate>
+  <candidate annotated_sls="传奇_游戏_传奇3" rank="2" vote1="20" vote2="8" vote3="19" votesum="47">
+  </candidate>
+  <candidate annotated_sls="传奇_歌曲_演唱者" rank="3" vote1="14" vote2="16" vote3="16" votesum="46">
+  </candidate>
+  <candidate annotated_sls="传奇_游戏_传奇" rank="4" vote1="19" vote2="7" vote3="20" votesum="46">
+  </candidate>
+  <candidate annotated_sls="传奇_电影_我是传奇" rank="5" vote1="12" vote2="20" vote3="14" votesum="46">
+  </candidate>
+  <candidate annotated_sls="传奇_电影_星际传奇" rank="6" vote1="11" vote2="19" vote3="12" votesum="42">
+  </candidate>
+  <candidate annotated_sls="传奇_小说_网游小说" rank="7" vote1="8" vote2="14" vote3="15" votesum="37">
+  </candidate>
+  <candidate annotated_sls="传奇_电视节目_传奇" rank="8" vote1="7" vote2="11" vote3="18" votesum="36">
+  </candidate>
+  <candidate annotated_sls="传奇_电视节目_电视剧" rank="9" vote1="9" vote2="12" vote3="13" votesum="34">
+  </candidate>
+  <candidate annotated_sls="传奇_电视节目_传奇故事" rank="10" vote1="5" vote2="17" vote3="11" votesum="33">
+  </candidate>
+  <candidate annotated_sls="传奇_游戏_传奇外传" rank="11" vote1="17" vote2="6" vote3="6" votesum="29">
+  </candidate>
+  <candidate annotated_sls="传奇_歌曲_简谱" rank="12" vote1="13" vote2="15" vote3="0" votesum="28">
+  </candidate>
+  <candidate annotated_sls="传奇_游戏_传奇世界" rank="13" vote1="16" vote2="5" vote3="5" votesum="26">
+  </candidate>
+  <candidate annotated_sls="传奇_小说_小兵传奇" rank="14" vote1="3" vote2="13" vote3="9" votesum="25">
+  </candidate>
+  <candidate annotated_sls="传奇_游戏_传奇私服" rank="15" vote1="18" vote2="4" vote3="3" votesum="25">
+  </candidate>
+  <candidate annotated_sls="传奇_电视节目_武工队传奇" rank="16" vote1="4" vote2="10" vote3="10" votesum="24">
+  </candidate>
+  <candidate annotated_sls="传奇_游戏_冒险王之神兵传奇" rank="17" vote1="2" vote2="9" vote3="8" votesum="19">
+  </candidate>
+  <candidate annotated_sls="传奇_游戏_传奇世界私服" rank="18" vote1="15" vote2="0" vote3="2" votesum="17">
+  </candidate>
+  <candidate annotated_sls="传奇_游戏_蜀山传奇" rank="19" vote1="6" vote2="2" vote3="7" votesum="15">
+  </candidate>
+  <candidate annotated_sls="传奇_游戏_客服" rank="20" vote1="1" vote2="3" vote3="1" votesum="5">
+  </candidate>
+  <candidate annotated_sls="传奇_游戏_运营公司" rank="21" vote1="0" vote2="1" vote3="4" votesum="5">
+  </candidate>
+ </query>
+ <query id="0006">
+  <candidate annotated_sls="小米_食物_小米粥" rank="1" vote1="17" vote2="17" vote3="12" votesum="46">
+  </candidate>
+  <candidate annotated_sls="小米_手机_概况" rank="2" vote1="20" vote2="14" vote3="9" votesum="43">
+  </candidate>
+  <candidate annotated_sls="小米_手机_购买" rank="3" vote1="16" vote2="12" vote3="14" votesum="42">
+  </candidate>
+  <candidate annotated_sls="小米_官网_商城" rank="4" vote1="12" vote2="10" vote3="19" votesum="41">
+  </candidate>
+  <candidate annotated_sls="小米_食物_营养价值" rank="5" vote1="15" vote2="15" vote3="10" votesum="40">
+  </candidate>
+  <candidate annotated_sls="小米_手机_图片" rank="6" vote1="19" vote2="13" vote3="8" votesum="40">
+  </candidate>
+  <candidate annotated_sls="小米_官网_订购" rank="7" vote1="14" vote2="9" vote3="15" votesum="38">
+  </candidate>
+  <candidate annotated_sls="小米_论坛_手机论坛" rank="8" vote1="9" vote2="8" vote3="18" votesum="35">
+  </candidate>
+  <candidate annotated_sls="小米_食物_谷物" rank="9" vote1="6" vote2="16" vote3="13" votesum="35">
+  </candidate>
+  <candidate annotated_sls="小米_官网_手机官网" rank="10" vote1="13" vote2="1" vote3="20" votesum="34">
+  </candidate>
+  <candidate annotated_sls="小米_食物_功效" rank="11" vote1="4" vote2="19" vote3="11" votesum="34">
+  </candidate>
+  <candidate annotated_sls="小米_公司_小米科技" rank="12" vote1="11" vote2="5" vote3="17" votesum="33">
+  </candidate>
+  <candidate annotated_sls="小米_公司_其他产品" rank="13" vote1="18" vote2="6" vote3="7" votesum="31">
+  </candidate>
+  <candidate annotated_sls="小米_食物_豆浆" rank="14" vote1="7" vote2="18" vote3="1" votesum="26">
+  </candidate>
+  <candidate annotated_sls="小米_食物_红枣粥" rank="15" vote1="3" vote2="20" vote3="2" votesum="25">
+  </candidate>
+  <candidate annotated_sls="小米_公司_售后" rank="16" vote1="10" vote2="7" vote3="6" votesum="23">
+  </candidate>
+  <candidate annotated_sls="小米_食物_对比" rank="17" vote1="5" vote2="11" vote3="5" votesum="21">
+  </candidate>
+  <candidate annotated_sls="小米_论坛_贴吧" rank="18" vote1="1" vote2="2" vote3="16" votesum="19">
+  </candidate>
+  <candidate annotated_sls="小米_手机_助手" rank="19" vote1="8" vote2="4" vote3="3" votesum="15">
+  </candidate>
+  <candidate annotated_sls="小米_手机_竞争对手" rank="20" vote1="2" vote2="3" vote3="4" votesum="9">
+  </candidate>
+ </query>
+ <query id="0007">
+  <candidate annotated_sls="中国水电_股票_证券公司" rank="1" vote1="19" vote2="9" vote3="20" votesum="48">
+  </candidate>
+  <candidate annotated_sls="中国水电_股票_年报" rank="2" vote1="20" vote2="10" vote3="14" votesum="44">
+  </candidate>
+  <candidate annotated_sls="中国水电_公司_中国水利水电工程局分公司" rank="3" vote1="10" vote2="16" vote3="17" votesum="43">
+  </candidate>
+  <candidate annotated_sls="中国水电_公司_项目" rank="4" vote1="12" vote2="19" vote3="12" votesum="43">
+  </candidate>
+  <candidate annotated_sls="中国水电_公司_中国水利水电建设集团公司" rank="5" vote1="9" vote2="17" vote3="16" votesum="42">
+  </candidate>
+  <candidate annotated_sls="中国水电_公司_云立方" rank="6" vote1="11" vote2="20" vote3="10" votesum="41">
+  </candidate>
+  <candidate annotated_sls="中国水电_股票_中国水电股吧" rank="7" vote1="13" vote2="7" vote3="18" votesum="38">
+  </candidate>
+  <candidate annotated_sls="中国水电_公司_中国水利水电出版社" rank="8" vote1="0" vote2="18" vote3="19" votesum="37">
+  </candidate>
+  <candidate annotated_sls="中国水电_公司_中国水电网" rank="9" vote1="5" vote2="13" vote3="15" votesum="33">
+  </candidate>
+  <candidate annotated_sls="中国水电_股票_半年报" rank="10" vote1="16" vote2="4" vote3="13" votesum="33">
+  </candidate>
+  <candidate annotated_sls="中国水电_股票_大智慧" rank="11" vote1="18" vote2="2" vote3="11" votesum="31">
+  </candidate>
+  <candidate annotated_sls="中国水电_股票_新闻" rank="12" vote1="17" vote2="3" vote3="9" votesum="29">
+  </candidate>
+  <candidate annotated_sls="中国水电_公司_中国水电路桥公司" rank="13" vote1="8" vote2="12" vote3="8" votesum="28">
+  </candidate>
+  <candidate annotated_sls="中国水电_股票_中国水电股票" rank="14" vote1="14" vote2="6" vote3="6" votesum="26">
+  </candidate>
+  <candidate annotated_sls="中国水电_公司_中国水电站" rank="15" vote1="6" vote2="14" vote3="5" votesum="25">
+  </candidate>
+  <candidate annotated_sls="中国水电_公司_中国电力建设集团有限公司" rank="16" vote1="7" vote2="11" vote3="7" votesum="25">
+  </candidate>
+  <candidate annotated_sls="中国水电_股票_保险" rank="17" vote1="15" vote2="5" vote3="4" votesum="24">
+  </candidate>
+  <candidate annotated_sls="中国水电_公司_中国北车" rank="18" vote1="0" vote2="15" vote3="2" votesum="17">
+  </candidate>
+  <candidate annotated_sls="中国水电_公司_基础局" rank="19" vote1="0" vote2="8" vote3="1" votesum="9">
+  </candidate>
+  <candidate annotated_sls="中国水电_公司_中国建筑" rank="20" vote1="4" vote2="0" vote3="3" votesum="7">
+  </candidate>
+  <candidate annotated_sls="中国水电_公司_工程建设集团公司" rank="21" vote1="3" vote2="0" vote3="0" votesum="3">
+  </candidate>
+  <candidate annotated_sls="中国水电_公司_工程顾问集团公司" rank="22" vote1="2" vote2="1" vote3="0" votesum="3">
+  </candidate>
+  <candidate annotated_sls="中国水电_公司_安装网" rank="23" vote1="1" vote2="0" vote3="0" votesum="1">
+  </candidate>
+ </query>
+ <query id="0008">
+  <candidate annotated_sls="云轩_网站_云轩阁小说网" rank="1" vote1="20" vote2="20" vote3="20" votesum="60">
+  </candidate>
+  <candidate annotated_sls="云轩_小说_落云轩小说网" rank="2" vote1="19" vote2="19" vote3="19" votesum="57">
+  </candidate>
+ </query>
+ <query id="0009">
+  <candidate annotated_sls="遮天_电影_古惑仔3之只手遮天" rank="1" vote1="20" vote2="20" vote3="18" votesum="58">
+  </candidate>
+  <candidate annotated_sls="遮天_下载_txt下载" rank="2" vote1="12" vote2="19" vote3="20" votesum="51">
+  </candidate>
+  <candidate annotated_sls="遮天_小说_遮天" rank="3" vote1="8" vote2="18" vote3="19" votesum="45">
+  </candidate>
+  <candidate annotated_sls="遮天_小说_燃文小说" rank="4" vote1="14" vote2="11" vote3="17" votesum="42">
+  </candidate>
+  <candidate annotated_sls="遮天_官网_燃文小说网" rank="5" vote1="9" vote2="17" vote3="15" votesum="41">
+  </candidate>
+  <candidate annotated_sls="遮天_官网_百度官网" rank="6" vote1="13" vote2="14" vote3="14" votesum="41">
+  </candidate>
+  <candidate annotated_sls="遮天_官网_小说官网" rank="7" vote1="10" vote2="16" vote3="13" votesum="39">
+  </candidate>
+  <candidate annotated_sls="遮天_官网_太古遮天网" rank="8" vote1="11" vote2="15" vote3="11" votesum="37">
+  </candidate>
+  <candidate annotated_sls="遮天_小说_起点小说" rank="9" vote1="15" vote2="5" vote3="16" votesum="36">
+  </candidate>
+  <candidate annotated_sls="遮天_游戏_神魔遮天" rank="10" vote1="19" vote2="1" vote3="6" votesum="26">
+  </candidate>
+  <candidate annotated_sls="遮天_游戏_太古遮天" rank="11" vote1="18" vote2="2" vote3="4" votesum="24">
+  </candidate>
+  <candidate annotated_sls="遮天_小说_医手遮天" rank="12" vote1="6" vote2="13" vote3="3" votesum="22">
+  </candidate>
+  <candidate annotated_sls="遮天_小说_e小说" rank="13" vote1="3" vote2="9" vote3="10" votesum="22">
+  </candidate>
+  <candidate annotated_sls="遮天_小说_太古遮天" rank="14" vote1="7" vote2="12" vote3="2" votesum="21">
+  </candidate>
+  <candidate annotated_sls="遮天_游戏_傲世九重天" rank="15" vote1="16" vote2="0" vote3="5" votesum="21">
+  </candidate>
+  <candidate annotated_sls="遮天_小说_快眼看书" rank="16" vote1="5" vote2="6" vote3="8" votesum="19">
+  </candidate>
+  <candidate annotated_sls="遮天_小说_遮天5200" rank="17" vote1="4" vote2="3" vote3="12" votesum="19">
+  </candidate>
+  <candidate annotated_sls="遮天_小说_sodu小说" rank="18" vote1="2" vote2="8" vote3="9" votesum="19">
+  </candidate>
+  <candidate annotated_sls="遮天_小说_辰东" rank="19" vote1="1" vote2="10" vote3="7" votesum="18">
+  </candidate>
+  <candidate annotated_sls="遮天_游戏_圣主战介绍" rank="20" vote1="17" vote2="0" vote3="0" votesum="17">
+  </candidate>
+  <candidate annotated_sls="遮天_小说_介绍" rank="21" vote1="0" vote2="7" vote3="0" votesum="7">
+  </candidate>
+  <candidate annotated_sls="遮天_小说_遮天六月" rank="22" vote1="0" vote2="4" vote3="0" votesum="4">
+  </candidate>
+  <candidate annotated_sls="遮天_小说_最新章节" rank="23" vote1="0" vote2="0" vote3="1" votesum="1">
+  </candidate>
+  <candidate annotated_sls="遮天_小说_无弹窗阅读" rank="24" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="遮天_小说_更新时间" rank="25" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="遮天_游戏_攻略" rank="26" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+ </query>
+ <query id="0010">
+  <candidate annotated_sls="舍得_歌词_流行歌曲" rank="1" vote1="20" vote2="20" vote3="17" votesum="57">
+  </candidate>
+  <candidate annotated_sls="舍得_酒_沱牌" rank="2" vote1="18" vote2="19" vote3="16" votesum="53">
+  </candidate>
+  <candidate annotated_sls="舍得_网站_官网" rank="3" vote1="16" vote2="16" vote3="20" votesum="52">
+  </candidate>
+  <candidate annotated_sls="舍得_酒_价格" rank="4" vote1="19" vote2="9" vote3="19" votesum="47">
+  </candidate>
+  <candidate annotated_sls="舍得_公司_四川沱牌酒业股份有限公司" rank="5" vote1="9" vote2="17" vote3="18" votesum="44">
+  </candidate>
+  <candidate annotated_sls="舍得_酒_介绍" rank="6" vote1="12" vote2="18" vote3="14" votesum="44">
+  </candidate>
+  <candidate annotated_sls="舍得_酒_高档酒品牌" rank="7" vote1="17" vote2="11" vote3="15" votesum="43">
+  </candidate>
+  <candidate annotated_sls="舍得_网站_舍得网" rank="8" vote1="15" vote2="15" vote3="13" votesum="43">
+  </candidate>
+  <candidate annotated_sls="舍得_网站_返利网" rank="9" vote1="14" vote2="14" vote3="10" votesum="38">
+  </candidate>
+  <candidate annotated_sls="舍得_酒_代理" rank="10" vote1="11" vote2="13" vote3="11" votesum="35">
+  </candidate>
+  <candidate annotated_sls="舍得_酒_酒业" rank="11" vote1="10" vote2="12" vote3="12" votesum="34">
+  </candidate>
+  <candidate annotated_sls="舍得_酒_二手买卖" rank="12" vote1="13" vote2="10" vote3="9" votesum="32">
+  </candidate>
+  <candidate annotated_sls="舍得_公司_报告" rank="13" vote1="7" vote2="7" vote3="8" votesum="22">
+  </candidate>
+  <candidate annotated_sls="舍得_公司_管理制度" rank="14" vote1="8" vote2="8" vote3="5" votesum="21">
+  </candidate>
+  <candidate annotated_sls="舍得_公司_公告" rank="15" vote1="6" vote2="6" vote3="7" votesum="19">
+  </candidate>
+  <candidate annotated_sls="舍得_网站_网源码" rank="16" vote1="5" vote2="5" vote3="6" votesum="16">
+  </candidate>
+ </query>
+ <query id="0011">
+  <candidate annotated_sls="秋菊_电影_秋菊打官司" rank="1" vote1="20" vote2="20" vote3="20" votesum="60">
+  </candidate>
+  <candidate annotated_sls="秋菊_电视剧_秋菊" rank="2" vote1="19" vote2="17" vote3="19" votesum="55">
+  </candidate>
+  <candidate annotated_sls="秋菊_文学_陈毅" rank="3" vote1="17" vote2="9" vote3="15" votesum="41">
+  </candidate>
+  <candidate annotated_sls="秋菊_植物_图片" rank="4" vote1="18" vote2="7" vote3="16" votesum="41">
+  </candidate>
+  <candidate annotated_sls="秋菊_文学_原创" rank="5" vote1="8" vote2="18" vote3="14" votesum="40">
+  </candidate>
+  <candidate annotated_sls="秋菊_植物_介绍" rank="6" vote1="15" vote2="5" vote3="18" votesum="38">
+  </candidate>
+  <candidate annotated_sls="秋菊_电视剧_娘妻" rank="7" vote1="12" vote2="16" vote3="10" votesum="38">
+  </candidate>
+  <candidate annotated_sls="秋菊_植物_菊花" rank="8" vote1="14" vote2="6" vote3="17" votesum="37">
+  </candidate>
+  <candidate annotated_sls="秋菊_电影_秋菊马铁腿外传" rank="9" vote1="10" vote2="14" vote3="13" votesum="37">
+  </candidate>
+  <candidate annotated_sls="秋菊_电影_电影人物" rank="10" vote1="13" vote2="15" vote3="7" votesum="35">
+  </candidate>
+  <candidate annotated_sls="秋菊_文学_秋菊作文" rank="11" vote1="9" vote2="19" vote3="6" votesum="34">
+  </candidate>
+  <candidate annotated_sls="秋菊_电影_秋菊夜盗珍妃墓" rank="12" vote1="11" vote2="10" vote3="12" votesum="33">
+  </candidate>
+  <candidate annotated_sls="秋菊_文学_古诗" rank="13" vote1="16" vote2="8" vote3="5" votesum="29">
+  </candidate>
+  <candidate annotated_sls="秋菊_电影_秋菊屠城血证" rank="14" vote1="7" vote2="11" vote3="11" votesum="29">
+  </candidate>
+  <candidate annotated_sls="秋菊_电视剧_江湖奇侠传之木兰秋菊" rank="15" vote1="6" vote2="13" vote3="8" votesum="27">
+  </candidate>
+  <candidate annotated_sls="秋菊_电影_秋菊爬满青藤木屋" rank="16" vote1="5" vote2="12" vote3="9" votesum="26">
+  </candidate>
+ </query>
+ <query id="0012">
+  <candidate annotated_sls="三字经_内容_新三字经" rank="1" vote1="20" vote2="19" vote3="20" votesum="59">
+  </candidate>
+  <candidate annotated_sls="三字经_内容_解释" rank="2" vote1="19" vote2="20" vote3="17" votesum="56">
+  </candidate>
+  <candidate annotated_sls="三字经_内容_下载" rank="3" vote1="18" vote2="17" vote3="18" votesum="53">
+  </candidate>
+  <candidate annotated_sls="三字经_内容_全文" rank="4" vote1="11" vote2="18" vote3="19" votesum="48">
+  </candidate>
+  <candidate annotated_sls="三字经_影音_视频" rank="5" vote1="17" vote2="15" vote3="15" votesum="47">
+  </candidate>
+  <candidate annotated_sls="三字经_影音_儿歌" rank="6" vote1="16" vote2="13" vote3="16" votesum="45">
+  </candidate>
+  <candidate annotated_sls="三字经_影音_朗读" rank="7" vote1="15" vote2="14" vote3="13" votesum="42">
+  </candidate>
+  <candidate annotated_sls="三字经_内容_介绍" rank="8" vote1="10" vote2="16" vote3="12" votesum="38">
+  </candidate>
+  <candidate annotated_sls="三字经_内容_儿歌" rank="9" vote1="13" vote2="8" vote3="14" votesum="35">
+  </candidate>
+  <candidate annotated_sls="三字经_影音_音频" rank="10" vote1="14" vote2="11" vote3="10" votesum="35">
+  </candidate>
+  <candidate annotated_sls="三字经_内容_外传" rank="11" vote1="12" vote2="10" vote3="8" votesum="30">
+  </candidate>
+  <candidate annotated_sls="三字经_内容_作者" rank="12" vote1="9" vote2="9" vote3="11" votesum="29">
+  </candidate>
+  <candidate annotated_sls="三字经_影音_舞蹈" rank="13" vote1="6" vote2="12" vote3="9" votesum="27">
+  </candidate>
+  <candidate annotated_sls="三字经_内容_千字文" rank="14" vote1="8" vote2="7" vote3="6" votesum="21">
+  </candidate>
+  <candidate annotated_sls="三字经_内容_军人" rank="15" vote1="7" vote2="6" vote3="7" votesum="20">
+  </candidate>
+ </query>
+ <query id="0013">
+  <candidate annotated_sls="三毛_作家_文学作品" rank="1" vote1="20" vote2="19" vote3="20" votesum="59">
+  </candidate>
+  <candidate annotated_sls="三毛_作家_作者" rank="2" vote1="19" vote2="20" vote3="19" votesum="58">
+  </candidate>
+  <candidate annotated_sls="三毛_漫画人物_漫画作品" rank="3" vote1="18" vote2="18" vote3="18" votesum="54">
+  </candidate>
+ </query>
+ <query id="0014">
+  <candidate annotated_sls="阳光_人物_电视剧" rank="1" vote1="18" vote2="20" vote3="19" votesum="57">
+  </candidate>
+  <candidate annotated_sls="阳光_汽车_概况" rank="2" vote1="20" vote2="17" vote3="20" votesum="57">
+  </candidate>
+  <candidate annotated_sls="阳光_网站_汽车" rank="3" vote1="13" vote2="14" vote3="18" votesum="45">
+  </candidate>
+  <candidate annotated_sls="阳光_汽车_新闻" rank="4" vote1="14" vote2="16" vote3="14" votesum="44">
+  </candidate>
+  <candidate annotated_sls="阳光_汽车_经销商" rank="5" vote1="15" vote2="15" vote3="9" votesum="39">
+  </candidate>
+  <candidate annotated_sls="阳光_网站_阳光网" rank="6" vote1="8" vote2="12" vote3="17" votesum="37">
+  </candidate>
+  <candidate annotated_sls="阳光_汽车_论坛" rank="7" vote1="16" vote2="5" vote3="15" votesum="36">
+  </candidate>
+  <candidate annotated_sls="阳光_文学_文章" rank="8" vote1="5" vote2="18" vote3="12" votesum="35">
+  </candidate>
+  <candidate annotated_sls="阳光_汽车_二手车" rank="9" vote1="17" vote2="1" vote3="16" votesum="34">
+  </candidate>
+  <candidate annotated_sls="阳光_人物_影院" rank="10" vote1="10" vote2="9" vote3="13" votesum="32">
+  </candidate>
+  <candidate annotated_sls="阳光_人物_资料" rank="11" vote1="7" vote2="11" vote3="11" votesum="29">
+  </candidate>
+  <candidate annotated_sls="阳光_文学_歌曲" rank="12" vote1="12" vote2="6" vote3="10" votesum="28">
+  </candidate>
+  <candidate annotated_sls="阳光_人物_阳光天使" rank="13" vote1="9" vote2="10" vote3="8" votesum="27">
+  </candidate>
+  <candidate annotated_sls="阳光_网站_炫舞" rank="14" vote1="19" vote2="3" vote3="5" votesum="27">
+  </candidate>
+  <candidate annotated_sls="阳光_文学_午夜阳光" rank="15" vote1="2" vote2="19" vote3="4" votesum="25">
+  </candidate>
+  <candidate annotated_sls="阳光_网站_旅行" rank="16" vote1="3" vote2="13" vote3="6" votesum="22">
+  </candidate>
+  <candidate annotated_sls="阳光_人物_职业" rank="17" vote1="6" vote2="8" vote3="7" votesum="21">
+  </candidate>
+  <candidate annotated_sls="阳光_人物_阳光姐妹淘" rank="18" vote1="1" vote2="7" vote3="3" votesum="11">
+  </candidate>
+  <candidate annotated_sls="阳光_文学_大海" rank="19" vote1="11" vote2="0" vote3="0" votesum="11">
+  </candidate>
+  <candidate annotated_sls="阳光_网站_高考" rank="20" vote1="0" vote2="4" vote3="1" votesum="5">
+  </candidate>
+  <candidate annotated_sls="阳光_网站_基金" rank="21" vote1="4" vote2="0" vote3="0" votesum="4">
+  </candidate>
+  <candidate annotated_sls="阳光_网站_家缘" rank="22" vote1="0" vote2="2" vote3="2" votesum="4">
+  </candidate>
+  <candidate annotated_sls="阳光_文学_意思" rank="23" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="阳光_文学_英语" rank="24" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="阳光_网站_东莞" rank="25" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+ </query>
+ <query id="0015">
+  <candidate annotated_sls="嫦娥_文学作品_传说" rank="1" vote1="17" vote2="17" vote3="15" votesum="49">
+  </candidate>
+  <candidate annotated_sls="嫦娥_神话故事人物_电影" rank="2" vote1="15" vote2="13" vote3="18" votesum="46">
+  </candidate>
+  <candidate annotated_sls="嫦娥_神话故事人物_电视剧" rank="3" vote1="14" vote2="12" vote3="20" votesum="46">
+  </candidate>
+  <candidate annotated_sls="嫦娥_航天飞行器_航天" rank="4" vote1="18" vote2="7" vote3="17" votesum="42">
+  </candidate>
+  <candidate annotated_sls="嫦娥_航天飞行器_卫星" rank="5" vote1="20" vote2="9" vote3="12" votesum="41">
+  </candidate>
+  <candidate annotated_sls="嫦娥_航天飞行器_探月" rank="6" vote1="19" vote2="6" vote3="16" votesum="41">
+  </candidate>
+  <candidate annotated_sls="嫦娥_文学作品_年画" rank="7" vote1="10" vote2="20" vote3="10" votesum="40">
+  </candidate>
+  <candidate annotated_sls="嫦娥_文学作品_音乐" rank="8" vote1="16" vote2="14" vote3="9" votesum="39">
+  </candidate>
+  <candidate annotated_sls="嫦娥_神话故事人物_视频" rank="9" vote1="8" vote2="11" vote3="19" votesum="38">
+  </candidate>
+  <candidate annotated_sls="嫦娥_文学作品_古诗" rank="10" vote1="4" vote2="19" vote3="14" votesum="37">
+  </candidate>
+  <candidate annotated_sls="嫦娥_文学作品_原创" rank="11" vote1="9" vote2="18" vote3="7" votesum="34">
+  </candidate>
+  <candidate annotated_sls="嫦娥_文学作品_图片" rank="12" vote1="5" vote2="16" vote3="13" votesum="34">
+  </candidate>
+  <candidate annotated_sls="嫦娥_神话故事人物_故事" rank="13" vote1="12" vote2="10" vote3="8" votesum="30">
+  </candidate>
+  <candidate annotated_sls="嫦娥_文学作品_核雕" rank="14" vote1="7" vote2="15" vote3="6" votesum="28">
+  </candidate>
+  <candidate annotated_sls="嫦娥_神话故事人物_综艺" rank="15" vote1="13" vote2="5" vote3="4" votesum="22">
+  </candidate>
+  <candidate annotated_sls="嫦娥_航天飞行器_资料" rank="16" vote1="3" vote2="8" vote3="11" votesum="22">
+  </candidate>
+  <candidate annotated_sls="嫦娥_神话故事人物_动漫" rank="17" vote1="6" vote2="4" vote3="5" votesum="15">
+  </candidate>
+ </query>
+ <query id="0016">
+  <candidate annotated_sls="程序员_招聘_php招聘" rank="1" vote1="13" vote2="16" vote3="18" votesum="47">
+  </candidate>
+  <candidate annotated_sls="程序员_课程_编程" rank="2" vote1="20" vote2="8" vote3="16" votesum="44">
+  </candidate>
+  <candidate annotated_sls="程序员_招聘_实习生" rank="3" vote1="15" vote2="20" vote3="6" votesum="41">
+  </candidate>
+  <candidate annotated_sls="程序员_招聘_.net招聘" rank="4" vote1="0" vote2="18" vote3="20" votesum="38">
+  </candidate>
+  <candidate annotated_sls="程序员_招聘_java招聘" rank="5" vote1="0" vote2="17" vote3="19" votesum="36">
+  </candidate>
+  <candidate annotated_sls="程序员_课程_推荐" rank="6" vote1="19" vote2="7" vote3="8" votesum="34">
+  </candidate>
+  <candidate annotated_sls="程序员_介绍_电影" rank="7" vote1="1" vote2="15" vote3="15" votesum="31">
+  </candidate>
+  <candidate annotated_sls="程序员_网站_csdn" rank="8" vote1="10" vote2="11" vote3="10" votesum="31">
+  </candidate>
+  <candidate annotated_sls="程序员_课程_网校" rank="9" vote1="17" vote2="6" vote3="7" votesum="30">
+  </candidate>
+  <candidate annotated_sls="程序员_介绍_图书" rank="10" vote1="3" vote2="12" vote3="14" votesum="29">
+  </candidate>
+  <candidate annotated_sls="程序员_职业_c程序员" rank="11" vote1="16" vote2="4" vote3="4" votesum="24">
+  </candidate>
+  <candidate annotated_sls="程序员_网站_pudn" rank="12" vote1="11" vote2="0" vote3="11" votesum="22">
+  </candidate>
+  <candidate annotated_sls="程序员_招聘_工资" rank="13" vote1="0" vote2="19" vote3="1" votesum="20">
+  </candidate>
+  <candidate annotated_sls="程序员_招聘_面试" rank="14" vote1="14" vote2="0" vote3="5" votesum="19">
+  </candidate>
+  <candidate annotated_sls="程序员_职业_网站程序员" rank="15" vote1="7" vote2="9" vote3="3" votesum="19">
+  </candidate>
+  <candidate annotated_sls="程序员_课程_黑马程序员" rank="16" vote1="18" vote2="0" vote3="0" votesum="18">
+  </candidate>
+  <candidate annotated_sls="程序员_介绍_故事" rank="17" vote1="4" vote2="13" vote3="0" votesum="17">
+  </candidate>
+  <candidate annotated_sls="程序员_网站_程序员之家" rank="18" vote1="0" vote2="0" vote3="17" votesum="17">
+  </candidate>
+  <candidate annotated_sls="程序员_职业_发展" rank="19" vote1="8" vote2="0" vote3="9" votesum="17">
+  </candidate>
+  <candidate annotated_sls="程序员_介绍_杂志" rank="20" vote1="0" vote2="14" vote3="2" votesum="16">
+  </candidate>
+  <candidate annotated_sls="程序员_网站_论坛" rank="21" vote1="0" vote2="0" vote3="13" votesum="13">
+  </candidate>
+  <candidate annotated_sls="程序员_网站_博客园" rank="22" vote1="12" vote2="0" vote3="0" votesum="12">
+  </candidate>
+  <candidate annotated_sls="程序员_课程_考试" rank="23" vote1="0" vote2="0" vote3="12" votesum="12">
+  </candidate>
+  <candidate annotated_sls="程序员_职业_经验" rank="24" vote1="0" vote2="10" vote3="0" votesum="10">
+  </candidate>
+  <candidate annotated_sls="程序员_职业_创业" rank="25" vote1="9" vote2="0" vote3="0" votesum="9">
+  </candidate>
+  <candidate annotated_sls="程序员_职业_.net程序员" rank="26" vote1="5" vote2="2" vote3="0" votesum="7">
+  </candidate>
+  <candidate annotated_sls="程序员_职业_软件开发" rank="27" vote1="6" vote2="0" vote3="0" votesum="6">
+  </candidate>
+  <candidate annotated_sls="程序员_职业_java程序员" rank="28" vote1="0" vote2="5" vote3="0" votesum="5">
+  </candidate>
+  <candidate annotated_sls="程序员_职业_android程序员" rank="29" vote1="0" vote2="3" vote3="0" votesum="3">
+  </candidate>
+  <candidate annotated_sls="程序员_介绍_发展" rank="30" vote1="2" vote2="0" vote3="0" votesum="2">
+  </candidate>
+  <candidate annotated_sls="程序员_职业_高级程序员" rank="31" vote1="0" vote2="1" vote3="0" votesum="1">
+  </candidate>
+  <candidate annotated_sls="程序员_介绍_出路" rank="32" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="程序员_介绍_自我修养" rank="33" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="程序员_介绍_闯关秀" rank="34" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="程序员_网站_中国" rank="35" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="程序员_网站_小辉" rank="36" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="程序员_网站_杂志" rank="37" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="程序员_网站_程序员网" rank="38" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="程序员_网站_asp.net" rank="39" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="程序员_职业_医疗网络" rank="40" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="程序员_职业_工程师" rank="41" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="程序员_职业_年终总结" rank="42" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="程序员_职业_2009" rank="43" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="程序员_职业_php程序员" rank="44" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+ </query>
+ <query id="0017">
+  <candidate annotated_sls="泰国_攻略_特产" rank="1" vote1="16" vote2="20" vote3="20" votesum="56">
+  </candidate>
+  <candidate annotated_sls="泰国_攻略_介绍" rank="2" vote1="15" vote2="18" vote3="17" votesum="50">
+  </candidate>
+  <candidate annotated_sls="泰国_特产_概况" rank="3" vote1="17" vote2="15" vote3="18" votesum="50">
+  </candidate>
+  <candidate annotated_sls="泰国_特产_土特产" rank="4" vote1="18" vote2="12" vote3="19" votesum="49">
+  </candidate>
+  <candidate annotated_sls="泰国_特产_礼物" rank="5" vote1="19" vote2="14" vote3="14" votesum="47">
+  </candidate>
+  <candidate annotated_sls="泰国_宝石_价格" rank="6" vote1="14" vote2="17" vote3="11" votesum="42">
+  </candidate>
+  <candidate annotated_sls="泰国_宝石_鸽血红" rank="7" vote1="13" vote2="16" vote3="10" votesum="39">
+  </candidate>
+  <candidate annotated_sls="泰国_特产_购买" rank="8" vote1="4" vote2="19" vote3="16" votesum="39">
+  </candidate>
+  <candidate annotated_sls="泰国_特产_鳄鱼皮带" rank="9" vote1="20" vote2="2" vote3="13" votesum="35">
+  </candidate>
+  <candidate annotated_sls="泰国_特产_纪念品" rank="10" vote1="5" vote2="13" vote3="15" votesum="33">
+  </candidate>
+  <candidate annotated_sls="泰国_食品_山竹" rank="11" vote1="12" vote2="11" vote3="9" votesum="32">
+  </candidate>
+  <candidate annotated_sls="泰国_食品_红毛丹" rank="12" vote1="11" vote2="9" vote3="6" votesum="26">
+  </candidate>
+  <candidate annotated_sls="泰国_食品_芒果" rank="13" vote1="10" vote2="8" vote3="2" votesum="20">
+  </candidate>
+  <candidate annotated_sls="泰国_食品_荔枝" rank="14" vote1="9" vote2="7" vote3="4" votesum="20">
+  </candidate>
+  <candidate annotated_sls="泰国_食品_榴莲" rank="15" vote1="1" vote2="10" vote3="8" votesum="19">
+  </candidate>
+  <candidate annotated_sls="泰国_食品_龙眼" rank="16" vote1="8" vote2="6" vote3="5" votesum="19">
+  </candidate>
+  <candidate annotated_sls="泰国_特产_蛇药" rank="17" vote1="2" vote2="4" vote3="12" votesum="18">
+  </candidate>
+  <candidate annotated_sls="泰国_食品_枣" rank="18" vote1="6" vote2="5" vote3="7" votesum="18">
+  </candidate>
+  <candidate annotated_sls="泰国_食品_零食" rank="19" vote1="7" vote2="1" vote3="3" votesum="11">
+  </candidate>
+  <candidate annotated_sls="泰国_特产_其他国家" rank="20" vote1="3" vote2="3" vote3="1" votesum="7">
+  </candidate>
+ </query>
+ <query id="0018">
+  <candidate annotated_sls="科学美国人_图书_60秒" rank="1" vote1="17" vote2="19" vote3="18" votesum="54">
+  </candidate>
+  <candidate annotated_sls="科学美国人_图书_中文版" rank="2" vote1="20" vote2="15" vote3="17" votesum="52">
+  </candidate>
+  <candidate annotated_sls="科学美国人_图书_杂志" rank="3" vote1="19" vote2="18" vote3="14" votesum="51">
+  </candidate>
+  <candidate annotated_sls="科学美国人_图书_环球科学世界" rank="4" vote1="18" vote2="17" vote3="16" votesum="51">
+  </candidate>
+  <candidate annotated_sls="科学美国人_网站_下载" rank="5" vote1="16" vote2="16" vote3="19" votesum="51">
+  </candidate>
+  <candidate annotated_sls="科学美国人_影音_听力" rank="6" vote1="9" vote2="20" vote3="20" votesum="49">
+  </candidate>
+  <candidate annotated_sls="科学美国人_网站_环球科学杂志" rank="7" vote1="15" vote2="12" vote3="15" votesum="42">
+  </candidate>
+  <candidate annotated_sls="科学美国人_网站_时代周刊" rank="8" vote1="14" vote2="13" vote3="13" votesum="40">
+  </candidate>
+  <candidate annotated_sls="科学美国人_网站_文化" rank="9" vote1="13" vote2="10" vote3="12" votesum="35">
+  </candidate>
+  <candidate annotated_sls="科学美国人_网站_介绍" rank="10" vote1="10" vote2="14" vote3="10" votesum="34">
+  </candidate>
+  <candidate annotated_sls="科学美国人_网站_资源" rank="11" vote1="12" vote2="11" vote3="9" votesum="32">
+  </candidate>
+  <candidate annotated_sls="科学美国人_网站_wiki" rank="12" vote1="11" vote2="9" vote3="11" votesum="31">
+  </candidate>
+ </query>
+ <query id="0019">
+  <candidate annotated_sls="黄金_影视_满城尽带黄金甲" rank="1" vote1="20" vote2="20" vote3="18" votesum="58">
+  </candidate>
+  <candidate annotated_sls="黄金_影视_黄金大劫案" rank="2" vote1="19" vote2="19" vote3="19" votesum="57">
+  </candidate>
+  <candidate annotated_sls="黄金_贵金属_金融" rank="3" vote1="17" vote2="13" vote3="20" votesum="50">
+  </candidate>
+  <candidate annotated_sls="黄金_贵金属_实物" rank="4" vote1="13" vote2="18" vote3="17" votesum="48">
+  </candidate>
+  <candidate annotated_sls="黄金_贵金属_首饰" rank="5" vote1="14" vote2="16" vote3="15" votesum="45">
+  </candidate>
+  <candidate annotated_sls="黄金_贵金属_知识" rank="6" vote1="15" vote2="14" vote3="14" votesum="43">
+  </candidate>
+  <candidate annotated_sls="黄金_影视_黄金彩虹" rank="7" vote1="18" vote2="12" vote3="11" votesum="41">
+  </candidate>
+  <candidate annotated_sls="黄金_贵金属_品牌" rank="8" vote1="16" vote2="7" vote3="16" votesum="39">
+  </candidate>
+  <candidate annotated_sls="黄金_贵金属_现货" rank="9" vote1="11" vote2="15" vote3="13" votesum="39">
+  </candidate>
+  <candidate annotated_sls="黄金_贵金属_商场" rank="10" vote1="7" vote2="17" vote3="12" votesum="36">
+  </candidate>
+  <candidate annotated_sls="黄金_贵金属_原油" rank="11" vote1="12" vote2="8" vote3="9" votesum="29">
+  </candidate>
+  <candidate annotated_sls="黄金_贵金属_中国" rank="12" vote1="6" vote2="10" vote3="10" votesum="26">
+  </candidate>
+  <candidate annotated_sls="黄金_贵金属_白银" rank="13" vote1="10" vote2="6" vote3="6" votesum="22">
+  </candidate>
+  <candidate annotated_sls="黄金_贵金属_上海" rank="14" vote1="5" vote2="11" vote3="5" votesum="21">
+  </candidate>
+  <candidate annotated_sls="黄金_贵金属_协会" rank="15" vote1="4" vote2="9" vote3="8" votesum="21">
+  </candidate>
+  <candidate annotated_sls="黄金_贵金属_网站" rank="16" vote1="9" vote2="5" vote3="7" votesum="21">
+  </candidate>
+  <candidate annotated_sls="黄金_贵金属_软件" rank="17" vote1="8" vote2="4" vote3="4" votesum="16">
+  </candidate>
+ </query>
+ <query id="0020">
+  <candidate annotated_sls="浴缸_品牌_排名" rank="1" vote1="19" vote2="20" vote3="20" votesum="59">
+  </candidate>
+  <candidate annotated_sls="浴缸_类型_冲浪" rank="2" vote1="18" vote2="17" vote3="14" votesum="49">
+  </candidate>
+  <candidate annotated_sls="浴缸_选购_价格" rank="3" vote1="12" vote2="18" vote3="19" votesum="49">
+  </candidate>
+  <candidate annotated_sls="浴缸_选购_图片" rank="4" vote1="13" vote2="19" vote3="17" votesum="49">
+  </candidate>
+  <candidate annotated_sls="浴缸_类型_折叠" rank="5" vote1="17" vote2="15" vote3="13" votesum="45">
+  </candidate>
+  <candidate annotated_sls="浴缸_类型_按摩" rank="6" vote1="16" vote2="16" vote3="12" votesum="44">
+  </candidate>
+  <candidate annotated_sls="浴缸_类型_材质" rank="7" vote1="6" vote2="14" vote3="11" votesum="31">
+  </candidate>
+  <candidate annotated_sls="浴缸_评价_使用寿命" rank="8" vote1="15" vote2="7" vote3="9" votesum="31">
+  </candidate>
+  <candidate annotated_sls="浴缸_评价_材料" rank="9" vote1="3" vote2="12" vote3="16" votesum="31">
+  </candidate>
+  <candidate annotated_sls="浴缸_家居_淋浴房" rank="10" vote1="10" vote2="13" vote3="7" votesum="30">
+  </candidate>
+  <candidate annotated_sls="浴缸_评价_对比" rank="11" vote1="4" vote2="8" vote3="18" votesum="30">
+  </candidate>
+  <candidate annotated_sls="浴缸_品牌_科勒" rank="12" vote1="20" vote2="4" vote3="5" votesum="29">
+  </candidate>
+  <candidate annotated_sls="浴缸_评价_缺点" rank="13" vote1="14" vote2="11" vote3="4" votesum="29">
+  </candidate>
+  <candidate annotated_sls="浴缸_类型_充气" rank="14" vote1="8" vote2="2" vote3="15" votesum="25">
+  </candidate>
+  <candidate annotated_sls="浴缸_选购_网购" rank="15" vote1="11" vote2="9" vote3="3" votesum="23">
+  </candidate>
+  <candidate annotated_sls="浴缸_选购_介绍" rank="16" vote1="2" vote2="10" vote3="10" votesum="22">
+  </candidate>
+  <candidate annotated_sls="浴缸_类型_简易" rank="17" vote1="5" vote2="6" vote3="8" votesum="19">
+  </candidate>
+  <candidate annotated_sls="浴缸_品牌_吉首" rank="18" vote1="9" vote2="3" vote3="6" votesum="18">
+  </candidate>
+  <candidate annotated_sls="浴缸_类型_概况" rank="19" vote1="7" vote2="5" vote3="1" votesum="13">
+  </candidate>
+  <candidate annotated_sls="浴缸_选购_选择" rank="20" vote1="1" vote2="1" vote3="2" votesum="4">
+  </candidate>
+ </query>
+ <query id="0021">
+  <candidate annotated_sls="婚戒_品牌_卡地亚" rank="1" vote1="19" vote2="20" vote3="20" votesum="59">
+  </candidate>
+  <candidate annotated_sls="婚戒_品牌_tiffany" rank="2" vote1="20" vote2="19" vote3="16" votesum="55">
+  </candidate>
+  <candidate annotated_sls="婚戒_品牌_bloves" rank="3" vote1="16" vote2="18" vote3="17" votesum="51">
+  </candidate>
+  <candidate annotated_sls="婚戒_品牌_ido" rank="4" vote1="18" vote2="17" vote3="15" votesum="50">
+  </candidate>
+  <candidate annotated_sls="婚戒_品牌_ol" rank="5" vote1="17" vote2="15" vote3="14" votesum="46">
+  </candidate>
+  <candidate annotated_sls="婚戒_品牌_周大福" rank="6" vote1="15" vote2="16" vote3="12" votesum="43">
+  </candidate>
+  <candidate annotated_sls="婚戒_品牌_珠宝" rank="7" vote1="8" vote2="11" vote3="18" votesum="37">
+  </candidate>
+  <candidate annotated_sls="婚戒_品牌_定制" rank="8" vote1="13" vote2="9" vote3="13" votesum="35">
+  </candidate>
+  <candidate annotated_sls="婚戒_品牌_钻戒" rank="9" vote1="9" vote2="14" vote3="9" votesum="32">
+  </candidate>
+  <candidate annotated_sls="婚戒_影视_电影" rank="10" vote1="6" vote2="6" vote3="19" votesum="31">
+  </candidate>
+  <candidate annotated_sls="婚戒_品牌_概况" rank="11" vote1="12" vote2="7" vote3="11" votesum="30">
+  </candidate>
+  <candidate annotated_sls="婚戒_品牌_裸钻" rank="12" vote1="11" vote2="12" vote3="7" votesum="30">
+  </candidate>
+  <candidate annotated_sls="婚戒_品牌_明星婚戒" rank="13" vote1="14" vote2="10" vote3="5" votesum="29">
+  </candidate>
+  <candidate annotated_sls="婚戒_品牌_配饰" rank="14" vote1="10" vote2="13" vote3="6" votesum="29">
+  </candidate>
+  <candidate annotated_sls="婚戒_品牌_婚戒" rank="15" vote1="7" vote2="8" vote3="8" votesum="23">
+  </candidate>
+  <candidate annotated_sls="婚戒_知识_习俗" rank="16" vote1="5" vote2="4" vote3="10" votesum="19">
+  </candidate>
+  <candidate annotated_sls="婚戒_知识_戴法" rank="17" vote1="4" vote2="1" vote3="3" votesum="8">
+  </candidate>
+  <candidate annotated_sls="婚戒_知识_介绍" rank="18" vote1="0" vote2="3" vote3="4" votesum="7">
+  </candidate>
+  <candidate annotated_sls="婚戒_知识_材质" rank="19" vote1="2" vote2="2" vote3="2" votesum="6">
+  </candidate>
+  <candidate annotated_sls="婚戒_影视_歌曲" rank="20" vote1="0" vote2="5" vote3="0" votesum="5">
+  </candidate>
+  <candidate annotated_sls="婚戒_知识_地域" rank="21" vote1="3" vote2="0" vote3="0" votesum="3">
+  </candidate>
+  <candidate annotated_sls="婚戒_知识_网站" rank="22" vote1="1" vote2="0" vote3="1" votesum="2">
+  </candidate>
+  <candidate annotated_sls="婚戒_知识_戒指" rank="23" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="婚戒_知识_尺寸" rank="24" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="婚戒_知识_黄金" rank="25" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+ </query>
+ <query id="0022">
+  <candidate annotated_sls="三星_手机_galaxy" rank="1" vote1="20" vote2="20" vote3="18" votesum="58">
+  </candidate>
+  <candidate annotated_sls="三星_网站_官网" rank="2" vote1="12" vote2="16" vote3="20" votesum="48">
+  </candidate>
+  <candidate annotated_sls="三星_相机_数码相机" rank="3" vote1="16" vote2="15" vote3="16" votesum="47">
+  </candidate>
+  <candidate annotated_sls="三星_网站_报价" rank="4" vote1="10" vote2="17" vote3="19" votesum="46">
+  </candidate>
+  <candidate annotated_sls="三星_网站_电子产品" rank="5" vote1="11" vote2="18" vote3="15" votesum="44">
+  </candidate>
+  <candidate annotated_sls="三星_电脑_平板" rank="6" vote1="19" vote2="8" vote3="14" votesum="41">
+  </candidate>
+  <candidate annotated_sls="三星_相机_镜头" rank="7" vote1="14" vote2="14" vote3="11" votesum="39">
+  </candidate>
+  <candidate annotated_sls="三星_手机_win" rank="8" vote1="7" vote2="19" vote3="12" votesum="38">
+  </candidate>
+  <candidate annotated_sls="三星_电脑_笔记本" rank="9" vote1="18" vote2="7" vote3="13" votesum="38">
+  </candidate>
+  <candidate annotated_sls="三星_相机_摄像机" rank="10" vote1="17" vote2="13" vote3="8" votesum="38">
+  </candidate>
+  <candidate annotated_sls="三星_相机_数码影像" rank="11" vote1="13" vote2="12" vote3="10" votesum="35">
+  </candidate>
+  <candidate annotated_sls="三星_手机_智能手机" rank="12" vote1="6" vote2="11" vote3="17" votesum="34">
+  </candidate>
+  <candidate annotated_sls="三星_电脑_台式机" rank="13" vote1="15" vote2="9" vote3="9" votesum="33">
+  </candidate>
+  <candidate annotated_sls="三星_网站_中国" rank="14" vote1="8" vote2="6" vote3="7" votesum="21">
+  </candidate>
+  <candidate annotated_sls="三星_网站_介绍" rank="15" vote1="9" vote2="5" vote3="6" votesum="20">
+  </candidate>
+  <candidate annotated_sls="三星_手机_其他" rank="16" vote1="3" vote2="10" vote3="4" votesum="17">
+  </candidate>
+  <candidate annotated_sls="三星_网站_其他业务" rank="17" vote1="5" vote2="4" vote3="5" votesum="14">
+  </candidate>
+  <candidate annotated_sls="三星_网站_乐园" rank="18" vote1="4" vote2="3" vote3="3" votesum="10">
+  </candidate>
+ </query>
+ <query id="0023">
+  <candidate annotated_sls="饥饿游戏_影视_电影" rank="1" vote1="20" vote2="20" vote3="20" votesum="60">
+  </candidate>
+  <candidate annotated_sls="饥饿游戏_影视_介绍" rank="2" vote1="19" vote2="16" vote3="18" votesum="53">
+  </candidate>
+  <candidate annotated_sls="饥饿游戏_小说_阅读" rank="3" vote1="18" vote2="15" vote3="19" votesum="52">
+  </candidate>
+  <candidate annotated_sls="饥饿游戏_小说_下载" rank="4" vote1="17" vote2="12" vote3="17" votesum="46">
+  </candidate>
+  <candidate annotated_sls="饥饿游戏_小说_图书" rank="5" vote1="16" vote2="14" vote3="16" votesum="46">
+  </candidate>
+  <candidate annotated_sls="饥饿游戏_小说_原创" rank="6" vote1="15" vote2="13" vote3="13" votesum="41">
+  </candidate>
+  <candidate annotated_sls="饥饿游戏_影视_动漫" rank="7" vote1="10" vote2="17" vote3="14" votesum="41">
+  </candidate>
+  <candidate annotated_sls="饥饿游戏_影视_娱乐" rank="8" vote1="11" vote2="18" vote3="10" votesum="39">
+  </candidate>
+  <candidate annotated_sls="饥饿游戏_影视_音乐" rank="9" vote1="13" vote2="9" vote3="15" votesum="37">
+  </candidate>
+  <candidate annotated_sls="饥饿游戏_小说_查询" rank="10" vote1="14" vote2="10" vote3="12" votesum="36">
+  </candidate>
+  <candidate annotated_sls="饥饿游戏_影视_电视剧" rank="11" vote1="7" vote2="19" vote3="9" votesum="35">
+  </candidate>
+  <candidate annotated_sls="饥饿游戏_影视_资讯" rank="12" vote1="12" vote2="8" vote3="7" votesum="27">
+  </candidate>
+  <candidate annotated_sls="饥饿游戏_影视_爱情" rank="13" vote1="8" vote2="6" vote3="11" votesum="25">
+  </candidate>
+  <candidate annotated_sls="饥饿游戏_小说_旅游介绍" rank="14" vote1="5" vote2="11" vote3="5" votesum="21">
+  </candidate>
+  <candidate annotated_sls="饥饿游戏_影视_美国" rank="15" vote1="6" vote2="7" vote3="8" votesum="21">
+  </candidate>
+  <candidate annotated_sls="饥饿游戏_影视_体育" rank="16" vote1="9" vote2="5" vote3="6" votesum="20">
+  </candidate>
+ </query>
+ <query id="0024">
+  <candidate annotated_sls="心理测试_网站_测试网" rank="1" vote1="20" vote2="20" vote3="20" votesum="60">
+  </candidate>
+  <candidate annotated_sls="心理测试_网站_软件" rank="2" vote1="18" vote2="18" vote3="18" votesum="54">
+  </candidate>
+  <candidate annotated_sls="心理测试_网站_下载" rank="3" vote1="17" vote2="17" vote3="15" votesum="49">
+  </candidate>
+  <candidate annotated_sls="心理测试_图片_测试图" rank="4" vote1="16" vote2="16" vote3="16" votesum="48">
+  </candidate>
+  <candidate annotated_sls="心理测试_游戏_测试题" rank="5" vote1="7" vote2="19" vote3="17" votesum="43">
+  </candidate>
+  <candidate annotated_sls="心理测试_网站_魔兽世界种族" rank="6" vote1="19" vote2="5" vote3="19" votesum="43">
+  </candidate>
+  <candidate annotated_sls="心理测试_游戏_事业" rank="7" vote1="15" vote2="13" vote3="14" votesum="42">
+  </candidate>
+  <candidate annotated_sls="心理测试_游戏_专业" rank="8" vote1="14" vote2="15" vote3="8" votesum="37">
+  </candidate>
+  <candidate annotated_sls="心理测试_游戏_星座" rank="9" vote1="9" vote2="14" vote3="12" votesum="35">
+  </candidate>
+  <candidate annotated_sls="心理测试_游戏_小游戏" rank="10" vote1="11" vote2="11" vote3="10" votesum="32">
+  </candidate>
+  <candidate annotated_sls="心理测试_游戏_抑郁症" rank="11" vote1="8" vote2="10" vote3="13" votesum="31">
+  </candidate>
+  <candidate annotated_sls="心理测试_游戏_社交" rank="12" vote1="6" vote2="12" vote3="11" votesum="29">
+  </candidate>
+  <candidate annotated_sls="心理测试_游戏_大全" rank="13" vote1="12" vote2="7" vote3="9" votesum="28">
+  </candidate>
+  <candidate annotated_sls="心理测试_游戏_前世" rank="14" vote1="13" vote2="9" vote3="0" votesum="22">
+  </candidate>
+  <candidate annotated_sls="心理测试_游戏_智商" rank="15" vote1="10" vote2="8" vote3="0" votesum="18">
+  </candidate>
+  <candidate annotated_sls="心理测试_游戏_性格" rank="16" vote1="1" vote2="2" vote3="5" votesum="8">
+  </candidate>
+  <candidate annotated_sls="心理测试_游戏_情感" rank="17" vote1="2" vote2="1" vote3="4" votesum="7">
+  </candidate>
+  <candidate annotated_sls="心理测试_游戏_职业" rank="18" vote1="0" vote2="0" vote3="7" votesum="7">
+  </candidate>
+  <candidate annotated_sls="心理测试_游戏_心理" rank="19" vote1="0" vote2="0" vote3="6" votesum="6">
+  </candidate>
+  <candidate annotated_sls="心理测试_游戏_性" rank="20" vote1="0" vote2="3" vote3="3" votesum="6">
+  </candidate>
+  <candidate annotated_sls="心理测试_游戏_青少年" rank="21" vote1="0" vote2="6" vote3="0" votesum="6">
+  </candidate>
+  <candidate annotated_sls="心理测试_游戏_财富" rank="22" vote1="5" vote2="0" vote3="0" votesum="5">
+  </candidate>
+  <candidate annotated_sls="心理测试_游戏_亲子关系" rank="23" vote1="0" vote2="4" vote3="0" votesum="4">
+  </candidate>
+  <candidate annotated_sls="心理测试_游戏_flash" rank="24" vote1="4" vote2="0" vote3="0" votesum="4">
+  </candidate>
+  <candidate annotated_sls="心理测试_游戏_未来" rank="25" vote1="3" vote2="0" vote3="0" votesum="3">
+  </candidate>
+  <candidate annotated_sls="心理测试_游戏_小儿抑郁症" rank="26" vote1="0" vote2="0" vote3="2" votesum="2">
+  </candidate>
+  <candidate annotated_sls="心理测试_游戏_免费" rank="27" vote1="0" vote2="0" vote3="1" votesum="1">
+  </candidate>
+  <candidate annotated_sls="心理测试_图片_气质ppt" rank="28" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="心理测试_游戏_大学生学习" rank="29" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="心理测试_游戏_征兵" rank="30" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="心理测试_游戏_精神病" rank="31" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="心理测试_游戏_苹果番茄" rank="32" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="心理测试_游戏_营销" rank="33" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="心理测试_游戏_需求层次" rank="34" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="心理测试_网站_介绍" rank="35" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+ </query>
+ <query id="0025">
+  <candidate annotated_sls="椰岛_官网_官方" rank="1" vote1="15" vote2="20" vote3="20" votesum="55">
+  </candidate>
+  <candidate annotated_sls="椰岛_造型_官网" rank="2" vote1="20" vote2="16" vote3="19" votesum="55">
+  </candidate>
+  <candidate annotated_sls="椰岛_价格_价格介绍" rank="3" vote1="16" vote2="19" vote3="18" votesum="53">
+  </candidate>
+  <candidate annotated_sls="椰岛_官网_团购" rank="4" vote1="18" vote2="18" vote3="17" votesum="53">
+  </candidate>
+  <candidate annotated_sls="椰岛_商铺_分店" rank="5" vote1="17" vote2="17" vote3="16" votesum="50">
+  </candidate>
+  <candidate annotated_sls="椰岛_造型_城市" rank="6" vote1="19" vote2="15" vote3="13" votesum="47">
+  </candidate>
+  <candidate annotated_sls="椰岛_评价_负面评价" rank="7" vote1="14" vote2="11" vote3="14" votesum="39">
+  </candidate>
+  <candidate annotated_sls="椰岛_评价_资讯" rank="8" vote1="13" vote2="13" vote3="10" votesum="36">
+  </candidate>
+  <candidate annotated_sls="椰岛_造型_介绍" rank="9" vote1="12" vote2="12" vote3="12" votesum="36">
+  </candidate>
+  <candidate annotated_sls="椰岛_造型_加盟" rank="10" vote1="11" vote2="14" vote3="11" votesum="36">
+  </candidate>
+  <candidate annotated_sls="椰岛_官网_武汉椰岛美容美发有限公司" rank="11" vote1="10" vote2="10" vote3="15" votesum="35">
+  </candidate>
+ </query>
+ <query id="0026">
+  <candidate annotated_sls="野葛根_植物_图片" rank="1" vote1="16" vote2="19" vote3="19" votesum="54">
+  </candidate>
+  <candidate annotated_sls="野葛根_功效_效果" rank="2" vote1="20" vote2="18" vote3="15" votesum="53">
+  </candidate>
+  <candidate annotated_sls="野葛根_功效_用途" rank="3" vote1="19" vote2="17" vote3="16" votesum="52">
+  </candidate>
+  <candidate annotated_sls="野葛根_植物_介绍" rank="4" vote1="18" vote2="9" vote3="20" votesum="47">
+  </candidate>
+  <candidate annotated_sls="野葛根_植物_购买" rank="5" vote1="15" vote2="14" vote3="18" votesum="47">
+  </candidate>
+  <candidate annotated_sls="野葛根_评价_价格" rank="6" vote1="13" vote2="15" vote3="17" votesum="45">
+  </candidate>
+  <candidate annotated_sls="野葛根_植物_提取物" rank="7" vote1="14" vote2="11" vote3="14" votesum="39">
+  </candidate>
+  <candidate annotated_sls="野葛根_产地_泰国" rank="8" vote1="10" vote2="20" vote3="8" votesum="38">
+  </candidate>
+  <candidate annotated_sls="野葛根_植物_区别" rank="9" vote1="17" vote2="10" vote3="11" votesum="38">
+  </candidate>
+  <candidate annotated_sls="野葛根_评价_副作用" rank="10" vote1="12" vote2="13" vote3="12" votesum="37">
+  </candidate>
+  <candidate annotated_sls="野葛根_评价_食用方法" rank="11" vote1="11" vote2="12" vote3="13" votesum="36">
+  </candidate>
+  <candidate annotated_sls="野葛根_功效_区别" rank="12" vote1="9" vote2="16" vote3="9" votesum="34">
+  </candidate>
+  <candidate annotated_sls="野葛根_品牌_圣荷" rank="13" vote1="8" vote2="3" vote3="7" votesum="18">
+  </candidate>
+  <candidate annotated_sls="野葛根_品牌_丽婷" rank="14" vote1="1" vote2="6" vote3="10" votesum="17">
+  </candidate>
+  <candidate annotated_sls="野葛根_品牌_娇韵宝" rank="15" vote1="7" vote2="2" vote3="5" votesum="14">
+  </candidate>
+  <candidate annotated_sls="野葛根_品牌_新西兰" rank="16" vote1="4" vote2="4" vote3="6" votesum="14">
+  </candidate>
+  <candidate annotated_sls="野葛根_品牌_海尔丝" rank="17" vote1="3" vote2="7" vote3="3" votesum="13">
+  </candidate>
+  <candidate annotated_sls="野葛根_品牌_朱拉" rank="18" vote1="6" vote2="5" vote3="1" votesum="12">
+  </candidate>
+  <candidate annotated_sls="野葛根_品牌_考拉窝" rank="19" vote1="2" vote2="8" vote3="2" votesum="12">
+  </candidate>
+  <candidate annotated_sls="野葛根_品牌_汤臣倍健" rank="20" vote1="5" vote2="1" vote3="4" votesum="10">
+  </candidate>
+ </query>
+ <query id="0027">
+  <candidate annotated_sls="秧歌_影音_视频" rank="1" vote1="20" vote2="19" vote3="20" votesum="59">
+  </candidate>
+  <candidate annotated_sls="秧歌_小说_张爱玲" rank="2" vote1="16" vote2="20" vote3="19" votesum="55">
+  </candidate>
+  <candidate annotated_sls="秧歌_影音_下载" rank="3" vote1="17" vote2="18" vote3="18" votesum="53">
+  </candidate>
+  <candidate annotated_sls="秧歌_知识_趣闻" rank="4" vote1="19" vote2="16" vote3="17" votesum="52">
+  </candidate>
+  <candidate annotated_sls="秧歌_知识_介绍" rank="5" vote1="18" vote2="17" vote3="16" votesum="51">
+  </candidate>
+ </query>
+ <query id="0028">
+  <candidate annotated_sls="卫子夫_电视剧_大汉贤后卫子夫" rank="1" vote1="19" vote2="19" vote3="19" votesum="57">
+  </candidate>
+  <candidate annotated_sls="卫子夫_电视剧_美人心计" rank="2" vote1="20" vote2="20" vote3="17" votesum="57">
+  </candidate>
+  <candidate annotated_sls="卫子夫_电视剧_卫子夫" rank="3" vote1="18" vote2="18" vote3="20" votesum="56">
+  </candidate>
+  <candidate annotated_sls="卫子夫_电视剧_演员" rank="4" vote1="17" vote2="17" vote3="16" votesum="50">
+  </candidate>
+  <candidate annotated_sls="卫子夫_历史人物_东方朔" rank="5" vote1="16" vote2="15" vote3="11" votesum="42">
+  </candidate>
+  <candidate annotated_sls="卫子夫_历史人物_介绍" rank="6" vote1="13" vote2="11" vote3="18" votesum="42">
+  </candidate>
+  <candidate annotated_sls="卫子夫_历史人物_卫子夫儿子" rank="7" vote1="15" vote2="14" vote3="13" votesum="42">
+  </candidate>
+  <candidate annotated_sls="卫子夫_历史人物_图片" rank="8" vote1="12" vote2="6" vote3="15" votesum="33">
+  </candidate>
+  <candidate annotated_sls="卫子夫_历史人物_霍去病" rank="9" vote1="7" vote2="16" vote3="8" votesum="31">
+  </candidate>
+  <candidate annotated_sls="卫子夫_历史人物_卫长公主" rank="10" vote1="6" vote2="12" vote3="12" votesum="30">
+  </candidate>
+  <candidate annotated_sls="卫子夫_历史人物_小说" rank="11" vote1="11" vote2="5" vote3="14" votesum="30">
+  </candidate>
+  <candidate annotated_sls="卫子夫_历史人物_卫长君" rank="12" vote1="2" vote2="13" vote3="10" votesum="25">
+  </candidate>
+  <candidate annotated_sls="卫子夫_历史人物_兄弟" rank="13" vote1="14" vote2="1" vote3="4" votesum="19">
+  </candidate>
+  <candidate annotated_sls="卫子夫_历史人物_汉武帝" rank="14" vote1="9" vote2="7" vote3="3" votesum="19">
+  </candidate>
+  <candidate annotated_sls="卫子夫_历史人物_画像" rank="15" vote1="8" vote2="8" vote3="0" votesum="16">
+  </candidate>
+  <candidate annotated_sls="卫子夫_历史人物_陈阿娇" rank="16" vote1="0" vote2="9" vote3="7" votesum="16">
+  </candidate>
+  <candidate annotated_sls="卫子夫_历史人物_刘彻" rank="17" vote1="5" vote2="2" vote3="6" votesum="13">
+  </candidate>
+  <candidate annotated_sls="卫子夫_历史人物_刘据" rank="18" vote1="4" vote2="3" vote3="5" votesum="12">
+  </candidate>
+  <candidate annotated_sls="卫子夫_历史人物_平阳公主" rank="19" vote1="0" vote2="10" vote3="1" votesum="11">
+  </candidate>
+  <candidate annotated_sls="卫子夫_历史人物_感情" rank="20" vote1="10" vote2="0" vote3="0" votesum="10">
+  </candidate>
+  <candidate annotated_sls="卫子夫_历史人物_窦太后" rank="21" vote1="0" vote2="0" vote3="9" votesum="9">
+  </candidate>
+  <candidate annotated_sls="卫子夫_历史人物_卫青" rank="22" vote1="1" vote2="4" vote3="0" votesum="5">
+  </candidate>
+  <candidate annotated_sls="卫子夫_历史人物_亡灵" rank="23" vote1="3" vote2="0" vote3="0" votesum="3">
+  </candidate>
+  <candidate annotated_sls="卫子夫_历史人物_慎夫人" rank="24" vote1="0" vote2="0" vote3="2" votesum="2">
+  </candidate>
+  <candidate annotated_sls="卫子夫_历史人物_李夫人" rank="25" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="卫子夫_历史人物_简报湖" rank="26" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="卫子夫_历史人物_钩弋夫人" rank="27" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+ </query>
+ <query id="0029">
+  <candidate annotated_sls="佛教_音乐_佛咒" rank="1" vote1="20" vote2="18" vote3="19" votesum="57">
+  </candidate>
+  <candidate annotated_sls="佛教_音乐_大全" rank="2" vote1="19" vote2="19" vote3="18" votesum="56">
+  </candidate>
+  <candidate annotated_sls="佛教_网站_李娜下载" rank="3" vote1="15" vote2="17" vote3="17" votesum="49">
+  </candidate>
+  <candidate annotated_sls="佛教_音乐_李娜" rank="4" vote1="18" vote2="16" vote3="15" votesum="49">
+  </candidate>
+  <candidate annotated_sls="佛教_网站_李娜视频" rank="5" vote1="16" vote2="15" vote3="16" votesum="47">
+  </candidate>
+  <candidate annotated_sls="佛教_网站_介绍" rank="6" vote1="1" vote2="20" vote3="20" votesum="41">
+  </candidate>
+  <candidate annotated_sls="佛教_网站_歌曲" rank="7" vote1="14" vote2="13" vote3="14" votesum="41">
+  </candidate>
+  <candidate annotated_sls="佛教_网站_音乐" rank="8" vote1="12" vote2="14" vote3="13" votesum="39">
+  </candidate>
+  <candidate annotated_sls="佛教_音乐_电台" rank="9" vote1="17" vote2="12" vote3="10" votesum="39">
+  </candidate>
+  <candidate annotated_sls="佛教_网站_视频" rank="10" vote1="13" vote2="11" vote3="12" votesum="36">
+  </candidate>
+  <candidate annotated_sls="佛教_音乐_排行" rank="11" vote1="8" vote2="9" vote3="11" votesum="28">
+  </candidate>
+  <candidate annotated_sls="佛教_网站_音乐网" rank="12" vote1="11" vote2="8" vote3="8" votesum="27">
+  </candidate>
+  <candidate annotated_sls="佛教_音乐经_心经" rank="13" vote1="10" vote2="7" vote3="9" votesum="26">
+  </candidate>
+  <candidate annotated_sls="佛教_音乐_好听" rank="14" vote1="9" vote2="6" vote3="5" votesum="20">
+  </candidate>
+  <candidate annotated_sls="佛教_音乐_dj" rank="15" vote1="6" vote2="4" vote3="7" votesum="17">
+  </candidate>
+  <candidate annotated_sls="佛教_音乐_观音灵感" rank="16" vote1="4" vote2="10" vote3="2" votesum="16">
+  </candidate>
+  <candidate annotated_sls="佛教_音乐_道教" rank="17" vote1="5" vote2="3" vote3="6" votesum="14">
+  </candidate>
+  <candidate annotated_sls="佛教_音乐_藏传" rank="18" vote1="7" vote2="5" vote3="0" votesum="12">
+  </candidate>
+  <candidate annotated_sls="佛教_网站_佛教网" rank="19" vote1="2" vote2="2" vote3="3" votesum="7">
+  </candidate>
+  <candidate annotated_sls="佛教_网站_大悲咒歌词" rank="20" vote1="0" vote2="1" vote3="4" votesum="5">
+  </candidate>
+  <candidate annotated_sls="佛教_网站_在线" rank="21" vote1="3" vote2="0" vote3="0" votesum="3">
+  </candidate>
+  <candidate annotated_sls="佛教_音乐_一听" rank="22" vote1="0" vote2="0" vote3="1" votesum="1">
+  </candidate>
+  <candidate annotated_sls="佛教_音乐_中国" rank="23" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="佛教_音乐_五台山" rank="24" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="佛教_音乐_伤感唯美" rank="25" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+ </query>
+ <query id="0030">
+  <candidate annotated_sls="浏览器_下载_360" rank="1" vote1="18" vote2="20" vote3="20" votesum="58">
+  </candidate>
+  <candidate annotated_sls="浏览器_下载_搜狗" rank="2" vote1="15" vote2="19" vote3="19" votesum="53">
+  </candidate>
+  <candidate annotated_sls="浏览器_下载_chrome" rank="3" vote1="20" vote2="17" vote3="15" votesum="52">
+  </candidate>
+  <candidate annotated_sls="浏览器_下载_火狐" rank="4" vote1="16" vote2="18" vote3="17" votesum="51">
+  </candidate>
+  <candidate annotated_sls="浏览器_下载_fierefox" rank="5" vote1="19" vote2="16" vote3="16" votesum="51">
+  </candidate>
+  <candidate annotated_sls="浏览器_下载_ie" rank="6" vote1="12" vote2="15" vote3="14" votesum="41">
+  </candidate>
+  <candidate annotated_sls="浏览器_下载_遨游" rank="7" vote1="17" vote2="5" vote3="18" votesum="40">
+  </candidate>
+  <candidate annotated_sls="浏览器_下载_tt" rank="8" vote1="14" vote2="14" vote3="12" votesum="40">
+  </candidate>
+  <candidate annotated_sls="浏览器_下载_uc" rank="9" vote1="13" vote2="13" vote3="13" votesum="39">
+  </candidate>
+  <candidate annotated_sls="浏览器_排行榜_下载排行榜" rank="10" vote1="5" vote2="12" vote3="11" votesum="28">
+  </candidate>
+  <candidate annotated_sls="浏览器_排行榜_年度排行榜" rank="11" vote1="7" vote2="11" vote3="10" votesum="28">
+  </candidate>
+  <candidate annotated_sls="浏览器_排行榜_手机排行榜" rank="12" vote1="4" vote2="10" vote3="8" votesum="22">
+  </candidate>
+  <candidate annotated_sls="浏览器_下载_百度" rank="13" vote1="10" vote2="4" vote3="7" votesum="21">
+  </candidate>
+  <candidate annotated_sls="浏览器_排行榜_ie排行榜" rank="14" vote1="3" vote2="8" vote3="9" votesum="20">
+  </candidate>
+  <candidate annotated_sls="浏览器_下载_猎豹" rank="15" vote1="11" vote2="3" vote3="5" votesum="19">
+  </candidate>
+  <candidate annotated_sls="浏览器_类别_评价" rank="16" vote1="6" vote2="9" vote3="3" votesum="18">
+  </candidate>
+  <candidate annotated_sls="浏览器_下载_世界之窗" rank="17" vote1="8" vote2="1" vote3="6" votesum="15">
+  </candidate>
+  <candidate annotated_sls="浏览器_下载_opera" rank="18" vote1="2" vote2="7" vote3="4" votesum="13">
+  </candidate>
+  <candidate annotated_sls="浏览器_下载_安全" rank="19" vote1="9" vote2="2" vote3="1" votesum="12">
+  </candidate>
+  <candidate annotated_sls="浏览器_下载_155" rank="20" vote1="1" vote2="6" vote3="0" votesum="7">
+  </candidate>
+  <candidate annotated_sls="浏览器_下载_高速官方" rank="21" vote1="0" vote2="0" vote3="2" votesum="2">
+  </candidate>
+  <candidate annotated_sls="浏览器_下载_最快" rank="22" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="浏览器_下载_最新" rank="23" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="浏览器_下载_糖果" rank="24" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="浏览器_下载_2011" rank="25" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+ </query>
+ <query id="0031">
+  <candidate annotated_sls="相亲节目_名称_非诚勿扰" rank="1" vote1="20" vote2="20" vote3="20" votesum="60">
+  </candidate>
+  <candidate annotated_sls="相亲节目_名称_我们约会吧" rank="2" vote1="19" vote2="18" vote3="19" votesum="56">
+  </candidate>
+  <candidate annotated_sls="相亲节目_名称_为爱向前冲" rank="3" vote1="17" vote2="17" vote3="18" votesum="52">
+  </candidate>
+  <candidate annotated_sls="相亲节目_名称_桃花朵朵开" rank="4" vote1="14" vote2="19" vote3="16" votesum="49">
+  </candidate>
+  <candidate annotated_sls="相亲节目_名称_大城小爱" rank="5" vote1="18" vote2="9" vote3="17" votesum="44">
+  </candidate>
+  <candidate annotated_sls="相亲节目_信息_新闻" rank="6" vote1="16" vote2="15" vote3="10" votesum="41">
+  </candidate>
+  <candidate annotated_sls="相亲节目_信息_真实性" rank="7" vote1="9" vote2="16" vote3="15" votesum="40">
+  </candidate>
+  <candidate annotated_sls="相亲节目_名称_缘来是你" rank="8" vote1="13" vote2="10" vote3="14" votesum="37">
+  </candidate>
+  <candidate annotated_sls="相亲节目_信息_大全" rank="9" vote1="15" vote2="14" vote3="7" votesum="36">
+  </candidate>
+  <candidate annotated_sls="相亲节目_类别_国外" rank="10" vote1="12" vote2="11" vote3="12" votesum="35">
+  </candidate>
+  <candidate annotated_sls="相亲节目_类别_国内" rank="11" vote1="11" vote2="12" vote3="11" votesum="34">
+  </candidate>
+  <candidate annotated_sls="相亲节目_类别_年度" rank="12" vote1="10" vote2="7" vote3="13" votesum="30">
+  </candidate>
+  <candidate annotated_sls="相亲节目_信息_介绍" rank="13" vote1="7" vote2="13" vote3="8" votesum="28">
+  </candidate>
+  <candidate annotated_sls="相亲节目_名称_电视节目" rank="14" vote1="8" vote2="8" vote3="9" votesum="25">
+  </candidate>
+ </query>
+ <query id="0032">
+  <candidate annotated_sls="哈利波特_电影_全集" rank="1" vote1="20" vote2="9" vote3="20" votesum="49">
+  </candidate>
+  <candidate annotated_sls="哈利波特_系列_第一部" rank="2" vote1="6" vote2="19" vote3="17" votesum="42">
+  </candidate>
+  <candidate annotated_sls="哈利波特_电影_高清版" rank="3" vote1="19" vote2="0" vote3="19" votesum="38">
+  </candidate>
+  <candidate annotated_sls="哈利波特_系列_第二部" rank="4" vote1="5" vote2="18" vote3="14" votesum="37">
+  </candidate>
+  <candidate annotated_sls="哈利波特_系列_第三部" rank="5" vote1="4" vote2="17" vote3="15" votesum="36">
+  </candidate>
+  <candidate annotated_sls="哈利波特_网站_电影下载" rank="6" vote1="8" vote2="10" vote3="18" votesum="36">
+  </candidate>
+  <candidate annotated_sls="哈利波特_系列_第五部" rank="7" vote1="2" vote2="15" vote3="13" votesum="30">
+  </candidate>
+  <candidate annotated_sls="哈利波特_系列_第四部" rank="8" vote1="3" vote2="16" vote3="11" votesum="30">
+  </candidate>
+  <candidate annotated_sls="哈利波特_电影_消失的密室" rank="9" vote1="15" vote2="7" vote3="7" votesum="29">
+  </candidate>
+  <candidate annotated_sls="哈利波特_电影_阿兹卡班的囚徒" rank="10" vote1="17" vote2="8" vote3="4" votesum="29">
+  </candidate>
+  <candidate annotated_sls="哈利波特_系列_第七部" rank="11" vote1="0" vote2="13" vote3="16" votesum="29">
+  </candidate>
+  <candidate annotated_sls="哈利波特_电影_混血王子的背叛" rank="12" vote1="16" vote2="6" vote3="6" votesum="28">
+  </candidate>
+  <candidate annotated_sls="哈利波特_电影_死亡圣器" rank="13" vote1="14" vote2="5" vote3="8" votesum="27">
+  </candidate>
+  <candidate annotated_sls="哈利波特_系列_第六部" rank="14" vote1="1" vote2="14" vote3="12" votesum="27">
+  </candidate>
+  <candidate annotated_sls="哈利波特_电影_凤凰会的密令" rank="15" vote1="12" vote2="4" vote3="10" votesum="26">
+  </candidate>
+  <candidate annotated_sls="哈利波特_电影_哈利波特与魔法石" rank="16" vote1="13" vote2="3" vote3="9" votesum="25">
+  </candidate>
+  <candidate annotated_sls="哈利波特_系列_解析" rank="17" vote1="10" vote2="11" vote3="1" votesum="22">
+  </candidate>
+  <candidate annotated_sls="哈利波特_电影_花絮" rank="18" vote1="19" vote2="1" vote3="0" votesum="20">
+  </candidate>
+  <candidate annotated_sls="哈利波特_系列_知识" rank="19" vote1="0" vote2="20" vote3="0" votesum="20">
+  </candidate>
+  <candidate annotated_sls="哈利波特_电影_火焰杯" rank="20" vote1="11" vote2="2" vote3="5" votesum="18">
+  </candidate>
+  <candidate annotated_sls="哈利波特_系列_角色" rank="21" vote1="0" vote2="12" vote3="2" votesum="14">
+  </candidate>
+  <candidate annotated_sls="哈利波特_网站_游戏" rank="22" vote1="9" vote2="0" vote3="3" votesum="12">
+  </candidate>
+  <candidate annotated_sls="哈利波特_网站_贴吧" rank="23" vote1="7" vote2="0" vote3="0" votesum="7">
+  </candidate>
+  <candidate annotated_sls="哈利波特_内容_介绍" rank="24" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="哈利波特_内容_地点" rank="25" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+  <candidate annotated_sls="哈利波特_电影_其他动画" rank="26" vote1="0" vote2="0" vote3="0" votesum="0">
+  </candidate>
+ </query>
+ <query id="0033">
+  <candidate annotated_sls="安卓_游戏下载_教程" rank="1" vote1="19" vote2="20" vote3="19" votesum="58">
+  </candidate>
+  <candidate annotated_sls="安卓_游戏下载_2.3" rank="2" vote1="20" vote2="17" vote3="18" votesum="55">
+  </candidate>
+  <candidate annotated_sls="安卓_游戏下载_免费" rank="3" vote1="15" vote2="18" vote3="20" votesum="53">
+  </candidate>
+  <candidate annotated_sls="安卓_游戏下载_论坛" rank="4" vote1="17" vote2="15" vote3="15" votesum="47">
+  </candidate>
+  <candidate annotated_sls="安卓_游戏下载_游戏" rank="5" vote1="18" vote2="14" vote3="13" votesum="45">
+  </candidate>
+  <candidate annotated_sls="安卓_游戏下载_主题" rank="6" vote1="16" vote2="19" vote3="9" votesum="44">
+  </candidate>
+  <candidate annotated_sls="安卓_游戏下载_壁纸" rank="7" vote1="14" vote2="12" vote3="10" votesum="36">
+  </candidate>
+  <candidate annotated_sls="安卓_游戏下载_专题" rank="8" vote1="13" vote2="10" vote3="12" votesum="35">
+  </candidate>
+  <candidate annotated_sls="安卓_游戏下载_2.2" rank="9" vote1="10" vote2="7" vote3="17" votesum="34">
+  </candidate>
+  <candidate annotated_sls="安卓_游戏下载_2.1" rank="10" vote1="9" vote2="6" vote3="16" votesum="31">
+  </candidate>
+  <candidate annotated_sls="安卓_游戏下载_软件" rank="11" vote1="7" vote2="9" vote3="14" votesum="30">
+  </candidate>
+  <candidate annotated_sls="安卓_游戏下载_中心" rank="12" vote1="11" vote2="11" vote3="7" votesum="29">
+  </candidate>
+  <candidate annotated_sls="安卓_游戏下载_专区" rank="13" vote1="12" vote2="5" vote3="11" votesum="28">
+  </candidate>
+  <candidate annotated_sls="安卓_游戏下载_机型" rank="14" vote1="6" vote2="13" vote3="8" votesum="27">
+  </candidate>
+  <candidate annotated_sls="安卓_游戏下载_资讯" rank="15" vote1="5" vote2="16" vote3="6" votesum="27">
+  </candidate>
+  <candidate annotated_sls="安卓_游戏下载_首页" rank="16" vote1="8" vote2="8" vote3="5" votesum="21">
+  </candidate>
+ </query>
+</data>
