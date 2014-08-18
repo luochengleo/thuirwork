@@ -28,8 +28,12 @@ if 'flseva' not in os.listdir('../data'):
 
 ####################################################
 userfls2annofls = defaultdict(lambda:'')
-for l in loadcsv('../data/csv/task3new.csv'):
-    userfls2annofls[l[1]] = l[3]
+for l in loadcsv('../data/csv/task6.csv'):
+    userfls2annofls[l[1].strip()] = l[3].strip()
+for l in loadcsv('../data/csv/task3.csv'):
+    if l[1].strip() not in userfls2annofls.keys():
+        userfls2annofls[l[1].strip()] = l[3].strip()
+
 
 ####################################################
 annofls2idx = dict()
@@ -38,10 +42,10 @@ count = 1
 iprob = open('../data/flseva/imine.Iprob','w')
 for l in open('../data/temp/flsposs.txt').readlines():
     segs=  l.strip().split('\t')
-    annofls = segs[1]
-    if segs[0] != id:
+    annofls = segs[1].strip()
+    if segs[0].strip() != id:
         count = 1
-        id = segs[0]
+        id = segs[0].strip()
     else:
         count +=1
     annofls2idx[(id,annofls)] = count
@@ -57,9 +61,9 @@ for f in os.listdir('../data/enrun'):
 
     for l in open('../data/enrun/'+f).readlines()[1:]:
         segs = l.strip().replace('&amp;','').split(';')
-        id = segs[0]
-        userfls = segs[2]
-        flsrank = int(segs[3])
+        id = segs[0].strip()
+        userfls = segs[2].strip()
+        flsrank = int(segs[3].strip())
         allsubfls[id].add(userfls)
     
     for id in evaid():
@@ -101,10 +105,10 @@ for f in os.listdir('../data/enrun'):
 
     for l in open('../data/enrun/'+f).readlines()[1:]:
         segs = l.strip().replace('&amp;','').split(';')
-        id = segs[0]
-        userfls = segs[2]
-        userflsrank = segs[3]
-        userflsscore = segs[4]
+        id = segs[0].strip()
+        userfls = segs[2].strip()
+        userflsrank = segs[3].strip()
+        userflsscore = segs[4].strip()
         if (userfls,userflsrank,userflsscore) in alreadyin:
             continue
         else:

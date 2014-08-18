@@ -29,7 +29,7 @@ if 'slseva' not in os.listdir('../data'):
 ####################################################
 usersls2annosls = defaultdict(lambda:'')
 for l in loadcsv('../data/csv/task6.csv'):
-    usersls2annosls[l[1]] = l[4]
+    usersls2annosls[l[1].strip()] = l[4].strip()
 
 ####################################################
 annosls2idx = dict()
@@ -38,10 +38,10 @@ count = 1
 iprob = open('../data/slseva/imine.Iprob','w')
 for l in open('../data/temp/slsposs.txt').readlines():
     segs=  l.strip().split('\t')
-    annosls = segs[1]
+    annosls = segs[1].strip()
     if segs[0] != id:
         count = 1
-        id = segs[0]
+        id = segs[0].strip()
     else:
         count +=1
     annosls2idx[(id,annosls)] = count
@@ -56,9 +56,9 @@ for f in os.listdir('../data/cnrun'):
     print f
     for l in open('../data/cnrun/'+f).readlines()[1:]:
         segs = l.strip().replace('&amp;','').split(';')
-        id = segs[0]
-        usersls = segs[6]
-        slsrank = int(segs[3])
+        id = segs[0].strip()
+        usersls = segs[6].strip()
+        slsrank = int(segs[3].strip())
         allsubsls[id].add(usersls)
     
 for id in evaid():
@@ -100,10 +100,10 @@ for f in os.listdir('../data/cnrun'):
 
     for l in open('../data/cnrun/'+f).readlines()[1:]:
         segs = l.strip().replace('&amp;','').split(';')
-        id = segs[0]
-        usersls = segs[6]
-        userslsrank = segs[3]
-        userslsscore = segs[4]
+        id = segs[0].strip()
+        usersls = segs[6].strip()
+        userslsrank = segs[7].strip()
+        userslsscore = segs[8].strip()
         if (usersls,userslsrank,userslsscore) in alreadyin:
             continue
         else:
