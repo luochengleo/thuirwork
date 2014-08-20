@@ -85,7 +85,7 @@
 0071	mobile phones_service	0.320987654321
 0072	programming languages_history	0.333333333333
 0072	programming languages_particular language	0.345679012346
-0072	programming languages_taxonomy	0.320987654321
+0072	programming languages_taxnonmy	0.320987654321
 0073	tom cruise_biography	0.236363636364
 0073	tom cruise_book	0.163636363636
 0073	tom cruise_business	0.145454545455
@@ -123,3 +123,8 @@
 0081	samsung_tv	0.254385964912
 0082	the hunger games_movie	0.491228070175
 0082	the hunger games_novel	0.508771929825
+0083	harry potter series	0.222222222222
+0083	harry potter book	0.222222222222
+0083	harry potter film	0.333333333333
+0083	harry potter themepark	0.111111111111
+0083	harry potter games	0.111111111111

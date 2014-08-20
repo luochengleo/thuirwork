@@ -123,3 +123,8 @@
 0081	samsung_tv	10	9	10	29
 0082	the hunger games_movie	10	9	9	28
 0082	the hunger games_novel	9	10	10	29
+0083	harry potter series	3	3	4	10
+0083	harry potter book	4	4	2	10
+0083	harry potter film	5	5	5	15
+0083	harry potter themepark	2	2	1	5
+0083	harry potter games	1	1	3	5

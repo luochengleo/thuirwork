@@ -9,7 +9,7 @@ fail key irrelevant
 0070	lost season 5_download
 0058	shrew_information
 0069	free dvd burner_platform
-0079	bathtub_manufacturer
+0072	programming languages_taxnonmy
 0064	owl_tattoo
 0074	top ipad games_apps
 0064	owl_education
@@ -18,7 +18,6 @@ fail key irrelevant
 0081	samsung_tv
 0058	shrew_literature
 0073	tom cruise_book
-0072	programming languages_taxonomy
 0078	persian cat_category
 0053	eclipse_software
 0055	flesh_information
@@ -34,10 +33,12 @@ fail key irrelevant
 0060	the presidents of the united states of america_picture
 0052	cathedral_architecture
 0071	mobile phones_service
+0083	harry potter games
 0075	watches_category
 0054	fas_company
 0077	scientific american_computer
 0062	prophet_religion
+0083	harry potter film
 0061	windows_software
 0064	owl_music
 0078	persian cat_necklace
@@ -51,6 +52,7 @@ fail key irrelevant
 0065	adobe_software
 0075	watches_functions
 0065	adobe_material
+0083	harry potter themepark
 0054	fas_book
 0053	eclipse_astronomy
 0079	bathtub_contents
@@ -73,7 +75,9 @@ fail key irrelevant
 0057	lost_music
 0054	fas_harvard
 0064	owl_company
+0079	bathtub_manufacturer
 0077	scientific american_magazine
+0083	harry potter book
 0073	tom cruise_news
 0058	shrew_animal
 0075	watches_brand
@@ -100,6 +104,7 @@ fail key irrelevant
 0055	flesh_literature
 0059	symmetry_science
 0061	windows_website
+0083	harry potter series
 0057	lost_movie
 0057	lost_blog
 0068	camera_model

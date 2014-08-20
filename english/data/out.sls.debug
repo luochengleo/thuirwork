@@ -4,6 +4,7 @@ fail key camera_information_type
 0081	samsung_tv_sales
 0081	samsung_tablet_tablet computer
 0079	bathtub_manufacturer_accesories
+0083	harry potter themepark_information
 0059	symmetry_business_application
 0071	mobile phones_service_providers
 0074	top ipad games_free_apple games
@@ -36,9 +37,11 @@ fail key camera_information_type
 0079	bathtub_manufacturer_discount
 0065	adobe_architecture_brick
 0077	scientific american_magazine_research
+0083	harry potter book_quotes
 0052	cathedral_architecture_material
 0062	prophet_music_entertainment
 0055	flesh_information_media
+0083	harry potter games_others
 0073	tom cruise_book_biography
 0053	eclipse_automobile_mitsubishi
 0059	symmetry_science_biology
@@ -79,6 +82,7 @@ fail key camera_information_type
 0052	cathedral_religion_relationship
 0066	legend_game_kids
 0064	owl_animal_anatomy
+0083	harry potter film_music
 0054	fas_syndrome_information
 0082	the hunger games_novel_characters
 0054	fas_company_location
@@ -132,6 +136,7 @@ fail key camera_information_type
 0057	lost_series_episodes
 0077	scientific american_products_digital
 0058	shrew_information_online
+0083	harry potter series_information
 0059	symmetry_science_medical
 0077	scientific american_magazine_company
 0056	ir_interest rate_relations
@@ -154,6 +159,7 @@ fail key camera_information_type
 0069	free dvd burner_software_trial
 0063	gold_company_density
 0056	ir_languages_iranian
+0083	harry potter book_scene
 0066	legend_movie_book
 0082	the hunger games_novel_details
 0073	tom cruise_movie_films stuff
@@ -170,6 +176,7 @@ fail key camera_information_type
 0078	persian cat_animal_description
 0067	beijing subways_game_app
 0075	watches_category_sex
+0083	harry potter film_information
 0052	cathedral_info_references
 0077	scientific american_magazines_countries
 0059	symmetry_business_characterize
@@ -184,6 +191,7 @@ fail key camera_information_type
 0064	owl_education_writing
 0064	owl_tattoo_design
 0079	bathtub_manufacturer_sterling
+0083	harry potter film_cast
 0066	legend_game_gifts
 0080	wedding ring_tradition_ceremony
 0074	top ipad games_apps_book
@@ -208,12 +216,14 @@ fail key camera_information_type
 0075	watches_category_quality
 0082	the hunger games_movie_release
 0055	flesh_body_free
+0083	harry potter film_watch
 0055	flesh_information_body
 0055	flesh_fly_illness
 0061	windows_website_help
 0073	tom cruise_movie_films latest
 0066	legend_game_equipment
 0054	fas_company_agriculture
+0083	harry potter book_character
 0058	shrew_animal_species
 0057	lost_movie_motion picture
 0052	cathedral_religion_saint
@@ -221,6 +231,7 @@ fail key camera_information_type
 0054	fas_company_course
 0060	the presidents of the united states of america_history_details
 0073	tom cruise_movie_famous
+0083	harry potter book_magics
 0056	ir_languages_grammar
 0064	owl_animal_media
 0058	shrew_software_application
@@ -340,6 +351,7 @@ fail key camera_information_type
 0072	programming languages_particular language_language types
 0080	wedding ring_design_Jewelry store
 0061	windows_house_architecture
+0083	harry potter games_quiz
 0079	bathtub_manufacturer_repair
 0066	legend_novel_book
 0073	tom cruise_biography_romances
@@ -367,11 +379,13 @@ fail key camera_information_type
 0066	legend_game_play online
 0055	flesh_body_live
 0082	the hunger games_movie_website
+0083	harry potter games_word game
 0062	prophet_religion_other
 0077	scientific american_magazine_online
 0059	symmetry_art_design
 0051	apple_company_specifications
 0078	persian cat_category_introduction
+0083	harry potter film_activity
 0061	windows_musical group_record
 0071	mobile phones_information_specifications
 0074	top ipad games_2013_best games
@@ -380,8 +394,10 @@ fail key camera_information_type
 0055	flesh_body_anatomy
 0079	bathtub_manufacturer_modern
 0051	apple_company_games
+0083	harry potter themepark_products
 0059	symmetry_business_information
 0055	flesh_information_definition
+0083	harry potter book_reading
 0051	apple_company_logo
 0061	windows_software_program
 0082	the hunger games_movie_advertisement
@@ -389,4 +405,5 @@ fail key camera_information_type
 0053	eclipse_astronomy_all
 0051	apple_company_applications
 0082	the hunger games_novel_information
+0083	harry potter series_title
 0076	thai specialties_speciality_meals

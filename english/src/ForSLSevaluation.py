@@ -89,8 +89,7 @@ for id in evaid():
         else:
             intent = 0
             rel = 'L0'
-        if usls =='apple app store':
-            print usls,annosls
+
         dqrels.write(id+' '+str(intent)+' '+str2id(usls)+' '+rel+'\n')
 
 

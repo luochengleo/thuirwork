@@ -14,11 +14,12 @@ from  collections import defaultdict
 id2sum =defaultdict(lambda: 0)
 def evaid():
     rtr = []
-    for i in range(51,83,1):
-        if i <10:
-            rtr.append('000'+str(i))
-        else:
-            rtr.append('00'+str(i))
+    for i in range(51,84,1):
+        rtr.append(str(i))
+#         if i <10:
+#             rtr.append('000'+str(i))
+#         else:
+#             rtr.append('00'+str(i))
     return rtr
 for l in loadcsv('../data/csv/task7.csv'):
     id = l[0]
@@ -35,7 +36,9 @@ for l in loadcsv('../data/csv/task7.csv'):
 
 fout = open('../data/temp/slsposs.txt','w')
 for id in evaid():
+    print id
     for item in sort_by_value(id2sls2poss[id]):
-        fout.write(id+'\t'+item+'\t'+str(id2sls2poss[id][item])+'\n')
+        print id+'\t'+item+'\t'+str(id2sls2poss[id][item])
+        fout.write('00'+id+'\t'+item+'\t'+str(id2sls2poss[id][item])+'\n')
 
 fout.close()
