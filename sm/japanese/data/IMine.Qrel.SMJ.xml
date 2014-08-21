@@ -1,0 +1,2266 @@
+<?xml version='1.0' encoding='utf8'?>
+<root>
+<topic content="シド" id="0101">
+<fls content="シド_黒執事" poss="0.181818182">
+<sls content="シド_黒執事_情報" poss="0.1">
+<example>シド黒執事</example>
+<example>シド黒執事紹介</example>
+</sls>
+</fls>
+<fls content="シド_シド・ヴィシャス" poss="0.272727273">
+<sls content="シド_シド・ヴィシャス_ナンシー" poss="0.05">
+<example>シドシドナンシー</example>
+</sls>
+<sls content="シド_シド・ヴィシャス_ポスター" poss="0.05">
+<example>シドヴィシャスポスター</example>
+</sls>
+<sls content="シド_シド・ヴィシャス_シド・ヴィシャス" poss="0.05">
+<example>シド シド・ヴィシャス シド・ヴィシャス</example>
+<example>シド シド・ヴィシャス</example>
+</sls>
+</fls>
+<fls content="シド_FF" poss="0.181818182">
+<sls content="シド_FF_FF" poss="0.05">
+<example>シド FF FF</example>
+<example>シド FF</example>
+</sls>
+<sls content="シド_FF_チョコボの不思議なダンジョン" poss="0.016666667">
+<example>シドとチョコボの不思議</example>
+</sls>
+</fls>
+<fls content="シド_トイストーリー" poss="0.090909091">
+<sls content="シド_トイストーリー_紹介" poss="0.05">
+<example>トイストーリーシド紹介</example>
+<example>トイストーリーシド</example>
+</sls>
+</fls>
+<fls content="シド_バンド" poss="0.272727273">
+<sls content="シド_バンド_プロフィール" poss="0.05">
+<example>シドプロフィール</example>
+</sls>
+<sls content="シド_バンド_メンバ" poss="0.05">
+<example>シド 音楽 エル</example>
+<example>シド 明希</example>
+<example>シドしんぢ</example>
+<example>シド マオ</example>
+</sls>
+<sls content="シド_バンド_CD" poss="0.1">
+<example>シドのcd一覧紹介</example>
+<example>シドのcd一覧</example>
+<example>シド残り香</example>
+<example>シド 音楽</example>
+</sls>
+<sls content="シド_バンド_動画" poss="0.05">
+<example>シドの動画</example>
+<example>シド無料動画</example>
+<example>シド 音楽 動画</example>
+</sls>
+<sls content="シド_バンド_ライブ" poss="0.05">
+<example>シドのライブ</example>
+</sls>
+</fls>
+</topic>
+<topic content="ダム" id="0102">
+<fls content="ダム_徳山" poss="0.222222222">
+<sls content="ダム_徳山_徳山" poss="0.25">
+<example>ダム 徳山 アメーバ</example>
+<example>ダム 徳山 Ameba</example>
+<example>ダム 徳山 徳山</example>
+<example>ダム 徳山</example>
+</sls>
+</fls>
+<fls content="ダム_宇連ダム" poss="0.222222222">
+<sls content="ダム_宇連ダム_情報" poss="0.25">
+<example>宇連ダム</example>
+</sls>
+</fls>
+<fls content="ダム_貯水" poss="0.333333333">
+<sls content="ダム_貯水_容量" poss="0.1875">
+<example>ダム総貯水容量</example>
+<example>ダム体積</example>
+</sls>
+<sls content="ダム_貯水_面積" poss="0.1875">
+<example>ダム湛水面積</example>
+</sls>
+<sls content="ダム_貯水_紹介" poss="0.0625">
+<example>ダム貯水率紹介</example>
+<example>ダム貯水率</example>
+</sls>
+</fls>
+<fls content="ダム_所在地" poss="0.222222222">
+<sls content="ダム_所在地_紹介" poss="0.1875">
+<example>ダム所在地紹介</example>
+<example>ダム所在地</example>
+</sls>
+<sls content="ダム_所在地_位置" poss="0.125">
+<example>ダムの位置</example>
+</sls>
+</fls>
+</topic>
+<topic content="R" id="0103">
+<fls content="R_助け隊" poss="1.0">
+<sls content="R_助け隊_フィギュアネット" poss="0.333333333">
+<example>助け隊rフィギュアネット</example>
+<example>助け隊r</example>
+</sls>
+<sls content="R_助け隊_電子部品" poss="0.333333333">
+<example>電子部品リスト電子部品のお助け隊rフィギュアネット</example>
+</sls>
+</fls>
+</topic>
+<topic content="ハヤブサ" id="0104">
+<fls content="ハヤブサ_時刻表" poss="0.333333333">
+<sls content="ハヤブサ_時刻表_新幹線" poss="0.162162162">
+<example>ハヤブサはやぶさ新幹線</example>
+<example>ハヤブサはやぶさ時刻表</example>
+</sls>
+</fls>
+<fls content="ハヤブサ_バイク" poss="0.222222222">
+<sls content="ハヤブサ_バイク_新型" poss="0.081081081">
+<example>新型ハヤブサ</example>
+</sls>
+<sls content="ハヤブサ_バイク_GSX" poss="0.081081081">
+<example>ハヤブサ GSX HAYABUSA</example>
+<example>ハヤブサ GSX 仕様</example>
+<example>ハヤブサ GSX</example>
+</sls>
+<sls content="ハヤブサ_バイク_スズキ" poss="0.081081081">
+<example>スズキハヤブサ</example>
+<example>ハヤブサ GSX スズキ</example>
+</sls>
+<sls content="ハヤブサ_バイク_買取" poss="0.081081081">
+<example>ハヤブサ GSX 高価</example>
+<example>ハヤブサ GSX 買取</example>
+<example>ハヤブサ 激安</example>
+</sls>
+<sls content="ハヤブサ_バイク_1300" poss="0.081081081">
+<example>ハヤブサ GSX 1300</example>
+<example>ハヤブサ1300</example>
+</sls>
+</fls>
+<fls content="ハヤブサ_鳥" poss="0.222222222">
+<sls content="ハヤブサ_鳥_ハヤブサ目" poss="0.162162162">
+<example>ハヤブサ目</example>
+<example>ハヤブサ Falcon ハヤブサ目</example>
+<example>ハヤブサ科</example>
+<example>タカ目ハヤブサ科</example>
+<example>ハヤブサ Falcon</example>
+<example>河北潟でバードウォッチングハヤブサ</example>
+</sls>
+<sls content="ハヤブサ_鳥_飼育" poss="0.081081081">
+<example>ハヤブサ飼育</example>
+</sls>
+<sls content="ハヤブサ_鳥_下目" poss="0.027027027">
+<example>ハヤブサ下目</example>
+<example>ハヤブサ涙</example>
+</sls>
+<sls content="ハヤブサ_鳥_鳥類" poss="0.027027027">
+<example>ハヤブサはやぶさ鳥</example>
+<example>ハヤブサ Falcon 鳥類</example>
+</sls>
+</fls>
+<fls content="ハヤブサ_マスクマン" poss="0.222222222">
+<sls content="ハヤブサ_マスクマン_" poss="0.081081081">
+<example>ハヤブサレスラー</example>
+<example>ハヤブサプロレス</example>
+<example>ハヤブサプロレスラー</example>
+<example>マスクマンハヤブサ</example>
+</sls>
+</fls>
+</topic>
+<topic content="ナポレオン" id="0105">
+<fls content="ナポレオン_ヒル" poss="0.428571429">
+<sls content="ナポレオン_ヒル_ナポレオンヒル" poss="0.081081081">
+<example>ナポレオンヒル</example>
+<example>ナポレオン ヒル</example>
+</sls>
+<sls content="ナポレオン_ヒル_プログラム" poss="0.081081081">
+<example>ナポレオン ヒル プログラム</example>
+</sls>
+</fls>
+<fls content="ナポレオン_おのれナポレオン" poss="0.285714286">
+<sls content="ナポレオン_おのれナポレオン_紹介" poss="0.081081081">
+<example>おのれナポレオン紹介</example>
+<example>おのれナポレオン</example>
+</sls>
+</fls>
+<fls content="ナポレオン_ポナパルト" poss="0.285714286">
+<sls content="ナポレオン_ポナパルト_肖像" poss="0.081081081">
+<example>ナポレオンの肖像</example>
+</sls>
+<sls content="ナポレオン_ポナパルト_馬" poss="0.081081081">
+<example>ナポレオンが乗っていた馬</example>
+<example>ナポレオン馬</example>
+<example>ナポレオンが乗っていた馬紹介</example>
+</sls>
+<sls content="ナポレオン_ポナパルト_逸話" poss="0.081081081">
+<example>ナポレオン逸話</example>
+</sls>
+<sls content="ナポレオン_ポナパルト_書籍" poss="0.081081081">
+<example>ナポレオン書籍</example>
+<example>ナポレオン文献</example>
+</sls>
+<sls content="ナポレオン_ポナパルト_軍" poss="0.054054054">
+<example>ナポレオン軍</example>
+<example>ナポレオンの率いた大陸軍</example>
+</sls>
+<sls content="ナポレオン_ポナパルト_3世" poss="0.054054054">
+<example>ナポレオン3世</example>
+<example>ナポレオン三世</example>
+</sls>
+<sls content="ナポレオン_ポナパルト_金貨" poss="0.054054054">
+<example>ナポレオン金貨</example>
+<example>ナポレオン通貨</example>
+</sls>
+<sls content="ナポレオン_ポナパルト_1世" poss="0.054054054">
+<example>ナポレオン1世</example>
+<example>ナポレオン一世</example>
+<example>ナポレオン関係者</example>
+<example>ナポレオン ボナパルト</example>
+</sls>
+<sls content="ナポレオン_ポナパルト_画像" poss="0.054054054">
+<example>ナポレオン画像</example>
+</sls>
+</fls>
+</topic>
+<topic content="アバター" id="0106">
+<fls content="アバター_映画" poss="0.375">
+<sls content="アバター_映画_監督" poss="0.068181818">
+<example>アバター監督紹介</example>
+<example>アバター監督</example>
+</sls>
+<sls content="アバター_映画_ホームページ" poss="0.068181818">
+<example>アバター 映画 ホームページ</example>
+</sls>
+<sls content="アバター_映画_概要" poss="0.068181818">
+<example>アバター映画</example>
+<example>アバター 上映</example>
+</sls>
+<sls content="アバター_映画_音楽" poss="0.045454545">
+<example>アバター音楽</example>
+</sls>
+<sls content="アバター_映画_製作総指揮" poss="0.022727273">
+<example>アバター製作総指揮</example>
+</sls>
+<sls content="アバター_映画_制作" poss="0.022727273">
+<example>アバター製作</example>
+</sls>
+<sls content="アバター_映画_プロデューサー" poss="0.022727273">
+<example>アバタープロデューサー</example>
+</sls>
+</fls>
+<fls content="アバター_キャラ" poss="0.375">
+<sls content="アバター_キャラ_作成" poss="0.068181818">
+<example>無料アバター作成</example>
+<example>アバター自作</example>
+<example>アバター作り</example>
+</sls>
+<sls content="アバター_キャラ_配布" poss="0.068181818">
+<example>無料アバター配布サイト</example>
+<example>アバターを配布</example>
+</sls>
+<sls content="アバター_キャラ_紹介" poss="0.068181818">
+<example>アバター製作紹介</example>
+<example>アバター作成</example>
+</sls>
+<sls content="アバター_キャラ_アバターとは" poss="0.045454545">
+<example>アバターとはインターネット上</example>
+<example>アバターとはネット上</example>
+</sls>
+<sls content="アバター_キャラ_似顔絵" poss="0.045454545">
+<example>似顔絵アバター</example>
+<example>アバター 無料 似顔絵</example>
+</sls>
+<sls content="アバター_キャラ_編集" poss="0.022727273">
+<example>アバター編集</example>
+</sls>
+<sls content="アバター_キャラ_無料" poss="0.022727273">
+<example>無料アバター</example>
+<example>無料アバター情報</example>
+<example>アバター 無料</example>
+</sls>
+</fls>
+<fls content="アバター_橋本" poss="0.125">
+<sls content="アバター_橋本_原作" poss="0.068181818">
+<example>アバター原作</example>
+<example>アバター橋本</example>
+</sls>
+</fls>
+<fls content="アバター_ゲーム" poss="0.125">
+<sls content="アバター_ゲーム_ハンゲーム" poss="0.136363636">
+<example>ハンゲームアバター一覧</example>
+<example>アバター ゲーム ハン</example>
+<example>ハンゲームアバター</example>
+</sls>
+<sls content="アバター_ゲーム_アバターゲーム" poss="0.068181818">
+<example>ゲームアバター</example>
+<example>アバターアバターゲーム</example>
+<example>アバター アバターバトル</example>
+<example>アバター ゲーム</example>
+</sls>
+<sls content="アバター_ゲーム_試着" poss="0.045454545">
+<example>ハンゲームアバター試着</example>
+</sls>
+<sls content="アバター_ゲーム_オンライン" poss="0.022727273">
+<example>アバター ゲーム オンライン</example>
+</sls>
+</fls>
+</topic>
+<topic content="ジップ" id="0107">
+<fls content="ジップ_ジップロック" poss="0.285714286">
+<sls content="ジップ_ジップロック_一覧" poss="0.085714286">
+<example>ジップ 商品 一覧</example>
+</sls>
+<sls content="ジップ_ジップロック_ジップロック" poss="0.085714286">
+<example>ジップ 商品</example>
+<example>ジップ ジップロック</example>
+<example>ジップジップロック</example>
+</sls>
+<sls content="ジップ_ジップロック_ジップ袋" poss="0.085714286">
+<example>ジップ袋</example>
+<example>ジップ付袋</example>
+</sls>
+<sls content="ジップ_ジップロック_通販" poss="0.085714286">
+<example>ジップ 商品 通販</example>
+</sls>
+<sls content="ジップ_ジップロック_フリーザー" poss="0.057142857">
+<example>ジップ ジップロック フリーザー</example>
+</sls>
+</fls>
+<fls content="ジップ_アコーディオン" poss="0.285714286">
+<sls content="ジップ_アコーディオン_長財布" poss="0.085714286">
+<example>ストライプアコーディオンジップ長財布</example>
+</sls>
+<sls content="ジップ_アコーディオン_ストライプジップ" poss="0.085714286">
+<example>ストライプジップ</example>
+<example>ストライプアコーディオンジップ</example>
+</sls>
+<sls content="ジップ_アコーディオン_レザーアコーディオン" poss="0.028571429">
+<example>レザーアコーディオンジップ</example>
+<example>レザーアコーディオンジップ紹介</example>
+<example>デニムアコーディオンジップ</example>
+</sls>
+</fls>
+<fls content="ジップ_fm" poss="0.285714286">
+<sls content="ジップ_fm_zip" poss="0.085714286">
+<example>ジップzip-fm</example>
+<example>ジップfm</example>
+</sls>
+</fls>
+<fls content="ジップ_株式会社" poss="0.142857143">
+<sls content="ジップ_株式会社_転職" poss="0.085714286">
+<example>ジップ 株式会社 転職</example>
+</sls>
+<sls content="ジップ_株式会社_求人" poss="0.085714286">
+<example>ジップ 株式会社 求人</example>
+</sls>
+<sls content="ジップ_株式会社_アパレル" poss="0.057142857">
+<example>ジップ 株式会社 アパレル</example>
+<example>ジップ 株式会社</example>
+</sls>
+<sls content="ジップ_株式会社_採用" poss="0.028571429">
+<example>ジップ 株式会社 採用</example>
+</sls>
+</fls>
+</topic>
+<topic content="ウォッカ" id="0108">
+<fls content="ウォッカ_カクテル" poss="0.25">
+<sls content="ウォッカ_カクテル_作る" poss="0.075">
+<example>ウォッカ カクテル 作れる</example>
+</sls>
+<sls content="ウォッカ_カクテル_飲み方" poss="0.075">
+<example>ウォッカ飲み方</example>
+</sls>
+<sls content="ウォッカ_カクテル_ウォッカベース" poss="0.075">
+<example>ウォッカベース</example>
+<example>ウォッカ カクテル ウォッカベース</example>
+<example>ウォッカ カクテル</example>
+</sls>
+<sls content="ウォッカ_カクテル_レシピ" poss="0.075">
+<example>ウォッカ カクテル レシピ</example>
+</sls>
+<sls content="ウォッカ_カクテル_クランベリーウォッカ" poss="0.05">
+<example>クランベリーウォッカ</example>
+</sls>
+</fls>
+<fls content="ウォッカ_ジン" poss="0.166666667">
+<sls content="ウォッカ_ジン_紹介" poss="0.075">
+<example>ウォッカジン</example>
+<example>ウォッカ ジン</example>
+</sls>
+<sls content="ウォッカ_ジン_テキーラ" poss="0.05">
+<example>ウォッカテキーラ</example>
+</sls>
+<sls content="ウォッカ_ジン_スピリッツ" poss="0.05">
+<example>ウォッカスピリッツ</example>
+</sls>
+<sls content="ウォッカ_ジン_うんちく" poss="0.025">
+<example>ウォッカ ジン うんちく</example>
+</sls>
+</fls>
+<fls content="ウォッカ_ウォッカコリンズ" poss="0.166666667">
+<sls content="ウォッカ_ウォッカコリンズ_紹介" poss="0.025">
+<example>ウォッカコリンズ紹介</example>
+<example>ウォッカコリンズ</example>
+</sls>
+</fls>
+<fls content="ウォッカ_競馬" poss="0.25">
+<sls content="ウォッカ_競馬_紹介" poss="0.075">
+<example>ウォッカ競馬紹介</example>
+<example>ウォッカ競馬</example>
+</sls>
+<sls content="ウォッカ_競馬_産駒" poss="0.05">
+<example>ウォッカ産駒</example>
+</sls>
+</fls>
+<fls content="ウォッカ_Van" poss="0.166666667">
+<sls content="ウォッカ_Van_銘柄" poss="0.075">
+<example>ウォッカ銘柄</example>
+</sls>
+<sls content="ウォッカ_Van_通販" poss="0.05">
+<example>ウォッカ 通販 ホームページ</example>
+</sls>
+<sls content="ウォッカ_Van_高級" poss="0.025">
+<example>高級ウォッカ</example>
+</sls>
+<sls content="ウォッカ_Van_Van Gogh" poss="0.025">
+<example>ウォッカ Van ヴァンゴー</example>
+<example>ウォッカ Van Gogh</example>
+<example>ウォッカ Van</example>
+</sls>
+<sls content="ウォッカ_Van_長持ち" poss="0.025">
+<example>ウォッカ Van 長持ち</example>
+</sls>
+</fls>
+</topic>
+<topic content="横浜" id="0109">
+<fls content="横浜_ららぽーと" poss="0.3">
+<sls content="横浜_ららぽーと_紹介" poss="0.166666667">
+<example>ららぽーと横浜紹介</example>
+<example>ららぽーと横浜</example>
+</sls>
+</fls>
+<fls content="横浜_fc" poss="0.2">
+<sls content="横浜_fc_マリノス" poss="0.166666667">
+<example>横浜マリノス</example>
+</sls>
+<sls content="横浜_fc_横浜fc" poss="0.166666667">
+<example>横浜fc</example>
+</sls>
+</fls>
+<fls content="横浜_そごう" poss="0.3">
+<sls content="横浜_そごう_紹介" poss="0.166666667">
+<example>横浜そごう</example>
+<example>横浜そごう紹介</example>
+</sls>
+</fls>
+<fls content="横浜_天気" poss="0.2">
+<sls content="横浜_天気_予報" poss="0.166666667">
+<example>横浜 天気 予報</example>
+<example>横浜 天気</example>
+</sls>
+<sls content="横浜_天気_Yahoo" poss="0.111111111">
+<example>横浜 天気 Yahoo</example>
+</sls>
+<sls content="横浜_天気_東部" poss="0.055555556">
+<example>横浜 天気 東部</example>
+</sls>
+</fls>
+</topic>
+<topic content="伝奇" id="0110">
+<fls content="伝奇_ボルヘス" poss="0.272727273">
+<sls content="伝奇_ボルヘス_ボルヘス伝奇集" poss="0.107142857">
+<example>ボルヘス伝奇集</example>
+<example>ボルヘス伝奇</example>
+</sls>
+</fls>
+<fls content="伝奇_ベルセルク" poss="0.181818182">
+<sls content="伝奇_ベルセルク_サウンドトラック" poss="0.107142857">
+<example>伝奇サウンドトラック</example>
+<example>剣風伝奇ベルセルクオリジナルサウンドトラック</example>
+</sls>
+<sls content="伝奇_ベルセルク_DVDBOX" poss="0.107142857">
+<example>伝奇 ベルセルク BOX</example>
+<example>伝奇 ベルセルク DVD</example>
+<example>伝奇 ベルセルク BD</example>
+</sls>
+<sls content="伝奇_ベルセルク_アニメ" poss="0.107142857">
+<example>伝奇 ベルセルク</example>
+<example>番組剣風伝奇</example>
+<example>伝奇アニメ</example>
+<example>番組剣風伝奇ベルセルク</example>
+<example>伝奇 ベルセルク アニメ</example>
+<example>剣風伝奇ベルセルク</example>
+</sls>
+<sls content="伝奇_ベルセルク_三浦建太郎" poss="0.107142857">
+<example>伝奇三浦建太郎</example>
+<example>伝奇三浦建太郎紹介</example>
+</sls>
+<sls content="伝奇_ベルセルク_動画" poss="0.107142857">
+<example>剣風伝奇ベルセルクアニメ動画</example>
+</sls>
+</fls>
+<fls content="伝奇_伝奇匣" poss="0.181818182">
+<sls content="伝奇_伝奇匣_紹介" poss="0.107142857">
+<example>伝奇匣紹介</example>
+<example>伝奇匣</example>
+</sls>
+</fls>
+<fls content="伝奇_少林寺伝奇" poss="0.181818182">
+<sls content="伝奇_少林寺伝奇_出演者" poss="0.107142857">
+<example>少林寺伝奇出演者</example>
+<example>少林寺伝奇</example>
+</sls>
+</fls>
+<fls content="伝奇_アイテム" poss="0.181818182">
+<sls content="伝奇_アイテム_スケジュール" poss="0.107142857">
+<example>時代伝奇アイテム発売スケジュール</example>
+<example>伝奇アイテム発売スケジュール</example>
+</sls>
+</fls>
+</topic>
+<topic content="アドビ" id="0111">
+<fls content="アドビ_iphone" poss="0.222222222">
+<sls content="アドビ_iphone_紹介" poss="0.103448276">
+<example>アドビiphone向け紹介</example>
+<example>アドビiphone向け</example>
+</sls>
+</fls>
+<fls content="アドビ_linux" poss="0.222222222">
+<sls content="アドビ_linux_対応" poss="0.103448276">
+<example>アドビlinux対応</example>
+</sls>
+</fls>
+<fls content="アドビ_不正アクセス" poss="0.333333333">
+<sls content="アドビ_不正アクセス_紹介" poss="0.103448276">
+<example>アドビ不正アクセス</example>
+</sls>
+</fls>
+<fls content="アドビ_認定" poss="0.222222222">
+<sls content="アドビ_認定_試験制度" poss="0.103448276">
+<example>アドビ認定試験制度</example>
+<example>アドビ認定試験</example>
+<example>アドビ 認定</example>
+</sls>
+<sls content="アドビ_認定_プロフェッショナル" poss="0.103448276">
+<example>アドビ認定プロフェッショナル</example>
+</sls>
+<sls content="アドビ_認定_資格" poss="0.103448276">
+<example>アドビ 認定 資格</example>
+</sls>
+<sls content="アドビ_認定_トレーナー" poss="0.103448276">
+<example>アドビ認定トレーナー</example>
+</sls>
+<sls content="アドビ_認定_エキスパート" poss="0.103448276">
+<example>アドビ認定エキスパート</example>
+<example>アドビ認定エキスパート資格</example>
+</sls>
+<sls content="アドビ_認定_アドビ認定インストラクター" poss="0.103448276">
+<example>アドビ認定インストラクター</example>
+<example>アドビ認定インストラクター資格</example>
+</sls>
+<sls content="アドビ_認定_試験紹介" poss="0.103448276">
+<example>アドビ認定試験紹介</example>
+</sls>
+</fls>
+</topic>
+<topic content="予言者" id="0112">
+<fls content="予言者_ローラン" poss="0.181818182">
+<sls content="予言者_ローラン_デュエルマスターズ" poss="0.136363636">
+<example>予言者 ローラン デュエルマスターズ</example>
+<example>予言者 ローラン DM</example>
+<example>予言者 ローラン</example>
+<example>予言者ローラン</example>
+</sls>
+</fls>
+<fls content="予言者_ジュセリーノ" poss="0.272727273">
+<sls content="予言者_ジュセリーノ_疑惑" poss="0.136363636">
+<example>予言者ジュセリーノの疑惑</example>
+</sls>
+<sls content="予言者_ジュセリーノ_予言集" poss="0.136363636">
+<example>予言者ジュセリーノの予言集</example>
+<example>予言者 予言 ジュセリーノ</example>
+</sls>
+<sls content="予言者_ジュセリーノ_ジュセリーノとは何者" poss="0.136363636">
+<example>予言者ジュセリーノとは何者紹介</example>
+<example>予言者ジュセリーノとは何者</example>
+</sls>
+<sls content="予言者_ジュセリーノ_東海地震" poss="0.136363636">
+<example>予言者ジョセリーノ東海地震</example>
+</sls>
+<sls content="予言者_ジュセリーノ_警告" poss="0.045454545">
+<example>警告ジュセリーノ予言者</example>
+</sls>
+</fls>
+<fls content="予言者_バラートクラーラ" poss="0.272727273">
+<sls content="予言者_バラートクラーラ_マジャールタロット" poss="0.136363636">
+<example>予言者 バラート・クラーラ マジャールタロット</example>
+<example>予言者 バラートクラーラ</example>
+<example>予言者 バラート・クラーラ</example>
+</sls>
+</fls>
+<fls content="予言者_ジョンタイター" poss="0.272727273">
+<sls content="予言者_ジョンタイター_紹介" poss="0.136363636">
+<example>予言者ジョンタイター紹介</example>
+<example>予言者ジョンタイター</example>
+</sls>
+</fls>
+</topic>
+<topic content="オウル" id="0113">
+<fls content="オウル_英会話" poss="0.5">
+<sls content="オウル_英会話_ザ・ダイソーオウル" poss="0.333333333">
+<example>オウル 英会話 ザ・ダイソーオウル</example>
+<example>オウル 英会話</example>
+</sls>
+</fls>
+<fls content="オウル_港" poss="0.166666667">
+<sls content="オウル_港_オウル港" poss="0.333333333">
+<example>オウル港</example>
+</sls>
+</fls>
+<fls content="オウル_空港" poss="0.333333333">
+<sls content="オウル_空港_オウル空港" poss="0.333333333">
+<example>オウル空港</example>
+<example>オウル空港oul</example>
+</sls>
+</fls>
+</topic>
+<topic content="赤とうがらし" id="0114">
+<fls content="赤とうがらし_乾燥" poss="0.1">
+<sls content="赤とうがらし_乾燥_紹介" poss="0.130434783">
+<example>赤とうがらしを乾燥</example>
+<example>赤とうがらしを乾燥紹介</example>
+</sls>
+</fls>
+<fls content="赤とうがらし_キムチ" poss="0.2">
+<sls content="赤とうがらし_キムチ_紹介" poss="0.130434783">
+<example>キムチ赤とうがらし</example>
+</sls>
+</fls>
+<fls content="赤とうがらし_エキス" poss="0.3">
+<sls content="赤とうがらし_エキス_赤とうがらしエキス" poss="0.130434783">
+<example>赤とうがらしエキス</example>
+<example>赤とうがらしエキス紹介</example>
+</sls>
+</fls>
+<fls content="赤とうがらし_駒込" poss="0.1">
+<sls content="赤とうがらし_駒込_情報" poss="0.086956522">
+<example>赤とうがらし駒込</example>
+</sls>
+</fls>
+<fls content="赤とうがらし_レシピ" poss="0.3">
+<sls content="赤とうがらし_レシピ_赤とうがらしレシピ" poss="0.260869565">
+<example>赤とうがらしレシピ</example>
+<example>赤とうがらし料理</example>
+<example>赤とうがらし レシピ</example>
+</sls>
+<sls content="赤とうがらし_レシピ_簡単" poss="0.130434783">
+<example>赤とうがらし レシピ 簡単</example>
+</sls>
+<sls content="赤とうがらし_レシピ_おいしい" poss="0.130434783">
+<example>赤とうがらし レシピ おいしい</example>
+</sls>
+<sls content="赤とうがらし_レシピ_クックパッド" poss="0.086956522">
+<example>赤とうがらし レシピ パッド</example>
+<example>赤とうがらし レシピ クック</example>
+</sls>
+</fls>
+</topic>
+<topic content="銀シャリ" id="0115">
+<fls content="銀シャリ_コンビ" poss="0.333333333">
+<sls content="銀シャリ_コンビ_テレビ" poss="0.075">
+<example>銀シャリ動画</example>
+<example>ロケみつ銀シャリ</example>
+</sls>
+<sls content="銀シャリ_コンビ_紹介" poss="0.075">
+<example>銀シャリコンビ</example>
+<example>コンビ名銀シャリ</example>
+<example>銀シャリコンビ紹介</example>
+<example>銀シャリ日記</example>
+<example>銀シャリ彼女</example>
+</sls>
+<sls content="銀シャリ_コンビ_チケット" poss="0.075">
+<example>銀シャリ 01 チケットぴあ</example>
+<example>銀シャリ 01 チケット</example>
+</sls>
+<sls content="銀シャリ_コンビ_橋本" poss="0.075">
+<example>銀シャリ橋本直紹介</example>
+<example>銀シャリ橋本</example>
+<example>銀シャリ橋本直</example>
+</sls>
+<sls content="銀シャリ_コンビ_鰻" poss="0.075">
+<example>銀シャリ鰻彼女</example>
+</sls>
+<sls content="銀シャリ_コンビ_ライブ" poss="0.075">
+<example>銀シャリ 01 ライブ</example>
+</sls>
+<sls content="銀シャリ_コンビ_視聴率" poss="0.075">
+<example>銀シャリ 視聴率 視聴率</example>
+<example>銀シャリ 視聴率 鉄板</example>
+<example>銀シャリ 視聴率</example>
+</sls>
+</fls>
+<fls content="銀シャリ_ゲコ亭" poss="0.333333333">
+<sls content="銀シャリ_ゲコ亭_銀シャリゲコ亭 " poss="0.15">
+<example>銀シャリ ゲコ亭</example>
+<example>銀シャリ屋ゲコ亭</example>
+<example>銀シャリ ゲコ亭 シャリ屋</example>
+<example>銀シャリ ゲコ亭 シャリ屋げ</example>
+<example>銀シャリ ゲコ亭 ゃりやげ</example>
+<example>銀シャリ ゲコ亭 ゲコ亭</example>
+<example>銀シャリ屋げこ亭紹介</example>
+<example>銀シャリ屋げこ亭</example>
+<example>銀シャリ屋ゲコ亭紹介</example>
+<example>銀シャリ ゲコ亭 ぎん</example>
+</sls>
+<sls content="銀シャリ_ゲコ亭_本舗" poss="0.075">
+<example>銀シャリ 本舗 本舗</example>
+<example>銀シャリ 本舗</example>
+</sls>
+<sls content="銀シャリ_ゲコ亭_" poss="0.025">
+<example>銀シャリ ゲコ亭 食堂</example>
+</sls>
+<sls content="銀シャリ_ゲコ亭_定食" poss="0.025">
+<example>銀シャリ ゲコ亭 定食</example>
+<example>銀シャリ ゲコ亭 てい</example>
+</sls>
+</fls>
+<fls content="銀シャリ_サトウ" poss="0.333333333">
+<sls content="銀シャリ_サトウ_パック" poss="0.15">
+<example>銀シャリ サトウ サトウ</example>
+<example>銀シャリ サトウ パック</example>
+<example>銀シャリ サトウ</example>
+</sls>
+</fls>
+</topic>
+<topic content="嵐" id="0116">
+<fls content="嵐_シングル" poss="0.25">
+<sls content="嵐_シングル_歌詞" poss="0.063829787">
+<example>嵐歌詞</example>
+</sls>
+<sls content="嵐_シングル_曲" poss="0.063829787">
+<example>嵐音楽</example>
+<example>嵐の曲</example>
+<example>嵐ワンラブ</example>
+</sls>
+<sls content="嵐_シングル_着うた" poss="0.063829787">
+<example>嵐着うた</example>
+</sls>
+<sls content="嵐_シングル_新曲" poss="0.063829787">
+<example>嵐新曲</example>
+<example>嵐のニューシングル</example>
+<example>嵐ニューシングル</example>
+</sls>
+</fls>
+<fls content="嵐_ジャニーズネット" poss="0.166666667">
+<sls content="嵐_ジャニーズネット_ジャニーズネット嵐" poss="0.063829787">
+<example>ジャニーズネット嵐</example>
+</sls>
+</fls>
+<fls content="嵐_コンサート" poss="0.25">
+<sls content="嵐_コンサート_画像" poss="0.063829787">
+<example>嵐 コンサート 画像</example>
+</sls>
+<sls content="嵐_コンサート_チケット" poss="0.063829787">
+<example>嵐チケット</example>
+<example>嵐 コンサート チケット</example>
+<example>嵐のコンサートチケット</example>
+</sls>
+<sls content="嵐_コンサート_情報" poss="0.063829787">
+<example>嵐コンサート</example>
+<example>嵐 コンサート コンサート</example>
+<example>嵐 コンサート</example>
+</sls>
+<sls content="嵐_コンサート_ファンクラブ" poss="0.042553191">
+<example>嵐ファンクラブ</example>
+</sls>
+<sls content="嵐_コンサート_予約" poss="0.021276596">
+<example>嵐 コンサート 予約</example>
+</sls>
+<sls content="嵐_コンサート_動画" poss="0.021276596">
+<example>嵐 コンサート 動画</example>
+</sls>
+</fls>
+<fls content="嵐_年譜" poss="0.083333333">
+<sls content="嵐_年譜_紹介" poss="0.021276596">
+<example>嵐年譜</example>
+<example>嵐年譜紹介</example>
+</sls>
+</fls>
+<fls content="嵐_pv" poss="0.25">
+<sls content="嵐_pv_映像作品" poss="0.063829787">
+<example>嵐映像作品</example>
+<example>嵐pv視聴</example>
+</sls>
+<sls content="嵐_pv_テレビ" poss="0.063829787">
+<example>嵐テレビ</example>
+<example>嵐mステ</example>
+</sls>
+<sls content="嵐_pv_嵐にしやがれ" poss="0.042553191">
+<example>嵐にしやがれ</example>
+</sls>
+<sls content="嵐_pv_cm" poss="0.042553191">
+<example>嵐cm</example>
+</sls>
+<sls content="嵐_pv_真夜中の嵐" poss="0.042553191">
+<example>真夜中の嵐</example>
+</sls>
+<sls content="嵐_pv_嵐の宿題くん" poss="0.042553191">
+<example>嵐の宿題</example>
+<example>次回予告嵐の宿題くん</example>
+<example>嵐の宿題くん動画</example>
+<example>嵐の宿題くん</example>
+</sls>
+<sls content="嵐_pv_紅白" poss="0.042553191">
+<example>嵐紅白</example>
+</sls>
+</fls>
+</topic>
+<topic content="フランクフルト" id="0117">
+<fls content="フランクフルト_モーターショー" poss="0.2">
+<sls content="フランクフルト_モーターショー_次期" poss="0.068181818">
+<example>フランクフルト フランクフルトモーターショー 次期</example>
+</sls>
+<sls content="フランクフルト_モーターショー_情報" poss="0.068181818">
+<example>フランクフルト フランクフルトモーターショー</example>
+<example>フランクフルトモーターショー</example>
+<example>フランクフルト フランクフルトモーターショー フランクフルトモーターショー</example>
+<example>回フランクフルトモーターショー</example>
+<example>フランクフルト フランクフルトモーターショー ショー</example>
+</sls>
+<sls content="フランクフルト_モーターショー_スズキ" poss="0.045454545">
+<example>フランクフルト フランクフルトモーターショー スズキ</example>
+</sls>
+</fls>
+<fls content="フランクフルト_日本人学校" poss="0.2">
+<sls content="フランクフルト_日本人学校_情報" poss="0.068181818">
+<example>フランクフルト日本人学校</example>
+</sls>
+<sls content="フランクフルト_日本人学校_日本人" poss="0.045454545">
+<example>フランクフルト日本人</example>
+</sls>
+</fls>
+<fls content="フランクフルト_ソーセージ" poss="0.2">
+<sls content="フランクフルト_ソーセージ_情報" poss="0.409090909">
+<example>フランクフルトソーセージ</example>
+</sls>
+<sls content="フランクフルト_ソーセージ_カロリー" poss="0.068181818">
+<example>フランクフルト カロリー カロリー</example>
+<example>フランクフルト カロリー</example>
+</sls>
+<sls content="フランクフルト_ソーセージ_業務用" poss="0.045454545">
+<example>フランクフルト業務用</example>
+</sls>
+</fls>
+<fls content="フランクフルト_ストライキ" poss="0.2">
+<sls content="フランクフルト_ストライキ_デモ" poss="0.068181818">
+<example>フランクフルトデモ</example>
+<example>フランクフルトストライキ</example>
+</sls>
+</fls>
+<fls content="フランクフルト_アイントラハト" poss="0.2">
+<sls content="フランクフルト_アイントラハト_紹介" poss="0.068181818">
+<example>フランクフルト ハト アイントラ</example>
+<example>アイントラハトフランクフルト</example>
+<example>アイントラハトフランクフルト紹介</example>
+</sls>
+<sls content="フランクフルト_アイントラハト_サッカー" poss="0.045454545">
+<example>フランクフルトサッカー</example>
+</sls>
+</fls>
+</topic>
+<topic content="東方神起" id="0118">
+<fls content="東方神起_cd" poss="0.181818182">
+<sls content="東方神起_cd_初回限定版" poss="0.078947368">
+<example>東方神起bolero初回限定版</example>
+</sls>
+</fls>
+<fls content="東方神起_投票" poss="0.090909091">
+<sls content="東方神起_投票_Web" poss="0.078947368">
+<example>東方神起 投票 WEB</example>
+<example>東方神起 投票 投票</example>
+<example>東方神起 投票</example>
+</sls>
+</fls>
+<fls content="東方神起_作品" poss="0.181818182">
+<sls content="東方神起_作品_呪文" poss="0.078947368">
+<example>東方神起呪文歌詞紹介</example>
+<example>東方神起呪文歌詞</example>
+</sls>
+<sls content="東方神起_作品_一覧" poss="0.078947368">
+<example>東方神起作品リスト</example>
+<example>東方神起うた</example>
+</sls>
+<sls content="東方神起_作品_着うた" poss="0.078947368">
+<example>東方神起着うた</example>
+</sls>
+<sls content="東方神起_作品_ニューシングル" poss="0.078947368">
+<example>東方神起ニューシングル</example>
+</sls>
+<sls content="東方神起_作品_商品" poss="0.026315789">
+<example>東方神起の商品</example>
+</sls>
+<sls content="東方神起_作品_歌詞" poss="0.026315789">
+<example>東方神起の歌詞</example>
+</sls>
+</fls>
+<fls content="東方神起_KpopStarz" poss="0.272727273">
+<sls content="東方神起_KpopStarz_ニュース" poss="0.052631579">
+<example>東方神起ニュース</example>
+</sls>
+<sls content="東方神起_KpopStarz_最新情報" poss="0.052631579">
+<example>東方神起最新情報</example>
+</sls>
+<sls content="東方神起_KpopStarz_KpopStarz Artist" poss="0.026315789">
+<example>東方神起 KpopStarz</example>
+<example>東方神起 KpopStarz KpopStarz</example>
+<example>東方神起 KpopStarz Artist</example>
+</sls>
+</fls>
+<fls content="東方神起_イベント" poss="0.272727273">
+<sls content="東方神起_イベント_ライブビューイング" poss="0.052631579">
+<example>東方神起 レポ ライブビューイング</example>
+</sls>
+<sls content="東方神起_イベント_チケット" poss="0.078947368">
+<example>東方神起 チケット</example>
+<example>東方神起 チケット しんき</example>
+<example>東方神起チケット</example>
+<example>東方神起 チケット チケット</example>
+</sls>
+<sls content="東方神起_イベント_スケジュール" poss="0.078947368">
+<example>東方神起スケジュール</example>
+</sls>
+<sls content="東方神起_イベント_レポ" poss="0.078947368">
+<example>東方神起 レポ レポ</example>
+<example>東方神起 レポ</example>
+</sls>
+<sls content="東方神起_イベント_ファンクラブ" poss="0.026315789">
+<example>東方神起オフィシャルファンクラブ</example>
+<example>東方神起ファンクラブイベント</example>
+</sls>
+</fls>
+</topic>
+<topic content="円形脱毛症" id="0119">
+<fls content="円形脱毛症_治療" poss="0.230769231">
+<sls content="円形脱毛症_治療_皮膚科" poss="0.036585366">
+<example>円形脱毛症 治療 皮膚科</example>
+</sls>
+<sls content="円形脱毛症_治療_子供" poss="0.036585366">
+<example>円形脱毛症 治療 子供</example>
+</sls>
+<sls content="円形脱毛症_治療_病院" poss="0.036585366">
+<example>円形脱毛症の病院</example>
+<example>円形脱毛症病院</example>
+</sls>
+<sls content="円形脱毛症_治療_治療薬" poss="0.036585366">
+<example>円形脱毛症薬</example>
+<example>円形脱毛症の薬</example>
+<example>円形脱毛症の治療薬</example>
+</sls>
+<sls content="円形脱毛症_治療_治療方法" poss="0.036585366">
+<example>円形脱毛症 治療</example>
+<example>円形脱毛症の治療</example>
+<example>円形脱毛症の治療方法</example>
+<example>円形脱毛症 治療 治す</example>
+<example>円形脱毛症治療</example>
+<example>円形脱毛症の治療法</example>
+<example>円形脱毛症 治療 脱毛症</example>
+<example>円形脱毛症 治療 治療法</example>
+<example>円形脱毛症 治療 治療</example>
+</sls>
+</fls>
+<fls content="円形脱毛症_原因" poss="0.230769231">
+<sls content="円形脱毛症_原因_兆候" poss="0.036585366">
+<example>円形脱毛症の兆候</example>
+</sls>
+<sls content="円形脱毛症_原因_ストレス" poss="0.073170732">
+<example>円形脱毛症の原因ストレス</example>
+<example>円形脱毛症とストレス</example>
+<example>円形脱毛症とストレス紹介</example>
+</sls>
+<sls content="円形脱毛症_原因_病院" poss="0.036585366">
+<example>円形脱毛症 原因 皮膚科</example>
+<example>円形脱毛症 原因 病院</example>
+</sls>
+<sls content="円形脱毛症_原因_情報" poss="0.036585366">
+<example>円形脱毛症 原因</example>
+<example>円形脱毛症 原因 原因</example>
+<example>円形脱毛症の原因</example>
+</sls>
+</fls>
+<fls content="円形脱毛症_症例" poss="0.230769231">
+<sls content="円形脱毛症_症例_種類" poss="0.036585366">
+<example>円形脱毛症の種類</example>
+</sls>
+<sls content="円形脱毛症_症例_画像" poss="0.036585366">
+<example>円形脱毛症画像</example>
+</sls>
+<sls content="円形脱毛症_症例_写真" poss="0.036585366">
+<example>円形脱毛症写真</example>
+</sls>
+<sls content="円形脱毛症_症例_紹介" poss="0.036585366">
+<example>円形脱毛症症例紹介</example>
+<example>円形脱毛症症例</example>
+</sls>
+<sls content="円形脱毛症_症例_症状" poss="0.012195122">
+<example>円形脱毛症の症状</example>
+</sls>
+<sls content="円形脱毛症_症例_多発型円形脱毛症" poss="0.012195122">
+<example>多発型円形脱毛症</example>
+<example>多発性円形脱毛症</example>
+<example>多発性円形脱毛症の症状</example>
+</sls>
+<sls content="円形脱毛症_症例_患者" poss="0.012195122">
+<example>円形脱毛症患者</example>
+</sls>
+</fls>
+<fls content="円形脱毛症_女性" poss="0.153846154">
+<sls content="円形脱毛症_女性_情報" poss="0.036585366">
+<example>円形脱毛症 女性</example>
+<example>女性の円形脱毛症</example>
+<example>円形脱毛症 女性 女性</example>
+</sls>
+<sls content="円形脱毛症_女性_知識" poss="0.036585366">
+<example>円形脱毛症 女性 知識</example>
+</sls>
+<sls content="円形脱毛症_女性_ストレス" poss="0.036585366">
+<example>円形脱毛症 女性 ストレス</example>
+</sls>
+<sls content="円形脱毛症_女性_原因" poss="0.036585366">
+<example>円形脱毛症原因女性</example>
+</sls>
+<sls content="円形脱毛症_女性_基礎" poss="0.012195122">
+<example>円形脱毛症 女性 基礎</example>
+</sls>
+</fls>
+<fls content="円形脱毛症_隠す" poss="0.153846154">
+<sls content="円形脱毛症_隠す_カツラ" poss="0.073170732">
+<example>円形脱毛症隠す</example>
+<example>円形脱毛症 かつら</example>
+<example>円形脱毛症 かつら カツラ</example>
+<example>円形脱毛症 かつら かつら</example>
+</sls>
+<sls content="円形脱毛症_隠す_ネット" poss="0.036585366">
+<example>円形脱毛症 かつら ネット</example>
+</sls>
+<sls content="円形脱毛症_隠す_理容店" poss="0.036585366">
+<example>円形脱毛症 かつら 理容店</example>
+</sls>
+<sls content="円形脱毛症_隠す_専門店" poss="0.036585366">
+<example>円形脱毛症 かつら 専門店</example>
+</sls>
+</fls>
+</topic>
+<topic content="柿の葉すし" id="0120">
+<fls content="柿の葉すし_冷凍" poss="0.2">
+<sls content="柿の葉すし_冷凍_通販" poss="0.051724138">
+<example>柿の葉すし すし 通販</example>
+</sls>
+<sls content="柿の葉すし_冷凍_セット" poss="0.051724138">
+<example>柿の葉すしセット</example>
+</sls>
+<sls content="柿の葉すし_冷凍_紀の川" poss="0.034482759">
+<example>紀の川名産品柿の葉すしギフト</example>
+</sls>
+<sls content="柿の葉すし_冷凍_安全" poss="0.034482759">
+<example>柿の葉すし 冷凍 安全</example>
+</sls>
+<sls content="柿の葉すし_冷凍_情報" poss="0.017241379">
+<example>柿の葉すし 冷凍</example>
+<example>柿の葉すし 冷凍 冷凍</example>
+</sls>
+</fls>
+<fls content="柿の葉すし_店" poss="0.2">
+<sls content="柿の葉すし_店_ランキング" poss="0.051724138">
+<example>吉野地方の柿の葉すし</example>
+<example>柿の葉すし柿の葉寿司ランキング</example>
+</sls>
+<sls content="柿の葉すし_店_田中" poss="0.051724138">
+<example>柿の葉すし田中柿の葉寿司</example>
+<example>柿の葉すし柿の葉寿司たなか</example>
+<example>たなかの柿の葉すし紹介</example>
+<example>柿の葉すし田中の柿の葉寿司</example>
+<example>たなかの柿の葉すし</example>
+</sls>
+<sls content="柿の葉すし_店_ヤマト" poss="0.034482759">
+<example>柿の葉すしヤマト</example>
+<example>大和特産の柿の葉すし</example>
+<example>柿の葉すしヤマト紹介</example>
+<example>柿の葉すし柿の葉寿司ヤマト</example>
+</sls>
+<sls content="柿の葉すし_店_平宗" poss="0.034482759">
+<example>柿の葉すし柿の葉寿司平宗</example>
+<example>柿の葉すし平宗柿の葉寿司</example>
+<example>老舗柿の葉すし平宗</example>
+<example>柿の葉すし柿の葉寿司平宗紹介</example>
+</sls>
+</fls>
+<fls content="柿の葉すし_奈良" poss="0.3">
+<sls content="柿の葉すし_奈良_本舗" poss="0.068965517">
+<example>柿の葉すし 奈良 本舗</example>
+<example>奈良柿の葉すし本舗</example>
+</sls>
+<sls content="柿の葉すし_奈良_ガイド" poss="0.034482759">
+<example>柿の葉すし 奈良 ガイド</example>
+</sls>
+<sls content="柿の葉すし_奈良_ご当地" poss="0.034482759">
+<example>柿の葉すし 奈良県 ご当地</example>
+</sls>
+<sls content="柿の葉すし_奈良_名物" poss="0.034482759">
+<example>柿の葉すし 奈良県 名物</example>
+</sls>
+<sls content="柿の葉すし_奈良_おすすめ" poss="0.034482759">
+<example>柿の葉すし奈良柿の葉寿司おすすめ</example>
+</sls>
+<sls content="柿の葉すし_奈良_情報" poss="0.034482759">
+<example>柿の葉すし 奈良</example>
+<example>柿の葉すし 奈良県</example>
+<example>柿の葉すし 奈良 葉ずし</example>
+<example>柿の葉すし 奈良県 奈良県</example>
+<example>柿の葉すし 奈良 すし</example>
+<example>柿の葉すし 寿司 奈良</example>
+<example>奈良の柿の葉すし</example>
+<example>柿の葉すし 奈良 奈良</example>
+<example>柿の葉すし奈良柿の葉寿司</example>
+</sls>
+</fls>
+<fls content="柿の葉すし_さば" poss="0.3">
+<sls content="柿の葉すし_さば_紹介" poss="0.051724138">
+<example>柿の葉すしさけさば</example>
+<example>柿の葉すしさば紹介</example>
+<example>柿の葉すし鯖</example>
+<example>サバの柿の葉すし</example>
+<example>鯖寿司も柿の葉すし</example>
+<example>柿の葉すしさば</example>
+</sls>
+<sls content="柿の葉すし_さば_手作り" poss="0.034482759">
+<example>手作り柿の葉すし</example>
+</sls>
+<sls content="柿の葉すし_さば_作り方" poss="0.034482759">
+<example>柿の葉すし柿の葉寿司レシピ</example>
+<example>柿の葉すし柿の葉寿司作り方</example>
+<example>柿の葉すし作り方</example>
+<example>柿の葉すし すし レシピ</example>
+</sls>
+<sls content="柿の葉すし_さば_鮭" poss="0.017241379">
+<example>柿の葉すし鮭</example>
+</sls>
+<sls content="柿の葉すし_さば_食べ方" poss="0.017241379">
+<example>柿の葉すし柿の葉寿司食べ方</example>
+</sls>
+</fls>
+</topic>
+<topic content="シャネル" id="0121">
+<fls content="シャネル_商品" poss="0.2">
+<sls content="シャネル_商品_洋服" poss="0.036363636">
+<example>シャネル CHANEL 洋服</example>
+</sls>
+<sls content="シャネル_商品_リング" poss="0.036363636">
+<example>シャネル新作リング</example>
+<example>シャネル新作リング紹介</example>
+</sls>
+<sls content="シャネル_商品_アクセサリー" poss="0.036363636">
+<example>シャネルアクセサリー小物</example>
+<example>シャネルアクセサリー</example>
+<example>シャネルリップ</example>
+</sls>
+<sls content="シャネル_商品_ショルダーバッグ" poss="0.036363636">
+<example>シャネルチェーンショルダーバッグ</example>
+<example>シャネルスポーツラインショルダーバッグ</example>
+</sls>
+<sls content="シャネル_商品_香水" poss="0.036363636">
+<example>シャネル香水</example>
+<example>シャネル香水エゴイスト</example>
+</sls>
+<sls content="シャネル_商品_バッグ" poss="0.036363636">
+<example>シャネル CHANEL バッグ</example>
+<example>シャネルバッグ</example>
+<example>シャネルデニムバッグ</example>
+<example>シャネルデニム</example>
+</sls>
+</fls>
+<fls content="シャネル_レストラン" poss="0.2">
+<sls content="シャネル_レストラン_紹介" poss="0.054545455">
+<example>シャネルレストラン</example>
+<example>シャネルレストラン紹介</example>
+</sls>
+</fls>
+<fls content="シャネル_買取" poss="0.3">
+<sls content="シャネル_買取_専門" poss="0.054545455">
+<example>シャネル 買取 専門店</example>
+<example>シャネル 買取 専門</example>
+<example>シャネル 買取</example>
+</sls>
+<sls content="シャネル_買取_質屋" poss="0.054545455">
+<example>シャネル 買取 質屋</example>
+</sls>
+<sls content="シャネル_買取_高価買取" poss="0.072727273">
+<example>シャネル 買取 買取</example>
+<example>シャネル CHANEL 買取</example>
+<example>シャネル 買取 高価</example>
+</sls>
+</fls>
+<fls content="シャネル_ココ・シャネル" poss="0.3">
+<sls content="シャネル_ココ・シャネル_映画" poss="0.054545455">
+<example>シャネル ココ・シャネル 映画</example>
+</sls>
+<sls content="シャネル_ココ・シャネル_デザイナー" poss="0.054545455">
+<example>シャネルのデザイナー</example>
+</sls>
+<sls content="シャネル_ココ・シャネル_名言" poss="0.036363636">
+<example>シャネル ココ・シャネル 名言</example>
+</sls>
+<sls content="シャネル_ココ・シャネル_紹介" poss="0.036363636">
+<example>シャネル ココ・シャネル</example>
+<example>シャネル ココ・シャネル ココ・シャネル</example>
+</sls>
+<sls content="シャネル_ココ・シャネル_マーク" poss="0.018181818">
+<example>シャネルマーク</example>
+</sls>
+<sls content="シャネル_ココ・シャネル_コピー" poss="0.018181818">
+<example>シャネル ココ・シャネル コピー</example>
+</sls>
+</fls>
+</topic>
+<topic content="女子バレー" id="0122">
+<fls content="女子バレー_学校" poss="0.083333333">
+<sls content="女子バレー_学校_インカレ" poss="0.041666667">
+<example>女子バレー全日本インカレ</example>
+<example>女子バレー全日本インカレ紹介</example>
+</sls>
+<sls content="女子バレー_学校_紹介" poss="0.027777778">
+<example>女子バレー 学校 学校</example>
+<example>女子バレー 学校 バレー部</example>
+<example>女子バレー 学校 Yahoo</example>
+</sls>
+<sls content="女子バレー_学校_バレー部" poss="0.027777778">
+<example>女子バレー バレー バレー部</example>
+</sls>
+<sls content="女子バレー_学校_高校" poss="0.027777778">
+<example>女子バレー 学校</example>
+<example>女子バレー 学校 高等</example>
+<example>高校女子バレー部</example>
+</sls>
+<sls content="女子バレー_学校_女子バレー部" poss="0.013888889">
+<example>女子バレー部</example>
+</sls>
+<sls content="女子バレー_学校_教える" poss="0.013888889">
+<example>女子バレー 学校 教える</example>
+</sls>
+</fls>
+<fls content="女子バレー_選手名" poss="0.25">
+<sls content="女子バレー_選手名_栗原恵" poss="0.041666667">
+<example>女子バレー栗原恵</example>
+</sls>
+<sls content="女子バレー_選手名_宮下遥" poss="0.041666667">
+<example>女子バレー宮下</example>
+<example>女子バレー宮下紹介</example>
+<example>女子バレー 木村沙織 宮下遥</example>
+</sls>
+<sls content="女子バレー_選手名_木村沙織" poss="0.027777778">
+<example>女子バレー 木村沙織</example>
+<example>女子バレー 木村沙織 nanapi</example>
+<example>女子バレー 木村沙織 木村沙織</example>
+</sls>
+<sls content="女子バレー_選手名_後継者" poss="0.027777778">
+<example>女子バレー 木村沙織 後継者</example>
+</sls>
+<sls content="女子バレー_選手名_高橋" poss="0.027777778">
+<example>高橋女子バレー</example>
+</sls>
+</fls>
+<fls content="女子バレー_選手" poss="0.25">
+<sls content="女子バレー_選手_情報" poss="0.041666667">
+<example>女子バレー 選手</example>
+<example>女子バレー 選手 Yahoo</example>
+<example>女子バレー選手</example>
+<example>女子バレー 選手 選手</example>
+<example>女子バレー 選手 日本</example>
+</sls>
+<sls content="女子バレー_選手_チーム" poss="0.041666667">
+<example>女子バレー 選手 チーム</example>
+</sls>
+<sls content="女子バレー_選手_メダル" poss="0.027777778">
+<example>女子バレー 選手 メダル</example>
+</sls>
+<sls content="女子バレー_選手_動画" poss="0.027777778">
+<example>女子バレー 選手 動画</example>
+</sls>
+<sls content="女子バレー_選手_セッター" poss="0.013888889">
+<example>女子バレーセッター</example>
+</sls>
+<sls content="女子バレー_選手_サイン" poss="0.013888889">
+<example>女子バレー 選手 直筆</example>
+</sls>
+</fls>
+<fls content="女子バレー_試合" poss="0.25">
+<sls content="女子バレー_試合_北京五輪" poss="0.041666667">
+<example>北京五輪女子バレー</example>
+</sls>
+<sls content="女子バレー_試合_最終予選" poss="0.041666667">
+<example>女子バレー世界最終予選</example>
+<example>女子バレー五輪最終予選</example>
+</sls>
+<sls content="女子バレー_試合_五輪" poss="0.041666667">
+<example>女子バレー バレー 五輪</example>
+</sls>
+<sls content="女子バレー_試合_全日本" poss="0.041666667">
+<example>女子バレー速報</example>
+<example>女子バレー 全日本</example>
+<example>全日本バレーボール女子バレー</example>
+<example>バレーボール全日本女子バレー</example>
+<example>女子バレー 全日本 全日本</example>
+<example>女子バレー バレー 日本</example>
+<example>女子バレー日本女子</example>
+<example>女子バレー 全日本 バレーボール</example>
+<example>全日本女子バレーチーム</example>
+<example>女子バレー 全日本 日本</example>
+<example>女子バレー バレー 全日本</example>
+<example>女子バレー日本代表関連最新情報</example>
+<example>年全日本女子バレー</example>
+<example>女子バレー 全日本 チーム</example>
+<example>全日本女子バレー</example>
+</sls>
+<sls content="女子バレー_試合_代表" poss="0.041666667">
+<example>全日本女子バレー選手</example>
+<example>女子バレー バレー 代表</example>
+</sls>
+</fls>
+<fls content="女子バレー_vリーグ" poss="0.166666667">
+<sls content="女子バレー_vリーグ_紹介" poss="0.041666667">
+<example>女子バレーvリーグ紹介</example>
+<example>女子バレーvリーグ</example>
+</sls>
+<sls content="女子バレー_vリーグ_大会" poss="0.041666667">
+<example>女子バレー大会</example>
+</sls>
+<sls content="女子バレー_vリーグ_秋季リーグ" poss="0.027777778">
+<example>女子バレー秋季リーグ</example>
+</sls>
+<sls content="女子バレー_vリーグ_プレミアリーグ" poss="0.013888889">
+<example>女子バレーvプレミアリーグ応援日誌</example>
+</sls>
+</fls>
+</topic>
+<topic content="TPP" id="0123">
+<fls content="TPP_政策" poss="0.181818182">
+<sls content="TPP_政策_増税" poss="0.06">
+<example>TPP 関連 増税</example>
+</sls>
+<sls content="TPP_政策_競争" poss="0.06">
+<example>tpp競争政策</example>
+<example>tpp競争</example>
+</sls>
+<sls content="TPP_政策_知的財産" poss="0.04">
+<example>tpp知的財産</example>
+</sls>
+<sls content="TPP_政策_制度整備" poss="0.04">
+<example>tpp関連する制度的基盤の整備</example>
+</sls>
+<sls content="TPP_政策_政治" poss="0.02">
+<example>tpp政策</example>
+<example>tpp政治</example>
+</sls>
+</fls>
+<fls content="TPP_国" poss="0.181818182">
+<sls content="TPP_国_参加国" poss="0.06">
+<example>tpp参加国紹介</example>
+<example>tpp参加国</example>
+</sls>
+<sls content="TPP_国_オーストラリア" poss="0.04">
+<example>tppオーストラリア紹介</example>
+<example>tppオーストラリア</example>
+</sls>
+<sls content="TPP_国_アメリカ" poss="0.04">
+<example>tpp米国</example>
+<example>tppアメリカ</example>
+</sls>
+<sls content="TPP_国_チリ" poss="0.04">
+<example>tppチリ紹介</example>
+<example>tppチリ</example>
+</sls>
+<sls content="TPP_国_シンガポール" poss="0.02">
+<example>tppシンガポール</example>
+</sls>
+<sls content="TPP_国_マレーシア" poss="0.02">
+<example>tppマレーシア</example>
+</sls>
+<sls content="TPP_国_ニュージーランド" poss="0.02">
+<example>tppニュージーランド</example>
+</sls>
+<sls content="TPP_国_カナダ" poss="0.02">
+<example>tppカナダ</example>
+</sls>
+</fls>
+<fls content="TPP_交渉" poss="0.181818182">
+<sls content="TPP_交渉_議論" poss="0.06">
+<example>tpp議論</example>
+</sls>
+<sls content="TPP_交渉_紹介" poss="0.06">
+<example>tpp交渉</example>
+<example>tpp交渉紹介</example>
+<example>tpp交渉年内</example>
+</sls>
+<sls content="TPP_交渉_会談" poss="0.06">
+<example>TPP 関連 会談</example>
+</sls>
+<sls content="TPP_交渉_現在" poss="0.02">
+<example>tpp現在</example>
+</sls>
+</fls>
+<fls content="TPP_メリット" poss="0.272727273">
+<sls content="TPP_メリット_日本" poss="0.06">
+<example>TPP 日本 メリット</example>
+</sls>
+<sls content="TPP_メリット_デメリット" poss="0.12">
+<example>tppメリットデメリット</example>
+<example>tpp問題点</example>
+</sls>
+<sls content="TPP_メリット_メリット" poss="0.04">
+<example>tppメリット</example>
+<example>tpp現状tppメリット</example>
+<example>tppメリット紹介</example>
+</sls>
+</fls>
+<fls content="TPP_外交" poss="0.181818182">
+<sls content="TPP_外交_TPP外交" poss="0.06">
+<example>tpp外交</example>
+</sls>
+</fls>
+</topic>
+<topic content="ドラえもん" id="0124">
+<fls content="ドラえもん_野比のび太" poss="0.166666667">
+<sls content="ドラえもん_野比のび太_紹介" poss="0.086956522">
+<example>ドラえもん野比のび太紹介</example>
+<example>ドラえもん野比のび太</example>
+<example>ドラえもんのび太</example>
+</sls>
+</fls>
+<fls content="ドラえもん_ミュージアム" poss="0.25">
+<sls content="ドラえもん_ミュージアム_" poss="0.086956522">
+<example>ドラえもんミュージアム</example>
+<example>ドラえもんミュージアム紹介</example>
+</sls>
+</fls>
+<fls content="ドラえもん_動画" poss="0.166666667">
+<sls content="ドラえもん_動画_アニメ" poss="0.043478261">
+<example>ドラえもんアニメ</example>
+</sls>
+<sls content="ドラえもん_動画_情報" poss="0.043478261">
+<example>ドラえもん 動画</example>
+<example>ドラえもん動画</example>
+<example>ドラえもん 動画 動画</example>
+</sls>
+<sls content="ドラえもん_動画_誕生" poss="0.028985507">
+<example>ドラえもん 動画 誕生</example>
+</sls>
+<sls content="ドラえもん_動画_最新" poss="0.014492754">
+<example>ドラえもん 動画 New</example>
+</sls>
+</fls>
+<fls content="ドラえもん_ゲーム" poss="0.166666667">
+<sls content="ドラえもん_ゲーム_購入" poss="0.043478261">
+<example>ドラえもん ゲーム 購入</example>
+</sls>
+<sls content="ドラえもん_ゲーム_情報" poss="0.043478261">
+<example>ドラえもんゲーム情報</example>
+<example>ドラえもん ゲーム</example>
+</sls>
+<sls content="ドラえもん_ゲーム_DS" poss="0.043478261">
+<example>ドラえもん DS</example>
+<example>ドラえもん DS ドラえもん系</example>
+<example>ドラえもん DS DS</example>
+</sls>
+<sls content="ドラえもん_ゲーム_無料" poss="0.043478261">
+<example>ドラえもん ゲーム 無料</example>
+</sls>
+<sls content="ドラえもん_ゲーム_ガイド" poss="0.028985507">
+<example>ドラえもんゲームガイド</example>
+</sls>
+<sls content="ドラえもん_ゲーム_ドラえもんチャンネル" poss="0.028985507">
+<example>ドラえもんチャンネル</example>
+</sls>
+<sls content="ドラえもん_ゲーム_ドラえもんゲーム" poss="0.028985507">
+<example>ドラえもんゲーム</example>
+<example>ドラえもん ゲーム ゲーム</example>
+</sls>
+<sls content="ドラえもん_ゲーム_ドラえもんのび太のバイオハザード" poss="0.028985507">
+<example>ドラえもんのび太のバイオハザード</example>
+</sls>
+</fls>
+<fls content="ドラえもん_映画" poss="0.25">
+<sls content="ドラえもん_映画_情報" poss="0.072463768">
+<example>ドラえもん 映画</example>
+<example>ドラえもん映画のび太</example>
+<example>映画ドラえもんのび太</example>
+<example>ドラえもん 映画 のび太</example>
+<example>ドラえもん映画</example>
+<example>ドラえもん 映画 映画</example>
+</sls>
+<sls content="ドラえもん_映画_感想" poss="0.043478261">
+<example>ドラえもん 映画 感想</example>
+</sls>
+<sls content="ドラえもん_映画_奇跡" poss="0.028985507">
+<example>ドラえもん 映画 奇跡</example>
+</sls>
+<sls content="ドラえもん_映画_25周年" poss="0.028985507">
+<example>映画ドラえもん25周年</example>
+</sls>
+<sls content="ドラえもん_映画_紹介" poss="0.028985507">
+<example>ドラえもん映画動画</example>
+<example>ドラえもん映画動画紹介</example>
+</sls>
+<sls content="ドラえもん_映画_主題歌" poss="0.028985507">
+<example>ドラえもん映画主題歌</example>
+<example>ドラえもん映画主題歌篇</example>
+<example>映画ドラえもん主題歌</example>
+</sls>
+</fls>
+</topic>
+<topic content="ビートルズ" id="0125">
+<fls content="ビートルズ_曲" poss="0.181818182">
+<sls content="ビートルズ_曲_ディスコグラフィー" poss="0.049180328">
+<example>ビートルズの楽曲</example>
+<example>ビートルズの曲</example>
+<example>ビートルズディスコグラフィー</example>
+<example>ビートルズ名曲</example>
+<example>ビートルズオリジナルディスコグラフィー</example>
+<example>ビートルズソウル</example>
+<example>ラヴビートルズ</example>
+</sls>
+<sls content="ビートルズ_曲_アビイロード" poss="0.032786885">
+<example>ビートルズアビイロード</example>
+</sls>
+<sls content="ビートルズ_曲_ザ・ビートルズ" poss="0.032786885">
+<example>ビートルズ ザ・ビートルズ アルバム</example>
+<example>ビートルズ ザ・ビートルズ CD</example>
+</sls>
+<sls content="ビートルズ_曲_フォーセール" poss="0.032786885">
+<example>ビートルズフォーセール</example>
+</sls>
+<sls content="ビートルズ_曲_プリーズプリーズミー" poss="0.032786885">
+<example>ビートルズプリーズプリーズミー</example>
+<example>ビートルズプリーズプリーズ</example>
+<example>ビートルズプリーズプリーズミー紹介</example>
+</sls>
+<sls content="ビートルズ_曲_レットイットビー" poss="0.032786885">
+<example>ビートルズレットイットビー</example>
+<example>ビートルズレットイット</example>
+</sls>
+<sls content="ビートルズ_曲_歌詞" poss="0.032786885">
+<example>ビートルズ歌詞動画試聴</example>
+</sls>
+<sls content="ビートルズ_曲_サージェント・ペパーズ・ロンリー・ハーツ・クラブ・バンド" poss="0.032786885">
+<example>ビートルズサージェントペパーズロンリーハーツクラブバンド</example>
+</sls>
+</fls>
+<fls content="ビートルズ_マッカートニー" poss="0.272727273">
+<sls content="ビートルズ_マッカートニー_ポールマッカートニー" poss="0.032786885">
+<example>ビートルズ マッカートニー</example>
+<example>ビートルズ マッカートニー マッカートニー</example>
+</sls>
+<sls content="ビートルズ_マッカートニー_捧ぐ" poss="0.032786885">
+<example>ビートルズ マッカートニー 捧ぐ</example>
+</sls>
+<sls content="ビートルズ_マッカートニー_レイン" poss="0.032786885">
+<example>ビートルズ マッカートニー レイン</example>
+</sls>
+<sls content="ビートルズ_マッカートニー_DrillSpin" poss="0.016393443">
+<example>ビートルズ マッカートニー DrillSpin</example>
+</sls>
+<sls content="ビートルズ_マッカートニー_リンゴ" poss="0.016393443">
+<example>ビートルズ マッカートニー リンゴ</example>
+</sls>
+</fls>
+<fls content="ビートルズ_映像作品" poss="0.090909091">
+<sls content="ビートルズ_映像作品_PV" poss="0.049180328">
+<example>ビートルズのpv動画</example>
+</sls>
+<sls content="ビートルズ_映像作品_Youtube" poss="0.032786885">
+<example>youtubeビートルズ</example>
+</sls>
+<sls content="ビートルズ_映像作品_作品集" poss="0.016393443">
+<example>内容満載のビートルズ映像作品集</example>
+<example>ビートルズ映像作品</example>
+<example>ビートルズ映像作品集</example>
+</sls>
+<sls content="ビートルズ_映像作品_フィルモグラフィー" poss="0.016393443">
+<example>ビートルズフィルモグラフィー</example>
+</sls>
+</fls>
+<fls content="ビートルズ_バンド" poss="0.272727273">
+<sls content="ビートルズ_バンド_情報" poss="0.049180328">
+<example>ビートルズ バンド</example>
+<example>ビートルズ バンド バンド</example>
+<example>ビートルズバンド</example>
+</sls>
+<sls content="ビートルズ_バンド_来歴" poss="0.098360656">
+<example>ビートルズ来歴</example>
+<example>ビートルズデビュー以降の来歴</example>
+<example>ビートルズデビューまでの来歴</example>
+<example>ビートルズ演奏旅行中止以降の来歴</example>
+</sls>
+<sls content="ビートルズ_バンド_メンバーについて" poss="0.032786885">
+<example>ビートルズバンドとメンバーについて</example>
+</sls>
+<sls content="ビートルズ_バンド_誕生" poss="0.032786885">
+<example>ビートルズ誕生</example>
+</sls>
+<sls content="ビートルズ_バンド_解散以降" poss="0.032786885">
+<example>ビートルズ解散以降</example>
+</sls>
+</fls>
+<fls content="ビートルズ_画像" poss="0.181818182">
+<sls content="ビートルズ_画像_紹介" poss="0.049180328">
+<example>ビートルズ画像</example>
+<example>ビートルズ画像紹介</example>
+</sls>
+</fls>
+</topic>
+<topic content="ボーカロイド" id="0126">
+<fls content="ボーカロイド_動画" poss="0.2">
+<sls content="ボーカロイド_動画_情報" poss="0.065217391">
+<example>ボーカロイド 動画</example>
+<example>ボーカロイド 動画 動画</example>
+<example>ボーカロイド 動画 ほか</example>
+<example>動画ボーカロイド</example>
+<example>ボーカロイド 動画 画像</example>
+</sls>
+<sls content="ボーカロイド_動画_ボカロ曲" poss="0.065217391">
+<example>ボーカロイドボカロ曲</example>
+<example>音楽ボーカロイド</example>
+<example>ボーカロイドの歌</example>
+</sls>
+<sls content="ボーカロイド_動画_殿堂入り" poss="0.043478261">
+<example>ボーカロイド殿堂入り</example>
+</sls>
+<sls content="ボーカロイド_動画_Wikipedia" poss="0.043478261">
+<example>ボーカロイド 動画 Wiki</example>
+</sls>
+<sls content="ボーカロイド_動画_人気" poss="0.02173913">
+<example>ボーカロイド人気</example>
+</sls>
+<sls content="ボーカロイド_動画_meets" poss="0.02173913">
+<example>ボーカロイド 動画 meets</example>
+</sls>
+<sls content="ボーカロイド_動画_ボカロとは" poss="0.02173913">
+<example>ボーカロイドボカロとは</example>
+</sls>
+<sls content="ボーカロイド_動画_咲音" poss="0.02173913">
+<example>動画ボーカロイド咲音</example>
+</sls>
+</fls>
+<fls content="ボーカロイド_ガイドブック" poss="0.2">
+<sls content="ボーカロイド_ガイドブック_オフィシャルガイドブック" poss="0.065217391">
+<example>初音ミクボーカロイド2オフィシャルガイドブック</example>
+<example>ボーカロイド2オフィシャルガイドブック</example>
+<example>ボーカロイドガイドブック</example>
+</sls>
+</fls>
+<fls content="ボーカロイド_キャラクター（クリプトン）" poss="0.2">
+<sls content="ボーカロイド_キャラクター（クリプトン）_第３弾" poss="0.065217391">
+<example>ボーカロイド０３発表</example>
+<example>ボーカロイド第3弾</example>
+<example>系ボーカロイド3人目</example>
+<example>初音ミク鏡音リンレンに続くボーカロイド第３弾</example>
+<example>初音ミク鏡音リンレンボーカロイド</example>
+<example>ボーカロイド3人目</example>
+</sls>
+<sls content="ボーカロイド_キャラクター（クリプトン）_初音ミク" poss="0.065217391">
+<example>ボーカロイド ミク</example>
+<example>ボーカロイド ミク 初音</example>
+<example>ボーカロイド初音ミク</example>
+<example>ボーカロイド ミク ミク</example>
+</sls>
+<sls content="ボーカロイド_キャラクター（クリプトン）_鏡音リン鏡音レン" poss="0.065217391">
+<example>ボーカロイド鏡音リン鏡音レン</example>
+<example>ボーカロイド鏡音レン</example>
+<example>ボーカロイド鏡音リン</example>
+<example>ボーカロイド鏡音リン鏡音レン紹介</example>
+</sls>
+<sls content="ボーカロイド_キャラクター（クリプトン）_巡音ルカ" poss="0.065217391">
+<example>ボーカロイド巡音ルカ</example>
+<example>ボーカロイドルカ</example>
+<example>巡音ルカボーカロイドたち</example>
+</sls>
+<sls content="ボーカロイド_キャラクター（クリプトン）_ソフト" poss="0.043478261">
+<example>ボーカロイド ミク ソフト</example>
+</sls>
+</fls>
+<fls content="ボーカロイド_キャラクター（その他）" poss="0.2">
+<sls content="ボーカロイド_キャラクター（その他）_がくっぽいど" poss="0.065217391">
+<example>ボーカロイドgackpoidがく</example>
+<example>ボーカロイドがくっぽいど</example>
+<example>ボーカロイドがくっぽいど紹介</example>
+</sls>
+<sls content="ボーカロイド_キャラクター（その他）_歌愛ユキ" poss="0.065217391">
+<example>ボーカロイド歌愛ユキ</example>
+<example>ボーカロイドユキ</example>
+</sls>
+<sls content="ボーカロイド_キャラクター（その他）_lily" poss="0.065217391">
+<example>ボーカロイドlily紹介</example>
+<example>ボーカロイドlily</example>
+</sls>
+<sls content="ボーカロイド_キャラクター（その他）_派生キャラクター" poss="0.043478261">
+<example>ボーカロイドの派生キャラクター</example>
+<example>ボーカロイド亜種</example>
+<example>ボーカロイドの派生キャラクター紹介</example>
+</sls>
+</fls>
+<fls content="ボーカロイド_初心者" poss="0.2">
+<sls content="ボーカロイド_初心者_情報" poss="0.043478261">
+<example>ボーカロイド 初心者 初心者</example>
+<example>ボーカロイド 初心者</example>
+</sls>
+<sls content="ボーカロイド_初心者_氷山キヨテル" poss="0.043478261">
+<example>ボーカロイド氷山キヨテル</example>
+<example>ボーカロイドテル</example>
+</sls>
+</fls>
+</topic>
+<topic content="年賀状" id="0127">
+<fls content="年賀状_書き方" poss="0.272727273">
+<sls content="年賀状_書き方_一言" poss="0.049180328">
+<example>年賀状一言紹介</example>
+<example>年賀状一言</example>
+<example>年賀状コメント</example>
+</sls>
+<sls content="年賀状_書き方_文例集" poss="0.049180328">
+<example>年賀状文例</example>
+<example>年賀状文例集</example>
+</sls>
+<sls content="年賀状_書き方_挨拶文" poss="0.049180328">
+<example>年賀状挨拶文</example>
+</sls>
+<sls content="年賀状_書き方_情報" poss="0.049180328">
+<example>年賀状の書き方</example>
+</sls>
+<sls content="年賀状_書き方_喪中" poss="0.032786885">
+<example>喪中の年賀状</example>
+</sls>
+<sls content="年賀状_書き方_上司" poss="0.032786885">
+<example>年賀状上司</example>
+</sls>
+</fls>
+<fls content="年賀状_デザイン" poss="0.181818182">
+<sls content="年賀状_デザイン_作成" poss="0.049180328">
+<example>年賀状作成</example>
+</sls>
+<sls content="年賀状_デザイン_無料デザイン" poss="0.049180328">
+<example>年賀状デザイン</example>
+<example>年賀状無料デザイン</example>
+</sls>
+<sls content="年賀状_デザイン_フリーソフト" poss="0.049180328">
+<example>年賀状ソフトフリー</example>
+</sls>
+<sls content="年賀状_デザイン_無料素材" poss="0.049180328">
+<example>イラスト無料年賀状</example>
+<example>年賀状フリー</example>
+<example>年賀状 無料</example>
+<example>無料年賀状素材</example>
+<example>年賀状 無料 素材</example>
+<example>年賀状無料イラスト</example>
+<example>イラスト無料年賀状素材</example>
+<example>年賀状2014無料イラスト</example>
+<example>年賀状 無料 イラスト</example>
+<example>年賀状イラスト集</example>
+<example>年賀状イラスト</example>
+<example>年賀状素材</example>
+<example>年賀状桜屋うし</example>
+</sls>
+<sls content="年賀状_デザイン_簡単作成" poss="0.032786885">
+<example>簡単年賀状作成</example>
+</sls>
+<sls content="年賀状_デザイン_印刷" poss="0.032786885">
+<example>年賀状 印刷 デザイン</example>
+</sls>
+<sls content="年賀状_デザイン_干支" poss="0.032786885">
+<example>年賀状 無料 干支</example>
+<example>年賀状無料素材牛</example>
+<example>牛の年賀状無料素材</example>
+</sls>
+<sls content="年賀状_デザイン_無料テンプレート" poss="0.032786885">
+<example>年賀状 無料 テンプレート</example>
+<example>年賀状2014無料テンプレート</example>
+<example>無料年賀状テンプレート</example>
+</sls>
+</fls>
+<fls content="年賀状_印刷" poss="0.272727273">
+<sls content="年賀状_印刷_注文方法" poss="0.049180328">
+<example>年賀状ご注文方法</example>
+</sls>
+<sls content="年賀状_印刷_テンプレート" poss="0.032786885">
+<example>年賀状 印刷 テンプレート</example>
+</sls>
+<sls content="年賀状_印刷_情報" poss="0.032786885">
+<example>年賀状印刷サイト</example>
+<example>年賀状 印刷</example>
+<example>年賀状 印刷 印刷</example>
+<example>年賀状 印刷 2014年</example>
+</sls>
+<sls content="年賀状_印刷_似顔絵" poss="0.032786885">
+<example>年賀状 印刷 似顔絵</example>
+</sls>
+<sls content="年賀状_印刷_業務用" poss="0.016393443">
+<example>商業用業務用年賀状データ</example>
+</sls>
+<sls content="年賀状_印刷_コム年賀状" poss="0.016393443">
+<example>コム年賀状喪中はがき印刷サイト</example>
+</sls>
+</fls>
+<fls content="年賀状_宝くじ" poss="0.272727273">
+<sls content="年賀状_宝くじ_紹介" poss="0.049180328">
+<example>年賀状宝くじ紹介</example>
+<example>年賀状宝くじ</example>
+</sls>
+<sls content="年賀状_宝くじ_当選番号" poss="0.032786885">
+<example>2013年賀状当選番号</example>
+<example>年年賀状当選番号</example>
+</sls>
+</fls>
+</topic>
+<topic content="うつ病" id="0128">
+<fls content="うつ病_症状" poss="0.230769231">
+<sls content="うつ病_症状_新型" poss="0.043478261">
+<example>うつ病 症状 新型</example>
+<example>新型うつ病</example>
+</sls>
+<sls content="うつ病_症状_障害" poss="0.043478261">
+<example>うつ病 障害 病院</example>
+<example>うつ病 障害 心療内科</example>
+</sls>
+<sls content="うつ病_症状_種類" poss="0.043478261">
+<example>うつ病のタイプ</example>
+</sls>
+<sls content="うつ病_症状_病態" poss="0.043478261">
+<example>うつ病予後</example>
+<example>うつ病 障害</example>
+<example>うつ病 症状</example>
+<example>うつ病病態</example>
+<example>うつ病 症状 病気</example>
+<example>うつ病病態紹介</example>
+<example>うつ病 症状 うつ</example>
+<example>うつ病の症状</example>
+<example>うつ病とは</example>
+<example>うつ病 症状 症状</example>
+<example>うつ病うつ症状</example>
+<example>うつ病 障害 症状</example>
+<example>うつ病 障害 鬱病</example>
+</sls>
+<sls content="うつ病_症状_診断" poss="0.043478261">
+<example>うつ病診断</example>
+<example>うつ病 障害 診断</example>
+</sls>
+</fls>
+<fls content="うつ病_仕事" poss="0.153846154">
+<sls content="うつ病_仕事_仕事探し" poss="0.043478261">
+<example>うつ病仕事</example>
+<example>うつ病仕事探し</example>
+<example>うつ病仕事探し紹介</example>
+</sls>
+<sls content="うつ病_仕事_休職" poss="0.043478261">
+<example>うつ病休職</example>
+</sls>
+</fls>
+<fls content="うつ病_社会" poss="0.153846154">
+<sls content="うつ病_社会_社会におけるうつ病" poss="0.043478261">
+<example>社会におけるうつ病紹介</example>
+<example>社会におけるうつ病</example>
+</sls>
+<sls content="うつ病_社会_トピックス" poss="0.014492754">
+<example>最近のうつ病のトピックス</example>
+</sls>
+</fls>
+<fls content="うつ病_接し方" poss="0.230769231">
+<sls content="うつ病_接し方_情報" poss="0.043478261">
+<example>うつ病 症状 接す</example>
+<example>うつ病接し方</example>
+<example>うつ病の人への接し方</example>
+<example>うつ病の人への接し方紹介</example>
+</sls>
+<sls content="うつ病_接し方_家族" poss="0.043478261">
+<example>うつ病 症状 家族</example>
+<example>うつ病の家族</example>
+</sls>
+<sls content="うつ病_接し方_夫" poss="0.014492754">
+<example>夫がうつ病の状況時</example>
+</sls>
+</fls>
+<fls content="うつ病_治療" poss="0.230769231">
+<sls content="うつ病_治療_克服" poss="0.086956522">
+<example>うつ病の治し方紹介</example>
+<example>うつ病を克服</example>
+<example>うつ病の治し方</example>
+<example>うつ病克服</example>
+</sls>
+<sls content="うつ病_治療_薬物療法" poss="0.043478261">
+<example>うつ病薬</example>
+<example>うつ病の薬物療法</example>
+</sls>
+<sls content="うつ病_治療_医療機関" poss="0.028985507">
+<example>うつ病診療科医療機関</example>
+</sls>
+<sls content="うつ病_治療_子供" poss="0.028985507">
+<example>子供のうつ病を治す治療法遊戯療法</example>
+</sls>
+<sls content="うつ病_治療_治療法" poss="0.057971014">
+<example>うつ病 治療</example>
+<example>うつ病 治療 療法</example>
+<example>うつ病 治療 治療</example>
+<example>うつ病の治療</example>
+<example>うつ病 症状 治療</example>
+</sls>
+<sls content="うつ病_治療_完治" poss="0.028985507">
+<example>うつ病は完治紹介</example>
+<example>うつ病は完治</example>
+</sls>
+</fls>
+</topic>
+<topic content="サムスン" id="0129">
+<fls content="サムスン_流儀" poss="0.2">
+<sls content="サムスン_流儀_仕事の流儀" poss="0.176470588">
+<example>サムスン式仕事の流儀</example>
+<example>サムスン流儀</example>
+</sls>
+</fls>
+<fls content="サムスン_株価" poss="0.3">
+<sls content="サムスン_株価_紹介" poss="0.176470588">
+<example>サムスン株価</example>
+<example>サムスン株価紹介</example>
+</sls>
+</fls>
+<fls content="サムスン_サムスンジャパン" poss="0.2">
+<sls content="サムスン_サムスンジャパン_サムスン電子" poss="0.176470588">
+<example>サムスン電子ジャパン</example>
+<example>サムスンジャパン</example>
+</sls>
+<sls content="サムスン_サムスンジャパン_撤退" poss="0.117647059">
+<example>サムスン撤退</example>
+</sls>
+<sls content="サムスン_サムスンジャパン_物産" poss="0.058823529">
+<example>サムスン物産</example>
+</sls>
+</fls>
+<fls content="サムスン_アップル" poss="0.3">
+<sls content="サムスン_アップル_訴訟" poss="0.294117647">
+<example>アップルサムスン紹介</example>
+<example>サムスン 訴訟 訴訟</example>
+<example>サムスン 訴訟 特許</example>
+<example>アップルサムスン</example>
+<example>サムスン 訴訟 勝訴</example>
+<example>サムスン賠償</example>
+<example>サムスン 訴訟</example>
+</sls>
+</fls>
+</topic>
+<topic content="タイ 特産" id="0130">
+<fls content="タイ 特産_お土産" poss="0.428571429">
+<sls content="タイ 特産_お土産_おすすめ" poss="0.193548387">
+<example>勧めのタイ 特産</example>
+<example>タイ 特産 お土産 お勧め</example>
+</sls>
+<sls content="タイ 特産_お土産_通販" poss="0.096774194">
+<example>タイ 特産 お土産 通販</example>
+</sls>
+<sls content="タイ 特産_お土産_情報" poss="0.096774194">
+<example>タイ 特産 お土産</example>
+<example>タイ 特産みやげ</example>
+<example>タイ 特産タイ土産</example>
+<example>タイ 特産タイ土産紹介</example>
+<example>タイ 特産物名産品おみやげ</example>
+<example>タイ 特産タイみやげ</example>
+<example>タイ 特産 お土産 おみやげ</example>
+<example>タイ 特産タイお土産人気</example>
+<example>タイ 特産 お土産 お土産</example>
+<example>タイ 特産品土産品</example>
+<example>タイ 特産 お土産 土産</example>
+</sls>
+<sls content="タイ 特産_お土産_グルメ" poss="0.096774194">
+<example>タイ 特産名産グルメ</example>
+</sls>
+</fls>
+<fls content="タイ 特産_政府公認５つ星" poss="0.142857143">
+<sls content="タイ 特産_政府公認５つ星_紹介" poss="0.096774194">
+<example>政府公認５つ星のタイ 特産</example>
+<example>政府公認５つ星のタイ 特産紹介</example>
+</sls>
+</fls>
+<fls content="タイ 特産_漬物" poss="0.142857143">
+<sls content="タイ 特産_漬物_紹介" poss="0.096774194">
+<example>タイ 特産の漬物紹介</example>
+<example>タイ 特産の漬物</example>
+</sls>
+</fls>
+<fls content="タイ 特産_南部" poss="0.285714286">
+<sls content="タイ 特産_南部_素材" poss="0.096774194">
+<example>南部タイ 特産素材</example>
+</sls>
+<sls content="タイ 特産_南部_紹介" poss="0.096774194">
+<example>南部タイ 特産</example>
+<example>南部タイ 特産紹介</example>
+</sls>
+</fls>
+</topic>
+<topic content="浴槽" id="0131">
+<fls content="浴槽_介護" poss="0.222222222">
+<sls content="浴槽_介護_介護浴槽" poss="0.071428571">
+<example>浴槽 介護</example>
+<example>浴槽 風呂 介護</example>
+<example>浴槽 介護 介護用</example>
+<example>浴槽 介護 介護</example>
+<example>介護浴槽</example>
+</sls>
+<sls content="浴槽_介護_手すり" poss="0.047619048">
+<example>浴槽手すり</example>
+</sls>
+<sls content="浴槽_介護_修理" poss="0.047619048">
+<example>浴槽 介護 修理</example>
+</sls>
+<sls content="浴槽_介護_ホームページ" poss="0.023809524">
+<example>浴槽 介護 ホームページ</example>
+</sls>
+<sls content="浴槽_介護_福祉" poss="0.023809524">
+<example>浴槽 風呂 福祉</example>
+</sls>
+<sls content="浴槽_介護_浴槽への出入り" poss="0.023809524">
+<example>浴槽への出入り</example>
+</sls>
+<sls content="浴槽_介護_製造" poss="0.023809524">
+<example>浴槽 介護 製造</example>
+</sls>
+<sls content="浴槽_介護_御影石調" poss="0.023809524">
+<example>浴槽 介護 御影石調</example>
+</sls>
+</fls>
+<fls content="浴槽_檜浴槽" poss="0.222222222">
+<sls content="浴槽_檜浴槽_紹介" poss="0.071428571">
+<example>檜浴槽</example>
+<example>浴槽木風呂</example>
+<example>檜浴槽紹介</example>
+</sls>
+<sls content="浴槽_檜浴槽_木製浴槽" poss="0.071428571">
+<example>木製浴槽</example>
+</sls>
+<sls content="浴槽_檜浴槽_販売" poss="0.071428571">
+<example>木製浴槽販売</example>
+</sls>
+</fls>
+<fls content="浴槽_カビ" poss="0.333333333">
+<sls content="浴槽_カビ_掃除" poss="0.071428571">
+<example>浴槽掃除</example>
+</sls>
+<sls content="浴槽_カビ_手入れ" poss="0.071428571">
+<example>浴槽 カビ</example>
+<example>浴槽 カビ お掃除</example>
+<example>浴槽 カビ 掃除</example>
+<example>浴槽 カビ カビ</example>
+<example>浴槽 カビ 下部</example>
+<example>浴槽 カビ お手入れ</example>
+<example>浴槽 カビ クリーニング</example>
+</sls>
+<sls content="浴槽_カビ_エプロン" poss="0.023809524">
+<example>浴槽エプロン外し方</example>
+</sls>
+<sls content="浴槽_カビ_青い汚れ" poss="0.023809524">
+<example>浴槽青い汚れ</example>
+</sls>
+</fls>
+<fls content="浴槽_大理石" poss="0.111111111">
+<sls content="浴槽_大理石_人造大理石" poss="0.071428571">
+<example>人造大理石浴槽</example>
+<example>浴槽大理石</example>
+</sls>
+<sls content="浴槽_大理石_TOTO" poss="0.047619048">
+<example>toto人造大理石浴槽紹介</example>
+<example>浴槽toto</example>
+<example>toto人造大理石浴槽</example>
+</sls>
+<sls content="浴槽_大理石_INAX" poss="0.071428572">
+<example>inax人造大理石浴槽紹介</example>
+<example>inax人造大理石浴槽</example>
+<example>イナックス浴槽</example>
+<example>浴槽inax</example>
+</sls>
+</fls>
+<fls content="浴槽_簡易シャワー" poss="0.111111111">
+<sls content="浴槽_簡易シャワー_簡易" poss="0.071428571">
+<example>簡易浴槽簡易シャワー</example>
+<example>浴槽簡易シャワー</example>
+</sls>
+<sls content="浴槽_簡易シャワー_紹介" poss="0.047619048">
+<example>浴槽シャワー</example>
+</sls>
+</fls>
+</topic>
+<topic content="ハンガーゲーム" id="0132">
+<fls content="ハンガーゲーム_レンタル" poss="0.214285714">
+<sls content="ハンガーゲーム_レンタル_情報" poss="0.037735849">
+<example>ハンガーゲーム レンタル</example>
+<example>ハンガーゲーム レンタル レンタル</example>
+</sls>
+<sls content="ハンガーゲーム_レンタル_吹替え" poss="0.037735849">
+<example>ハンガーゲーム レンタル 吹替え</example>
+</sls>
+<sls content="ハンガーゲーム_レンタル_宅配" poss="0.037735849">
+<example>ハンガーゲーム レンタル 宅配</example>
+</sls>
+</fls>
+<fls content="ハンガーゲーム_映画" poss="0.142857143">
+<sls content="ハンガーゲーム_映画_ハンガーゲーム2" poss="0.056603774">
+<example>ハンガーゲームハンガー・ゲーム2</example>
+<example>ハンガーゲーム2</example>
+<example>ハンガーゲーム 映画 2上</example>
+</sls>
+<sls content="ハンガーゲーム_映画_予告" poss="0.037735849">
+<example>ハンガーゲーム予告</example>
+</sls>
+<sls content="ハンガーゲーム_映画_ハンガーゲーム3" poss="0.037735849">
+<example>ハンガーゲーム3</example>
+</sls>
+<sls content="ハンガーゲーム_映画_無料" poss="0.037735849">
+<example>ハンガーゲーム 映画 無料</example>
+</sls>
+<sls content="ハンガーゲーム_映画_イオン" poss="0.037735849">
+<example>ハンガーゲーム イオン</example>
+<example>ハンガーゲーム イオン イオン</example>
+</sls>
+<sls content="ハンガーゲーム_映画_情報" poss="0.037735849">
+<example>ハンガーゲーム 映画</example>
+<example>ハンガーゲーム 映画 映画</example>
+<example>ハンガーゲーム映画</example>
+</sls>
+</fls>
+<fls content="ハンガーゲーム_dvd" poss="0.214285714">
+<sls content="ハンガーゲーム_dvd_情報" poss="0.056603774">
+<example>ハンガーゲーム DVD</example>
+<example>ハンガーゲーム DVD DVD</example>
+</sls>
+<sls content="ハンガーゲーム_dvd_TSUTAYA" poss="0.037735849">
+<example>ハンガーゲーム DVD TSUTAYA</example>
+</sls>
+<sls content="ハンガーゲーム_dvd_DABA" poss="0.018867925">
+<example>ハンガーゲーム DVD DABA</example>
+</sls>
+</fls>
+<fls content="ハンガーゲーム_感想" poss="0.214285714">
+<sls content="ハンガーゲーム_感想_評価" poss="0.056603774">
+<example>ハンガーゲーム評価</example>
+<example>ハンガーゲーム評価紹介</example>
+</sls>
+<sls content="ハンガーゲーム_感想_感想紹介" poss="0.056603774">
+<example>ハンガーゲーム感想紹介</example>
+<example>ハンガーゲーム感想</example>
+</sls>
+<sls content="ハンガーゲーム_感想_ハンガーゲーム2ネタバレ" poss="0.037735849">
+<example>ハンガーゲーム2ネタバレ</example>
+</sls>
+</fls>
+<fls content="ハンガーゲーム_あらすじ" poss="0.214285714">
+<sls content="ハンガーゲーム_あらすじ_ハンガーゲーム3ネタバレ" poss="0.056603774">
+<example>ハンガーゲーム3ネタバレ</example>
+</sls>
+<sls content="ハンガーゲーム_あらすじ_作品紹介" poss="0.056603774">
+<example>ハンガーゲーム作品情報紹介</example>
+<example>ハンガーゲーム作品情報</example>
+</sls>
+<sls content="ハンガーゲーム_あらすじ_ストーリー" poss="0.113207547">
+<example>ハンガーゲームあらすじ</example>
+<example>ハンガーゲームストーリー</example>
+</sls>
+<sls content="ハンガーゲーム_あらすじ_" poss="0.037735849">
+<example>ハンガーゲーム 映画 主演</example>
+</sls>
+</fls>
+</topic>
+<topic content="結婚指輪" id="0133">
+<fls content="結婚指輪_安い" poss="0.222222222">
+<sls content="結婚指輪_安い_紹介" poss="0.057692308">
+<example>結婚指輪安い紹介</example>
+<example>結婚指輪安い</example>
+</sls>
+</fls>
+<fls content="結婚指輪_トルコ石" poss="0.222222222">
+<sls content="結婚指輪_トルコ石_情報" poss="0.057692308">
+<example>結婚指輪トルコ石</example>
+</sls>
+</fls>
+<fls content="結婚指輪_オーダー" poss="0.333333333">
+<sls content="結婚指輪_オーダー_ジュエリー" poss="0.057692308">
+<example>結婚指輪 オーダー ジュエリー</example>
+<example>結婚指輪 オーダー 宝石</example>
+</sls>
+<sls content="結婚指輪_オーダー_専門店" poss="0.057692308">
+<example>結婚指輪 オーダー 専門店</example>
+</sls>
+<sls content="結婚指輪_オーダー_情報" poss="0.153846153">
+<example>結婚指輪 オーダー</example>
+<example>結婚指輪 オーダー オーダー</example>
+<example>結婚指輪オーダー</example>
+<example>結婚指輪 オーダー メイド</example>
+<example>結婚指輪 オーダー マリッジリング</example>
+</sls>
+</fls>
+<fls content="結婚指輪_選ぶ" poss="0.222222222">
+<sls content="結婚指輪_選ぶ_石" poss="0.057692308">
+<example>結婚指輪の石紹介</example>
+<example>結婚指輪の石</example>
+</sls>
+<sls content="結婚指輪_選ぶ_素材" poss="0.057692308">
+<example>結婚指輪素材紹介</example>
+<example>結婚指輪素材</example>
+</sls>
+<sls content="結婚指輪_選ぶ_選び方" poss="0.076923077">
+<example>結婚指輪の選び方値段店</example>
+<example>結婚指輪選び方</example>
+</sls>
+<sls content="結婚指輪_選ぶ_デザイン" poss="0.038461538">
+<example>結婚指輪デザイン</example>
+</sls>
+<sls content="結婚指輪_選ぶ_婚約指輪" poss="0.038461538">
+<example>結婚指輪婚約指輪選び</example>
+</sls>
+<sls content="結婚指輪_選ぶ_ダイヤ" poss="0.038461538">
+<example>結婚指輪ダイヤ</example>
+</sls>
+<sls content="結婚指輪_選ぶ_ブランド" poss="0.038461538">
+<example>結婚指輪ブランド</example>
+<example>婚約指輪結婚指輪のブランド</example>
+</sls>
+<sls content="結婚指輪_選ぶ_相場" poss="0.038461538">
+<example>結婚指輪 相場</example>
+<example>結婚指輪 相場 万円</example>
+<example>結婚指輪相場</example>
+<example>婚約指輪結婚指輪の値段</example>
+<example>結婚指輪値段</example>
+<example>結婚指輪 相場 相場</example>
+<example>結婚指輪の相場2013</example>
+<example>結婚指輪費用</example>
+</sls>
+</fls>
+</topic>
+<topic content="サイエンティフィック・アメリカ" id="0134">
+<fls content="サイエンティフィック・アメリカ_購入" poss="0.333333333">
+<sls content="サイエンティフィック・アメリカ_購入_情報" poss="0.25">
+<example>サイエンティフィック・アメリカン購入</example>
+<example>サイエンティフィック・アメリカンscientificamerican購入</example>
+<example>サイエンティフィック・アメリカンサイエンティフィックアメリカン購読</example>
+</sls>
+<sls content="サイエンティフィック・アメリカ_購入_定期購読" poss="0.25">
+<example>サイエンティフィック・アメリカンscientificamerican購読</example>
+<example>サイエンティフィック・アメリカンscientificamerican定期購読</example>
+</sls>
+</fls>
+<fls content="サイエンティフィック・アメリカ_科学雑誌" poss="0.333333333">
+<sls content="サイエンティフィック・アメリカ_科学雑誌_情報" poss="0.25">
+<example>科学雑誌サイエンティフィック・アメリカン</example>
+<example>科学雑誌サイエンティフィック・アメリカン紹介</example>
+</sls>
+</fls>
+<fls content="サイエンティフィック・アメリカ_日本語" poss="0.333333333">
+<sls content="サイエンティフィック・アメリカ_日本語_情報" poss="0.25">
+<example>サイエンティフィック・アメリカン日本語</example>
+<example>サイエンティフィック・アメリカンscientificamerican日本語</example>
+</sls>
+</fls>
+</topic>
+</root>

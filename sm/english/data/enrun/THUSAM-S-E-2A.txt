@@ -1,0 +1,1277 @@
+<SYSDESC>Run 2 based on top bottom strategy</SYSDESC>
+0051;0;apple inc.;1;0.440045654384;0;apple iphone;1;0.124046771734;THUSAM-S-E-2A
+0051;0;apple inc.;1;0.440045654384;0;apple tv;2;0.105163773695;THUSAM-S-E-2A
+0051;0;apple inc.;1;0.440045654384;0;apple store;3;0.0858450141623;THUSAM-S-E-2A
+0051;0;apple inc.;1;0.440045654384;0;apple ipod;4;0.0374391749582;THUSAM-S-E-2A
+0051;0;apple inc.;1;0.440045654384;0;apple ipad;5;0.0354056213233;THUSAM-S-E-2A
+0051;0;apple inc.;1;0.440045654384;0;apple price;6;0.0288328854674;THUSAM-S-E-2A
+0051;0;apple inc.;1;0.440045654384;0;apple itunes;7;0.0287602585518;THUSAM-S-E-2A
+0051;0;apple inc.;1;0.440045654384;0;apple stock;8;0.0246568378241;THUSAM-S-E-2A
+0051;0;apple inc.;1;0.440045654384;0;apple history;9;0.0231316725979;THUSAM-S-E-2A
+0051;0;apple inc.;1;0.440045654384;0;apple computer;10;0.0221875226959;THUSAM-S-E-2A
+0051;0;cashew apple;2;0.0373744079349;0;apple juice;11;0.00384922652335;THUSAM-S-E-2A
+0051;0;cashew apple;2;0.0373744079349;0;apple crab;12;0.00159779214177;THUSAM-S-E-2A
+0051;0;cashew apple;2;0.0373744079349;0;apple insect;13;0.00148885176847;THUSAM-S-E-2A
+0051;0;cashew apple;2;0.0373744079349;0;apple harvest;14;0.0014525383107;THUSAM-S-E-2A
+0051;0;cashew apple;2;0.0373744079349;0;apple allergic;15;0.00108940373302;THUSAM-S-E-2A
+0051;0;cashew apple;2;0.0373744079349;0;apple nursery;17;0.000835209528652;THUSAM-S-E-2A
+0051;0;cashew apple;2;0.0373744079349;0;apple sweet;18;0.000726269155349;THUSAM-S-E-2A
+0051;0;cashew apple;2;0.0373744079349;0;apple accessory;19;0.000544701866512;THUSAM-S-E-2A
+0051;0;cashew apple;2;0.0373744079349;0;apple availability;23;0.000326821119907;THUSAM-S-E-2A
+0051;0;cashew apple;2;0.0373744079349;0;apple origin;27;0.000254194204372;THUSAM-S-E-2A
+0051;0;apple corps;3;0.0301879026988;0;apple advertisement;20;0.00043576149321;THUSAM-S-E-2A
+0051;0;apple corps;3;0.0301879026988;0;apple invest;21;0.000399448035442;THUSAM-S-E-2A
+0051;0;apple corps;3;0.0301879026988;0;apple headquarters;24;0.00029050766214;THUSAM-S-E-2A
+0051;0;apple corps;3;0.0301879026988;0;apple case;25;0.00029050766214;THUSAM-S-E-2A
+0051;0;apple corps;3;0.0301879026988;0;apple cultivar;28;0.000254194204372;THUSAM-S-E-2A
+0051;0;apple corps;3;0.0301879026988;0;apple london;29;0.000254194204372;THUSAM-S-E-2A
+0051;0;apple corps;3;0.0301879026988;0;apple direct;30;0.000254194204372;THUSAM-S-E-2A
+0051;0;apple corps;3;0.0301879026988;0;apple list brand;32;0.000217880746605;THUSAM-S-E-2A
+0051;0;apple corps;3;0.0301879026988;0;apple rosy aphid control;33;0.000217880746605;THUSAM-S-E-2A
+0051;0;apple corps;3;0.0301879026988;0;apple granny;34;0.000217880746604;THUSAM-S-E-2A
+0051;0;oak apple;4;0.0286901501952;0;apple roman;35;3.63134577674E-5;THUSAM-S-E-2A
+0051;0;apple bank;5;0.0276796183854;0;apple grower;16;0.000907836444186;THUSAM-S-E-2A
+0051;0;apple bank;5;0.0276796183854;0;apple washington;22;0.000326821119907;THUSAM-S-E-2A
+0051;0;apple bank;5;0.0276796183854;0;apple investor;26;0.00029050766214;THUSAM-S-E-2A
+0051;0;apple bank;5;0.0276796183854;0;apple developer;31;0.000254194204372;THUSAM-S-E-2A
+0051;0;apple bank;5;0.0276796183854;0;apple class;36;3.63134577674E-5;THUSAM-S-E-2A
+0052;0;architecture of cathedrals and great churches;1;0.408882677227;0;cathedral saint;3;0.0778567199526;THUSAM-S-E-2A
+0052;0;architecture of cathedrals and great churches;1;0.408882677227;0;cathedral crystal;4;0.0523978685613;THUSAM-S-E-2A
+0052;0;architecture of cathedrals and great churches;1;0.408882677227;0;cathedral national;5;0.0438129070456;THUSAM-S-E-2A
+0052;0;architecture of cathedrals and great churches;1;0.408882677227;0;cathedral washington;6;0.0375962107756;THUSAM-S-E-2A
+0052;0;architecture of cathedrals and great churches;1;0.408882677227;0;cathedral gothic;7;0.0358200118413;THUSAM-S-E-2A
+0052;0;architecture of cathedrals and great churches;1;0.408882677227;0;cathedral lady;9;0.0254588513913;THUSAM-S-E-2A
+0052;0;architecture of cathedrals and great churches;1;0.408882677227;0;cathedral old;10;0.0109532267614;THUSAM-S-E-2A
+0052;0;architecture of cathedrals and great churches;1;0.408882677227;0;cathedral dc;13;0.00976909413854;THUSAM-S-E-2A
+0052;0;architecture of cathedrals and great churches;1;0.408882677227;0;cathedral holy;15;0.00888099467141;THUSAM-S-E-2A
+0052;0;architecture of cathedrals and great churches;1;0.408882677227;0;cathedral catholic;17;0.00740082889283;THUSAM-S-E-2A
+0052;0;architecture of the medieval cathedrals of england;2;0.286538809949;0;cathedral school;1;0.139431616341;THUSAM-S-E-2A
+0052;0;architecture of the medieval cathedrals of england;2;0.286538809949;0;cathedral ca city;2;0.104795737123;THUSAM-S-E-2A
+0052;0;architecture of the medieval cathedrals of england;2;0.286538809949;0;cathedral murder;8;0.0358200118413;THUSAM-S-E-2A
+0052;0;architecture of the medieval cathedrals of england;2;0.286538809949;0;cathedral band;14;0.00917702782711;THUSAM-S-E-2A
+0052;0;architecture of the medieval cathedrals of england;2;0.286538809949;0;cathedral boston;20;0.00532859680283;THUSAM-S-E-2A
+0052;0;architecture of the medieval cathedrals of england;2;0.286538809949;0;cathedral angeles los;21;0.00503256364712;THUSAM-S-E-2A
+0052;0;architecture of the medieval cathedrals of england;2;0.286538809949;0;cathedral medieval;24;0.00444049733569;THUSAM-S-E-2A
+0052;0;architecture of the medieval cathedrals of england;2;0.286538809949;0;cathedral mass patrick;25;0.00414446417999;THUSAM-S-E-2A
+0052;0;architecture of the medieval cathedrals of england;2;0.286538809949;0;cathedral apartment;28;0.00355239786856;THUSAM-S-E-2A
+0052;0;architecture of the medieval cathedrals of england;2;0.286538809949;0;cathedral beauvais;30;0.00296033155713;THUSAM-S-E-2A
+0052;0;cathedral;3;0.210005952843;0;cathedral york;11;0.0109532267614;THUSAM-S-E-2A
+0052;0;cathedral;3;0.210005952843;0;cathedral episcopal;18;0.00562462995856;THUSAM-S-E-2A
+0052;0;cathedral;3;0.210005952843;0;cathedral indianapolis;19;0.00562462995855;THUSAM-S-E-2A
+0052;0;cathedral;3;0.210005952843;0;cathedral famous;22;0.0044404973357;THUSAM-S-E-2A
+0052;0;cathedral;3;0.210005952843;0;cathedral organ;23;0.0044404973357;THUSAM-S-E-2A
+0052;0;cathedral;3;0.210005952843;0;cathedral architecture;26;0.00414446417998;THUSAM-S-E-2A
+0052;0;cathedral;3;0.210005952843;0;cathedral paris;27;0.00384843102428;THUSAM-S-E-2A
+0052;0;cathedral;3;0.210005952843;0;cathedral florence;31;0.00266429840141;THUSAM-S-E-2A
+0052;0;cathedral;3;0.210005952843;0;cathedral bell;32;0.00236826524571;THUSAM-S-E-2A
+0052;0;cathedral;3;0.210005952843;0;cathedral college;33;0.00236826524571;THUSAM-S-E-2A
+0052;0;cathedral raymond carver;4;0.0413075549344;0;cathedral carver;12;0.0106571936057;THUSAM-S-E-2A
+0052;0;cathedral raymond carver;4;0.0413075549344;0;cathedral story;16;0.00888099467141;THUSAM-S-E-2A
+0052;0;cathedral raymond carver;4;0.0413075549344;0;cathedral summary;29;0.00325636471284;THUSAM-S-E-2A
+0052;0;cathedral raymond carver;4;0.0413075549344;0;cathedral by raymond carver theme;36;0.00177619893428;THUSAM-S-E-2A
+0052;0;cathedral raymond carver;4;0.0413075549344;0;raymond carver cathedral full text;37;0.00118413262285;THUSAM-S-E-2A
+0052;0;cathedral raymond carver;4;0.0413075549344;0;cathedral raymond carver essay;38;0.00118413262285;THUSAM-S-E-2A
+0052;0;cathedral raymond carver;4;0.0413075549344;0;raymond carver cathedral sparknotes;39;0.00118413262285;THUSAM-S-E-2A
+0052;0;cathedral raymond carver;4;0.0413075549344;0;raymond carver cathedral analysis;42;0.000592066311427;THUSAM-S-E-2A
+0052;0;cathedral raymond carver;4;0.0413075549344;0;cathedral by raymond carver symbolism;43;0.000592066311427;THUSAM-S-E-2A
+0052;0;cathedral raymond carver;4;0.0413075549344;0;cathedral summary by raymond carver;44;0.000296033155713;THUSAM-S-E-2A
+0052;0;cathedral trinity;5;0.00489168413696;0;trinity cathedral cleveland;34;0.00207223208999;THUSAM-S-E-2A
+0052;0;cathedral trinity;5;0.00489168413696;0;cathedral portland;35;0.00177619893428;THUSAM-S-E-2A
+0052;0;cathedral trinity;5;0.00489168413696;0;trinity cathedral miami;40;0.00118413262285;THUSAM-S-E-2A
+0052;0;cathedral trinity;5;0.00489168413696;0;trinity cathedral phoenix;41;0.00088809946714;THUSAM-S-E-2A
+0053;0;eclipse;1;0.172011818409;0;eclipse lunar;1;0.134742404227;THUSAM-S-E-2A
+0053;0;eclipse;1;0.172011818409;0;eclipse solar;2;0.112493916429;THUSAM-S-E-2A
+0053;0;eclipse;1;0.172011818409;0;eclipse moon;12;0.00709170548564;THUSAM-S-E-2A
+0053;0;eclipse;1;0.172011818409;0;eclipse sun;14;0.0049363832302;THUSAM-S-E-2A
+0053;0;eclipse;1;0.172011818409;0;eclipse tonight;15;0.00458875060835;THUSAM-S-E-2A
+0053;0;eclipse;1;0.172011818409;0;eclipse total;19;0.00361537926719;THUSAM-S-E-2A
+0053;0;eclipse;1;0.172011818409;0;eclipse partial;23;0.00264200792602;THUSAM-S-E-2A
+0053;0;eclipse;1;0.172011818409;0;eclipse happen;25;0.00229437530418;THUSAM-S-E-2A
+0053;0;eclipse;1;0.172011818409;0;eclipse calendar;26;0.00187721615796;THUSAM-S-E-2A
+0053;0;eclipse;1;0.172011818409;0;eclipse news;27;0.00180768963359;THUSAM-S-E-2A
+0053;0;eclipse (software);2;0.15576697085;0;eclipse java;4;0.087812000278;THUSAM-S-E-2A
+0053;0;eclipse (software);2;0.15576697085;0;eclipse android;6;0.0527011054717;THUSAM-S-E-2A
+0053;0;eclipse (software);2;0.15576697085;0;eclipse ide;8;0.026559132309;THUSAM-S-E-2A
+0053;0;eclipse (software);2;0.15576697085;0;eclipse plugin;9;0.0155044149343;THUSAM-S-E-2A
+0053;0;eclipse (software);2;0.15576697085;0;eclipse web;11;0.00841270944865;THUSAM-S-E-2A
+0053;0;eclipse (software);2;0.15576697085;0;eclipse php;13;0.00521448932767;THUSAM-S-E-2A
+0053;0;eclipse (software);2;0.15576697085;0;eclipse uml;16;0.00458875060835;THUSAM-S-E-2A
+0053;0;eclipse (software);2;0.15576697085;0;eclipse spring;18;0.0038239588403;THUSAM-S-E-2A
+0053;0;eclipse (software);2;0.15576697085;0;eclipse plugins;20;0.00354585274282;THUSAM-S-E-2A
+0053;0;eclipse (software);2;0.15576697085;0;eclipse maven;21;0.00354585274282;THUSAM-S-E-2A
+0053;0;eclipse (meyer novel);3;0.078130352894;0;eclipse twilight;5;0.0560383786414;THUSAM-S-E-2A
+0053;0;eclipse (meyer novel);3;0.078130352894;0;eclipse movie;7;0.0492943057776;THUSAM-S-E-2A
+0053;0;eclipse (meyer novel);3;0.078130352894;0;eclipse watch twilight;10;0.0098727664604;THUSAM-S-E-2A
+0053;0;eclipse (meyer novel);3;0.078130352894;0;eclipse online;22;0.00271153445039;THUSAM-S-E-2A
+0053;0;eclipse (meyer novel);3;0.078130352894;0;eclipse meyer;29;0.00152958353612;THUSAM-S-E-2A
+0053;0;eclipse (meyer novel);3;0.078130352894;0;eclipse watch twilight saga online movie;30;0.00139053048738;THUSAM-S-E-2A
+0053;0;eclipse (meyer novel);3;0.078130352894;0;eclipse imdb;32;0.0011124243899;THUSAM-S-E-2A
+0053;0;eclipse (meyer novel);3;0.078130352894;0;eclipse edward;35;0.000973371341166;THUSAM-S-E-2A
+0053;0;eclipse (meyer novel);3;0.078130352894;0;eclipse jacob;36;0.000903844816797;THUSAM-S-E-2A
+0053;0;eclipse (meyer novel);3;0.078130352894;0;eclipse date;37;0.000764791768059;THUSAM-S-E-2A
+0053;0;mitsubishi eclipse;4;0.0671036059514;0;eclipse mitsubishi;3;0.105332684419;THUSAM-S-E-2A
+0053;0;mitsubishi eclipse;4;0.0671036059514;0;eclipse car;24;0.00243342835292;THUSAM-S-E-2A
+0053;0;mitsubishi eclipse;4;0.0671036059514;0;eclipse platform;28;0.00166863658486;THUSAM-S-E-2A
+0053;0;mitsubishi eclipse;4;0.0671036059514;0;eclipse sale;31;0.00118195091427;THUSAM-S-E-2A
+0053;0;mitsubishi eclipse;4;0.0671036059514;0;eclipse curtain;33;0.00104289786554;THUSAM-S-E-2A
+0053;0;mitsubishi eclipse;4;0.0671036059514;0;eclipse plug;34;0.000973371341166;THUSAM-S-E-2A
+0053;0;mitsubishi eclipse;4;0.0671036059514;0;eclipse audio;38;0.00069526524369;THUSAM-S-E-2A
+0053;0;mitsubishi eclipse;4;0.0671036059514;0;eclipse gsx;39;0.000625738719321;THUSAM-S-E-2A
+0053;0;mitsubishi eclipse;4;0.0671036059514;0;eclipse gst;40;0.000625738719321;THUSAM-S-E-2A
+0053;0;mitsubishi eclipse;4;0.0671036059514;0;eclipse clothe;42;0.000625738719321;THUSAM-S-E-2A
+0053;0;alias eclipse;5;0.0171108355301;0;eclipse late;17;0.00417159146214;THUSAM-S-E-2A
+0053;0;alias eclipse;5;0.0171108355301;0;eclipse image;41;0.000625738719321;THUSAM-S-E-2A
+0053;0;alias eclipse;5;0.0171108355301;0;eclipse special;43;0.000278106097476;THUSAM-S-E-2A
+0054;0;fas fetal alcohol syndrome;1;0.165895224986;0;fas my child have fetal alcohol syndrome;26;0.00167006865838;THUSAM-S-E-2A
+0054;0;fas fetal alcohol syndrome;1;0.165895224986;0;fas fetal alcohol syndrome uk;27;0.00167006865838;THUSAM-S-E-2A
+0054;0;fas fetal alcohol syndrome;1;0.165895224986;0;fas photos fetal alcohol syndrome;30;0.00167006865838;THUSAM-S-E-2A
+0054;0;fas fetal alcohol syndrome;1;0.165895224986;0;fas signs of fetal alcohol syndrome;32;0.00167006865838;THUSAM-S-E-2A
+0054;0;fas fetal alcohol syndrome;1;0.165895224986;0;fas fetal alcohol syndrome help;33;0.00167006865838;THUSAM-S-E-2A
+0054;0;fas fetal alcohol syndrome;1;0.165895224986;0;fas fetal alcohol syndrome testing;38;0.000742252737057;THUSAM-S-E-2A
+0054;0;fas fetal alcohol syndrome;1;0.165895224986;0;fas fetal alcohol syndrome video;39;0.000742252737057;THUSAM-S-E-2A
+0054;0;fas fetal alcohol syndrome;1;0.165895224986;0;fas fetal alcohol syndrome history;40;0.000556689552793;THUSAM-S-E-2A
+0054;0;fas fetal alcohol syndrome;1;0.165895224986;0;fas fetal alcohol syndrome behaviors;41;0.000556689552793;THUSAM-S-E-2A
+0054;0;fas fetal alcohol syndrome;1;0.165895224986;0;fas articles on fetal alcohol syndrome;42;0.000556689552793;THUSAM-S-E-2A
+0054;0;fas foreign agricultural service;2;0.0871126508139;0;fas job;2;0.0523288179626;THUSAM-S-E-2A
+0054;0;fas foreign agricultural service;2;0.0871126508139;0;fas office;5;0.0116904806087;THUSAM-S-E-2A
+0054;0;fas foreign agricultural service;2;0.0871126508139;0;fas employment;6;0.00668027463352;THUSAM-S-E-2A
+0054;0;fas foreign agricultural service;2;0.0871126508139;0;fas service;9;0.00538133234367;THUSAM-S-E-2A
+0054;0;fas foreign agricultural service;2;0.0871126508139;0;fas register;10;0.00501020597514;THUSAM-S-E-2A
+0054;0;fas foreign agricultural service;2;0.0871126508139;0;fas usda;11;0.00408239005382;THUSAM-S-E-2A
+0054;0;fas foreign agricultural service;2;0.0871126508139;0;fas agriculture;12;0.00408239005382;THUSAM-S-E-2A
+0054;0;fas foreign agricultural service;2;0.0871126508139;0;fas work;16;0.00334013731676;THUSAM-S-E-2A
+0054;0;fas foreign agricultural service;2;0.0871126508139;0;fas service foreign agricultural;18;0.00334013731676;THUSAM-S-E-2A
+0054;0;fas foreign agricultural service;2;0.0871126508139;0;fas split;22;0.00185563184264;THUSAM-S-E-2A
+0054;0;fas receptor;3;0.0715175599957;0;fas ligand;3;0.0144739283726;THUSAM-S-E-2A
+0054;0;fas receptor;3;0.0715175599957;0;fas apoptosis;8;0.00612358508073;THUSAM-S-E-2A
+0054;0;fas receptor;3;0.0715175599957;0;fas receptor;13;0.00371126368529;THUSAM-S-E-2A
+0054;0;fas receptor;3;0.0715175599957;0;fas registration;17;0.00334013731676;THUSAM-S-E-2A
+0054;0;fas receptor;3;0.0715175599957;0;fas database;23;0.00185563184264;THUSAM-S-E-2A
+0054;0;fas receptor;3;0.0715175599957;0;fas signal;25;0.00185563184264;THUSAM-S-E-2A
+0054;0;fas receptor;3;0.0715175599957;0;fas soluble;29;0.00167006865838;THUSAM-S-E-2A
+0054;0;fas receptor;3;0.0715175599957;0;fas antigen;31;0.00167006865838;THUSAM-S-E-2A
+0054;0;fas receptor;3;0.0715175599957;0;fas protein;37;0.00111337910559;THUSAM-S-E-2A
+0054;0;fas receptor;3;0.0715175599957;0;fas domain;44;0.000185563184264;THUSAM-S-E-2A
+0054;0;fas free african society;4;0.0659336829816;0;fas account;1;0.0539988866209;THUSAM-S-E-2A
+0054;0;fas free african society;4;0.0659336829816;0;fas limerick;4;0.013360549267;THUSAM-S-E-2A
+0054;0;fas free african society;4;0.0659336829816;0;fas financial;20;0.00204119502691;THUSAM-S-E-2A
+0054;0;fas free african society;4;0.0659336829816;0;fas school fine art;43;0.000185563184264;THUSAM-S-E-2A
+0054;0;fas federation of american scientists;5;0.0575616012466;0;fas level;7;0.00612358508073;THUSAM-S-E-2A
+0054;0;fas federation of american scientists;5;0.0575616012466;0;fas website;14;0.00352570050102;THUSAM-S-E-2A
+0054;0;fas federation of american scientists;5;0.0575616012466;0;fas safe pass;15;0.00334013731676;THUSAM-S-E-2A
+0054;0;fas federation of american scientists;5;0.0575616012466;0;fas group;19;0.00334013731676;THUSAM-S-E-2A
+0054;0;fas federation of american scientists;5;0.0575616012466;0;fas analysis;21;0.00204119502691;THUSAM-S-E-2A
+0054;0;fas federation of american scientists;5;0.0575616012466;0;fas federation american scientist;24;0.00185563184264;THUSAM-S-E-2A
+0054;0;fas federation of american scientists;5;0.0575616012466;0;fas information;28;0.00167006865838;THUSAM-S-E-2A
+0054;0;fas federation of american scientists;5;0.0575616012466;0;fas news;34;0.00167006865838;THUSAM-S-E-2A
+0054;0;fas federation of american scientists;5;0.0575616012466;0;fas learn;35;0.00167006865838;THUSAM-S-E-2A
+0054;0;fas federation of american scientists;5;0.0575616012466;0;fas program;36;0.00167006865838;THUSAM-S-E-2A
+0055;0;flesh (theology);1;0.204313077029;0;flesh devil;1;0.0858676207513;THUSAM-S-E-2A
+0055;0;flesh (theology);1;0.204313077029;0;flesh bible;2;0.0190816935003;THUSAM-S-E-2A
+0055;0;flesh (theology);1;0.204313077029;0;flesh definition;3;0.0107334525939;THUSAM-S-E-2A
+0055;0;flesh (theology);1;0.204313077029;0;flesh verse;5;0.00715563506261;THUSAM-S-E-2A
+0055;0;flesh (theology);1;0.204313077029;0;flesh book;9;0.00357781753131;THUSAM-S-E-2A
+0055;0;flesh (theology);1;0.204313077029;0;flesh strange;13;0.00238521168753;THUSAM-S-E-2A
+0055;0;flesh (mycology);2;0.113145928069;0;flesh fruit;10;0.00238521168754;THUSAM-S-E-2A
+0055;0;flesh (mycology);2;0.113145928069;0;flesh latin;11;0.00238521168754;THUSAM-S-E-2A
+0055;0;flesh (mycology);2;0.113145928069;0;flesh body;14;0.00178890876565;THUSAM-S-E-2A
+0055;0;flesh (1968 film);3;0.0992007716688;0;flesh warhol;6;0.00655933214072;THUSAM-S-E-2A
+0055;0;flesh (1968 film);3;0.0992007716688;0;flesh rotten;7;0.00536672629696;THUSAM-S-E-2A
+0055;0;flesh (1968 film);3;0.0992007716688;0;flesh paul morrissey;12;0.00238521168753;THUSAM-S-E-2A
+0055;0;flesh (1968 film);3;0.0992007716688;0;flesh make;15;0.00178890876565;THUSAM-S-E-2A
+0055;0;flesh (1968 film);3;0.0992007716688;0;flesh joe dallesandro;17;0.00119260584377;THUSAM-S-E-2A
+0055;0;flesh (1968 film);3;0.0992007716688;0;flesh trash heat;19;0.000596302921884;THUSAM-S-E-2A
+0055;0;flesh (novel);4;0.0924348904508;0;;;;THUSAM-S-E-2A
+0055;0;flesh (comics);5;0.0818657847595;0;flesh hook;4;0.00834824090638;THUSAM-S-E-2A
+0055;0;flesh (comics);5;0.0818657847595;0;flesh art;8;0.00417412045319;THUSAM-S-E-2A
+0055;0;flesh (comics);5;0.0818657847595;0;flesh story;16;0.00178890876565;THUSAM-S-E-2A
+0055;0;flesh (comics);5;0.0818657847595;0;flesh simon;18;0.00119260584377;THUSAM-S-E-2A
+0056;0;iridium;1;0.159621683503;0;ir spectrum;1;0.0703314821242;THUSAM-S-E-2A
+0056;0;iridium;1;0.159621683503;0;ir spectroscopy;2;0.0180926761541;THUSAM-S-E-2A
+0056;0;iridium;1;0.159621683503;0;ir verb;5;0.00355779243318;THUSAM-S-E-2A
+0056;0;iridium;1;0.159621683503;0;ir chart;8;0.00125824366539;THUSAM-S-E-2A
+0056;0;iridium;1;0.159621683503;0;ir process;15;0.000520652551197;THUSAM-S-E-2A
+0056;0;iridium;1;0.159621683503;0;ir bond;20;0.000173550850399;THUSAM-S-E-2A
+0056;0;iridium;1;0.159621683503;0;ir group functional frequency;22;0.000173550850399;THUSAM-S-E-2A
+0056;0;ir international relation;2;0.08472109028;0;ir international relations job opportunities;17;0.000390489413398;THUSAM-S-E-2A
+0056;0;ir international relation;2;0.08472109028;0;ir international relations political science;18;0.000390489413398;THUSAM-S-E-2A
+0056;0;ir international relation;2;0.08472109028;0;ir international relations program rankings;19;0.000390489413398;THUSAM-S-E-2A
+0056;0;ir international relation;2;0.08472109028;0;ir international relations grad schools;21;0.000173550850399;THUSAM-S-E-2A
+0056;0;ir international relation;2;0.08472109028;0;ir international relations and diplomacy jobs;23;0.000173550850399;THUSAM-S-E-2A
+0056;0;ir international relation;2;0.08472109028;0;ir jobs with a international relations degree;24;0.000173550850399;THUSAM-S-E-2A
+0056;0;ir international relation;2;0.08472109028;0;ir international relations job search;25;0.000173550850399;THUSAM-S-E-2A
+0056;0;ir international relation;2;0.08472109028;0;ir international relations research jobs;26;0.000173550850399;THUSAM-S-E-2A
+0056;0;ir international relation;2;0.08472109028;0;ir international relations current events;27;8.67754251996E-5;THUSAM-S-E-2A
+0056;0;ir international relation;2;0.08472109028;0;ir international relations masters programs;28;8.67754251996E-5;THUSAM-S-E-2A
+0056;0;ir ionizing radiation;3;0.0546579027949;0;ir ionize radiation;3;0.0147084345713;THUSAM-S-E-2A
+0056;0;ir ionizing radiation;3;0.0546579027949;0;ir table;4;0.00472926067338;THUSAM-S-E-2A
+0056;0;ir ionizing radiation;3;0.0546579027949;0;ir ionize radiation;6;0.00238632419299;THUSAM-S-E-2A
+0056;0;ir ionizing radiation;3;0.0546579027949;0;ir detector;7;0.00182228392919;THUSAM-S-E-2A
+0056;0;ir ionizing radiation;3;0.0546579027949;0;ir camcorder;9;0.00104130510239;THUSAM-S-E-2A
+0056;0;ir ionizing radiation;3;0.0546579027949;0;ir source;10;0.00104130510239;THUSAM-S-E-2A
+0056;0;ir ionizing radiation;3;0.0546579027949;0;ir rollei;11;0.000911141964595;THUSAM-S-E-2A
+0056;0;ir ionizing radiation;3;0.0546579027949;0;ir device;12;0.000607427976397;THUSAM-S-E-2A
+0056;0;ir ionizing radiation;3;0.0546579027949;0;ir radiation protection potassium iodide;13;0.000564040263797;THUSAM-S-E-2A
+0056;0;ir ionizing radiation;3;0.0546579027949;0;ir detection;14;0.000564040263797;THUSAM-S-E-2A
+0056;0;ir investor relation;4;0.0459743757827;0;ir stock;16;0.000477264838598;THUSAM-S-E-2A
+0056;0;ir injured reserve list;5;0.0443605281259;0;ir hockey injure reserve;29;4.33877125998E-5;THUSAM-S-E-2A
+0057;0;lost (tv series);1;0.53086685433;0;lost episode;1;0.235593407809;THUSAM-S-E-2A
+0057;0;lost (tv series);1;0.53086685433;0;lost space;2;0.0760977767946;THUSAM-S-E-2A
+0057;0;lost (tv series);1;0.53086685433;0;lost season;3;0.0730007742506;THUSAM-S-E-2A
+0057;0;lost (tv series);1;0.53086685433;0;lost online watch;4;0.0522066143125;THUSAM-S-E-2A
+0057;0;lost (tv series);1;0.53086685433;0;lost girl;5;0.0485565756;THUSAM-S-E-2A
+0057;0;lost (tv series);1;0.53086685433;0;lost series;6;0.0392655679681;THUSAM-S-E-2A
+0057;0;lost (tv series);1;0.53086685433;0;lost book;7;0.0347306713859;THUSAM-S-E-2A
+0057;0;lost (tv series);1;0.53086685433;0;lost paradise;8;0.0332927773476;THUSAM-S-E-2A
+0057;0;lost (tv series);1;0.53086685433;0;lost music;9;0.0306382037385;THUSAM-S-E-2A
+0057;0;lost (tv series);1;0.53086685433;0;lost finale;10;0.0275412011945;THUSAM-S-E-2A
+0057;0;lost (2001 tv series);2;0.032957569704;0;lost cash;11;0.000884857869705;THUSAM-S-E-2A
+0057;0;lost (2001 tv series);2;0.032957569704;0;lost money;12;0.000884857869704;THUSAM-S-E-2A
+0057;0;lost (2004 film);3;0.0315918000493;0;lost trailer;14;0.000663643402278;THUSAM-S-E-2A
+0057;0;lost (2004 film);3;0.0315918000493;0;lost dean cain;15;0.000553036168565;THUSAM-S-E-2A
+0057;0;lost (1956 film);4;0.0300465784556;0;lost child;16;0.000331821701139;THUSAM-S-E-2A
+0057;0;lost (stargate universe);5;0.0292789819306;0;lost universe;13;0.000774250635991;THUSAM-S-E-2A
+0057;0;lost (stargate universe);5;0.0292789819306;0;lost memory;17;0.000110607233713;THUSAM-S-E-2A
+0058;0;shrew;1;0.245263847178;0;shrew house;2;0.0345060893098;THUSAM-S-E-2A
+0058;0;shrew;1;0.245263847178;0;shrew eat;3;0.0142083897158;THUSAM-S-E-2A
+0058;0;shrew;1;0.245263847178;0;shrew pygmy;4;0.00947225981055;THUSAM-S-E-2A
+0058;0;shrew;1;0.245263847178;0;shrew rodent;5;0.00879566982408;THUSAM-S-E-2A
+0058;0;shrew;1;0.245263847178;0;shrew kill;6;0.00541271989174;THUSAM-S-E-2A
+0058;0;shrew;1;0.245263847178;0;shrew water;9;0.00270635994587;THUSAM-S-E-2A
+0058;0;shrew;1;0.245263847178;0;shrew food;10;0.0020297699594;THUSAM-S-E-2A
+0058;0;shrew;1;0.245263847178;0;shrew african;11;0.0020297699594;THUSAM-S-E-2A
+0058;0;shrew;1;0.245263847178;0;shrew venom;12;0.00135317997294;THUSAM-S-E-2A
+0058;0;shrew;1;0.245263847178;0;shrew live;13;0.00135317997294;THUSAM-S-E-2A
+0058;0;elephant shrew;2;0.191026712128;0;shrew elephant;1;0.0541271989174;THUSAM-S-E-2A
+0058;0;elephant shrew;2;0.191026712128;0;shrew trap;7;0.00473612990527;THUSAM-S-E-2A
+0058;0;elephant shrew;2;0.191026712128;0;shrew identification;14;0.00135317997294;THUSAM-S-E-2A
+0058;0;elephant shrew;2;0.191026712128;0;shrew english;15;0.000676589986468;THUSAM-S-E-2A
+0058;0;elephant shrew;2;0.191026712128;0;shrew long nose;16;0.000676589986468;THUSAM-S-E-2A
+0058;0;treeshrew;3;0.153340709463;0;shrew soft;8;0.00338294993234;THUSAM-S-E-2A
+0058;0;otter shrew;4;0.116806286269;0;;;;THUSAM-S-E-2A
+0058;0;west indies shrew;5;0.100119673945;0;;;;THUSAM-S-E-2A
+0059;0;symmetry in biology;1;0.186207880365;0;symmetry radial;1;0.0162439441436;THUSAM-S-E-2A
+0059;0;symmetry in biology;1;0.186207880365;0;symmetry bilateral;3;0.0071245369051;THUSAM-S-E-2A
+0059;0;symmetry in biology;1;0.186207880365;0;symmetry body;7;0.00470219435737;THUSAM-S-E-2A
+0059;0;symmetry in biology;1;0.186207880365;0;symmetry biology;13;0.00327728697635;THUSAM-S-E-2A
+0059;0;symmetry in biology;1;0.186207880365;0;symmetry animal;14;0.00313479623824;THUSAM-S-E-2A
+0059;0;symmetry in biology;1;0.186207880365;0;symmetry virus;18;0.00284981476204;THUSAM-S-E-2A
+0059;0;symmetry in biology;1;0.186207880365;0;symmetry echinoderm;19;0.00270732402394;THUSAM-S-E-2A
+0059;0;symmetry in biology;1;0.186207880365;0;symmetry define;22;0.00270732402394;THUSAM-S-E-2A
+0059;0;symmetry in biology;1;0.186207880365;0;symmetry star;25;0.00256483328584;THUSAM-S-E-2A
+0059;0;symmetry in biology;1;0.186207880365;0;symmetry explain;27;0.00256483328584;THUSAM-S-E-2A
+0059;0;symmetry in mathematics;2;0.163391480119;0;symmetry graph;6;0.00512966657167;THUSAM-S-E-2A
+0059;0;symmetry in mathematics;2;0.163391480119;0;symmetry mathematics;8;0.00441721288116;THUSAM-S-E-2A
+0059;0;symmetry in mathematics;2;0.163391480119;0;symmetry function;9;0.00427472214306;THUSAM-S-E-2A
+0059;0;symmetry in mathematics;2;0.163391480119;0;symmetry point;17;0.00299230550014;THUSAM-S-E-2A
+0059;0;symmetry in mathematics;2;0.163391480119;0;symmetry history;20;0.00270732402394;THUSAM-S-E-2A
+0059;0;symmetry in mathematics;2;0.163391480119;0;symmetry reflection;21;0.00270732402394;THUSAM-S-E-2A
+0059;0;symmetry in mathematics;2;0.163391480119;0;symmetry property;26;0.00256483328584;THUSAM-S-E-2A
+0059;0;symmetry in mathematics;2;0.163391480119;0;symmetry discover;32;0.00170988885722;THUSAM-S-E-2A
+0059;0;symmetry in mathematics;2;0.163391480119;0;symmetry congruent;33;0.00170988885722;THUSAM-S-E-2A
+0059;0;symmetry in mathematics;2;0.163391480119;0;symmetry space;34;0.00170988885722;THUSAM-S-E-2A
+0059;0;symmetry (physics);3;0.14821643416;0;symmetry physic;5;0.00541464804788;THUSAM-S-E-2A
+0059;0;symmetry (physics);3;0.14821643416;0;symmetry polygon;10;0.00427472214306;THUSAM-S-E-2A
+0059;0;symmetry (physics);3;0.14821643416;0;symmetry break;11;0.00398974066686;THUSAM-S-E-2A
+0059;0;symmetry (physics);3;0.14821643416;0;symmetry interactive;15;0.00299230550014;THUSAM-S-E-2A
+0059;0;symmetry (physics);3;0.14821643416;0;symmetry rotation;16;0.00299230550014;THUSAM-S-E-2A
+0059;0;symmetry (physics);3;0.14821643416;0;symmetry application;23;0.00256483328584;THUSAM-S-E-2A
+0059;0;symmetry (physics);3;0.14821643416;0;symmetry triangle;28;0.00242234254773;THUSAM-S-E-2A
+0059;0;symmetry (physics);3;0.14821643416;0;symmetry picture;29;0.00227985180963;THUSAM-S-E-2A
+0059;0;symmetry (physics);3;0.14821643416;0;symmetry youtube;30;0.00199487033343;THUSAM-S-E-2A
+0059;0;symmetry (physics);3;0.14821643416;0;symmetry theory;31;0.00185237959533;THUSAM-S-E-2A
+0059;0;symmetry (physical attractiveness);4;0.13549878745;0;symmetry face;2;0.00997435166715;THUSAM-S-E-2A
+0059;0;symmetry (physical attractiveness);4;0.13549878745;0;symmetry facial;4;0.00584212026219;THUSAM-S-E-2A
+0059;0;symmetry (physical attractiveness);4;0.13549878745;0;symmetry information;12;0.00341977771445;THUSAM-S-E-2A
+0059;0;symmetry (physical attractiveness);4;0.13549878745;0;symmetry beauty;24;0.00256483328584;THUSAM-S-E-2A
+0059;0;symmetry (physical attractiveness);4;0.13549878745;0;symmetry physical;37;0.000854944428612;THUSAM-S-E-2A
+0059;0;symmetry (physical attractiveness);4;0.13549878745;0;symmetry measure;38;0.000854944428612;THUSAM-S-E-2A
+0059;0;symmetry (physical attractiveness);4;0.13549878745;0;symmetry detection;39;0.000854944428612;THUSAM-S-E-2A
+0059;0;symmetry (physical attractiveness);4;0.13549878745;0;symmetry human;42;0.000569962952408;THUSAM-S-E-2A
+0059;0;symmetry (physical attractiveness);4;0.13549878745;0;symmetry health;43;0.000427472214306;THUSAM-S-E-2A
+0059;0;symmetry (physical attractiveness);4;0.13549878745;0;symmetry brain;44;0.000142490738102;THUSAM-S-E-2A
+0059;0;symmetry (band);5;0.0986566396883;0;symmetry video;35;0.00156739811912;THUSAM-S-E-2A
+0059;0;symmetry (band);5;0.0986566396883;0;symmetry music;36;0.00156739811912;THUSAM-S-E-2A
+0059;0;symmetry (band);5;0.0986566396883;0;symmetry fashion;40;0.000854944428612;THUSAM-S-E-2A
+0059;0;symmetry (band);5;0.0986566396883;0;symmetry musical;41;0.000854944428612;THUSAM-S-E-2A
+0060;0;the presidents of the united states of america contents;1;0.273094804932;0;;;;THUSAM-S-E-2A
+0060;0;the presidents of the united states of america powers and duties;2;0.234889832222;0;the presidents of the united states of america vice;1;0.020725388601;THUSAM-S-E-2A
+0060;0;the presidents of the united states of america compensation;3;0.195067717809;0;;;;THUSAM-S-E-2A
+0060;0;the presidents of the united states of america timeline of presidents;4;0.156054174247;0;;;;THUSAM-S-E-2A
+0060;0;the presidents of the united states of america notes;5;0.117040630685;0;;;;THUSAM-S-E-2A
+0061;0;microsoft windows;1;0.498612979244;0;windows microsoft;1;0.0692238291821;THUSAM-S-E-2A
+0061;0;microsoft windows;1;0.498612979244;0;windows upgrade;2;0.0623615933509;THUSAM-S-E-2A
+0061;0;microsoft windows;1;0.498612979244;0;windows update;3;0.0555540366897;THUSAM-S-E-2A
+0061;0;microsoft windows;1;0.498612979244;0;windows xp;4;0.0408180003827;THUSAM-S-E-2A
+0061;0;microsoft windows;1;0.498612979244;0;windows server;5;0.040189189928;THUSAM-S-E-2A
+0061;0;microsoft windows;1;0.498612979244;0;windows live;6;0.0335456707767;THUSAM-S-E-2A
+0061;0;microsoft windows;1;0.498612979244;0;windows phone;7;0.0298548268037;THUSAM-S-E-2A
+0061;0;microsoft windows;1;0.498612979244;0;windows security;8;0.0297181288787;THUSAM-S-E-2A
+0061;0;microsoft windows;1;0.498612979244;0;windows live messenger;9;0.0293900538589;THUSAM-S-E-2A
+0061;0;microsoft windows;1;0.498612979244;0;windows medium player;10;0.0270388495502;THUSAM-S-E-2A
+0061;0;openwindows;2;0.11639020718;0;windows operate;11;0.0187276157147;THUSAM-S-E-2A
+0061;0;openwindows;2;0.11639020718;0;windows pc;12;0.00344478770812;THUSAM-S-E-2A
+0061;0;openwindows;2;0.11639020718;0;windows video;13;0.00265193974355;THUSAM-S-E-2A
+0061;0;openwindows;2;0.11639020718;0;windows app;14;0.00202312928889;THUSAM-S-E-2A
+0061;0;openwindows;2;0.11639020718;0;windows client;15;0.00191377094895;THUSAM-S-E-2A
+0061;0;openwindows;2;0.11639020718;0;windows putty;16;0.00188643136397;THUSAM-S-E-2A
+0061;0;openwindows;2;0.11639020718;0;windows ssh;17;0.0012849604943;THUSAM-S-E-2A
+0061;0;openwindows;2;0.11639020718;0;windows program;18;0.00112092298439;THUSAM-S-E-2A
+0061;0;openwindows;2;0.11639020718;0;windows secure;19;0.0010935833994;THUSAM-S-E-2A
+0061;0;openwindows;2;0.11639020718;0;windows rt;20;0.00101156464445;THUSAM-S-E-2A
+0061;0;decwindows;3;0.0869622955622;0;windows mail;21;0.000984225059464;THUSAM-S-E-2A
+0061;0;decwindows;3;0.0869622955622;0;windows quick launch;26;5.46791699702E-5;THUSAM-S-E-2A
+0061;0;windows (film);4;0.0799665153025;0;windows film;23;0.000300735434836;THUSAM-S-E-2A
+0061;0;windows (film);4;0.0799665153025;0;windows frost;24;0.00010935833994;THUSAM-S-E-2A
+0061;0;windows (musical group);5;0.0734590535485;0;windows music;22;0.000574131284685;THUSAM-S-E-2A
+0061;0;windows (musical group);5;0.0734590535485;0;windows career;25;8.20187549553E-5;THUSAM-S-E-2A
+0062;0;chuck prophet;1;0.0901023679285;0;prophet chuck;2;0.00844374270611;THUSAM-S-E-2A
+0062;0;chuck prophet;1;0.0901023679285;0;prophet miracle;6;0.00329511910483;THUSAM-S-E-2A
+0062;0;chuck prophet;1;0.0901023679285;0;prophet song;8;0.00260863595799;THUSAM-S-E-2A
+0062;0;chuck prophet;1;0.0901023679285;0;prophet true;12;0.00178485618178;THUSAM-S-E-2A
+0062;0;chuck prophet;1;0.0901023679285;0;prophet john;17;0.00109837303494;THUSAM-S-E-2A
+0062;0;chuck prophet;1;0.0901023679285;0;prophet bob;21;0.000823779776207;THUSAM-S-E-2A
+0062;0;chuck prophet;1;0.0901023679285;0;prophet great;22;0.000755131461523;THUSAM-S-E-2A
+0062;0;chuck prophet;1;0.0901023679285;0;prophet non;23;0.000686483146838;THUSAM-S-E-2A
+0062;0;chuck prophet;1;0.0901023679285;0;prophet usa;24;0.000549186517471;THUSAM-S-E-2A
+0062;0;chuck prophet;1;0.0901023679285;0;prophet heart;26;0.000549186517471;THUSAM-S-E-2A
+0062;0;elizabeth clare prophet;2;0.0817085978109;0;prophet christian;4;0.00418754719572;THUSAM-S-E-2A
+0062;0;elizabeth clare prophet;2;0.0817085978109;0;prophet role;9;0.00219674606988;THUSAM-S-E-2A
+0062;0;elizabeth clare prophet;2;0.0817085978109;0;prophet christ;13;0.0017162078671;THUSAM-S-E-2A
+0062;0;elizabeth clare prophet;2;0.0817085978109;0;prophet teaching;15;0.00109837303494;THUSAM-S-E-2A
+0062;0;elizabeth clare prophet;2;0.0817085978109;0;prophet spiritual;16;0.00109837303494;THUSAM-S-E-2A
+0062;0;elizabeth clare prophet;2;0.0817085978109;0;prophet school;18;0.000892428090891;THUSAM-S-E-2A
+0062;0;elizabeth clare prophet;2;0.0817085978109;0;prophet religious;19;0.00089242809089;THUSAM-S-E-2A
+0062;0;elizabeth clare prophet;2;0.0817085978109;0;prophet king;20;0.000823779776207;THUSAM-S-E-2A
+0062;0;elizabeth clare prophet;2;0.0817085978109;0;prophet church;25;0.000549186517471;THUSAM-S-E-2A
+0062;0;elizabeth clare prophet;2;0.0817085978109;0;prophet gift;29;0.000549186517471;THUSAM-S-E-2A
+0062;0;prophet (comics);3;0.0798140976648;0;prophet film;1;0.0105718404613;THUSAM-S-E-2A
+0062;0;prophet (comics);3;0.0798140976648;0;prophet image;5;0.00391295393698;THUSAM-S-E-2A
+0062;0;prophet (comics);3;0.0798140976648;0;prophet world;7;0.00274593258736;THUSAM-S-E-2A
+0062;0;prophet (comics);3;0.0798140976648;0;prophet comic;10;0.00199080112583;THUSAM-S-E-2A
+0062;0;prophet (comics);3;0.0798140976648;0;prophet vol;14;0.00123566966431;THUSAM-S-E-2A
+0062;0;prophet (comics);3;0.0798140976648;0;prophet main;27;0.000549186517471;THUSAM-S-E-2A
+0062;0;prophet (comics);3;0.0798140976648;0;prophet belief;28;0.000549186517471;THUSAM-S-E-2A
+0062;0;prophet (comics);3;0.0798140976648;0;prophet rob liefeld;30;0.000549186517471;THUSAM-S-E-2A
+0062;0;prophet (comics);3;0.0798140976648;0;prophet review;33;0.000274593258736;THUSAM-S-E-2A
+0062;0;prophet (comics);3;0.0798140976648;0;prophet kansa city;35;0.000137296629368;THUSAM-S-E-2A
+0062;0;the prophet (book);4;0.0688971143464;0;prophet gibran;3;0.00439349213977;THUSAM-S-E-2A
+0062;0;the prophet (book);4;0.0688971143464;0;prophet history;11;0.00185350449646;THUSAM-S-E-2A
+0062;0;the prophet (book);4;0.0688971143464;0;prophet different;31;0.000549186517471;THUSAM-S-E-2A
+0062;0;the prophet (book);4;0.0688971143464;0;prophet english;32;0.000549186517471;THUSAM-S-E-2A
+0062;0;the prophet (book);4;0.0688971143464;0;prophet kahlil;34;0.000274593258735;THUSAM-S-E-2A
+0062;0;david prophet;5;0.0668675269625;0;;;;THUSAM-S-E-2A
+0063;0;gold contents;1;0.16552609336;0;gold monetary;25;0.000151676020021;THUSAM-S-E-2A
+0063;0;gold contents;1;0.16552609336;0;gold crystalline;29;3.79190050053E-5;THUSAM-S-E-2A
+0063;0;gold contents;1;0.16552609336;0;gold native;30;3.79190050053E-5;THUSAM-S-E-2A
+0063;0;gold characteristics;2;0.153994656635;0;gold white;2;0.0448581829213;THUSAM-S-E-2A
+0063;0;gold characteristics;2;0.153994656635;0;gold ounce;3;0.0366297588351;THUSAM-S-E-2A
+0063;0;gold characteristics;2;0.153994656635;0;gold color;5;0.0331032913696;THUSAM-S-E-2A
+0063;0;gold characteristics;2;0.153994656635;0;gold worth;6;0.0326482633096;THUSAM-S-E-2A
+0063;0;gold characteristics;2;0.153994656635;0;gold element;7;0.00989686030639;THUSAM-S-E-2A
+0063;0;gold characteristics;2;0.153994656635;0;gold property;13;0.00276808736539;THUSAM-S-E-2A
+0063;0;gold characteristics;2;0.153994656635;0;gold electroplate;20;0.000872137115122;THUSAM-S-E-2A
+0063;0;gold characteristics;2;0.153994656635;0;gold isotope;21;0.00064462308509;THUSAM-S-E-2A
+0063;0;gold characteristics;2;0.153994656635;0;gold number;22;0.000606704080086;THUSAM-S-E-2A
+0063;0;gold characteristics;2;0.153994656635;0;gold pure;23;0.000341271045048;THUSAM-S-E-2A
+0063;0;gold cultural history;3;0.141177590507;0;gold price;1;0.150917639921;THUSAM-S-E-2A
+0063;0;gold cultural history;3;0.141177590507;0;gold silver;4;0.0351888366449;THUSAM-S-E-2A
+0063;0;gold cultural history;3;0.141177590507;0;gold value;8;0.00966934627636;THUSAM-S-E-2A
+0063;0;gold cultural history;3;0.141177590507;0;gold symbol;9;0.00595328378584;THUSAM-S-E-2A
+0063;0;gold cultural history;3;0.141177590507;0;gold calculator;10;0.00322311542545;THUSAM-S-E-2A
+0063;0;gold cultural history;3;0.141177590507;0;gold indiana;11;0.00318519642045;THUSAM-S-E-2A
+0063;0;gold cultural history;3;0.141177590507;0;gold find;12;0.00295768239041;THUSAM-S-E-2A
+0063;0;gold cultural history;3;0.141177590507;0;gold world;14;0.00242681632034;THUSAM-S-E-2A
+0063;0;gold cultural history;3;0.141177590507;0;gold america;15;0.00227514030032;THUSAM-S-E-2A
+0063;0;gold cultural history;3;0.141177590507;0;gold detector;17;0.00197178826028;THUSAM-S-E-2A
+0063;0;gold production;4;0.124216487857;0;gold production;16;0.0021234642803;THUSAM-S-E-2A
+0063;0;gold production;4;0.124216487857;0;gold african;18;0.00159259821022;THUSAM-S-E-2A
+0063;0;gold production;4;0.124216487857;0;gold africa;19;0.00109965114515;THUSAM-S-E-2A
+0063;0;gold production;4;0.124216487857;0;gold trend;24;0.000151676020021;THUSAM-S-E-2A
+0063;0;gold production;4;0.124216487857;0;gold list;26;0.000151676020021;THUSAM-S-E-2A
+0063;0;gold production;4;0.124216487857;0;gold producer;27;0.000151676020021;THUSAM-S-E-2A
+0063;0;gold production;4;0.124216487857;0;gold underground;28;0.000113757015016;THUSAM-S-E-2A
+0063;0;gold bioremediation;5;0.110348636752;0;;;;THUSAM-S-E-2A
+0064;0;owl Owls;1;0.241320548094;0;owl fact;2;0.0617770767614;THUSAM-S-E-2A
+0064;0;owl Owls;1;0.241320548094;0;owl barn;3;0.0417981072556;THUSAM-S-E-2A
+0064;0;owl Owls;1;0.241320548094;0;owl sound;4;0.0237250262881;THUSAM-S-E-2A
+0064;0;owl Owls;1;0.241320548094;0;owl bird;5;0.0193217665615;THUSAM-S-E-2A
+0064;0;owl Owls;1;0.241320548094;0;owl specie;6;0.0150499474238;THUSAM-S-E-2A
+0064;0;owl Owls;1;0.241320548094;0;owl screech;7;0.013538380652;THUSAM-S-E-2A
+0064;0;owl Owls;1;0.241320548094;0;owl snowy;8;0.0130126182965;THUSAM-S-E-2A
+0064;0;owl Owls;1;0.241320548094;0;owl great horn;9;0.0115667718191;THUSAM-S-E-2A
+0064;0;owl Owls;1;0.241320548094;0;owl bar;10;0.0105809674027;THUSAM-S-E-2A
+0064;0;owl Owls;1;0.241320548094;0;owl hoot;11;0.0103838065195;THUSAM-S-E-2A
+0064;0;owl (winnie the pooh);2;0.093923200611;0;owl city;1;0.0961487907467;THUSAM-S-E-2A
+0064;0;owl (winnie the pooh);2;0.093923200611;0;owl white;12;0.00637486855942;THUSAM-S-E-2A
+0064;0;owl (winnie the pooh);2;0.093923200611;0;owl list;13;0.00617770767613;THUSAM-S-E-2A
+0064;0;owl (winnie the pooh);2;0.093923200611;0;owl adaptation;14;0.00276025236593;THUSAM-S-E-2A
+0064;0;owl (winnie the pooh);2;0.093923200611;0;owl toy;15;0.00216876971609;THUSAM-S-E-2A
+0064;0;owl (winnie the pooh);2;0.093923200611;0;owl ornament;17;0.00151156677182;THUSAM-S-E-2A
+0064;0;owl (winnie the pooh);2;0.093923200611;0;owl mask;20;0.00138012618297;THUSAM-S-E-2A
+0064;0;owl (winnie the pooh);2;0.093923200611;0;owl appearance;22;0.00131440588854;THUSAM-S-E-2A
+0064;0;owl (winnie the pooh);2;0.093923200611;0;owl garden;24;0.00111724500526;THUSAM-S-E-2A
+0064;0;owl (winnie the pooh);2;0.093923200611;0;owl house;26;0.000920084121977;THUSAM-S-E-2A
+0064;0;owl origami;3;0.0459877095234;0;charms for origami owl;28;0.000328601472135;THUSAM-S-E-2A
+0064;0;owl origami;3;0.0459877095234;0;origami owl catalog;29;0.000328601472135;THUSAM-S-E-2A
+0064;0;owl origami;3;0.0459877095234;0;owl origami ideas;30;0.000328601472135;THUSAM-S-E-2A
+0064;0;owl origami;3;0.0459877095234;0;review origami owl;31;0.000328601472135;THUSAM-S-E-2A
+0064;0;owl origami;3;0.0459877095234;0;origami owl designers;36;0.000262881177708;THUSAM-S-E-2A
+0064;0;owl origami;3;0.0459877095234;0;origami owl business;37;0.000262881177708;THUSAM-S-E-2A
+0064;0;owl origami;3;0.0459877095234;0;origami owl address;38;0.000262881177708;THUSAM-S-E-2A
+0064;0;owl origami;3;0.0459877095234;0;origami owl tools;40;6.57202944269E-5;THUSAM-S-E-2A
+0064;0;owl origami;3;0.0459877095234;0;origami owl folding;41;6.57202944269E-5;THUSAM-S-E-2A
+0064;0;owl origami;3;0.0459877095234;0;origami owl faq;42;6.57202944269E-5;THUSAM-S-E-2A
+0064;0;fraternal order of owls;4;0.0239887654027;0;owl africa;16;0.00197160883281;THUSAM-S-E-2A
+0064;0;fraternal order of owls;4;0.0239887654027;0;owl australia;21;0.00131440588854;THUSAM-S-E-2A
+0064;0;fraternal order of owls;4;0.0239887654027;0;owl nest;25;0.00105152471083;THUSAM-S-E-2A
+0064;0;fraternal order of owls;4;0.0239887654027;0;owl religion;35;0.000328601472135;THUSAM-S-E-2A
+0064;0;the owl club;5;0.0238480093841;0;owl city music;18;0.00138012618297;THUSAM-S-E-2A
+0064;0;the owl club;5;0.0238480093841;0;owl history;19;0.00138012618297;THUSAM-S-E-2A
+0064;0;the owl club;5;0.0238480093841;0;owl music;23;0.00111724500526;THUSAM-S-E-2A
+0064;0;the owl club;5;0.0238480093841;0;owl oxford;27;0.000525762355415;THUSAM-S-E-2A
+0064;0;the owl club;5;0.0238480093841;0;owl service;32;0.000328601472135;THUSAM-S-E-2A
+0064;0;the owl club;5;0.0238480093841;0;owl experience;33;0.000328601472135;THUSAM-S-E-2A
+0064;0;the owl club;5;0.0238480093841;0;owl language;34;0.000328601472135;THUSAM-S-E-2A
+0064;0;the owl club;5;0.0238480093841;0;owl musical;39;0.000131440588854;THUSAM-S-E-2A
+0065;0;adobe contents;1;0.316908520536;0;;;;THUSAM-S-E-2A
+0065;0;adobe composition;2;0.272749938458;0;adobe effect;1;0.020355524573;THUSAM-S-E-2A
+0065;0;adobe composition;2;0.272749938458;0;adobe make;3;0.00264900662252;THUSAM-S-E-2A
+0065;0;adobe composition;2;0.272749938458;0;adobe class;6;0.00111537120948;THUSAM-S-E-2A
+0065;0;adobe composition;2;0.272749938458;0;adobe sale;12;0.000348553502963;THUSAM-S-E-2A
+0065;0;adobe composition;2;0.272749938458;0;adobe straw;18;6.97107005925E-5;THUSAM-S-E-2A
+0065;0;adobe composition;2;0.272749938458;0;adobe soil;22;6.97107005925E-5;THUSAM-S-E-2A
+0065;0;adobe material properties;3;0.226432660687;0;adobe wall;4;0.00125479261067;THUSAM-S-E-2A
+0065;0;adobe material properties;3;0.226432660687;0;adobe load;14;0.00027884280237;THUSAM-S-E-2A
+0065;0;adobe adobe roof;4;0.181216822678;0;adobe construction;5;0.00118508191007;THUSAM-S-E-2A
+0065;0;adobe adobe roof;4;0.181216822678;0;adobe roof;7;0.00083652840711;THUSAM-S-E-2A
+0065;0;adobe adobe roof;4;0.181216822678;0;adobe layer;10;0.000487974904147;THUSAM-S-E-2A
+0065;0;adobe adobe roof;4;0.181216822678;0;adobe account;16;0.000209132101778;THUSAM-S-E-2A
+0065;0;adobe adobe roof;4;0.181216822678;0;adobe stabilize;23;6.97107005925E-5;THUSAM-S-E-2A
+0065;0;adobe house;5;0.000353470639845;0;adobe brick;2;0.00320669222726;THUSAM-S-E-2A
+0065;0;adobe house;5;0.000353470639845;0;adobe material;8;0.000697107005925;THUSAM-S-E-2A
+0065;0;adobe house;5;0.000353470639845;0;adobe house plans;9;0.000487974904148;THUSAM-S-E-2A
+0065;0;adobe house;5;0.000353470639845;0;build adobe house;11;0.000418264203555;THUSAM-S-E-2A
+0065;0;adobe house;5;0.000353470639845;0;adobe build;13;0.000278842802371;THUSAM-S-E-2A
+0065;0;adobe house;5;0.000353470639845;0;picture of adobe house;15;0.000209132101778;THUSAM-S-E-2A
+0065;0;adobe house;5;0.000353470639845;0;adobe plan floor;17;6.97107005925E-5;THUSAM-S-E-2A
+0065;0;adobe house;5;0.000353470639845;0;adobe style house plans;19;6.97107005925E-5;THUSAM-S-E-2A
+0065;0;adobe house;5;0.000353470639845;0;small adobe house plans;20;6.97107005925E-5;THUSAM-S-E-2A
+0065;0;adobe house;5;0.000353470639845;0;adobe house floor plans;21;6.97107005925E-5;THUSAM-S-E-2A
+0066;0;legend zelda;1;0.216085379498;0;legend seeker;3;0.0915178571429;THUSAM-S-E-2A
+0066;0;legend zelda;1;0.216085379498;0;legend korra;4;0.0860615079365;THUSAM-S-E-2A
+0066;0;legend zelda;1;0.216085379498;0;legend movie;6;0.0619047619048;THUSAM-S-E-2A
+0066;0;legend zelda;1;0.216085379498;0;legend of zelda concept art;29;0.000347222222222;THUSAM-S-E-2A
+0066;0;legend zelda;1;0.216085379498;0;legend of zelda game online;30;0.000347222222222;THUSAM-S-E-2A
+0066;0;legend zelda;1;0.216085379498;0;the legend of zelda majora s mask;31;0.000297619047619;THUSAM-S-E-2A
+0066;0;legend zelda;1;0.216085379498;0;legend of zelda link s awakening;32;0.000297619047619;THUSAM-S-E-2A
+0066;0;legend zelda;1;0.216085379498;0;legend of zelda play online;38;4.96031746032E-5;THUSAM-S-E-2A
+0066;0;legend zelda;1;0.216085379498;0;nintendo 3ds legend of zelda;39;4.96031746032E-5;THUSAM-S-E-2A
+0066;0;legend zelda;1;0.216085379498;0;the legend of zelda the skyward sword;40;4.96031746032E-5;THUSAM-S-E-2A
+0066;0;urban legend;2;0.171101044916;0;legend myth;1;0.119642857143;THUSAM-S-E-2A
+0066;0;urban legend;2;0.171101044916;0;legend urban;5;0.0732142857143;THUSAM-S-E-2A
+0066;0;urban legend;2;0.171101044916;0;legend story;7;0.0531746031746;THUSAM-S-E-2A
+0066;0;urban legend;2;0.171101044916;0;legend famous;10;0.00585317460317;THUSAM-S-E-2A
+0066;0;urban legend;2;0.171101044916;0;legend film;11;0.00525793650794;THUSAM-S-E-2A
+0066;0;urban legend;2;0.171101044916;0;legend folklore;12;0.0046626984127;THUSAM-S-E-2A
+0066;0;urban legend;2;0.171101044916;0;legend cast;13;0.00436507936508;THUSAM-S-E-2A
+0066;0;urban legend;2;0.171101044916;0;legend dvd;14;0.00396825396825;THUSAM-S-E-2A
+0066;0;urban legend;2;0.171101044916;0;legend true;15;0.00391865079365;THUSAM-S-E-2A
+0066;0;urban legend;2;0.171101044916;0;legend matheson;18;0.00262896825397;THUSAM-S-E-2A
+0066;0;john legend;3;0.062310120644;0;legend john;2;0.103025793651;THUSAM-S-E-2A
+0066;0;john legend;3;0.062310120644;0;legend music;20;0.00128968253968;THUSAM-S-E-2A
+0066;0;john legend;3;0.062310120644;0;legend village;21;0.00124007936508;THUSAM-S-E-2A
+0066;0;john legend;3;0.062310120644;0;legend robin hood;24;0.00104166666667;THUSAM-S-E-2A
+0066;0;john legend;3;0.062310120644;0;legend nyc;35;9.92063492063E-5;THUSAM-S-E-2A
+0066;0;john legend;3;0.062310120644;0;legend piano people ordinary john chord;36;4.96031746032E-5;THUSAM-S-E-2A
+0066;0;legend (bob marley &amp; the wailers album);4;0.0304377053191;0;legend bob marley;8;0.0179067460317;THUSAM-S-E-2A
+0066;0;legend (bob marley &amp; the wailers album);4;0.0304377053191;0;legend song;16;0.0030257936508;THUSAM-S-E-2A
+0066;0;legend (bob marley &amp; the wailers album);4;0.0304377053191;0;legend wailer;17;0.00282738095238;THUSAM-S-E-2A
+0066;0;legend (bob marley &amp; the wailers album);4;0.0304377053191;0;legend youtube;19;0.0015873015873;THUSAM-S-E-2A
+0066;0;legend (bob marley &amp; the wailers album);4;0.0304377053191;0;legend bob marley;25;0.000892857142857;THUSAM-S-E-2A
+0066;0;legend (bob marley &amp; the wailers album);4;0.0304377053191;0;legend make;26;0.000843253968254;THUSAM-S-E-2A
+0066;0;legend (bob marley &amp; the wailers album);4;0.0304377053191;0;legend chart;33;0.000297619047619;THUSAM-S-E-2A
+0066;0;legend (bob marley &amp; the wailers album);4;0.0304377053191;0;legend album;41;4.96031746032E-5;THUSAM-S-E-2A
+0066;0;legend (bob marley &amp; the wailers album);4;0.0304377053191;0;legend remastered;42;4.96031746032E-5;THUSAM-S-E-2A
+0066;0;legend (lu novel);5;0.0236109560537;0;legend lu marie;9;0.00758928571429;THUSAM-S-E-2A
+0066;0;legend (lu novel);5;0.0236109560537;0;legend prodigy;22;0.00119047619048;THUSAM-S-E-2A
+0066;0;legend (lu novel);5;0.0236109560537;0;legend trilogy;23;0.00104166666667;THUSAM-S-E-2A
+0066;0;legend (lu novel);5;0.0236109560537;0;legend house;27;0.000496031746032;THUSAM-S-E-2A
+0066;0;legend (lu novel);5;0.0236109560537;0;legend write;28;0.000347222222222;THUSAM-S-E-2A
+0066;0;legend (lu novel);5;0.0236109560537;0;legend scene;34;0.000198412698413;THUSAM-S-E-2A
+0066;0;legend (lu novel);5;0.0236109560537;0;legend marie;37;4.96031746032E-5;THUSAM-S-E-2A
+0067;0;beijing subways map;1;0.342105263157;0;beijing subway map english;1;0.0131578947368;THUSAM-S-E-2A
+0067;0;beijing subways map;1;0.342105263157;0;printable beijing subway map;2;0.0131578947368;THUSAM-S-E-2A
+0067;0;beijing subways map;1;0.342105263157;0;beijing subway station map;4;0.0131578947368;THUSAM-S-E-2A
+0067;0;beijing subways line;2;0.223684210526;0;;;;THUSAM-S-E-2A
+0067;0;beijing subways station;3;0.0789473684209;0;dongzhimen subway station beijing;5;0.0131578947368;THUSAM-S-E-2A
+0067;0;beijing subways station;3;0.0789473684209;0;beijing west railway station subway;6;0.0131578947368;THUSAM-S-E-2A
+0067;0;beijing subways airport;4;0.0526315789472;0;;;;THUSAM-S-E-2A
+0067;0;beijing subways china;5;0.0263157894736;0;beijing china subway map;3;0.0131578947368;THUSAM-S-E-2A
+0068;0;camera;1;0.499189427361;0;camera digital;1;0.16360637713;THUSAM-S-E-2A
+0068;0;camera;1;0.499189427361;0;camera surveillance;2;0.050210738501;THUSAM-S-E-2A
+0068;0;camera;1;0.499189427361;0;camera nikon;3;0.0493311343229;THUSAM-S-E-2A
+0068;0;camera;1;0.499189427361;0;camera lens;4;0.0446765622137;THUSAM-S-E-2A
+0068;0;camera;1;0.499189427361;0;camera video;5;0.0428074033352;THUSAM-S-E-2A
+0068;0;camera;1;0.499189427361;0;camera sony digital;6;0.0331684075499;THUSAM-S-E-2A
+0068;0;camera;1;0.499189427361;0;camera review;7;0.0322521531977;THUSAM-S-E-2A
+0068;0;camera;1;0.499189427361;0;camera film;8;0.024079164376;THUSAM-S-E-2A
+0068;0;camera;1;0.499189427361;0;camera dslr;10;0.0194245922668;THUSAM-S-E-2A
+0068;0;camera;1;0.499189427361;0;camera canon;11;0.0137438152831;THUSAM-S-E-2A
+0068;0;camera (film);2;0.0794039249067;0;;;;THUSAM-S-E-2A
+0068;0;camera (newspaper);3;0.0744411796;0;;;;THUSAM-S-E-2A
+0068;0;camera obscura;4;0.0700824759707;0;camera underwater;9;0.0209272494044;THUSAM-S-E-2A
+0068;0;camera obscura;4;0.0700824759707;0;camera ocean;12;0.0047278724574;THUSAM-S-E-2A
+0068;0;camera obscura;4;0.0700824759707;0;camera san antonio;13;0.000549752611325;THUSAM-S-E-2A
+0068;0;camera obscura;4;0.0700824759707;0;camera house;15;0.000183250870442;THUSAM-S-E-2A
+0068;0;camera obscura;4;0.0700824759707;0;camera beach;16;0.000109950522265;THUSAM-S-E-2A
+0068;0;camera obscura;4;0.0700824759707;0;camera retina;17;0.000109950522265;THUSAM-S-E-2A
+0068;0;camera obscura;4;0.0700824759707;0;camera pin hole;19;3.66501740883E-5;THUSAM-S-E-2A
+0068;0;camera obscura;4;0.0700824759707;0;camera optic;20;3.66501740883E-5;THUSAM-S-E-2A
+0068;0;camera (magazine);5;0.0696699597032;0;camera magazine;14;0.000293201392707;THUSAM-S-E-2A
+0068;0;camera (magazine);5;0.0696699597032;0;camera artistic;18;3.66501740883E-5;THUSAM-S-E-2A
+0069;0;free dvd burner window;1;0.121046892039;0;dvd burner software windows 7;6;0.00436205016358;THUSAM-S-E-2A
+0069;0;free dvd burner window;1;0.121046892039;0;dvd burner for windows xp;7;0.00218102508179;THUSAM-S-E-2A
+0069;0;free dvd burner window;1;0.121046892039;0;freeware dvd burner windows;22;0.00109051254089;THUSAM-S-E-2A
+0069;0;free dvd burner window;1;0.121046892039;0;dvd burner program for windows 7;24;0.00109051254089;THUSAM-S-E-2A
+0069;0;free dvd burner window;1;0.121046892039;0;dvd burner for windows 7 64 bit;25;0.00109051254089;THUSAM-S-E-2A
+0069;0;free dvd burner cd;2;0.0948745910576;0;cd dvd burner software free download;5;0.00436205016358;THUSAM-S-E-2A
+0069;0;free dvd burner cd;2;0.0948745910576;0;cd burner freeware;8;0.00218102508179;THUSAM-S-E-2A
+0069;0;free dvd burner cd;2;0.0948745910576;0;cd dvd burner program;20;0.00109051254089;THUSAM-S-E-2A
+0069;0;free dvd burner freeware;3;0.0872410032715;0;convert flv to dvd freeware;12;0.00109051254089;THUSAM-S-E-2A
+0069;0;free dvd burner freeware;3;0.0872410032715;0;freeware rip dvd;14;0.00109051254089;THUSAM-S-E-2A
+0069;0;free dvd burner freeware;3;0.0872410032715;0;avi to dvd burner freeware;16;0.00109051254089;THUSAM-S-E-2A
+0069;0;free dvd burner freeware;3;0.0872410032715;0;freeware burn dvd;17;0.00109051254089;THUSAM-S-E-2A
+0069;0;free dvd burner freeware;3;0.0872410032715;0;rip dvd to avi freeware;26;0.00109051254089;THUSAM-S-E-2A
+0069;0;free dvd burner freeware;3;0.0872410032715;0;iso burner freeware download;27;0.00109051254089;THUSAM-S-E-2A
+0069;0;free dvd burner freeware;3;0.0872410032715;0;convert avi to dvd freeware;28;0.00109051254089;THUSAM-S-E-2A
+0069;0;free dvd burner software;4;0.0861504907305;0;dvd burner software free mac;2;0.00763358778626;THUSAM-S-E-2A
+0069;0;free dvd burner software;4;0.0861504907305;0;dvd burning software freeware;4;0.00436205016358;THUSAM-S-E-2A
+0069;0;free dvd burner software;4;0.0861504907305;0;multiple dvd burner software;10;0.00109051254089;THUSAM-S-E-2A
+0069;0;free dvd burner software;4;0.0861504907305;0;iso dvd burner software free download;11;0.00109051254089;THUSAM-S-E-2A
+0069;0;free dvd burner software;4;0.0861504907305;0;dvd burner software for xp;13;0.00109051254089;THUSAM-S-E-2A
+0069;0;free dvd burner software;4;0.0861504907305;0;hd dvd burner software;15;0.00109051254089;THUSAM-S-E-2A
+0069;0;free dvd burner software;4;0.0861504907305;0;hp dvd burner software free download;19;0.00109051254089;THUSAM-S-E-2A
+0069;0;free dvd burner software;4;0.0861504907305;0;dvd ripper and burner software;21;0.00109051254089;THUSAM-S-E-2A
+0069;0;free dvd burner software;4;0.0861504907305;0;dvd burner software pc;23;0.00109051254089;THUSAM-S-E-2A
+0069;0;free dvd burner mp;5;0.0501635768811;0;convert mp4 to dvd freeware;1;0.00763358778626;THUSAM-S-E-2A
+0069;0;free dvd burner mp;5;0.0501635768811;0;burn mp4 to dvd freeware;3;0.00763358778626;THUSAM-S-E-2A
+0069;0;free dvd burner mp;5;0.0501635768811;0;freeware mp4 to dvd;9;0.00218102508179;THUSAM-S-E-2A
+0069;0;free dvd burner mp;5;0.0501635768811;0;mp4 to dvd burner software;18;0.00109051254089;THUSAM-S-E-2A
+0070;0;lost season 5 episode;1;0.63063063063;0;lost season 5 episode guide;2;0.0135135135135;THUSAM-S-E-2A
+0070;0;lost season 5 episode;1;0.63063063063;0;watch lost season 5 episode 1;4;0.0135135135135;THUSAM-S-E-2A
+0070;0;lost season 5 episode;1;0.63063063063;0;lost season 4 episode 5 the constant;5;0.0045045045045;THUSAM-S-E-2A
+0070;0;lost season 5 online;2;0.0495495495495;0;watch lost season 5 online;3;0.0135135135135;THUSAM-S-E-2A
+0070;0;lost season 5 watch;3;0.0405405405405;0;watch lost girl season 5;8;0.0045045045045;THUSAM-S-E-2A
+0070;0;lost season 5 torrent;4;0.0315315315315;0;lost season 5 episode 1 torrent;6;0.0045045045045;THUSAM-S-E-2A
+0070;0;lost season 5 torrent;4;0.0315315315315;0;lost season 5 hd torrent;7;0.0045045045045;THUSAM-S-E-2A
+0070;0;lost season 5 ray blu;5;0.0315315315315;0;lost season 5 blu ray;1;0.0315315315315;THUSAM-S-E-2A
+0071;0;mobile phones contents;1;0.262649407965;0;mobile phones issue;21;0.00263132248319;THUSAM-S-E-2A
+0071;0;mobile phones contents;1;0.262649407965;0;mobile phones future;28;0.0010232920768;THUSAM-S-E-2A
+0071;0;mobile phones contents;1;0.262649407965;0;mobile phones kosher;35;0.000292369164799;THUSAM-S-E-2A
+0071;0;mobile phones features;2;0.234121381229;0;mobile phones india;2;0.0690478510867;THUSAM-S-E-2A
+0071;0;mobile phones features;2;0.234121381229;0;mobile phones internet;6;0.00565247051945;THUSAM-S-E-2A
+0071;0;mobile phones features;2;0.234121381229;0;mobile phones sim card;7;0.00531137316051;THUSAM-S-E-2A
+0071;0;mobile phones features;2;0.234121381229;0;mobile phones htc;9;0.00501900399571;THUSAM-S-E-2A
+0071;0;mobile phones features;2;0.234121381229;0;mobile phones feature;12;0.00409316830719;THUSAM-S-E-2A
+0071;0;mobile phones features;2;0.234121381229;0;mobile phones uk;14;0.00375207094825;THUSAM-S-E-2A
+0071;0;mobile phones features;2;0.234121381229;0;mobile phones find;15;0.00331351720105;THUSAM-S-E-2A
+0071;0;mobile phones features;2;0.234121381229;0;mobile phones text;16;0.00331351720105;THUSAM-S-E-2A
+0071;0;mobile phones features;2;0.234121381229;0;mobile phones make;17;0.00321606081279;THUSAM-S-E-2A
+0071;0;mobile phones features;2;0.234121381229;0;mobile phones small;18;0.00306987623039;THUSAM-S-E-2A
+0071;0;mobile phones manufacturers;3;0.201386346011;0;mobile phones price india;1;0.0802553357373;THUSAM-S-E-2A
+0071;0;mobile phones manufacturers;3;0.201386346011;0;mobile phones samsung;3;0.0467303381737;THUSAM-S-E-2A
+0071;0;mobile phones manufacturers;3;0.201386346011;0;mobile phones market;11;0.00443426566612;THUSAM-S-E-2A
+0071;0;mobile phones manufacturers;3;0.201386346011;0;mobile phones operate;25;0.00229022512426;THUSAM-S-E-2A
+0071;0;mobile phones manufacturers;3;0.201386346011;0;mobile phones worldwide;29;0.000877107494397;THUSAM-S-E-2A
+0071;0;mobile phones manufacturers;3;0.201386346011;0;mobile phones samsung india price;30;0.000584738329598;THUSAM-S-E-2A
+0071;0;mobile phones manufacturers;3;0.201386346011;0;mobile phones chinese;31;0.000487281941331;THUSAM-S-E-2A
+0071;0;mobile phones manufacturers;3;0.201386346011;0;mobile phones panasonic;33;0.000341097358932;THUSAM-S-E-2A
+0071;0;mobile phones manufacturers;3;0.201386346011;0;mobile phones communication;34;0.000292369164799;THUSAM-S-E-2A
+0071;0;mobile phones manufacturers;3;0.201386346011;0;mobile phones electronics;36;0.000292369164799;THUSAM-S-E-2A
+0071;0;mobile phones health effects;4;0.16576029166;0;mobile phones effect;4;0.010232920768;THUSAM-S-E-2A
+0071;0;mobile phones health effects;4;0.16576029166;0;mobile phones risk;5;0.00906344410877;THUSAM-S-E-2A
+0071;0;mobile phones health effects;4;0.16576029166;0;mobile phones world;8;0.00511646038398;THUSAM-S-E-2A
+0071;0;mobile phones health effects;4;0.16576029166;0;mobile phones radiation;10;0.00497027580158;THUSAM-S-E-2A
+0071;0;mobile phones health effects;4;0.16576029166;0;mobile phones health;19;0.00297241984212;THUSAM-S-E-2A
+0071;0;mobile phones health effects;4;0.16576029166;0;mobile phones brain;20;0.00292369164799;THUSAM-S-E-2A
+0071;0;mobile phones health effects;4;0.16576029166;0;mobile phones large;22;0.00243640970666;THUSAM-S-E-2A
+0071;0;mobile phones health effects;4;0.16576029166;0;mobile phones information;23;0.00238768151253;THUSAM-S-E-2A
+0071;0;mobile phones health effects;4;0.16576029166;0;mobile phones problem;24;0.00233895331839;THUSAM-S-E-2A
+0071;0;mobile phones health effects;4;0.16576029166;0;mobile phones cancer;26;0.00204658415359;THUSAM-S-E-2A
+0071;0;mobile phones environmental impact;5;0.131432637495;0;mobile phones impact;13;0.00380079914239;THUSAM-S-E-2A
+0071;0;mobile phones environmental impact;5;0.131432637495;0;mobile phones australia;27;0.00107202027093;THUSAM-S-E-2A
+0071;0;mobile phones environmental impact;5;0.131432637495;0;mobile phones europe;32;0.000389825553065;THUSAM-S-E-2A
+0072;0;programming languages contents;1;0.30887091471;0;programming languages dynamic;28;0.00130426681573;THUSAM-S-E-2A
+0072;0;programming languages history;2;0.279295719077;0;programming languages type;1;0.0516117011366;THUSAM-S-E-2A
+0072;0;programming languages history;2;0.279295719077;0;programming languages java;2;0.0465809577045;THUSAM-S-E-2A
+0072;0;programming languages history;2;0.279295719077;0;programming languages use;3;0.0361468231787;THUSAM-S-E-2A
+0072;0;programming languages history;2;0.279295719077;0;programming languages history;4;0.0320476989007;THUSAM-S-E-2A
+0072;0;programming languages history;2;0.279295719077;0;programming languages computer;5;0.0301844605925;THUSAM-S-E-2A
+0072;0;programming languages history;2;0.279295719077;0;programming languages example;6;0.0223588596982;THUSAM-S-E-2A
+0072;0;programming languages history;2;0.279295719077;0;programming languages late;8;0.0167691447736;THUSAM-S-E-2A
+0072;0;programming languages history;2;0.279295719077;0;programming languages popular;11;0.0115520775107;THUSAM-S-E-2A
+0072;0;programming languages history;2;0.279295719077;0;programming languages perl;19;0.00558971492454;THUSAM-S-E-2A
+0072;0;programming languages history;2;0.279295719077;0;programming languages top;20;0.0052170672629;THUSAM-S-E-2A
+0072;0;programming languages design and implementation;3;0.225858157428;0;programming languages software;7;0.0182597354202;THUSAM-S-E-2A
+0072;0;programming languages design and implementation;3;0.225858157428;0;programming languages definition;10;0.0150922302963;THUSAM-S-E-2A
+0072;0;programming languages design and implementation;3;0.225858157428;0;programming languages design;12;0.00950251537172;THUSAM-S-E-2A
+0072;0;programming languages design and implementation;3;0.225858157428;0;programming languages introduction;13;0.00875722004845;THUSAM-S-E-2A
+0072;0;programming languages design and implementation;3;0.225858157428;0;programming languages different;14;0.00838457238681;THUSAM-S-E-2A
+0072;0;programming languages design and implementation;3;0.225858157428;0;programming languages php;15;0.00819824855599;THUSAM-S-E-2A
+0072;0;programming languages design and implementation;3;0.225858157428;0;programming languages syntax;16;0.00782560089436;THUSAM-S-E-2A
+0072;0;programming languages design and implementation;3;0.225858157428;0;programming languages make;18;0.00577603875536;THUSAM-S-E-2A
+0072;0;programming languages design and implementation;3;0.225858157428;0;programming languages usage;21;0.00503074343209;THUSAM-S-E-2A
+0072;0;programming languages design and implementation;3;0.225858157428;0;programming languages simple;23;0.00391280044718;THUSAM-S-E-2A
+0072;0;programming languages taxonomies;4;0.177755310055;0;programming languages python;9;0.0158375256195;THUSAM-S-E-2A
+0072;0;programming languages taxonomies;4;0.177755310055;0;programming languages assembly;24;0.00372647661636;THUSAM-S-E-2A
+0072;0;programming languages taxonomies;4;0.177755310055;0;programming languages research;25;0.00279485746227;THUSAM-S-E-2A
+0072;0;programming languages taxonomies;4;0.177755310055;0;programming languages parallel;29;0.00111794298491;THUSAM-S-E-2A
+0072;0;programming languages taxonomies;4;0.177755310055;0;programming languages imperative;30;0.00111794298491;THUSAM-S-E-2A
+0072;0;programming languages taxonomies;4;0.177755310055;0;programming languages organization;32;0.00093161915409;THUSAM-S-E-2A
+0072;0;programming languages taxonomies;4;0.177755310055;0;programming languages classification;34;0.00093161915409;THUSAM-S-E-2A
+0072;0;programming languages taxonomies;4;0.177755310055;0;programming languages declarative;36;0.000558971492454;THUSAM-S-E-2A
+0072;0;programming languages taxonomies;4;0.177755310055;0;programming languages scheme;37;0.000558971492454;THUSAM-S-E-2A
+0072;0;programming languages taxonomies;4;0.177755310055;0;programming languages esoteric;38;0.000558971492454;THUSAM-S-E-2A
+0072;0;programming languages comparison;5;0.00101104754389;0;programming languages website;17;0.00670765790945;THUSAM-S-E-2A
+0072;0;programming languages comparison;5;0.00101104754389;0;programming languages game;22;0.00484441960127;THUSAM-S-E-2A
+0072;0;programming languages comparison;5;0.00101104754389;0;programming languages robotics;26;0.002049562139;THUSAM-S-E-2A
+0072;0;programming languages comparison;5;0.00101104754389;0;programming languages performance;27;0.00149059064654;THUSAM-S-E-2A
+0072;0;programming languages comparison;5;0.00101104754389;0;comparison of different programming languages;31;0.00093161915409;THUSAM-S-E-2A
+0072;0;programming languages comparison;5;0.00101104754389;0;comparison of object oriented programming languages;33;0.00093161915409;THUSAM-S-E-2A
+0072;0;programming languages comparison;5;0.00101104754389;0;programming languages speed;35;0.000745295323272;THUSAM-S-E-2A
+0073;0;tom cruise contents;1;0.31899566738;0;;;;THUSAM-S-E-2A
+0073;0;tom cruise career;2;0.290885838075;0;tom cruise movie;1;0.218949435444;THUSAM-S-E-2A
+0073;0;tom cruise career;2;0.290885838075;0;tom cruise film;5;0.0213549337261;THUSAM-S-E-2A
+0073;0;tom cruise career;2;0.290885838075;0;tom cruise child;7;0.0154639175258;THUSAM-S-E-2A
+0073;0;tom cruise career;2;0.290885838075;0;tom cruise kid;8;0.0139911634757;THUSAM-S-E-2A
+0073;0;tom cruise career;2;0.290885838075;0;tom cruise mission impossible;9;0.0115365733922;THUSAM-S-E-2A
+0073;0;tom cruise career;2;0.290885838075;0;tom cruise kidman;10;0.0110456553756;THUSAM-S-E-2A
+0073;0;tom cruise career;2;0.290885838075;0;tom cruise vampire;11;0.0103092783505;THUSAM-S-E-2A
+0073;0;tom cruise career;2;0.290885838075;0;tom cruise risky;12;0.00908198330879;THUSAM-S-E-2A
+0073;0;tom cruise career;2;0.290885838075;0;tom cruise oblivion;14;0.00785468826707;THUSAM-S-E-2A
+0073;0;tom cruise career;2;0.290885838075;0;tom cruise thunder;15;0.00760922925872;THUSAM-S-E-2A
+0073;0;tom cruise popularity;3;0.212807328914;0;tom cruise austin power;22;0.00171821305842;THUSAM-S-E-2A
+0073;0;tom cruise popularity;3;0.212807328914;0;tom cruise history;24;0.000981836033383;THUSAM-S-E-2A
+0073;0;tom cruise scientology;4;0.167275669468;0;tom cruise katie holmes;2;0.0385370643103;THUSAM-S-E-2A
+0073;0;tom cruise scientology;4;0.167275669468;0;tom cruise wife;3;0.0247913598429;THUSAM-S-E-2A
+0073;0;tom cruise scientology;4;0.167275669468;0;tom cruise scientology;4;0.0238095238095;THUSAM-S-E-2A
+0073;0;tom cruise scientology;4;0.167275669468;0;tom cruise divorce;6;0.0171821305842;THUSAM-S-E-2A
+0073;0;tom cruise scientology;4;0.167275669468;0;tom cruise david;13;0.00810014727541;THUSAM-S-E-2A
+0073;0;tom cruise scientology;4;0.167275669468;0;tom cruise suri;16;0.00613647520864;THUSAM-S-E-2A
+0073;0;tom cruise scientology;4;0.167275669468;0;tom cruise mimi;17;0.00466372115857;THUSAM-S-E-2A
+0073;0;tom cruise scientology;4;0.167275669468;0;tom cruise pic;18;0.00417280314188;THUSAM-S-E-2A
+0073;0;tom cruise scientology;4;0.167275669468;0;tom cruise daughter;19;0.00368188512519;THUSAM-S-E-2A
+0073;0;tom cruise scientology;4;0.167275669468;0;tom cruise late;20;0.00294550810015;THUSAM-S-E-2A
+0073;0;tom cruise girlfriend;5;0.000665553061544;0;tom cruise ex girlfriends;21;0.00171821305842;THUSAM-S-E-2A
+0073;0;tom cruise girlfriend;5;0.000665553061544;0;tom cruise girlfriend list;23;0.00122729504173;THUSAM-S-E-2A
+0073;0;tom cruise girlfriend;5;0.000665553061544;0;tom cruise girlfriend audition;25;0.000981836033382;THUSAM-S-E-2A
+0073;0;tom cruise girlfriend;5;0.000665553061544;0;tom cruise wifes and girlfriends;26;0.000981836033382;THUSAM-S-E-2A
+0073;0;tom cruise girlfriend;5;0.000665553061544;0;tom cruise latest girlfriend;27;0.000245459008346;THUSAM-S-E-2A
+0073;0;tom cruise girlfriend;5;0.000665553061544;0;tom cruise ex;28;0.000245459008346;THUSAM-S-E-2A
+0074;0;top ipad games top;1;0.147196261682;0;top strategy games for ipad;2;0.00525700934579;THUSAM-S-E-2A
+0074;0;top ipad games top;1;0.147196261682;0;top ipad rpg games;3;0.00525700934579;THUSAM-S-E-2A
+0074;0;top ipad games top;1;0.147196261682;0;top paid ipad games;6;0.00408878504673;THUSAM-S-E-2A
+0074;0;top ipad games top;1;0.147196261682;0;top multiplayer ipad games;7;0.00408878504673;THUSAM-S-E-2A
+0074;0;top ipad games top;1;0.147196261682;0;top rated games for ipad;8;0.00408878504673;THUSAM-S-E-2A
+0074;0;top ipad games top;1;0.147196261682;0;top ipad board games;10;0.00408878504673;THUSAM-S-E-2A
+0074;0;top ipad games top;1;0.147196261682;0;top ipad puzzle games;12;0.00292056074766;THUSAM-S-E-2A
+0074;0;top ipad games top;1;0.147196261682;0;top 10 free ipad games for kids;13;0.00292056074766;THUSAM-S-E-2A
+0074;0;top ipad games top;1;0.147196261682;0;top ipad games for toddlers;20;0.0017523364486;THUSAM-S-E-2A
+0074;0;top ipad games kid;2;0.0858644859813;0;;;;THUSAM-S-E-2A
+0074;0;top ipad games mini;3;0.0782710280374;0;good games for ipad mini;1;0.00525700934579;THUSAM-S-E-2A
+0074;0;top ipad games mini;3;0.0782710280374;0;cool games for ipad mini;5;0.00525700934579;THUSAM-S-E-2A
+0074;0;top ipad games mini;3;0.0782710280374;0;ipad mini games for kids;11;0.00408878504673;THUSAM-S-E-2A
+0074;0;top ipad games mini;3;0.0782710280374;0;games for ipad mini retina;14;0.00292056074766;THUSAM-S-E-2A
+0074;0;top ipad games mini;3;0.0782710280374;0;great games for ipad mini;16;0.0017523364486;THUSAM-S-E-2A
+0074;0;top ipad games mini;3;0.0782710280374;0;fun ipad mini games;17;0.0017523364486;THUSAM-S-E-2A
+0074;0;top ipad games mini;3;0.0782710280374;0;top free games for ipad mini;19;0.0017523364486;THUSAM-S-E-2A
+0074;0;top ipad games apps;4;0.0759345794393;0;top free game apps for ipad;4;0.00525700934579;THUSAM-S-E-2A
+0074;0;top ipad games apps;4;0.0759345794393;0;board game apps ipad;9;0.00408878504673;THUSAM-S-E-2A
+0074;0;top ipad games apps;4;0.0759345794393;0;educational game apps for ipad;18;0.0017523364486;THUSAM-S-E-2A
+0074;0;top ipad games apps;4;0.0759345794393;0;most popular free game apps for ipad;21;0.0017523364486;THUSAM-S-E-2A
+0074;0;top ipad games apps;4;0.0759345794393;0;good free game apps for ipad;22;0.0017523364486;THUSAM-S-E-2A
+0074;0;top ipad games apps;4;0.0759345794393;0;fun ipad apps games;23;0.0017523364486;THUSAM-S-E-2A
+0074;0;top ipad games apps;4;0.0759345794393;0;great game apps for ipad;24;0.0017523364486;THUSAM-S-E-2A
+0074;0;top ipad games apps;4;0.0759345794393;0;puzzle game apps for ipad;25;0.000584112149533;THUSAM-S-E-2A
+0074;0;top ipad games play;5;0.0455607476636;0;role playing games ipad;15;0.00292056074766;THUSAM-S-E-2A
+0075;0;watches contents;1;0.397581371834;0;watches scuba;18;0.000369208048735;THUSAM-S-E-2A
+0075;0;watches movement;2;0.33323208148;0;watches movement;1;0.0105531967264;THUSAM-S-E-2A
+0075;0;watches movement;2;0.33323208148;0;watches pocket;2;0.00233831764199;THUSAM-S-E-2A
+0075;0;watches movement;2;0.33323208148;0;watches website;5;0.00126146083318;THUSAM-S-E-2A
+0075;0;watches movement;2;0.33323208148;0;watches shop;7;0.00123069349578;THUSAM-S-E-2A
+0075;0;watches movement;2;0.33323208148;0;watches holder;8;0.00119992615839;THUSAM-S-E-2A
+0075;0;watches movement;2;0.33323208148;0;watches china;9;0.00110762414621;THUSAM-S-E-2A
+0075;0;watches movement;2;0.33323208148;0;watches electronic;10;0.00107685680881;THUSAM-S-E-2A
+0075;0;watches movement;2;0.33323208148;0;watches atomic;11;0.00107685680881;THUSAM-S-E-2A
+0075;0;watches movement;2;0.33323208148;0;watches space;12;0.00101532213402;THUSAM-S-E-2A
+0075;0;watches movement;2;0.33323208148;0;watches world;13;0.000953787459233;THUSAM-S-E-2A
+0075;0;watches functions;3;0.265406930519;0;watches use;3;0.00150759953234;THUSAM-S-E-2A
+0075;0;watches functions;3;0.265406930519;0;watches compass;4;0.00126146083318;THUSAM-S-E-2A
+0075;0;watches functions;3;0.265406930519;0;watches deal;6;0.00123069349578;THUSAM-S-E-2A
+0075;0;watches functions;3;0.265406930519;0;watches function;15;0.000492277398314;THUSAM-S-E-2A
+0075;0;watches functions;3;0.265406930519;0;watches chronograph;17;0.00039997538613;THUSAM-S-E-2A
+0075;0;watches functions;3;0.265406930519;0;watches calibre;22;0.000246138699157;THUSAM-S-E-2A
+0075;0;watches functions;3;0.265406930519;0;watches great;26;0.000123069349578;THUSAM-S-E-2A
+0075;0;watches functions;3;0.265406930519;0;watches patek philippe;27;0.000123069349578;THUSAM-S-E-2A
+0075;0;watches functions;3;0.265406930519;0;watches find direction;28;6.15346747892E-5;THUSAM-S-E-2A
+0075;0;watches functions;3;0.265406930519;0;watches feature;30;6.15346747892E-5;THUSAM-S-E-2A
+0075;0;watches history;4;0.00158197526737;0;watches wittnauer watch history;19;0.000276906036552;THUSAM-S-E-2A
+0075;0;watches history;4;0.00158197526737;0;watches history of the wrist watch;20;0.000276906036552;THUSAM-S-E-2A
+0075;0;watches history;4;0.00158197526737;0;watches tudor watch history;21;0.000276906036552;THUSAM-S-E-2A
+0075;0;watches history;4;0.00158197526737;0;watches bucherer watch history;24;0.000153836686973;THUSAM-S-E-2A
+0075;0;watches history;4;0.00158197526737;0;watches bulova watch history;25;0.000153836686973;THUSAM-S-E-2A
+0075;0;watches history;4;0.00158197526737;0;camy watches history;31;3.07673373946E-5;THUSAM-S-E-2A
+0075;0;watches history;4;0.00158197526737;0;watches oris watch history;32;3.07673373946E-5;THUSAM-S-E-2A
+0075;0;watches history;4;0.00158197526737;0;omax watches history;33;3.07673373946E-5;THUSAM-S-E-2A
+0075;0;watches history;4;0.00158197526737;0;watches cyma watch history;34;3.07673373946E-5;THUSAM-S-E-2A
+0075;0;watches history;4;0.00158197526737;0;watches ball watch history;35;3.07673373946E-5;THUSAM-S-E-2A
+0075;0;watches concord;5;0.000103970024015;0;watches chopard;14;0.000523044735708;THUSAM-S-E-2A
+0075;0;watches concord;5;0.000103970024015;0;watches binary;16;0.000430742723524;THUSAM-S-E-2A
+0075;0;watches concord;5;0.000103970024015;0;watches concord ladies watch;23;0.000215371361762;THUSAM-S-E-2A
+0075;0;watches concord;5;0.000103970024015;0;concord mens watches;29;6.15346747892E-5;THUSAM-S-E-2A
+0076;0;thai specialties brea;1;0.4;0;thailand specialty brea menu;1;0.2;THUSAM-S-E-2A
+0076;0;thai specialties brea;1;0.4;0;thailand specialty brea ca;2;0.133333333333;THUSAM-S-E-2A
+0076;0;thai specialties menu;2;0.266666666666;0;;;;THUSAM-S-E-2A
+0076;0;thai specialties tustin;3;0.133333333333;0;;;;THUSAM-S-E-2A
+0076;0;thai specialties food;4;0.0666666666667;0;;;;THUSAM-S-E-2A
+0077;0;scientific american contents;1;0.209588530228;0;;;;THUSAM-S-E-2A
+0077;0;scientific american international editions;2;0.18721253056;0;scientific american science popular;2;0.0106761565836;THUSAM-S-E-2A
+0077;0;scientific american international editions;2;0.18721253056;0;scientific american edition;4;0.0106761565836;THUSAM-S-E-2A
+0077;0;scientific american international editions;2;0.18721253056;0;scientific american digital;5;0.0106761565836;THUSAM-S-E-2A
+0077;0;scientific american international editions;2;0.18721253056;0;scientific american scientist;7;0.0035587188612;THUSAM-S-E-2A
+0077;0;scientific american international editions;2;0.18721253056;0;scientific american tablet;8;0.0035587188612;THUSAM-S-E-2A
+0077;0;scientific american editors;3;0.163386234617;0;scientific american editor;3;0.0106761565836;THUSAM-S-E-2A
+0077;0;scientific american editors;3;0.163386234617;0;scientific american supplement;6;0.00533807829181;THUSAM-S-E-2A
+0077;0;scientific american scientific american 50 award;4;0.140140057183;0;scientific american issue;1;0.017793594306;THUSAM-S-E-2A
+0077;0;scientific american columns;5;0.116438072349;0;;;;THUSAM-S-E-2A
+0078;0;persian cat contents;1;0.318548916612;0;persian cat exotic;13;0.00495356037152;THUSAM-S-E-2A
+0078;0;persian cat contents;1;0.318548916612;0;persian cat toy;20;0.00247678018576;THUSAM-S-E-2A
+0078;0;persian cat contents;1;0.318548916612;0;persian cat popular;27;0.00061919504644;THUSAM-S-E-2A
+0078;0;persian cat development;2;0.295075508864;0;persian cat sale;1;0.0996904024768;THUSAM-S-E-2A
+0078;0;persian cat development;2;0.295075508864;0;persian cat white;2;0.0433436532508;THUSAM-S-E-2A
+0078;0;persian cat development;2;0.295075508864;0;persian cat picture;3;0.0278637770898;THUSAM-S-E-2A
+0078;0;persian cat development;2;0.295075508864;0;persian cat price;4;0.0272445820434;THUSAM-S-E-2A
+0078;0;persian cat development;2;0.295075508864;0;persian cat breed;5;0.0235294117647;THUSAM-S-E-2A
+0078;0;persian cat development;2;0.295075508864;0;persian cat black;6;0.0229102167183;THUSAM-S-E-2A
+0078;0;persian cat development;2;0.295075508864;0;persian cat care;7;0.021052631579;THUSAM-S-E-2A
+0078;0;persian cat development;2;0.295075508864;0;persian cat himalayan;8;0.0198142414861;THUSAM-S-E-2A
+0078;0;persian cat development;2;0.295075508864;0;persian cat face;9;0.0191950464396;THUSAM-S-E-2A
+0078;0;persian cat development;2;0.295075508864;0;persian cat hair;10;0.0185758513932;THUSAM-S-E-2A
+0078;0;persian cat characteristics;3;0.21267235719;0;persian cat characteristic;12;0.0061919504644;THUSAM-S-E-2A
+0078;0;persian cat characteristics;3;0.21267235719;0;persian cat tortoiseshell;14;0.00495356037152;THUSAM-S-E-2A
+0078;0;persian cat grooming;4;0.159323703217;0;persian cat shave;16;0.00433436532508;THUSAM-S-E-2A
+0078;0;persian cat grooming;4;0.159323703217;0;persian cat tip;25;0.00061919504644;THUSAM-S-E-2A
+0078;0;persian cat rescue;5;0.00249507550887;0;persian cat san;11;0.00990712074304;THUSAM-S-E-2A
+0078;0;persian cat rescue;5;0.00249507550887;0;persian cat seattle;15;0.00495356037152;THUSAM-S-E-2A
+0078;0;persian cat rescue;5;0.00249507550887;0;persian cat rescue california;17;0.00371517027864;THUSAM-S-E-2A
+0078;0;persian cat rescue;5;0.00249507550887;0;persian cat rescue los angeles;18;0.00371517027864;THUSAM-S-E-2A
+0078;0;persian cat rescue;5;0.00249507550887;0;purebred persian cat rescue;19;0.0030959752322;THUSAM-S-E-2A
+0078;0;persian cat rescue;5;0.00249507550887;0;persian cat rescue va;21;0.00185758513932;THUSAM-S-E-2A
+0078;0;persian cat rescue;5;0.00249507550887;0;persian cat rescue seattle;22;0.00185758513932;THUSAM-S-E-2A
+0078;0;persian cat rescue;5;0.00249507550887;0;persian cat rescue san diego;23;0.00185758513932;THUSAM-S-E-2A
+0078;0;persian cat rescue;5;0.00249507550887;0;persian cat rescue new york;24;0.00185758513932;THUSAM-S-E-2A
+0078;0;persian cat rescue;5;0.00249507550887;0;persian cat rescue uk;26;0.00061919504644;THUSAM-S-E-2A
+0079;0;bathtub contents;1;0.410237070559;0;bathtub baby;2;0.0405233508995;THUSAM-S-E-2A
+0079;0;bathtub contents;1;0.410237070559;0;bathtub history;25;0.00018171906233;THUSAM-S-E-2A
+0079;0;bathtub clawfoot tub;2;0.334930564799;0;bathtub shower;1;0.082137016173;THUSAM-S-E-2A
+0079;0;bathtub clawfoot tub;2;0.334930564799;0;bathtub foot;3;0.00717790296202;THUSAM-S-E-2A
+0079;0;bathtub clawfoot tub;2;0.334930564799;0;bathtub drop;5;0.00390695984009;THUSAM-S-E-2A
+0079;0;bathtub clawfoot tub;2;0.334930564799;0;bathtub tub;6;0.00290750499727;THUSAM-S-E-2A
+0079;0;bathtub clawfoot tub;2;0.334930564799;0;bathtub height;7;0.00272578593494;THUSAM-S-E-2A
+0079;0;bathtub clawfoot tub;2;0.334930564799;0;bathtub length;8;0.00263492640378;THUSAM-S-E-2A
+0079;0;bathtub clawfoot tub;2;0.334930564799;0;bathtub claw;9;0.00199890968563;THUSAM-S-E-2A
+0079;0;bathtub clawfoot tub;2;0.334930564799;0;bathtub antique;10;0.0015446120298;THUSAM-S-E-2A
+0079;0;bathtub clawfoot tub;2;0.334930564799;0;bathtub curtain;11;0.0015446120298;THUSAM-S-E-2A
+0079;0;bathtub clawfoot tub;2;0.334930564799;0;bathtub luxury;12;0.00127203343631;THUSAM-S-E-2A
+0079;0;bathtub hot tubs;3;0.244154576512;0;;;;THUSAM-S-E-2A
+0079;0;bathtub surround;4;0.00229232293654;0;bathtub door;4;0.00517899327639;THUSAM-S-E-2A
+0079;0;bathtub surround;4;0.00229232293654;0;bathtub surrounds home depot;15;0.000726876249319;THUSAM-S-E-2A
+0079;0;bathtub surround;4;0.00229232293654;0;bathtub shower surround ideas;16;0.000726876249319;THUSAM-S-E-2A
+0079;0;bathtub surround;4;0.00229232293654;0;bathtub surround ideas;20;0.000636016718154;THUSAM-S-E-2A
+0079;0;bathtub surround;4;0.00229232293654;0;bathtub surround kits;21;0.000545157186989;THUSAM-S-E-2A
+0079;0;bathtub surround;4;0.00229232293654;0;bathtub surround panels;22;0.000545157186989;THUSAM-S-E-2A
+0079;0;bathtub surround;4;0.00229232293654;0;kohler bathtubs and surrounds;23;0.000363438124659;THUSAM-S-E-2A
+0079;0;bathtub surround;4;0.00229232293654;0;bathtub wall surrounds;24;0.000272578593494;THUSAM-S-E-2A
+0079;0;bathtub surround;4;0.00229232293654;0;bathtub liners and wall surrounds;27;9.08595311648E-5;THUSAM-S-E-2A
+0079;0;bathtub surround;4;0.00229232293654;0;bathtub with shower surround;28;9.08595311648E-5;THUSAM-S-E-2A
+0079;0;bathtub inflatable;5;0.000525015898369;0;inflatable bathtub adult;13;0.000726876249319;THUSAM-S-E-2A
+0079;0;bathtub inflatable;5;0.000525015898369;0;garanimals inflatable bathtub;14;0.000726876249319;THUSAM-S-E-2A
+0079;0;bathtub inflatable;5;0.000525015898369;0;inflatable bathtubs for toddlers;17;0.000726876249319;THUSAM-S-E-2A
+0079;0;bathtub inflatable;5;0.000525015898369;0;inflatable safety bathtub;18;0.000726876249319;THUSAM-S-E-2A
+0079;0;bathtub inflatable;5;0.000525015898369;0;ez bathe inflatable bathtub;19;0.000726876249319;THUSAM-S-E-2A
+0079;0;bathtub inflatable;5;0.000525015898369;0;inflatable bathtub liner;26;9.08595311648E-5;THUSAM-S-E-2A
+0080;0;wedding ring contents;1;0.512136920925;0;wedding ring ceremony;2;0.00360221278785;THUSAM-S-E-2A
+0080;0;wedding ring religion;2;0.384530568584;0;wedding ring tradition;3;0.00205840730735;THUSAM-S-E-2A
+0080;0;wedding ring religion;2;0.384530568584;0;wedding ring left;4;0.00192975685063;THUSAM-S-E-2A
+0080;0;wedding ring religion;2;0.384530568584;0;wedding ring catholic;6;0.000900553196964;THUSAM-S-E-2A
+0080;0;wedding ring religion;2;0.384530568584;0;wedding ring jewish;7;0.000771902740254;THUSAM-S-E-2A
+0080;0;wedding ring religion;2;0.384530568584;0;wedding ring hebrew;9;0.000385951370127;THUSAM-S-E-2A
+0080;0;wedding ring diamond;3;0.0873364601332;0;wedding ring gold;1;0.0671555384021;THUSAM-S-E-2A
+0080;0;wedding ring diamond;3;0.0873364601332;0;mens wedding rings with diamonds;8;0.000514601826836;THUSAM-S-E-2A
+0080;0;wedding ring diamond;3;0.0873364601332;0;baguette diamond wedding rings;10;0.000257300913418;THUSAM-S-E-2A
+0080;0;wedding ring diamond;3;0.0873364601332;0;yellow diamond wedding rings;11;0.000257300913418;THUSAM-S-E-2A
+0080;0;wedding ring diamond;3;0.0873364601332;0;pictures diamond wedding rings;12;0.000257300913418;THUSAM-S-E-2A
+0080;0;wedding ring diamond;3;0.0873364601332;0;antique diamond wedding ring;13;0.000257300913418;THUSAM-S-E-2A
+0080;0;wedding ring diamond;3;0.0873364601332;0;vintage diamond wedding ring;14;0.000257300913418;THUSAM-S-E-2A
+0080;0;wedding ring diamond;3;0.0873364601332;0;2 carat diamond wedding rings;15;0.000257300913418;THUSAM-S-E-2A
+0080;0;wedding ring diamond;3;0.0873364601332;0;platinum diamond wedding ring;16;0.000257300913418;THUSAM-S-E-2A
+0080;0;wedding ring diamond;3;0.0873364601332;0;claddagh diamond wedding ring;17;0.000257300913418;THUSAM-S-E-2A
+0080;0;wedding ring bible;4;0.000658273677281;0;the bible say about wedding rings;5;0.00115785411038;THUSAM-S-E-2A
+0080;0;wedding ring symbol;5;0.000477248416029;0;;;;THUSAM-S-E-2A
+0081;0;samsung contents;1;0.271768153428;0;samsung financial;12;0.00123530865069;THUSAM-S-E-2A
+0081;0;samsung contents;1;0.271768153428;0;samsung wash machine;18;0.000105883598631;THUSAM-S-E-2A
+0081;0;samsung contents;1;0.271768153428;0;samsung audio;19;0.000105883598631;THUSAM-S-E-2A
+0081;0;samsung history;2;0.2577147703;0;samsung galaxy;1;0.299297638796;THUSAM-S-E-2A
+0081;0;samsung history;2;0.2577147703;0;samsung tablet;2;0.0925069706702;THUSAM-S-E-2A
+0081;0;samsung history;2;0.2577147703;0;samsung tv;3;0.0816009600113;THUSAM-S-E-2A
+0081;0;samsung history;2;0.2577147703;0;samsung phone;5;0.0510358945399;THUSAM-S-E-2A
+0081;0;samsung history;2;0.2577147703;0;samsung mobile;6;0.0379416228426;THUSAM-S-E-2A
+0081;0;samsung history;2;0.2577147703;0;samsung buy;7;0.0166943140507;THUSAM-S-E-2A
+0081;0;samsung history;2;0.2577147703;0;samsung tv lcd;8;0.0123883810398;THUSAM-S-E-2A
+0081;0;samsung history;2;0.2577147703;0;samsung electronics;9;0.0102001200014;THUSAM-S-E-2A
+0081;0;samsung history;2;0.2577147703;0;samsung company;10;0.00723537923975;THUSAM-S-E-2A
+0081;0;samsung history;2;0.2577147703;0;samsung product;11;0.0033529806233;THUSAM-S-E-2A
+0081;0;samsung major customers;3;0.196847373245;0;samsung led;4;0.0711184837468;THUSAM-S-E-2A
+0081;0;samsung major customers;3;0.196847373245;0;samsung supply;17;0.000176472664385;THUSAM-S-E-2A
+0081;0;samsung samsung medical center;4;0.155285910586;0;samsung center;15;0.000352945328768;THUSAM-S-E-2A
+0081;0;samsung samsung medical center;4;0.155285910586;0;samsung medical;16;0.000211767197261;THUSAM-S-E-2A
+0081;0;samsung controversies;5;0.11650279273;0;samsung online;13;0.000776479723291;THUSAM-S-E-2A
+0081;0;samsung controversies;5;0.11650279273;0;samsung trade;14;0.000635301591782;THUSAM-S-E-2A
+0082;0;the hunger games trilogy;1;0.272099193905;0;the hunger games rate;4;0.00563486100677;THUSAM-S-E-2A
+0082;0;the hunger games trilogy;1;0.272099193905;0;the hunger games theme;7;0.00363135487103;THUSAM-S-E-2A
+0082;0;the hunger games trilogy;1;0.272099193905;0;the hunger games rue;11;0.00300525920361;THUSAM-S-E-2A
+0082;0;the hunger games trilogy;1;0.272099193905;0;the hunger games gale;12;0.00300525920361;THUSAM-S-E-2A
+0082;0;the hunger games trilogy;1;0.272099193905;0;the hunger games katniss;17;0.00275482093664;THUSAM-S-E-2A
+0082;0;the hunger games trilogy;1;0.272099193905;0;the hunger games symbol;18;0.00200350613574;THUSAM-S-E-2A
+0082;0;the hunger games trilogy;1;0.272099193905;0;the hunger games kindle;20;0.00175306786877;THUSAM-S-E-2A
+0082;0;the hunger games trilogy;1;0.272099193905;0;the hunger games prim;21;0.00175306786877;THUSAM-S-E-2A
+0082;0;the hunger games trilogy;1;0.272099193905;0;the hunger games pin;22;0.00162784873529;THUSAM-S-E-2A
+0082;0;the hunger games trilogy;1;0.272099193905;0;the hunger games story;23;0.00150262960181;THUSAM-S-E-2A
+0082;0;the hunger games The Hunger Games;2;0.262796165021;0;the hunger games picture;15;0.00275482093664;THUSAM-S-E-2A
+0082;0;the hunger games The Hunger Games;2;0.262796165021;0;the hunger games album;24;0.000500876533936;THUSAM-S-E-2A
+0082;0;the hunger games The Hunger Games;2;0.262796165021;0;the hunger games suzanne;25;0.000375657400452;THUSAM-S-E-2A
+0082;0;the hunger games The Hunger Games;2;0.262796165021;0;the hunger games second;26;0.000250438266967;THUSAM-S-E-2A
+0082;0;the hunger games The Hunger Games;2;0.262796165021;0;the hunger games annual;28;0.000125219133484;THUSAM-S-E-2A
+0082;0;the hunger games (film series);3;0.260862834328;0;the hunger games box set;1;0.00826446280992;THUSAM-S-E-2A
+0082;0;the hunger games (film series);3;0.260862834328;0;the hunger games collins;2;0.00651139494115;THUSAM-S-E-2A
+0082;0;the hunger games (film series);3;0.260862834328;0;the hunger games actor;3;0.0061357375407;THUSAM-S-E-2A
+0082;0;the hunger games (film series);3;0.260862834328;0;the hunger games series;5;0.00400701227148;THUSAM-S-E-2A
+0082;0;the hunger games (film series);3;0.260862834328;0;the hunger games author;6;0.00400701227148;THUSAM-S-E-2A
+0082;0;the hunger games (film series);3;0.260862834328;0;the hunger games script;8;0.00338091660406;THUSAM-S-E-2A
+0082;0;the hunger games (film series);3;0.260862834328;0;the hunger games set;9;0.00325569747058;THUSAM-S-E-2A
+0082;0;the hunger games (film series);3;0.260862834328;0;the hunger games theater;10;0.00313047833709;THUSAM-S-E-2A
+0082;0;the hunger games (film series);3;0.260862834328;0;the hunger games sequel;13;0.00288004007012;THUSAM-S-E-2A
+0082;0;the hunger games (film series);3;0.260862834328;0;the hunger games date;16;0.00275482093664;THUSAM-S-E-2A
+0082;0;the hunger games trilogy;4;0.143757718022;0;;;;THUSAM-S-E-2A
+0082;0;the hunger games chapter;5;0.00806454516326;0;the hunger games question;14;0.00275482093664;THUSAM-S-E-2A
+0082;0;the hunger games chapter;5;0.00806454516326;0;the hunger games discussion;19;0.00200350613574;THUSAM-S-E-2A
+0082;0;the hunger games chapter;5;0.00806454516326;0;the hunger games hunger games chapter questions;27;0.000125219133484;THUSAM-S-E-2A
+0083;0;harry potter Harry Potter;1;0.600677557237;0;harry potter book;1;0.162611973175;THUSAM-S-E-2A
+0083;0;harry potter Harry Potter;1;0.600677557237;0;harry potter movie;2;0.120319154144;THUSAM-S-E-2A
+0083;0;harry potter Harry Potter;1;0.600677557237;0;harry potter lego;3;0.0690684810808;THUSAM-S-E-2A
+0083;0;harry potter Harry Potter;1;0.600677557237;0;harry potter character;4;0.0378873170493;THUSAM-S-E-2A
+0083;0;harry potter Harry Potter;1;0.600677557237;0;harry potter world;5;0.0370551666748;THUSAM-S-E-2A
+0083;0;harry potter Harry Potter;1;0.600677557237;0;harry potter game;6;0.0333349650007;THUSAM-S-E-2A
+0083;0;harry potter Harry Potter;1;0.600677557237;0;harry potter series;8;0.0272651622693;THUSAM-S-E-2A
+0083;0;harry potter Harry Potter;1;0.600677557237;0;harry potter deathly hallow;10;0.0221743599785;THUSAM-S-E-2A
+0083;0;harry potter Harry Potter;1;0.600677557237;0;harry potter theme;11;0.0202653091194;THUSAM-S-E-2A
+0083;0;harry potter Harry Potter;1;0.600677557237;0;harry potter studio universal;12;0.0169367076215;THUSAM-S-E-2A
+0083;0;harry potter (character);2;0.218322763292;0;harry potter spell;7;0.0300063635029;THUSAM-S-E-2A
+0083;0;harry potter (character);2;0.218322763292;0;harry potter cast;9;0.0258945616526;THUSAM-S-E-2A
+0083;0;harry potter (character);2;0.218322763292;0;harry potter blood prince;14;0.00734250330412;THUSAM-S-E-2A
+0083;0;harry potter (character);2;0.218322763292;0;harry potter watch;15;0.00606980273141;THUSAM-S-E-2A
+0083;0;harry potter (character);2;0.218322763292;0;harry potter actor;16;0.00558030251114;THUSAM-S-E-2A
+0083;0;harry potter (character);2;0.218322763292;0;harry potter year;18;0.00332860149787;THUSAM-S-E-2A
+0083;0;harry potter (character);2;0.218322763292;0;harry potter party;19;0.00323070145382;THUSAM-S-E-2A
+0083;0;harry potter (character);2;0.218322763292;0;harry potter daniel;20;0.00293700132165;THUSAM-S-E-2A
+0083;0;harry potter (character);2;0.218322763292;0;harry potter novel;21;0.00274120123354;THUSAM-S-E-2A
+0083;0;harry potter (character);2;0.218322763292;0;harry potter birthday;22;0.00264330118949;THUSAM-S-E-2A
+0083;0;harry potter (film series);3;0.159016587831;0;harry potter film;13;0.0167409075334;THUSAM-S-E-2A
+0083;0;harry potter (film series);3;0.159016587831;0;harry potter emma watson;17;0.00416075187234;THUSAM-S-E-2A
+0083;0;harry potter (film series);3;0.159016587831;0;harry potter gift;23;0.00215380096921;THUSAM-S-E-2A
+0083;0;harry potter (film series);3;0.159016587831;0;harry potter image;24;0.00181115081502;THUSAM-S-E-2A
+0083;0;harry potter (film series);3;0.159016587831;0;harry potter picture;25;0.00171325077096;THUSAM-S-E-2A
+0083;0;harry potter (film series);3;0.159016587831;0;harry potter deathly;26;0.00127270057272;THUSAM-S-E-2A
+0083;0;harry potter (film series);3;0.159016587831;0;harry potter kiss;27;0.00122375055069;THUSAM-S-E-2A
+0083;0;harry potter (film series);3;0.159016587831;0;harry potter award;28;0.00117480052866;THUSAM-S-E-2A
+0083;0;harry potter (film series);3;0.159016587831;0;harry potter ray;29;0.00107690048461;THUSAM-S-E-2A
+0083;0;harry potter (film series);3;0.159016587831;0;harry potter find;30;0.000930050418523;THUSAM-S-E-2A
+0083;0;harry potter quiz;4;0.000639204940221;0;fun harry potter quizzes;32;0.000293700132165;THUSAM-S-E-2A
+0083;0;harry potter quiz;4;0.000639204940221;0;harry potter girl;33;0.000195800088111;THUSAM-S-E-2A
+0083;0;harry potter quiz;4;0.000639204940221;0;harry potter patronus quiz;34;9.7900044055E-5;THUSAM-S-E-2A
+0083;0;harry potter scarf;5;0.000555830382801;0;harry potter gryffindor scarf;31;0.000293700132165;THUSAM-S-E-2A
+0084;0;21 weeks pregnant month;1;0.183628318584;0;21 weeks pregnant equals many months;4;0.0110619469027;THUSAM-S-E-2A
+0084;0;21 weeks pregnant month;1;0.183628318584;0;21 weeks 2 days pregnant many months that;8;0.00663716814159;THUSAM-S-E-2A
+0084;0;21 weeks pregnant month;1;0.183628318584;0;many months am i if im 21 weeks pregnant;21;0.00221238938053;THUSAM-S-E-2A
+0084;0;21 weeks pregnant month;1;0.183628318584;0;21 weeks pregnant means many months;22;0.00221238938053;THUSAM-S-E-2A
+0084;0;21 weeks pregnant baby;2;0.150442477876;0;21 weeks pregnant baby size;2;0.0199115044248;THUSAM-S-E-2A
+0084;0;21 weeks pregnant baby;2;0.150442477876;0;21 weeks pregnant baby weight;6;0.00663716814159;THUSAM-S-E-2A
+0084;0;21 weeks pregnant baby;2;0.150442477876;0;big my baby at 21 weeks pregnant;7;0.00663716814159;THUSAM-S-E-2A
+0084;0;21 weeks pregnant baby;2;0.150442477876;0;baby growth at 21 weeks pregnant;12;0.00221238938053;THUSAM-S-E-2A
+0084;0;21 weeks pregnant baby;2;0.150442477876;0;baby development at 21 weeks pregnant;15;0.00221238938053;THUSAM-S-E-2A
+0084;0;21 weeks pregnant baby;2;0.150442477876;0;position of baby at 21 weeks pregnant;18;0.00221238938053;THUSAM-S-E-2A
+0084;0;21 weeks pregnant baby;2;0.150442477876;0;my baby looks like at 21 weeks pregnant;20;0.00221238938053;THUSAM-S-E-2A
+0084;0;21 weeks pregnant ultrasound;3;0.0685840707965;0;21 weeks pregnant ultrasound girl;9;0.00663716814159;THUSAM-S-E-2A
+0084;0;21 weeks pregnant ultrasound;3;0.0685840707965;0;21 weeks pregnant ultrasound pictures;10;0.00663716814159;THUSAM-S-E-2A
+0084;0;21 weeks pregnant ultrasound;3;0.0685840707965;0;21 weeks 2 days pregnant ultrasound;27;0.00221238938053;THUSAM-S-E-2A
+0084;0;21 weeks pregnant belly;4;0.0685840707965;0;21 week pregnant belly pictures;3;0.0154867256637;THUSAM-S-E-2A
+0084;0;21 weeks pregnant belly;4;0.0685840707965;0;21 weeks pregnant belly size;5;0.0110619469027;THUSAM-S-E-2A
+0084;0;21 weeks pregnant belly;4;0.0685840707965;0;big should my belly be at 21 weeks pregnant;14;0.00221238938053;THUSAM-S-E-2A
+0084;0;21 weeks pregnant belly;4;0.0685840707965;0;21 weeks pregnant belly pain;19;0.00221238938053;THUSAM-S-E-2A
+0084;0;21 weeks pregnant belly;4;0.0685840707965;0;21 weeks pregnant sore belly;23;0.00221238938053;THUSAM-S-E-2A
+0084;0;21 weeks pregnant belly;4;0.0685840707965;0;21 weeks pregnant belly photos;25;0.00221238938053;THUSAM-S-E-2A
+0084;0;21 weeks pregnant twin;5;0.0641592920354;0;21 weeks pregnant with twins development;1;0.0199115044248;THUSAM-S-E-2A
+0084;0;21 weeks pregnant twin;5;0.0641592920354;0;21 weeks pregnant with twins symptoms;11;0.00663716814159;THUSAM-S-E-2A
+0084;0;21 weeks pregnant twin;5;0.0641592920354;0;21 weeks pregnant with twins pictures;13;0.00221238938053;THUSAM-S-E-2A
+0084;0;21 weeks pregnant twin;5;0.0641592920354;0;21 weeks pregnant with twins movement;16;0.00221238938053;THUSAM-S-E-2A
+0084;0;21 weeks pregnant twin;5;0.0641592920354;0;21 weeks pregnant with identical twins;17;0.00221238938053;THUSAM-S-E-2A
+0084;0;21 weeks pregnant twin;5;0.0641592920354;0;21 weeks pregnant with twins and cramping;24;0.00221238938053;THUSAM-S-E-2A
+0084;0;21 weeks pregnant twin;5;0.0641592920354;0;21 weeks pregnant with twins to expect;26;0.00221238938053;THUSAM-S-E-2A
+0085;0;7zip contents;1;0.388746913848;0;;;;THUSAM-S-E-2A
+0085;0;7zip variants;2;0.323342140599;0;7zip mac;3;0.0462395543175;THUSAM-S-E-2A
+0085;0;7zip variants;2;0.323342140599;0;7zip version;5;0.0278551532033;THUSAM-S-E-2A
+0085;0;7zip variants;2;0.323342140599;0;7zip linux;6;0.0239554317548;THUSAM-S-E-2A
+0085;0;7zip variants;2;0.323342140599;0;7zip command line;8;0.0178272980501;THUSAM-S-E-2A
+0085;0;7zip variants;2;0.323342140599;0;7zip late;9;0.0178272980501;THUSAM-S-E-2A
+0085;0;7zip variants;2;0.323342140599;0;7zip extract;12;0.0122562674095;THUSAM-S-E-2A
+0085;0;7zip variants;2;0.323342140599;0;7zip format;18;0.00612813370473;THUSAM-S-E-2A
+0085;0;7zip variants;2;0.323342140599;0;7zip encryption;20;0.0033426183844;THUSAM-S-E-2A
+0085;0;7zip variants;2;0.323342140599;0;7zip support;22;0.00278551532033;THUSAM-S-E-2A
+0085;0;7zip variants;2;0.323342140599;0;7zip executable;30;0.000557103064067;THUSAM-S-E-2A
+0085;0;7zip reception;3;0.247195391346;0;7zip file;2;0.103621169916;THUSAM-S-E-2A
+0085;0;7zip reception;3;0.247195391346;0;7zip software;4;0.0306406685236;THUSAM-S-E-2A
+0085;0;7zip reception;3;0.247195391346;0;7zip pc;7;0.0206128133704;THUSAM-S-E-2A
+0085;0;7zip reception;3;0.247195391346;0;7zip archive;10;0.0161559888579;THUSAM-S-E-2A
+0085;0;7zip reception;3;0.247195391346;0;7zip utility;25;0.00278551532033;THUSAM-S-E-2A
+0085;0;7zip reception;3;0.247195391346;0;7zip review;27;0.00222841225626;THUSAM-S-E-2A
+0085;0;7zip reception;3;0.247195391346;0;7zip compression;28;0.00222841225626;THUSAM-S-E-2A
+0085;0;7zip reception;3;0.247195391346;0;7zip manager;29;0.00111420612813;THUSAM-S-E-2A
+0085;0;7zip window;4;0.0277645428163;0;7zip window bite;1;0.11922005571;THUSAM-S-E-2A
+0085;0;7zip window;4;0.0277645428163;0;7zip xp;11;0.0144846796657;THUSAM-S-E-2A
+0085;0;7zip window;4;0.0277645428163;0;7zip install;13;0.00835654596099;THUSAM-S-E-2A
+0085;0;7zip window;4;0.0277645428163;0;7zip tool;15;0.00835654596099;THUSAM-S-E-2A
+0085;0;7zip window;4;0.0277645428163;0;7zip program;16;0.00668523676879;THUSAM-S-E-2A
+0085;0;7zip window;4;0.0277645428163;0;7zip extractor;17;0.00612813370473;THUSAM-S-E-2A
+0085;0;7zip window;4;0.0277645428163;0;7zip folder;19;0.00612813370473;THUSAM-S-E-2A
+0085;0;7zip window;4;0.0277645428163;0;install 7zip windows 8;23;0.00278551532033;THUSAM-S-E-2A
+0085;0;7zip window;4;0.0277645428163;0;microsoft windows 7zip download;24;0.00278551532033;THUSAM-S-E-2A
+0085;0;7zip window;4;0.0277645428163;0;7zip download for windows xp;31;0.000557103064067;THUSAM-S-E-2A
+0085;0;7zip portable;5;0.00298869493654;0;7zip exe;14;0.00835654596099;THUSAM-S-E-2A
+0085;0;7zip portable;5;0.00298869493654;0;portable apps 7zip;21;0.00278551532033;THUSAM-S-E-2A
+0085;0;7zip portable;5;0.00298869493654;0;7zip portable app;26;0.00278551532033;THUSAM-S-E-2A
+0086;0;appendix pain symptoms left;1;0.0823943661973;0;symptoms lower left abdominal pain;6;0.00492957746479;THUSAM-S-E-2A
+0086;0;appendix pain symptoms left;1;0.0823943661973;0;symptoms of pain in left side of stomach;7;0.00211267605634;THUSAM-S-E-2A
+0086;0;appendix pain symptoms left;1;0.0823943661973;0;gall bladder symptoms pain on left side;8;0.00211267605634;THUSAM-S-E-2A
+0086;0;appendix pain symptoms left;1;0.0823943661973;0;symptoms pain in left side of abdomen;11;0.00211267605634;THUSAM-S-E-2A
+0086;0;appendix pain symptoms left;1;0.0823943661973;0;symptoms pain lower left abdomen;12;0.00211267605634;THUSAM-S-E-2A
+0086;0;appendix pain symptoms left;1;0.0823943661973;0;left side body pain symptoms;14;0.00211267605634;THUSAM-S-E-2A
+0086;0;appendix pain symptoms left;1;0.0823943661973;0;left side abdominal pain symptoms;16;0.00211267605634;THUSAM-S-E-2A
+0086;0;appendix pain symptoms left;1;0.0823943661973;0;upper abdominal pain left side symptoms;17;0.00211267605634;THUSAM-S-E-2A
+0086;0;appendix pain symptoms stomach;2;0.0676056338029;0;sharp stomach pain and nausea symptoms;1;0.00492957746479;THUSAM-S-E-2A
+0086;0;appendix pain symptoms stomach;2;0.0676056338029;0;ulcer stomach pain symptoms;2;0.00492957746479;THUSAM-S-E-2A
+0086;0;appendix pain symptoms stomach;2;0.0676056338029;0;severe stomach pain symptoms;21;0.00211267605634;THUSAM-S-E-2A
+0086;0;appendix pain symptoms stomach;2;0.0676056338029;0;stomach pain and nausea symptoms;23;0.00211267605634;THUSAM-S-E-2A
+0086;0;appendix pain symptoms stomach;2;0.0676056338029;0;upper stomach pain symptoms;25;0.00211267605634;THUSAM-S-E-2A
+0086;0;appendix pain symptoms stomach;2;0.0676056338029;0;lower stomach pain symptoms;27;0.00211267605634;THUSAM-S-E-2A
+0086;0;appendix pain symptoms stomach;2;0.0676056338029;0;stomach pain in early pregnancy symptoms;29;0.00211267605634;THUSAM-S-E-2A
+0086;0;appendix pain symptoms stomach;2;0.0676056338029;0;upper stomach pain and nausea symptoms;31;0.000704225352113;THUSAM-S-E-2A
+0086;0;appendix pain symptoms child;3;0.0591549295775;0;appendix pain location in children;4;0.00492957746479;THUSAM-S-E-2A
+0086;0;appendix pain symptoms child;3;0.0591549295775;0;symptoms of appendix problems in children;5;0.00492957746479;THUSAM-S-E-2A
+0086;0;appendix pain symptoms child;3;0.0591549295775;0;appendix pain located in children;19;0.00211267605634;THUSAM-S-E-2A
+0086;0;appendix pain symptoms right;4;0.0563380281691;0;lower right abdominal pain no appendix;3;0.00492957746479;THUSAM-S-E-2A
+0086;0;appendix pain symptoms right;4;0.0563380281691;0;lower right abdominal pain in women symptoms;18;0.00211267605634;THUSAM-S-E-2A
+0086;0;appendix pain symptoms right;4;0.0563380281691;0;symptoms pain right side abdomen;20;0.00211267605634;THUSAM-S-E-2A
+0086;0;appendix pain symptoms right;4;0.0563380281691;0;pain in lower right abdomen not appendix;22;0.00211267605634;THUSAM-S-E-2A
+0086;0;appendix pain symptoms right;4;0.0563380281691;0;right hand pain symptoms;24;0.00211267605634;THUSAM-S-E-2A
+0086;0;appendix pain symptoms abdominal;5;0.0542253521127;0;upper abdominal pain symptoms;9;0.00211267605634;THUSAM-S-E-2A
+0086;0;appendix pain symptoms abdominal;5;0.0542253521127;0;lower abdominal pain with no other symptoms;10;0.00211267605634;THUSAM-S-E-2A
+0086;0;appendix pain symptoms abdominal;5;0.0542253521127;0;abdominal pain symptoms diagnosis;13;0.00211267605634;THUSAM-S-E-2A
+0086;0;appendix pain symptoms abdominal;5;0.0542253521127;0;medical symptoms abdominal pain;15;0.00211267605634;THUSAM-S-E-2A
+0086;0;appendix pain symptoms abdominal;5;0.0542253521127;0;symptoms severe abdominal pain;26;0.00211267605634;THUSAM-S-E-2A
+0086;0;appendix pain symptoms abdominal;5;0.0542253521127;0;abdominal muscle pain symptoms;28;0.00211267605634;THUSAM-S-E-2A
+0086;0;appendix pain symptoms abdominal;5;0.0542253521127;0;symptoms abdominal pain nausea;30;0.00211267605634;THUSAM-S-E-2A
+0087;0;brad paisley lyrics whiskey;1;0.0995024875623;0;brad paisley whiskey lullaby lyrics;1;0.0199004975124;THUSAM-S-E-2A
+0087;0;brad paisley lyrics whiskey;1;0.0995024875623;0;brad paisley and alison krauss whiskey lullaby lyrics;2;0.0124378109453;THUSAM-S-E-2A
+0087;0;brad paisley lyrics song;2;0.0970149253732;0;brad paisley song accidental racist lyrics;3;0.0124378109453;THUSAM-S-E-2A
+0087;0;brad paisley lyrics song;2;0.0970149253732;0;brad paisley internet song lyrics;4;0.0124378109453;THUSAM-S-E-2A
+0087;0;brad paisley lyrics song;2;0.0970149253732;0;brad paisley fishing song lyrics;5;0.00746268656716;THUSAM-S-E-2A
+0087;0;brad paisley lyrics song;2;0.0970149253732;0;brad paisley love songs lyrics;6;0.00248756218905;THUSAM-S-E-2A
+0087;0;brad paisley lyrics alcohol;3;0.0746268656717;0;;;;THUSAM-S-E-2A
+0087;0;brad paisley lyrics online;4;0.0572139303483;0;;;;THUSAM-S-E-2A
+0087;0;brad paisley lyrics dance;5;0.0522388059702;0;;;;THUSAM-S-E-2A
+0088;0;craigs list phoenix car;1;0.28659370725;0;craigs list cars and trucks phoenix arizona;3;0.00547195622435;THUSAM-S-E-2A
+0088;0;craigs list phoenix car;1;0.28659370725;0;craigs list phoenix car for sale by owner;5;0.00547195622435;THUSAM-S-E-2A
+0088;0;craigs list phoenix car;1;0.28659370725;0;craigs list cars and trucks by owner phoenix;15;0.00273597811218;THUSAM-S-E-2A
+0088;0;craigs list phoenix car;1;0.28659370725;0;craigs list cars for sale in phoenix arizona;27;0.00273597811218;THUSAM-S-E-2A
+0088;0;craigs list phoenix car;1;0.28659370725;0;craigs list phoenix cars and trucks for sale;40;0.000683994528044;THUSAM-S-E-2A
+0088;0;craigs list phoenix az;2;0.139534883721;0;for sale on craigs list in phoenix az;6;0.00410396716826;THUSAM-S-E-2A
+0088;0;craigs list phoenix az;2;0.139534883721;0;craigs list west phoenix az;7;0.00410396716826;THUSAM-S-E-2A
+0088;0;craigs list phoenix az;2;0.139534883721;0;craigs list phoenix az boats;8;0.00410396716826;THUSAM-S-E-2A
+0088;0;craigs list phoenix az;2;0.139534883721;0;jobs phoenix az craigs list;9;0.00410396716826;THUSAM-S-E-2A
+0088;0;craigs list phoenix az;2;0.139534883721;0;craigs list phoenix az apartments;16;0.00273597811218;THUSAM-S-E-2A
+0088;0;craigs list phoenix az;2;0.139534883721;0;craigs list furniture in phoenix az;17;0.00273597811218;THUSAM-S-E-2A
+0088;0;craigs list phoenix az;2;0.139534883721;0;craigs list phoenix az pets;19;0.00273597811218;THUSAM-S-E-2A
+0088;0;craigs list phoenix az;2;0.139534883721;0;craigs list employment phoenix az;24;0.00273597811218;THUSAM-S-E-2A
+0088;0;craigs list phoenix arizona;3;0.0485636114912;0;craigs list phoenix arizona personals;2;0.00547195622435;THUSAM-S-E-2A
+0088;0;craigs list phoenix arizona;3;0.0485636114912;0;craigs list jobs in phoenix arizona;10;0.00410396716826;THUSAM-S-E-2A
+0088;0;craigs list phoenix arizona;3;0.0485636114912;0;craigs list phoenix arizona boats;18;0.00273597811218;THUSAM-S-E-2A
+0088;0;craigs list phoenix arizona;3;0.0485636114912;0;craigs list phoenix arizona homes for rent;20;0.00273597811218;THUSAM-S-E-2A
+0088;0;craigs list phoenix arizona;3;0.0485636114912;0;craigs list phoenix arizona houses for rent;22;0.00273597811218;THUSAM-S-E-2A
+0088;0;craigs list phoenix arizona;3;0.0485636114912;0;craigs list en phoenix arizona;28;0.00205198358413;THUSAM-S-E-2A
+0088;0;craigs list phoenix arizona;3;0.0485636114912;0;craigs list com arizona phoenix;29;0.00136798905609;THUSAM-S-E-2A
+0088;0;craigs list phoenix arizona;3;0.0485636114912;0;craigs list phoenix arizona furniture;30;0.00136798905609;THUSAM-S-E-2A
+0088;0;craigs list phoenix arizona;3;0.0485636114912;0;craigs list classified phoenix arizona;31;0.00136798905609;THUSAM-S-E-2A
+0088;0;craigs list phoenix arizona;3;0.0485636114912;0;craigs list phoenix arizona tools;38;0.000683994528044;THUSAM-S-E-2A
+0088;0;craigs list phoenix sale;4;0.0444596443229;0;craigs list phoenix motorcycles for sale;1;0.00547195622435;THUSAM-S-E-2A
+0088;0;craigs list phoenix sale;4;0.0444596443229;0;craigs list phoenix boats for sale;4;0.00547195622435;THUSAM-S-E-2A
+0088;0;craigs list phoenix sale;4;0.0444596443229;0;craigs list phoenix homes for sale;13;0.00410396716826;THUSAM-S-E-2A
+0088;0;craigs list phoenix sale;4;0.0444596443229;0;craigs list phoenix mobile homes for sale;14;0.00410396716826;THUSAM-S-E-2A
+0088;0;craigs list phoenix sale;4;0.0444596443229;0;craigs list phoenix yard sale;25;0.00273597811218;THUSAM-S-E-2A
+0088;0;craigs list phoenix sale;4;0.0444596443229;0;craigs list phoenix tools sale;34;0.000683994528044;THUSAM-S-E-2A
+0088;0;craigs list phoenix sale;4;0.0444596443229;0;craigs list phoenix pets for sale;36;0.000683994528044;THUSAM-S-E-2A
+0088;0;craigs list phoenix sale;4;0.0444596443229;0;craigs list phoenix garage sale;37;0.000683994528044;THUSAM-S-E-2A
+0088;0;craigs list phoenix owner;5;0.0430916552668;0;craigs list furniture for sale by owner phoenix;11;0.00410396716826;THUSAM-S-E-2A
+0088;0;craigs list phoenix owner;5;0.0430916552668;0;craigs list phoenix az furniture by owner;12;0.00410396716826;THUSAM-S-E-2A
+0088;0;craigs list phoenix owner;5;0.0430916552668;0;craigs list furniture by owner phoenix;21;0.00273597811218;THUSAM-S-E-2A
+0088;0;craigs list phoenix owner;5;0.0430916552668;0;craigs list trucks for sale by owner phoenix az;23;0.00273597811218;THUSAM-S-E-2A
+0088;0;craigs list phoenix owner;5;0.0430916552668;0;craigs list phoenix boats by owner;26;0.00273597811218;THUSAM-S-E-2A
+0088;0;craigs list phoenix owner;5;0.0430916552668;0;craigs list phoenix boats for sale by owner;32;0.00136798905609;THUSAM-S-E-2A
+0088;0;craigs list phoenix owner;5;0.0430916552668;0;craigs list phoenix trucks owner;33;0.00136798905609;THUSAM-S-E-2A
+0088;0;craigs list phoenix owner;5;0.0430916552668;0;craigs list phoenix tools by owner;35;0.000683994528044;THUSAM-S-E-2A
+0088;0;craigs list phoenix owner;5;0.0430916552668;0;craigs list phoenix motorcycles for sale by owner;39;0.000683994528044;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide fact;1;0.273565573771;0;nutritional facts mcdonalds;5;0.00717213114754;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide fact;1;0.273565573771;0;mcdonalds oatmeal nutrition facts;8;0.00717213114754;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide fact;1;0.273565573771;0;mcdonalds sundae nutrition facts;14;0.00409836065574;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide fact;1;0.273565573771;0;nutrition facts mcdonalds smoothie;16;0.00409836065574;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide fact;1;0.273565573771;0;mcdonalds eggs nutrition facts;17;0.00409836065574;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide fact;1;0.273565573771;0;mcdonalds mcflurry nutrition facts;19;0.00409836065574;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide fact;1;0.273565573771;0;nutrition facts mcdonalds fries;21;0.00409836065574;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide fact;1;0.273565573771;0;nutrition facts mcdonalds chicken nuggets;23;0.00204918032787;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide fact;1;0.273565573771;0;medium mcdonalds fries nutrition facts;26;0.00204918032787;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide fact;1;0.273565573771;0;mcdonalds french fries nutrition facts;44;0.00102459016393;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide menu;2;0.0860655737705;0;mcdonalds menu nutritional value;2;0.00922131147541;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide menu;2;0.0860655737705;0;mcdonalds menu nutritional information;4;0.00922131147541;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide menu;2;0.0860655737705;0;mcdonalds nutrition menu calories;7;0.00717213114754;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide menu;2;0.0860655737705;0;mcdonalds breakfast menu nutrition information;12;0.00409836065574;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide menu;2;0.0860655737705;0;nutritional menu mcdonalds;15;0.00409836065574;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide menu;2;0.0860655737705;0;mcdonalds menu nutrition information;18;0.00409836065574;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide menu;2;0.0860655737705;0;mcdonalds breakfast menu nutritional info;24;0.00204918032787;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide menu;2;0.0860655737705;0;mcdonalds menu nutrition info;27;0.00204918032787;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide menu;2;0.0860655737705;0;mcdonalds menu nutritional info;29;0.00204918032787;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide menu;2;0.0860655737705;0;mcdonalds menu nutrition calculator;42;0.00102459016393;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide nutritional;3;0.0829918032787;0;wendys nutritional guide;3;0.00922131147541;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide nutritional;3;0.0829918032787;0;pizza hut nutritional guide;6;0.00717213114754;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide nutritional;3;0.0829918032787;0;nutritional value for mcdonalds;9;0.00717213114754;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide nutritional;3;0.0829918032787;0;mcdonalds oatmeal nutritional value;20;0.00409836065574;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide nutritional;3;0.0829918032787;0;nutritional guide to lose weight;22;0.00204918032787;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide nutritional;3;0.0829918032787;0;nutritional value of mcdonalds chicken nuggets;25;0.00204918032787;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide nutritional;3;0.0829918032787;0;nutritional value mcdonalds smoothie;28;0.00204918032787;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide nutritional;3;0.0829918032787;0;mcdonalds nutritional calculator;30;0.00204918032787;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide chart;4;0.0594262295082;0;mcdonalds menu nutrition chart;1;0.00922131147541;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide chart;4;0.0594262295082;0;mcdonalds breakfast nutrition chart;10;0.00717213114754;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide chart;4;0.0594262295082;0;mcdonalds nutrition facts chart;11;0.00512295081967;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide chart;4;0.0594262295082;0;mcdonalds food nutrition chart;31;0.00204918032787;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide chart;4;0.0594262295082;0;mcdonalds nutrition calories chart;32;0.00204918032787;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide chart;4;0.0594262295082;0;nutritional chart for mcdonalds;33;0.00204918032787;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide chart;4;0.0594262295082;0;mcdonalds nutritional value chart;34;0.00204918032787;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide chart;4;0.0594262295082;0;mcdonalds nutrition information chart;43;0.00102459016393;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide information;5;0.0512295081967;0;mcdonalds cheeseburger nutritional information;13;0.00409836065574;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide information;5;0.0512295081967;0;mcdonalds french fries nutritional information;35;0.00204918032787;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide information;5;0.0512295081967;0;nutritional information of mcdonalds;36;0.00204918032787;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide information;5;0.0512295081967;0;mcdonalds breakfast nutritional information;37;0.00204918032787;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide information;5;0.0512295081967;0;mcdonalds fries nutritional information;38;0.00204918032787;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide information;5;0.0512295081967;0;mcdonalds frappe nutrition information;39;0.00204918032787;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide information;5;0.0512295081967;0;mcdonalds coffee nutrition information;40;0.00204918032787;THUSAM-S-E-2A
+0089;0;mcdonalds nutrition guide information;5;0.0512295081967;0;mcdonalds chicken nuggets nutritional information;41;0.00204918032787;THUSAM-S-E-2A
+0090;0;sausalito art festival artist;1;0.139534883721;0;;;;THUSAM-S-E-2A
+0090;0;sausalito art festival ticket;2;0.139534883721;0;;;;THUSAM-S-E-2A
+0090;0;sausalito art festival gala;3;0.139534883721;0;;;;THUSAM-S-E-2A
+0090;0;sausalito art festival poster;4;0.139534883721;0;;;;THUSAM-S-E-2A
+0090;0;sausalito art festival wine;5;0.093023255814;0;;;;THUSAM-S-E-2A
+0091;0;tennessee unemployment rate;1;0.138461538461;0;tennessee unemployment rate by county;1;0.025641025641;THUSAM-S-E-2A
+0091;0;tennessee unemployment rate;1;0.138461538461;0;state of tennessee unemployment rate;2;0.025641025641;THUSAM-S-E-2A
+0091;0;tennessee unemployment rate;1;0.138461538461;0;memphis tennessee unemployment rate;4;0.025641025641;THUSAM-S-E-2A
+0091;0;tennessee unemployment rate;1;0.138461538461;0;nashville tennessee unemployment rate;8;0.0102564102564;THUSAM-S-E-2A
+0091;0;tennessee unemployment rate;1;0.138461538461;0;tennessee unemployment pay rate;12;0.00512820512821;THUSAM-S-E-2A
+0091;0;tennessee unemployment benefit;2;0.123076923077;0;state of tennessee unemployment benefits;6;0.0102564102564;THUSAM-S-E-2A
+0091;0;tennessee unemployment benefit;2;0.123076923077;0;tennessee unemployment benefits calculator;7;0.0102564102564;THUSAM-S-E-2A
+0091;0;tennessee unemployment benefit;2;0.123076923077;0;tennessee dept of unemployment benefits;19;0.00512820512821;THUSAM-S-E-2A
+0091;0;tennessee unemployment office;3;0.123076923077;0;tennessee unemployment office memphis tn;3;0.025641025641;THUSAM-S-E-2A
+0091;0;tennessee unemployment office;3;0.123076923077;0;tennessee unemployment office locations;5;0.0153846153846;THUSAM-S-E-2A
+0091;0;tennessee unemployment office;3;0.123076923077;0;unemployment office memphis tennessee;9;0.0102564102564;THUSAM-S-E-2A
+0091;0;tennessee unemployment office;3;0.123076923077;0;unemployment office chattanooga tennessee;14;0.00512820512821;THUSAM-S-E-2A
+0091;0;tennessee unemployment office;3;0.123076923077;0;tennessee unemployment office knoxville;15;0.00512820512821;THUSAM-S-E-2A
+0091;0;tennessee unemployment certification;4;0.0512820512821;0;tennessee weekly unemployment certification;10;0.0102564102564;THUSAM-S-E-2A
+0091;0;tennessee unemployment certification;4;0.0512820512821;0;state of tennessee unemployment weekly certification;13;0.00512820512821;THUSAM-S-E-2A
+0091;0;tennessee unemployment certification;4;0.0512820512821;0;tennessee department of labor unemployment weekly certification;16;0.00512820512821;THUSAM-S-E-2A
+0091;0;tennessee unemployment certification;4;0.0512820512821;0;tennessee unemployment weekly certification phone number;18;0.00512820512821;THUSAM-S-E-2A
+0091;0;tennessee unemployment certification;4;0.0512820512821;0;tennessee unemployment weekly certification number;20;0.00512820512821;THUSAM-S-E-2A
+0091;0;tennessee unemployment nashville;5;0.051282051282;0;unemployment office nashville tennessee;11;0.0102564102564;THUSAM-S-E-2A
+0091;0;tennessee unemployment nashville;5;0.051282051282;0;tennessee unemployment office nashville tn;17;0.00512820512821;THUSAM-S-E-2A
+0092;0;men's shoe sizes conversion man;1;0.225161669606;0;shoe size conversion mens to womens;7;0.00411522633745;THUSAM-S-E-2A
+0092;0;men's shoe sizes conversion man;1;0.225161669606;0;euro shoe size conversion men;12;0.00293944738389;THUSAM-S-E-2A
+0092;0;men's shoe sizes conversion man;1;0.225161669606;0;mens to boys shoe size conversion;14;0.00293944738389;THUSAM-S-E-2A
+0092;0;men's shoe sizes conversion man;1;0.225161669606;0;international shoe size conversion men;21;0.00117577895356;THUSAM-S-E-2A
+0092;0;men's shoe sizes conversion chart;2;0.179894179894;0;men and women shoe size conversion chart;6;0.00411522633745;THUSAM-S-E-2A
+0092;0;men's shoe sizes conversion chart;2;0.179894179894;0;toddler shoes sizes conversion chart;17;0.00117577895356;THUSAM-S-E-2A
+0092;0;men's shoe sizes conversion chart;2;0.179894179894;0;china shoe size conversion chart;18;0.00117577895356;THUSAM-S-E-2A
+0092;0;men's shoe sizes conversion chart;2;0.179894179894;0;womens shoes size conversion chart;19;0.00117577895356;THUSAM-S-E-2A
+0092;0;men's shoe sizes conversion chart;2;0.179894179894;0;international shoe size conversion chart men;20;0.00117577895356;THUSAM-S-E-2A
+0092;0;men's shoe sizes conversion european;3;0.0987654320988;0;european shoe size conversion women;3;0.00411522633745;THUSAM-S-E-2A
+0092;0;men's shoe sizes conversion european;3;0.0987654320988;0;european us shoe size conversion men;11;0.00293944738389;THUSAM-S-E-2A
+0092;0;men's shoe sizes conversion european;3;0.0987654320988;0;toddler european shoe size conversion;13;0.00293944738389;THUSAM-S-E-2A
+0092;0;men's shoe sizes conversion european;3;0.0987654320988;0;conversion chart for european shoe sizes;15;0.00293944738389;THUSAM-S-E-2A
+0092;0;men's shoe sizes conversion european;3;0.0987654320988;0;european shoe size conversion children;23;0.000587889476778;THUSAM-S-E-2A
+0092;0;men's shoe sizes conversion kid;4;0.0987654320988;0;kids euro shoe size conversion;2;0.00411522633745;THUSAM-S-E-2A
+0092;0;men's shoe sizes conversion kid;4;0.0987654320988;0;women to kids shoe size conversion;5;0.00411522633745;THUSAM-S-E-2A
+0092;0;men's shoe sizes conversion kid;4;0.0987654320988;0;european shoe size conversion for kids;9;0.00411522633745;THUSAM-S-E-2A
+0092;0;men's shoe sizes conversion kid;4;0.0987654320988;0;shoe size conversion chart kids;10;0.00411522633745;THUSAM-S-E-2A
+0092;0;men's shoe sizes conversion kid;4;0.0987654320988;0;shoe size conversion kids to men;16;0.00293944738389;THUSAM-S-E-2A
+0092;0;men's shoe sizes conversion woman;5;0.0734861845974;0;girls to women shoe size conversion;1;0.00411522633745;THUSAM-S-E-2A
+0092;0;men's shoe sizes conversion woman;5;0.0734861845974;0;woman to child shoe size conversion;4;0.00411522633745;THUSAM-S-E-2A
+0092;0;men's shoe sizes conversion woman;5;0.0734861845974;0;shoe size conversion women to boys;8;0.00411522633745;THUSAM-S-E-2A
+0092;0;men's shoe sizes conversion woman;5;0.0734861845974;0;shoe size international conversion women;22;0.00117577895356;THUSAM-S-E-2A
+0093;0;obama biography barack;1;0.572668112798;0;short biography on barack obama;1;0.00867678958785;THUSAM-S-E-2A
+0093;0;obama biography barack;1;0.572668112798;0;biography barack obama for kids;2;0.00867678958785;THUSAM-S-E-2A
+0093;0;obama biography barack;1;0.572668112798;0;barack obama biography book pdf;4;0.00867678958785;THUSAM-S-E-2A
+0093;0;obama biography barack;1;0.572668112798;0;mini biography of barack obama;6;0.00867678958785;THUSAM-S-E-2A
+0093;0;obama biography barack;1;0.572668112798;0;barack obama biography muslim;8;0.00867678958785;THUSAM-S-E-2A
+0093;0;obama biography barack;1;0.572668112798;0;barack obama resume biography;10;0.00867678958785;THUSAM-S-E-2A
+0093;0;obama biography barack;1;0.572668112798;0;barack obama biography life;12;0.00867678958785;THUSAM-S-E-2A
+0093;0;obama biography barack;1;0.572668112798;0;barack obama family biography;13;0.00867678958785;THUSAM-S-E-2A
+0093;0;obama biography michelle;2;0.0845986984815;0;michelle obama biography for children;3;0.00867678958785;THUSAM-S-E-2A
+0093;0;obama biography michelle;2;0.0845986984815;0;michelle robinson obama biography;5;0.00867678958785;THUSAM-S-E-2A
+0093;0;obama biography michelle;2;0.0845986984815;0;michelle obama childhood biography;7;0.00867678958785;THUSAM-S-E-2A
+0093;0;obama biography michelle;2;0.0845986984815;0;michelle lavaughn robinson obama biography;9;0.00867678958785;THUSAM-S-E-2A
+0093;0;obama biography michelle;2;0.0845986984815;0;first lady michelle obama biography;11;0.00867678958785;THUSAM-S-E-2A
+0093;0;obama biography michelle;2;0.0845986984815;0;michelle obama parents biography;14;0.00867678958785;THUSAM-S-E-2A
+0093;0;obama biography michelle;2;0.0845986984815;0;michelle obama biography timeline;21;0.00759219088937;THUSAM-S-E-2A
+0093;0;obama biography michelle;2;0.0845986984815;0;michelle obama biography book;22;0.00759219088937;THUSAM-S-E-2A
+0093;0;obama biography michelle;2;0.0845986984815;0;michelle obama biography video;23;0.00216919739696;THUSAM-S-E-2A
+0093;0;obama biography president;3;0.056399132321;0;president obama biography wikipedia;15;0.00867678958785;THUSAM-S-E-2A
+0093;0;obama biography president;3;0.056399132321;0;autobiography of president obama;19;0.00867678958785;THUSAM-S-E-2A
+0093;0;obama biography president;3;0.056399132321;0;president obama biography for kids;24;0.00216919739696;THUSAM-S-E-2A
+0093;0;obama biography autobiography;4;0.0488069414316;0;autobiography of barrack obama;17;0.00867678958785;THUSAM-S-E-2A
+0093;0;obama biography autobiography;4;0.0488069414316;0;autobiography of michelle obama;18;0.00867678958785;THUSAM-S-E-2A
+0093;0;obama biography autobiography;4;0.0488069414316;0;obama autobiography book;20;0.00867678958785;THUSAM-S-E-2A
+0093;0;obama biography short;5;0.027114967462;0;short biography of michelle obama;16;0.00867678958785;THUSAM-S-E-2A
+0094;0;causes of obesity child;1;0.114111054508;0;causes child obesity in america;1;0.00356597045339;THUSAM-S-E-2A
+0094;0;causes of obesity child;1;0.114111054508;0;diseases caused by obesity in children;2;0.00356597045339;THUSAM-S-E-2A
+0094;0;causes of obesity child;1;0.114111054508;0;health problems caused by obesity in children;3;0.00356597045339;THUSAM-S-E-2A
+0094;0;causes of obesity child;1;0.114111054508;0;genetic causes of obesity in children;4;0.00356597045339;THUSAM-S-E-2A
+0094;0;causes of obesity child;1;0.114111054508;0;cause and effect of obesity in children;16;0.00356597045339;THUSAM-S-E-2A
+0094;0;causes of obesity child;1;0.114111054508;0;video games cause obesity in children;30;0.00101884870097;THUSAM-S-E-2A
+0094;0;causes of obesity food;2;0.1049414162;0;fast food the cause of obesity;6;0.00356597045339;THUSAM-S-E-2A
+0094;0;causes of obesity food;2;0.1049414162;0;fast food causes obesity facts;7;0.00356597045339;THUSAM-S-E-2A
+0094;0;causes of obesity food;2;0.1049414162;0;top foods that cause obesity;9;0.00356597045339;THUSAM-S-E-2A
+0094;0;causes of obesity food;2;0.1049414162;0;fast food causing obesity in america;11;0.00356597045339;THUSAM-S-E-2A
+0094;0;causes of obesity food;2;0.1049414162;0;evidence that fast food causes obesity;12;0.00356597045339;THUSAM-S-E-2A
+0094;0;causes of obesity food;2;0.1049414162;0;junk food causes obesity;13;0.00356597045339;THUSAM-S-E-2A
+0094;0;causes of obesity food;2;0.1049414162;0;fast food leading cause of obesity;14;0.00356597045339;THUSAM-S-E-2A
+0094;0;causes of obesity food;2;0.1049414162;0;childhood obesity caused by fast food;15;0.00356597045339;THUSAM-S-E-2A
+0094;0;causes of obesity disease;3;0.0891492613348;0;heart diseases caused by obesity;10;0.00356597045339;THUSAM-S-E-2A
+0094;0;causes of obesity childhood;4;0.0840550178299;0;number one cause of childhood obesity;5;0.00356597045339;THUSAM-S-E-2A
+0094;0;causes of obesity childhood;4;0.0840550178299;0;medical causes of childhood obesity;8;0.00356597045339;THUSAM-S-E-2A
+0094;0;causes of obesity childhood;4;0.0840550178299;0;cause and effects of childhood obesity;17;0.00356597045339;THUSAM-S-E-2A
+0094;0;causes of obesity childhood;4;0.0840550178299;0;childhood obesity caused by overeating can;18;0.00356597045339;THUSAM-S-E-2A
+0094;0;causes of obesity childhood;4;0.0840550178299;0;health problems caused by childhood obesity;19;0.00356597045339;THUSAM-S-E-2A
+0094;0;causes of obesity childhood;4;0.0840550178299;0;major causes of childhood obesity;20;0.00356597045339;THUSAM-S-E-2A
+0094;0;causes of obesity childhood;4;0.0840550178299;0;causes childhood obesity in america;21;0.00356597045339;THUSAM-S-E-2A
+0094;0;causes of obesity childhood;4;0.0840550178299;0;childhood obesity genetic causes;22;0.00356597045339;THUSAM-S-E-2A
+0094;0;causes of obesity childhood;4;0.0840550178299;0;parents cause of childhood obesity;23;0.00356597045339;THUSAM-S-E-2A
+0094;0;causes of obesity childhood;4;0.0840550178299;0;genetic and hormonal causes of childhood obesity;25;0.00356597045339;THUSAM-S-E-2A
+0094;0;causes of obesity main;5;0.0514518593989;0;fast food main cause of obesity;24;0.00356597045339;THUSAM-S-E-2A
+0094;0;causes of obesity main;5;0.0514518593989;0;main cause of obesity in america;26;0.00356597045339;THUSAM-S-E-2A
+0094;0;causes of obesity main;5;0.0514518593989;0;main causes of obesity in children;27;0.00356597045339;THUSAM-S-E-2A
+0094;0;causes of obesity main;5;0.0514518593989;0;main cause of childhood obesity;28;0.00356597045339;THUSAM-S-E-2A
+0094;0;causes of obesity main;5;0.0514518593989;0;junk food main cause of obesity;29;0.00356597045339;THUSAM-S-E-2A
+0095;0;what is a natural number definition;1;0.145833333333;0;math definition of natural numbers;1;0.0125;THUSAM-S-E-2A
+0095;0;what is a natural number definition;1;0.145833333333;0;definition of natural numbers with examples;2;0.0125;THUSAM-S-E-2A
+0095;0;what is a natural number definition;1;0.145833333333;0;natural numbers definition for kids;4;0.0125;THUSAM-S-E-2A
+0095;0;what is a natural number example;2;0.114583333333;0;example of natural numbers in math;6;0.0125;THUSAM-S-E-2A
+0095;0;what is a natural number math;3;0.1125;0;natural numbers math fun;5;0.0125;THUSAM-S-E-2A
+0095;0;what is a natural number integer;4;0.04375;0;an integer that a natural rational and whole number;3;0.0125;THUSAM-S-E-2A
+0095;0;what is a natural number zero;5;0.0395833333333;0;;;;THUSAM-S-E-2A
+0096;0;yellow teeth treatment white;1;0.129310344827;0;turn yellow teeth into white teeth;15;0.00172413793103;THUSAM-S-E-2A
+0096;0;yellow teeth treatment white;1;0.129310344827;0;make your teeth white from yellow;16;0.00172413793103;THUSAM-S-E-2A
+0096;0;yellow teeth treatment white;1;0.129310344827;0;home treatment for white teeth;28;0.00172413793103;THUSAM-S-E-2A
+0096;0;yellow teeth treatment whiten;2;0.115517241379;0;whiten really yellow teeth;3;0.0051724137931;THUSAM-S-E-2A
+0096;0;yellow teeth treatment whiten;2;0.115517241379;0;whiten yellow teeth fast;4;0.0051724137931;THUSAM-S-E-2A
+0096;0;yellow teeth treatment whiten;2;0.115517241379;0;whiten extremely yellow teeth;5;0.0051724137931;THUSAM-S-E-2A
+0096;0;yellow teeth treatment whiten;2;0.115517241379;0;way to whiten yellow teeth;7;0.00344827586207;THUSAM-S-E-2A
+0096;0;yellow teeth treatment whiten;2;0.115517241379;0;naturally yellow teeth whitening;8;0.00172413793103;THUSAM-S-E-2A
+0096;0;yellow teeth treatment whiten;2;0.115517241379;0;teeth whitening treatments at home;10;0.00172413793103;THUSAM-S-E-2A
+0096;0;yellow teeth treatment whiten;2;0.115517241379;0;can baking soda whiten yellow teeth;12;0.00172413793103;THUSAM-S-E-2A
+0096;0;yellow teeth treatment stain;3;0.113793103448;0;get rid of yellow teeth stains;2;0.0051724137931;THUSAM-S-E-2A
+0096;0;yellow teeth treatment stain;3;0.113793103448;0;whiten yellow stained teeth;22;0.00172413793103;THUSAM-S-E-2A
+0096;0;yellow teeth treatment stain;3;0.113793103448;0;remove yellow stain on teeth;24;0.00172413793103;THUSAM-S-E-2A
+0096;0;yellow teeth treatment stain;3;0.113793103448;0;remove yellow stains from teeth at home;26;0.00172413793103;THUSAM-S-E-2A
+0096;0;yellow teeth treatment cause;4;0.0672413793102;0;causes teeth to turn yellow;1;0.0051724137931;THUSAM-S-E-2A
+0096;0;yellow teeth treatment cause;4;0.0672413793102;0;causes yellow stains on teeth;9;0.00172413793103;THUSAM-S-E-2A
+0096;0;yellow teeth treatment cause;4;0.0672413793102;0;causes yellow teeth in kids;11;0.00172413793103;THUSAM-S-E-2A
+0096;0;yellow teeth treatment cause;4;0.0672413793102;0;diseases that cause yellow teeth;13;0.00172413793103;THUSAM-S-E-2A
+0096;0;yellow teeth treatment cause;4;0.0672413793102;0;causes yellow teeth in toddlers;14;0.00172413793103;THUSAM-S-E-2A
+0096;0;yellow teeth treatment cause;4;0.0672413793102;0;medications that cause yellow teeth;17;0.00172413793103;THUSAM-S-E-2A
+0096;0;yellow teeth treatment cause;4;0.0672413793102;0;why smoking cause yellow teeth;19;0.00172413793103;THUSAM-S-E-2A
+0096;0;yellow teeth treatment cause;4;0.0672413793102;0;foods that cause yellow teeth;21;0.00172413793103;THUSAM-S-E-2A
+0096;0;yellow teeth treatment cause;4;0.0672413793102;0;causes yellow teeth in adults;23;0.00172413793103;THUSAM-S-E-2A
+0096;0;yellow teeth treatment child;5;0.0655172413792;0;causes yellow teeth in children;6;0.0051724137931;THUSAM-S-E-2A
+0096;0;yellow teeth treatment child;5;0.0655172413792;0;yellowish teeth in children;18;0.00172413793103;THUSAM-S-E-2A
+0096;0;yellow teeth treatment child;5;0.0655172413792;0;yellow stained teeth in children;20;0.00172413793103;THUSAM-S-E-2A
+0096;0;yellow teeth treatment child;5;0.0655172413792;0;yellow spots on teeth children;25;0.00172413793103;THUSAM-S-E-2A
+0096;0;yellow teeth treatment child;5;0.0655172413792;0;yellow permanent teeth children;27;0.00172413793103;THUSAM-S-E-2A
+0097;0;myopia treatment child;1;0.24;0;ayurvedic treatment for myopia in children;1;0.0342857142857;THUSAM-S-E-2A
+0097;0;myopia treatment natural;2;0.137142857143;0;;;;THUSAM-S-E-2A
+0097;0;myopia treatment laser;3;0.102857142857;0;;;;THUSAM-S-E-2A
+0097;0;myopia treatment option;4;0.0685714285714;0;;;;THUSAM-S-E-2A
+0097;0;myopia treatment homeopathy;5;0.0685714285714;0;;;;THUSAM-S-E-2A
+0098;0;how to find my ip address window;1;0.121538461538;0;find computer ip address windows 8;1;0.00307692307692;THUSAM-S-E-2A
+0098;0;how to find my ip address window;1;0.121538461538;0;find local ip address windows 7;2;0.00307692307692;THUSAM-S-E-2A
+0098;0;how to find my ip address window;1;0.121538461538;0;finding ip address on windows xp;3;0.00307692307692;THUSAM-S-E-2A
+0098;0;how to find my ip address window;1;0.121538461538;0;find pc ip address windows 7;4;0.00307692307692;THUSAM-S-E-2A
+0098;0;how to find my ip address computer;2;0.0996153846153;0;;;;THUSAM-S-E-2A
+0098;0;how to find my ip address printer;3;0.0907692307691;0;;;;THUSAM-S-E-2A
+0098;0;how to find my ip address email;4;0.0830769230768;0;email ip address finder;5;0.00153846153846;THUSAM-S-E-2A
+0098;0;how to find my ip address location;5;0.0615384615384;0;find the physical location of an ip address;6;0.00153846153846;THUSAM-S-E-2A
+0098;0;how to find my ip address location;5;0.0615384615384;0;find ip address location on map;7;0.000384615384615;THUSAM-S-E-2A
+0099;0;postcode finder address;1;0.207547169812;0;postcode address finder royal mail;2;0.00471698113208;THUSAM-S-E-2A
+0099;0;postcode finder address;1;0.207547169812;0;post office address and postcode finder;3;0.00471698113208;THUSAM-S-E-2A
+0099;0;postcode finder address;1;0.207547169812;0;address finder uk by postcode;4;0.00471698113208;THUSAM-S-E-2A
+0099;0;postcode finder address;1;0.207547169812;0;nz address and postcode finder;6;0.00471698113208;THUSAM-S-E-2A
+0099;0;postcode finder address;1;0.207547169812;0;nz post address and postcode finder;8;0.00471698113208;THUSAM-S-E-2A
+0099;0;postcode finder uk;2;0.103773584906;0;royal mail postcode finder uk map;10;0.00471698113208;THUSAM-S-E-2A
+0099;0;postcode finder uk;2;0.103773584906;0;uk mail postcode finder;12;0.00471698113208;THUSAM-S-E-2A
+0099;0;postcode finder uk;2;0.103773584906;0;royal mail postcodes uk finder;14;0.00471698113208;THUSAM-S-E-2A
+0099;0;postcode finder uk;2;0.103773584906;0;uk postcode finder map;16;0.00471698113208;THUSAM-S-E-2A
+0099;0;postcode finder uk;2;0.103773584906;0;residential postcode finder uk;18;0.00471698113208;THUSAM-S-E-2A
+0099;0;postcode finder post office;3;0.0801886792454;0;post office postcode finder royal mail;7;0.00471698113208;THUSAM-S-E-2A
+0099;0;postcode finder post office;3;0.0801886792454;0;post office uk postcode finder;13;0.00471698113208;THUSAM-S-E-2A
+0099;0;postcode finder post office;3;0.0801886792454;0;royal mail postcode finder uk post office;20;0.00471698113208;THUSAM-S-E-2A
+0099;0;postcode finder post office;3;0.0801886792454;0;post office postcode finder map;22;0.00471698113208;THUSAM-S-E-2A
+0099;0;postcode finder mail;4;0.0424528301887;0;royal mail postcodefinder;1;0.00471698113208;THUSAM-S-E-2A
+0099;0;postcode finder mail;4;0.0424528301887;0;royal mail tracking postcode finder;9;0.00471698113208;THUSAM-S-E-2A
+0099;0;postcode finder mail;4;0.0424528301887;0;royal mail website postcode finder;15;0.00471698113208;THUSAM-S-E-2A
+0099;0;postcode finder mail;4;0.0424528301887;0;royal mail postcode finder residential;17;0.00471698113208;THUSAM-S-E-2A
+0099;0;postcode finder mail;4;0.0424528301887;0;postcode finder royal mail;19;0.00471698113208;THUSAM-S-E-2A
+0099;0;postcode finder london;5;0.0283018867925;0;postcode finder map london;5;0.00471698113208;THUSAM-S-E-2A
+0099;0;postcode finder london;5;0.0283018867925;0;postcode finder london uk;11;0.00471698113208;THUSAM-S-E-2A
+0099;0;postcode finder london;5;0.0283018867925;0;royal mail postcode finder london;21;0.00471698113208;THUSAM-S-E-2A
+0100;0;online photo printing cheap;1;0.124401913876;0;order cheap photo prints online;1;0.00797448165869;THUSAM-S-E-2A
+0100;0;online photo printing cheap;1;0.124401913876;0;cheapest online photo printing service;5;0.00797448165869;THUSAM-S-E-2A
+0100;0;online photo printing cheap;1;0.124401913876;0;cheapest place to print photos online;14;0.00159489633174;THUSAM-S-E-2A
+0100;0;online photo printing order;2;0.100478468899;0;order photographic prints online;3;0.00797448165869;THUSAM-S-E-2A
+0100;0;online photo printing order;2;0.100478468899;0;order canvas photo prints online;4;0.00797448165869;THUSAM-S-E-2A
+0100;0;online photo printing order;2;0.100478468899;0;place to order photo prints online;12;0.00318979266348;THUSAM-S-E-2A
+0100;0;online photo printing order;2;0.100478468899;0;order photo prints online walmart;13;0.00159489633174;THUSAM-S-E-2A
+0100;0;online photo printing service;3;0.0925039872408;0;online photo collage printing services;2;0.00797448165869;THUSAM-S-E-2A
+0100;0;online photo printing service;3;0.0925039872408;0;online photo printing services india;10;0.00797448165869;THUSAM-S-E-2A
+0100;0;online photo printing service;3;0.0925039872408;0;online printing services for photographers;17;0.00159489633174;THUSAM-S-E-2A
+0100;0;online photo printing service;3;0.0925039872408;0;online photo printing services reviews;18;0.00159489633174;THUSAM-S-E-2A
+0100;0;online photo printing professional;4;0.0861244019139;0;professional photo printing services online;6;0.00797448165869;THUSAM-S-E-2A
+0100;0;online photo printing professional;4;0.0861244019139;0;professional quality photo printing online;7;0.00797448165869;THUSAM-S-E-2A
+0100;0;online photo printing professional;4;0.0861244019139;0;professional photography printing online;8;0.00797448165869;THUSAM-S-E-2A
+0100;0;online photo printing professional;4;0.0861244019139;0;professional photo printing online reviews;9;0.00797448165869;THUSAM-S-E-2A
+0100;0;online photo printing professional;4;0.0861244019139;0;order professional photo prints online;16;0.00159489633174;THUSAM-S-E-2A
+0100;0;online photo printing quality;5;0.0622009569378;0;good quality photo prints online;11;0.00797448165869;THUSAM-S-E-2A
+0100;0;online photo printing quality;5;0.0622009569378;0;quality online photo printing review;15;0.00159489633174;THUSAM-S-E-2A

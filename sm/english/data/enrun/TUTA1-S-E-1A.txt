@@ -1,0 +1,684 @@
+<SYSDESC>Corresponding to the English subtopic mining subtask, we rely on the categorical knowledge of Wikipedia and the Stanford Parser to identify the ambiguous topics, clear topics. Based on the Affinity Propagation clustering approach to cluster the subtopic strings.</SYSDESC>
+0051;0;apple iphone;1;1;0;apple iphone;1;0.16666667;TUTA1-S-E-1A
+0051;0;apple iphone;1;1;0;apple tv;2;0.08333333;TUTA1-S-E-1A
+0051;0;apple iphone;1;1;0;apple vacations;3;0.08333332;TUTA1-S-E-1A
+0051;0;apple iphone;1;1;0;apple ipod;4;0.08333331;TUTA1-S-E-1A
+0051;0;apple iphone;1;1;0;apple store;5;0.0833333;TUTA1-S-E-1A
+0051;0;apple iphone;1;1;0;apple commercial;6;0.08333329;TUTA1-S-E-1A
+0051;0;apple iphone;1;1;0;apple stock price;7;0.08333328;TUTA1-S-E-1A
+0051;0;apple iphone;1;1;0;apple new ipad;8;0.08333327;TUTA1-S-E-1A
+0051;0;apple iphone;1;1;0;apple stores;9;0.08333326;TUTA1-S-E-1A
+0051;0;apple iphone;1;1;0;apple news;10;0.08333325;TUTA1-S-E-1A
+0051;0;apple iphone;1;1;0;apple hulu;11;0.08333324;TUTA1-S-E-1A
+0052;0;cathedral raymond carver summary;1;0.2;0;cathedral raymond carver summary;1;0.13333333;TUTA1-S-E-1A
+0052;0;cathedral game;2;0.2;0;cathedral game;2;0.13333332;TUTA1-S-E-1A
+0052;0;cathedral band;3;0.2;0;cathedral band;3;0.13333331;TUTA1-S-E-1A
+0052;0;cathedral short story;4;0.2;0;cathedral short story;4;0.1333333;TUTA1-S-E-1A
+0052;0;cathedral high school;5;0.2;0;cathedral high school;5;0.13333329;TUTA1-S-E-1A
+0052;0;cathedral raymond carver summary;1;0.2;0;cathedral by raymond carver;6;0.06666667;TUTA1-S-E-1A
+0052;0;cathedral high school;5;0.2;0;st patrick's cathedral;7;0.06666666;TUTA1-S-E-1A
+0052;0;cathedral high school;5;0.2;0;national cathedral;8;0.06666665;TUTA1-S-E-1A
+0052;0;cathedral high school;5;0.2;0;cathedral city ca;9;0.06666664;TUTA1-S-E-1A
+0052;0;cathedral high school;5;0.2;0;cathedral of our lady of the angels;10;0.06666663;TUTA1-S-E-1A
+0052;0;cathedral high school;5;0.2;0;gothic cathedral;11;0.06666662;TUTA1-S-E-1A
+0052;0;cathedral high school;5;0.2;0;murder in the cathedral;12;0.06666661;TUTA1-S-E-1A
+0052;0;cathedral high school;5;0.2;0;crystal cathedral;13;0.0666666;TUTA1-S-E-1A
+0053;0;nasa eclipse 2013;1;1;0;nasa eclipse 2013;1;0.1;TUTA1-S-E-1A
+0053;0;nasa eclipse 2013;1;1;0;solar eclipse;2;0.09999999;TUTA1-S-E-1A
+0053;0;nasa eclipse 2013;1;1;0;lunar eclipse 2014;3;0.09999998;TUTA1-S-E-1A
+0053;0;nasa eclipse 2013;1;1;0;twilight eclipse;4;0.05;TUTA1-S-E-1A
+0053;0;nasa eclipse 2013;1;1;0;eclipse ide;5;0.04999999;TUTA1-S-E-1A
+0053;0;nasa eclipse 2013;1;1;0;eclipse movie;6;0.04999998;TUTA1-S-E-1A
+0053;0;nasa eclipse 2013;1;1;0;eclipse 2012;7;0.04999997;TUTA1-S-E-1A
+0053;0;nasa eclipse 2013;1;1;0;eclipse yacht;8;0.04999996;TUTA1-S-E-1A
+0053;0;nasa eclipse 2013;1;1;0;eclipse android;9;0.04999995;TUTA1-S-E-1A
+0053;0;nasa eclipse 2013;1;1;0;lunar eclipse 2013;10;0.04999994;TUTA1-S-E-1A
+0053;0;nasa eclipse 2013;1;1;0;next lunar eclipse;11;0.04999993;TUTA1-S-E-1A
+0053;0;nasa eclipse 2013;1;1;0;mitsubishi eclipse;12;0.04999992;TUTA1-S-E-1A
+0053;0;nasa eclipse 2013;1;1;0;eclipse java;13;0.04999991;TUTA1-S-E-1A
+0053;0;nasa eclipse 2013;1;1;0;eclipse tonight;14;0.0499999;TUTA1-S-E-1A
+0053;0;nasa eclipse 2013;1;1;0;eclipse download;15;0.04999989;TUTA1-S-E-1A
+0053;0;nasa eclipse 2013;1;1;0;eclipse november 2013;16;0.04999988;TUTA1-S-E-1A
+0053;0;nasa eclipse 2013;1;1;0;eclipse mp3 player;17;0.04999987;TUTA1-S-E-1A
+0054;0;fas software;1;0.05;0;fas 157 fetal;1;0.005;TUTA1-S-E-1A
+0054;0;fas software;1;0.05;0;fas 5;2;0.0025;TUTA1-S-E-1A
+0054;0;fas software;1;0.05;0;fas jobs;3;0.00249999;TUTA1-S-E-1A
+0054;0;fas software;1;0.05;0;fas book;4;0.00249998;TUTA1-S-E-1A
+0054;0;fas software;1;0.05;0;fas 91;5;0.00249997;TUTA1-S-E-1A
+0054;0;fas software;1;0.05;0;fas 133;6;0.00249996;TUTA1-S-E-1A
+0054;0;fas software;1;0.05;0;fas 109;7;0.00249995;TUTA1-S-E-1A
+0054;0;fas software;1;0.05;0;fas gene;8;0.00249994;TUTA1-S-E-1A
+0054;0;fas software;1;0.05;0;sage fas;9;0.00249993;TUTA1-S-E-1A
+0054;0;fas software;1;0.05;0;fas ligand;10;0.00249992;TUTA1-S-E-1A
+0054;0;fas software;1;0.05;0;fas quote;11;0.00249991;TUTA1-S-E-1A
+0054;0;fas software;1;0.05;0;fas employment;12;0.0024999;TUTA1-S-E-1A
+0054;0;fas software;1;0.05;0;fas asset;13;0.00249989;TUTA1-S-E-1A
+0054;0;fas software;1;0.05;0;fas accounting;14;0.00249988;TUTA1-S-E-1A
+0054;0;fas software;1;0.05;0;fas ireland;15;0.00249987;TUTA1-S-E-1A
+0054;0;fas software;1;0.05;0;fas symptoms;16;0.00249986;TUTA1-S-E-1A
+0054;0;fas software;1;0.05;0;fas software;17;0.00249985;TUTA1-S-E-1A
+0054;0;fas software;1;0.05;0;fas syndrome;18;0.00249984;TUTA1-S-E-1A
+0055;0;flesh gordon;1;1;0;flesh gordon;1;0.06666667;TUTA1-S-E-1A
+0055;0;flesh gordon;1;1;0;flesh and blood;2;0.06666666;TUTA1-S-E-1A
+0055;0;flesh gordon;1;1;0;flesh eating drug;3;0.06666665;TUTA1-S-E-1A
+0055;0;flesh gordon;1;1;0;flesh and spirit;4;0.06666664;TUTA1-S-E-1A
+0055;0;flesh gordon;1;1;0;flesh eating disease;5;0.06666663;TUTA1-S-E-1A
+0055;0;flesh gordon;1;1;0;flesh club;6;0.06666662;TUTA1-S-E-1A
+0055;0;flesh gordon;1;1;0;flesh simon curtis;7;0.06666661;TUTA1-S-E-1A
+0055;0;flesh gordon;1;1;0;flesh movie;8;0.0666666;TUTA1-S-E-1A
+0055;0;flesh gordon;1;1;0;flesh synonym;9;0.06666659;TUTA1-S-E-1A
+0055;0;flesh gordon;1;1;0;flesh in the bible;10;0.06666658;TUTA1-S-E-1A
+0055;0;flesh gordon;1;1;0;flesh eating bacteria;11;0.06666657;TUTA1-S-E-1A
+0055;0;flesh gordon;1;1;0;flesh out;12;0.06666656;TUTA1-S-E-1A
+0055;0;flesh gordon;1;1;0;flesh wounds;13;0.06666655;TUTA1-S-E-1A
+0055;0;flesh gordon;1;1;0;flesh n bone;14;0.06666654;TUTA1-S-E-1A
+0055;0;flesh gordon;1;1;0;devil in the flesh;15;0.06666653;TUTA1-S-E-1A
+0056;0;ir equipment;1;0.08333333;0;ir spectrum;1;0.01388889;TUTA1-S-E-1A
+0056;0;ir equipment;1;0.08333333;0;ir receiver;2;0.00694444;TUTA1-S-E-1A
+0056;0;ir equipment;1;0.08333333;0;ir extender;3;0.00694443;TUTA1-S-E-1A
+0056;0;ir equipment;1;0.08333333;0;ir tools;4;0.00694442;TUTA1-S-E-1A
+0056;0;ir equipment;1;0.08333333;0;ir repeater;5;0.00694441;TUTA1-S-E-1A
+0056;0;ir equipment;1;0.08333333;0;ir blaster;6;0.0069444;TUTA1-S-E-1A
+0056;0;ir equipment;1;0.08333333;0;ir film;7;0.00694439;TUTA1-S-E-1A
+0056;0;ir equipment;1;0.08333333;0;ir camera;8;0.00694438;TUTA1-S-E-1A
+0056;0;ir equipment;1;0.08333333;0;ir equipment;9;0.00694437;TUTA1-S-E-1A
+0056;0;ir equipment;1;0.08333333;0;ir spectroscopy;10;0.00694436;TUTA1-S-E-1A
+0057;0;lost ending;2;0.33333333;0;lost finale;1;0.11111111;TUTA1-S-E-1A
+0057;0;lost ending;2;0.33333333;0;lost ending;2;0.1111111;TUTA1-S-E-1A
+0057;0;lost tv show;1;0.05882353;0;lost in space;3;0.00346021;TUTA1-S-E-1A
+0057;0;lost tv show;1;0.05882353;0;lost tv show;4;0.0034602;TUTA1-S-E-1A
+0057;0;lost tv show;1;0.05882353;0;lost girl;5;0.00346019;TUTA1-S-E-1A
+0057;0;lost tv show;1;0.05882353;0;lost spoilers;6;0.00346018;TUTA1-S-E-1A
+0057;0;lost tv show;1;0.05882353;0;lost surfboards;7;0.00346017;TUTA1-S-E-1A
+0057;0;lost tv show;1;0.05882353;0;lost season 1;8;0.00346016;TUTA1-S-E-1A
+0057;0;lost tv show;1;0.05882353;0;lost episode guide;9;0.00346015;TUTA1-S-E-1A
+0057;0;lost tv show;1;0.05882353;0;lost characters;10;0.00346014;TUTA1-S-E-1A
+0057;0;lost tv show;1;0.05882353;0;lost cast;11;0.00346013;TUTA1-S-E-1A
+0057;0;lost tv show;1;0.05882353;0;lost theories;12;0.00346012;TUTA1-S-E-1A
+0057;0;lost tv show;1;0.05882353;0;all is lost movie;13;0.00346011;TUTA1-S-E-1A
+0057;0;lost tv show;1;0.05882353;0;kate lost;14;0.0034601;TUTA1-S-E-1A
+0057;0;lost tv show;1;0.05882353;0;sawyer from lost;15;0.00346009;TUTA1-S-E-1A
+0057;0;lost tv show;1;0.05882353;0;lost actress raymonde;16;0.00346008;TUTA1-S-E-1A
+0057;0;lost tv show;1;0.05882353;0;lost rumours;17;0.00346007;TUTA1-S-E-1A
+0057;0;lost tv show;1;0.05882353;0;lost episodes;18;0.00346006;TUTA1-S-E-1A
+0058;0;shrew in house;1;0.25;0;shrew in house;1;0.05555556;TUTA1-S-E-1A
+0058;0;elephant shrew;2;0.25;0;elephant shrew;2;0.05555555;TUTA1-S-E-1A
+0058;0;shrew woman;3;0.25;0;shrew woman;3;0.05555554;TUTA1-S-E-1A
+0058;0;shrew vpn;4;0.25;0;shrew vpn;4;0.05555553;TUTA1-S-E-1A
+0058;0;shrew in house;1;0.25;0;rascal knock upon your gate shrew;5;0.02777778;TUTA1-S-E-1A
+0058;0;elephant shrew;2;0.25;0;shrew rodent;6;0.02777777;TUTA1-S-E-1A
+0058;0;shrew vpn;4;0.25;0;shrew pictures;7;0.02777776;TUTA1-S-E-1A
+0058;0;shrew in house;1;0.25;0;shrew definition;8;0.02777775;TUTA1-S-E-1A
+0058;0;shrew vpn;4;0.25;0;shrew facts;9;0.02777774;TUTA1-S-E-1A
+0058;0;shrew in house;1;0.25;0;shrew venom;10;0.02777773;TUTA1-S-E-1A
+0058;0;shrew vpn;4;0.25;0;taming of the shrew;11;0.02777772;TUTA1-S-E-1A
+0058;0;shrew in house;1;0.25;0;shrew diet;12;0.02777771;TUTA1-S-E-1A
+0058;0;shrew in house;1;0.25;0;shrew habitat;13;0.0277777;TUTA1-S-E-1A
+0058;0;shrew in house;1;0.25;0;shrew control;14;0.02777769;TUTA1-S-E-1A
+0058;0;shrew in house;1;0.25;0;shrew identification photos;15;0.02777768;TUTA1-S-E-1A
+0059;0;symmetry definition;1;0.5;0;symmetry definition;1;0.06666667;TUTA1-S-E-1A
+0059;0;symmetry math;2;0.5;0;symmetry math;2;0.06666666;TUTA1-S-E-1A
+0059;0;symmetry definition;1;0.5;0;radial symmetry;3;0.03333333;TUTA1-S-E-1A
+0059;0;symmetry math;2;0.5;0;symmetry in mathematics;4;0.03333332;TUTA1-S-E-1A
+0059;0;symmetry definition;1;0.5;0;axis of symmetry;5;0.03333331;TUTA1-S-E-1A
+0059;0;symmetry definition;1;0.5;0;line of symmetry;6;0.0333333;TUTA1-S-E-1A
+0059;0;symmetry definition;1;0.5;0;bilateral symmetry;7;0.03333329;TUTA1-S-E-1A
+0059;0;symmetry definition;1;0.5;0;symmetry games;8;0.03333328;TUTA1-S-E-1A
+0059;0;symmetry definition;1;0.5;0;rotational symmetry;9;0.03333327;TUTA1-S-E-1A
+0059;0;symmetry definition;1;0.5;0;types of symmetry;10;0.03333326;TUTA1-S-E-1A
+0059;0;symmetry definition;1;0.5;0;symmetry worksheets;11;0.03333325;TUTA1-S-E-1A
+0059;0;symmetry definition;1;0.5;0;symmetry medical;12;0.03333324;TUTA1-S-E-1A
+0059;0;symmetry definition;1;0.5;0;symmetry partners;13;0.03333323;TUTA1-S-E-1A
+0059;0;symmetry definition;1;0.5;0;elementary symmetry;14;0.03333322;TUTA1-S-E-1A
+0059;0;symmetry definition;1;0.5;0;examples of symmetry;15;0.03333321;TUTA1-S-E-1A
+0059;0;symmetry definition;1;0.5;0;lines of symmetry;16;0.0333332;TUTA1-S-E-1A
+0061;0;windows 7;1;0.33333333;0;windows 7;1;0.05128205;TUTA1-S-E-1A
+0061;0;windows live;2;0.33333333;0;windows live;2;0.05128204;TUTA1-S-E-1A
+0061;0;milgard windows;3;0.33333333;0;milgard windows;3;0.05128203;TUTA1-S-E-1A
+0061;0;windows 7;1;0.33333333;0;windows media player;4;0.02564103;TUTA1-S-E-1A
+0061;0;windows live;2;0.33333333;0;windows update;5;0.02564102;TUTA1-S-E-1A
+0061;0;milgard windows;3;0.33333333;0;windows xp;6;0.02564101;TUTA1-S-E-1A
+0061;0;windows 7;1;0.33333333;0;house windows;7;0.025641;TUTA1-S-E-1A
+0061;0;milgard windows;3;0.33333333;0;windows tablets 2013;8;0.02564099;TUTA1-S-E-1A
+0061;0;windows 7;1;0.33333333;0;windows phone;9;0.02564098;TUTA1-S-E-1A
+0061;0;windows 7;1;0.33333333;0;replacement windows;10;0.02564097;TUTA1-S-E-1A
+0061;0;windows 7;1;0.33333333;0;home windows;11;0.02564096;TUTA1-S-E-1A
+0061;0;windows 7;1;0.33333333;0;windows 7 upgrade;12;0.02564095;TUTA1-S-E-1A
+0061;0;windows 7;1;0.33333333;0;windows 8 upgrade;13;0.02564094;TUTA1-S-E-1A
+0061;0;windows 7;1;0.33333333;0;itunes download windows 8;14;0.02564093;TUTA1-S-E-1A
+0061;0;windows 7;1;0.33333333;0;how to use windows 8;15;0.02564092;TUTA1-S-E-1A
+0061;0;windows 7;1;0.33333333;0;oovoo for windows 8;16;0.02564091;TUTA1-S-E-1A
+0061;0;windows 7;1;0.33333333;0;windows store apps;17;0.0256409;TUTA1-S-E-1A
+0062;0;prophet isaiah;1;0.5;0;prophet isaiah;1;0.04166667;TUTA1-S-E-1A
+0062;0;prophet comic;2;0.5;0;prophet comic;2;0.04166666;TUTA1-S-E-1A
+0062;0;prophet isaiah;1;0.5;0;prophet todd hall;3;0.04166665;TUTA1-S-E-1A
+0062;0;prophet isaiah;1;0.5;0;prophet manasseh jordan;4;0.04166664;TUTA1-S-E-1A
+0062;0;prophet isaiah;1;0.5;0;prophet band;5;0.04166663;TUTA1-S-E-1A
+0062;0;prophet isaiah;1;0.5;0;prophet crysis;6;0.04166662;TUTA1-S-E-1A
+0062;0;prophet isaiah;1;0.5;0;prophet muhammad;7;0.04166661;TUTA1-S-E-1A
+0062;0;prophet isaiah;1;0.5;0;prophet yusuf;8;0.0416666;TUTA1-S-E-1A
+0062;0;prophet isaiah;1;0.5;0;prophet film;9;0.04166659;TUTA1-S-E-1A
+0062;0;prophet isaiah;1;0.5;0;chuck prophet;10;0.04166658;TUTA1-S-E-1A
+0062;0;prophet isaiah;1;0.5;0;prophet ibrahim;11;0.04166657;TUTA1-S-E-1A
+0062;0;prophet isaiah;1;0.5;0;definition of prophet;12;0.04166656;TUTA1-S-E-1A
+0062;0;prophet isaiah;1;0.5;0;biblical prophet;13;0.04166655;TUTA1-S-E-1A
+0063;0;live gold prices;1;0.5;0;live gold prices;1;0.07142857;TUTA1-S-E-1A
+0063;0;gold price today;2;0.5;0;gold price today;2;0.07142856;TUTA1-S-E-1A
+0063;0;live gold prices;1;0.5;0;gold miner;3;0.03571429;TUTA1-S-E-1A
+0063;0;gold price today;2;0.5;0;gold price chart;4;0.03571428;TUTA1-S-E-1A
+0063;0;live gold prices;1;0.5;0;current gold prices;5;0.03571427;TUTA1-S-E-1A
+0063;0;gold price today;2;0.5;0;gold price per ounce;6;0.03571426;TUTA1-S-E-1A
+0063;0;live gold prices;1;0.5;0;gold rush;7;0.03571425;TUTA1-S-E-1A
+0063;0;gold price today;2;0.5;0;how much gold is worth;8;0.03571424;TUTA1-S-E-1A
+0063;0;live gold prices;1;0.5;0;gold minecraft;9;0.03571423;TUTA1-S-E-1A
+0063;0;gold price today;2;0.5;0;closing price of gold today;10;0.03571422;TUTA1-S-E-1A
+0063;0;live gold prices;1;0.5;0;gold element;11;0.03571421;TUTA1-S-E-1A
+0063;0;gold price today;2;0.5;0;current gold price per ounce;12;0.0357142;TUTA1-S-E-1A
+0063;0;live gold prices;1;0.5;0;gold britt nicole;13;0.03571419;TUTA1-S-E-1A
+0063;0;gold price today;2;0.5;0;current gold and silver prices;14;0.03571418;TUTA1-S-E-1A
+0063;0;live gold prices;1;0.5;0;gold coins;15;0.03571417;TUTA1-S-E-1A
+0063;0;live gold prices;1;0.5;0;gold facts;16;0.03571416;TUTA1-S-E-1A
+0063;0;live gold prices;1;0.5;0;black gold;17;0.03571415;TUTA1-S-E-1A
+0063;0;live gold prices;1;0.5;0;white gold;18;0.03571414;TUTA1-S-E-1A
+0063;0;live gold prices;1;0.5;0;gold news;19;0.03571413;TUTA1-S-E-1A
+0063;0;live gold prices;1;0.5;0;gold vs platinum;20;0.03571412;TUTA1-S-E-1A
+0064;0;origami owl;1;1;0;origami owl;1;0.05555556;TUTA1-S-E-1A
+0064;0;origami owl;1;1;0;owl tattoos;2;0.05555555;TUTA1-S-E-1A
+0064;0;origami owl;1;1;0;owl pictures;3;0.05555554;TUTA1-S-E-1A
+0064;0;origami owl;1;1;0;owl chemistry;4;0.05555553;TUTA1-S-E-1A
+0064;0;origami owl;1;1;0;owl apa;5;0.05555552;TUTA1-S-E-1A
+0064;0;origami owl;1;1;0;owl symbolism;6;0.05555551;TUTA1-S-E-1A
+0064;0;origami owl;1;1;0;owl purdue;7;0.0555555;TUTA1-S-E-1A
+0064;0;origami owl;1;1;0;owl cengage;8;0.05555549;TUTA1-S-E-1A
+0064;0;origami owl;1;1;0;owl city;9;0.05555548;TUTA1-S-E-1A
+0064;0;origami owl;1;1;0;owl sounds;10;0.05555547;TUTA1-S-E-1A
+0064;0;origami owl;1;1;0;owl species;11;0.05555546;TUTA1-S-E-1A
+0064;0;origami owl;1;1;0;owl bird;12;0.05555545;TUTA1-S-E-1A
+0064;0;origami owl;1;1;0;owl clip art;13;0.05555544;TUTA1-S-E-1A
+0064;0;origami owl;1;1;0;owl facts;14;0.05555543;TUTA1-S-E-1A
+0064;0;origami owl;1;1;0;great horned owl;15;0.05555542;TUTA1-S-E-1A
+0064;0;origami owl;1;1;0;long-eared owl;16;0.05555541;TUTA1-S-E-1A
+0064;0;origami owl;1;1;0;rainbow owl;17;0.0555554;TUTA1-S-E-1A
+0064;0;origami owl;1;1;0;elf owl;18;0.05555539;TUTA1-S-E-1A
+0065;0;adobe reader;1;0.05882353;0;adobe reader;1;0.00692042;TUTA1-S-E-1A
+0065;0;adobe reader;1;0.05882353;0;adobe flash player;2;0.00692041;TUTA1-S-E-1A
+0065;0;adobe reader;1;0.05882353;0;adobe acrobat;3;0.0069204;TUTA1-S-E-1A
+0065;0;adobe reader;1;0.05882353;0;adobe illustrator;4;0.00346021;TUTA1-S-E-1A
+0065;0;adobe reader;1;0.05882353;0;adobe update;5;0.0034602;TUTA1-S-E-1A
+0065;0;adobe reader;1;0.05882353;0;adobe air;6;0.00346019;TUTA1-S-E-1A
+0065;0;adobe reader;1;0.05882353;0;adobe download;7;0.00346018;TUTA1-S-E-1A
+0065;0;adobe reader;1;0.05882353;0;adobe photoshop;8;0.00346017;TUTA1-S-E-1A
+0065;0;adobe reader;1;0.05882353;0;adobe shockwave;9;0.00346016;TUTA1-S-E-1A
+0065;0;adobe reader;1;0.05882353;0;adobe premiere;10;0.00346015;TUTA1-S-E-1A
+0065;0;adobe reader;1;0.05882353;0;adobe flash 10;11;0.00346014;TUTA1-S-E-1A
+0065;0;adobe reader;1;0.05882353;0;free adobe reader download;12;0.00346013;TUTA1-S-E-1A
+0066;0;legend online;1;1;0;legend online;1;0.06666667;TUTA1-S-E-1A
+0066;0;legend online;1;1;0;legend of the seeker;2;0.06666666;TUTA1-S-E-1A
+0066;0;legend online;1;1;0;legend stories;3;0.06666665;TUTA1-S-E-1A
+0066;0;legend online;1;1;0;legend of korra;4;0.06666664;TUTA1-S-E-1A
+0066;0;legend online;1;1;0;legend of zelda;5;0.06666663;TUTA1-S-E-1A
+0066;0;legend online;1;1;0;legend matlab;6;0.06666662;TUTA1-S-E-1A
+0066;0;legend online;1;1;0;legend book;7;0.06666661;TUTA1-S-E-1A
+0066;0;legend online;1;1;0;legend bob marley;8;0.0666666;TUTA1-S-E-1A
+0066;0;legend online;1;1;0;john legend;9;0.06666659;TUTA1-S-E-1A
+0066;0;legend online;1;1;0;legend thesaurus;10;0.06666658;TUTA1-S-E-1A
+0066;0;legend online;1;1;0;legend footwear;11;0.06666657;TUTA1-S-E-1A
+0066;0;legend online;1;1;0;i am legend;12;0.06666656;TUTA1-S-E-1A
+0066;0;legend online;1;1;0;legend definition;13;0.06666655;TUTA1-S-E-1A
+0066;0;legend online;1;1;0;legend of sleepy hollow;14;0.06666654;TUTA1-S-E-1A
+0066;0;legend online;1;1;0;legend movie;15;0.06666653;TUTA1-S-E-1A
+0067;0;beijing subway 2013;3;0.5;0;beijing subway 2013;1;0.25;TUTA1-S-E-1A
+0067;0;beijing subway interactive map;4;0.5;0;beijing subway interactive map;2;0.24999999;TUTA1-S-E-1A
+0067;0;beijing metro map;5;0.5;0;beijing metro map;3;0.24999998;TUTA1-S-E-1A
+0067;0;beijing subway wiki;6;0.5;0;beijing subway wiki;4;0.24999997;TUTA1-S-E-1A
+0067;0;beijing subway map;2;0.16666667;0;beijing subway map;5;0.08333333;TUTA1-S-E-1A
+0067;0;beijing subway line 6;1;0.07142857;0;beijing subway line 6;6;0.01020408;TUTA1-S-E-1A
+0067;0;beijing subway line 6;1;0.07142857;0;beijing metro guide;7;0.01020407;TUTA1-S-E-1A
+0067;0;beijing subway line 6;1;0.07142857;0;beijing subway system;8;0.00510204;TUTA1-S-E-1A
+0067;0;beijing subway line 6;1;0.07142857;0;beijing subway network;9;0.00510203;TUTA1-S-E-1A
+0067;0;beijing subway line 6;1;0.07142857;0;beijing metro line;10;0.00510202;TUTA1-S-E-1A
+0067;0;beijing subway line 6;1;0.07142857;0;beijing underground train;11;0.00510201;TUTA1-S-E-1A
+0067;0;beijing subway line 6;1;0.07142857;0;beijing subway station;12;0.005102;TUTA1-S-E-1A
+0067;0;beijing subway line 6;1;0.07142857;0;beijing subway english;13;0.00510199;TUTA1-S-E-1A
+0067;0;beijing subway line 6;1;0.07142857;0;beijing subway cost;14;0.00510198;TUTA1-S-E-1A
+0067;0;beijing subway line 6;1;0.07142857;0;beijing subway guide;15;0.00510197;TUTA1-S-E-1A
+0068;0;digital camera;1;1;0;digital camera;1;0.125;TUTA1-S-E-1A
+0068;0;digital camera;1;1;0;wolf camera;2;0.0625;TUTA1-S-E-1A
+0068;0;digital camera;1;1;0;ritz camera;3;0.06249999;TUTA1-S-E-1A
+0068;0;digital camera;1;1;0;sony digital camera;4;0.06249998;TUTA1-S-E-1A
+0068;0;digital camera;1;1;0;canon digital camera;5;0.06249997;TUTA1-S-E-1A
+0068;0;digital camera;1;1;0;camera argos;6;0.06249996;TUTA1-S-E-1A
+0068;0;digital camera;1;1;0;online camera;7;0.06249995;TUTA1-S-E-1A
+0068;0;digital camera;1;1;0;nikon camera;8;0.06249994;TUTA1-S-E-1A
+0068;0;digital camera;1;1;0;camera reviews;9;0.06249993;TUTA1-S-E-1A
+0068;0;digital camera;1;1;0;camera exchange;10;0.06249992;TUTA1-S-E-1A
+0068;0;digital camera;1;1;0;camera shop;11;0.06249991;TUTA1-S-E-1A
+0068;0;digital camera;1;1;0;camera warehouse;12;0.0624999;TUTA1-S-E-1A
+0068;0;digital camera;1;1;0;underwater camera live feed;13;0.06249989;TUTA1-S-E-1A
+0068;0;digital camera;1;1;0;cyber monday camera deals;14;0.06249988;TUTA1-S-E-1A
+0068;0;digital camera;1;1;0;gopro camera;15;0.06249987;TUTA1-S-E-1A
+0069;0;roxio cd/dvd burner free;4;0.5;0;roxio cd/dvd burner free;1;0.25;TUTA1-S-E-1A
+0069;0;free dvd burning software;3;0.25;0;free dvd burning software;2;0.0625;TUTA1-S-E-1A
+0069;0;free dvd burning software;3;0.25;0;burn free dvd movies;3;0.06249999;TUTA1-S-E-1A
+0069;0;best free dvd burner;2;0.11111111;0;best free dvd burner;4;0.02469136;TUTA1-S-E-1A
+0069;0;free dvd burning software;3;0.25;0;dvd burning freeware;5;0.02469135;TUTA1-S-E-1A
+0069;0;best free dvd burner;2;0.11111111;0;rz free dvd burner;6;0.01234568;TUTA1-S-E-1A
+0069;0;free dvd burner for mac;1;0.05263158;0;free dvd burner for mac;7;0.01234567;TUTA1-S-E-1A
+0069;0;best free dvd burner;2;0.11111111;0;free dvd ripper;8;0.01234566;TUTA1-S-E-1A
+0069;0;best free dvd burner;2;0.11111111;0;free avi to dvd burner;9;0.01234565;TUTA1-S-E-1A
+0069;0;free dvd burner for mac;1;0.05263158;0;ree dvd burner software;10;0.00277008;TUTA1-S-E-1A
+0069;0;best free dvd burner;2;0.11111111;0;free trial dvd burner;11;0.00277007;TUTA1-S-E-1A
+0069;0;best free dvd burner;2;0.11111111;0;free nero dvd burner;12;0.00277006;TUTA1-S-E-1A
+0069;0;free dvd burner for mac;1;0.05263158;0;windows dvd burner free downloads;13;0.00277005;TUTA1-S-E-1A
+0069;0;free dvd burner for mac;1;0.05263158;0;free cd/dvd burner downloads;14;0.00277004;TUTA1-S-E-1A
+0070;0;watch lost season 5 online;2;0.125;0;watch lost season 5 online;1;0.0625;TUTA1-S-E-1A
+0070;0;lost season 5 episode 1;1;0.03225806;0;lost season 5 episode 1;2;0.01456816;TUTA1-S-E-1A
+0070;0;lost season 5 episode 1;1;0.03225806;0;lost season finale;3;0.00104058;TUTA1-S-E-1A
+0070;0;lost season 5 episode 1;1;0.03225806;0;lost season 7;4;0.00104057;TUTA1-S-E-1A
+0070;0;lost season 5 episode 1;1;0.03225806;0;lost season 6;5;0.00104056;TUTA1-S-E-1A
+0071;0;video converter lg mobile phones;2;0.1;0;mobile phones in india;1;0.02;TUTA1-S-E-1A
+0071;0;compare mobile phones;1;0.07142857;0;t-mobile phones;2;0.01020408;TUTA1-S-E-1A
+0071;0;video converter lg mobile phones;2;0.1;0;video converter lg mobile phones;3;0.01;TUTA1-S-E-1A
+0071;0;compare mobile phones;1;0.07142857;0;samsung usb driver for mobile phones;4;0.00510204;TUTA1-S-E-1A
+0071;0;video converter lg mobile phones;2;0.1;0;orange mobile phones;5;0.00510203;TUTA1-S-E-1A
+0071;0;video converter lg mobile phones;2;0.1;0;boost mobile phones;6;0.00510202;TUTA1-S-E-1A
+0071;0;compare mobile phones;1;0.07142857;0;samsung mobile phones;7;0.00510201;TUTA1-S-E-1A
+0071;0;video converter lg mobile phones;2;0.1;0;selling mobile phones;8;0.005102;TUTA1-S-E-1A
+0071;0;compare mobile phones;1;0.07142857;0;latest mobile phones;9;0.00510199;TUTA1-S-E-1A
+0071;0;video converter lg mobile phones;2;0.1;0;mobile phone reviews;10;0.00510198;TUTA1-S-E-1A
+0071;0;video converter lg mobile phones;2;0.1;0;video players for mobile phones;11;0.00510197;TUTA1-S-E-1A
+0071;0;compare mobile phones;1;0.07142857;0;younevercall t-mobile phones;12;0.00510196;TUTA1-S-E-1A
+0071;0;video converter lg mobile phones;2;0.1;0;contract mobile phones;13;0.00510195;TUTA1-S-E-1A
+0071;0;compare mobile phones;1;0.07142857;0;mobile phones $0.00 younevercall;14;0.00510194;TUTA1-S-E-1A
+0071;0;compare mobile phones;1;0.07142857;0;mobile phones for sale;15;0.00510193;TUTA1-S-E-1A
+0071;0;compare mobile phones;1;0.07142857;0;mobile phones argos;16;0.00510192;TUTA1-S-E-1A
+0071;0;compare mobile phones;1;0.07142857;0;compare mobile phones;17;0.00510191;TUTA1-S-E-1A
+0071;0;compare mobile phones;1;0.07142857;0;recycle mobile phones;18;0.0051019;TUTA1-S-E-1A
+0071;0;compare mobile phones;1;0.07142857;0;mobile phones with free gifts;19;0.00510189;TUTA1-S-E-1A
+0071;0;compare mobile phones;1;0.07142857;0;sim free mobile phones;20;0.00510188;TUTA1-S-E-1A
+0072;0;most used programming languages;4;0.5;0;most used programming languages;1;0.25;TUTA1-S-E-1A
+0072;0;types of programming languages;5;0.5;0;types of programming languages;2;0.24999999;TUTA1-S-E-1A
+0072;0;most popular programming languages;3;0.25;0;most popular programming languages;3;0.125;TUTA1-S-E-1A
+0072;0;programming language software;2;0.14285714;0;free programming language;4;0.02040816;TUTA1-S-E-1A
+0072;0;computer programming languages;1;0.07692308;0;different programming languages;5;0.00591716;TUTA1-S-E-1A
+0072;0;programming language software;2;0.14285714;0;list of programming languages;6;0.00591715;TUTA1-S-E-1A
+0072;0;programming language software;2;0.14285714;0;java programming language;7;0.00591714;TUTA1-S-E-1A
+0072;0;computer programming languages;1;0.07692308;0;latest programming languages;8;0.00591713;TUTA1-S-E-1A
+0072;0;programming language software;2;0.14285714;0;visual basic programming language;9;0.00591712;TUTA1-S-E-1A
+0072;0;programming language software;2;0.14285714;0;latest programming language;10;0.00591711;TUTA1-S-E-1A
+0072;0;computer programming languages;1;0.07692308;0;history of programming languages;11;0.0059171;TUTA1-S-E-1A
+0072;0;programming language software;2;0.14285714;0;programming language software;12;0.00591709;TUTA1-S-E-1A
+0072;0;computer programming languages;1;0.07692308;0;popular programming languages;13;0.00591708;TUTA1-S-E-1A
+0072;0;computer programming languages;1;0.07692308;0;computer programming languages;14;0.00591707;TUTA1-S-E-1A
+0072;0;computer programming languages;1;0.07692308;0;programming languages comparison;15;0.00591706;TUTA1-S-E-1A
+0072;0;computer programming languages;1;0.07692308;0;programming languages for kids;16;0.00591705;TUTA1-S-E-1A
+0072;0;computer programming languages;1;0.07692308;0;new programming languages;17;0.00591704;TUTA1-S-E-1A
+0072;0;computer programming languages;1;0.07692308;0;event driven programming languages;18;0.00591703;TUTA1-S-E-1A
+0072;0;computer programming languages;1;0.07692308;0;web programming languages;19;0.00591702;TUTA1-S-E-1A
+0072;0;computer programming languages;1;0.07692308;0;object oriented programming languages;20;0.00591701;TUTA1-S-E-1A
+0072;0;computer programming languages;1;0.07692308;0;basic computer programming langua…;21;0.005917;TUTA1-S-E-1A
+0073;0;how tall is tom cruise;2;0.5;0;how tall is tom cruise;1;0.25;TUTA1-S-E-1A
+0073;0;laura prepon tom cruise;3;0.5;0;laura prepon tom cruise;2;0.24999999;TUTA1-S-E-1A
+0073;0;how old is tom cruise;4;0.5;0;how old is tom cruise;3;0.24999998;TUTA1-S-E-1A
+0073;0;tom cruise accident;1;0.05555556;0;tom cruise katie holmes split;4;0.00617284;TUTA1-S-E-1A
+0073;0;tom cruise accident;1;0.05555556;0;tom cruise divorce katie 2012;5;0.00617283;TUTA1-S-E-1A
+0073;0;tom cruise accident;1;0.05555556;0;tom cruise films list;6;0.00617282;TUTA1-S-E-1A
+0073;0;tom cruise accident;1;0.05555556;0;tom cruise accident;7;0.00308642;TUTA1-S-E-1A
+0073;0;tom cruise accident;1;0.05555556;0;tom cruise swatted;8;0.00308641;TUTA1-S-E-1A
+0073;0;tom cruise accident;1;0.05555556;0;tom cruise movies;9;0.0030864;TUTA1-S-E-1A
+0073;0;tom cruise accident;1;0.05555556;0;tom cruise children;10;0.00308639;TUTA1-S-E-1A
+0073;0;tom cruise accident;1;0.05555556;0;tom cruise and nicole kidman;11;0.00308638;TUTA1-S-E-1A
+0073;0;tom cruise accident;1;0.05555556;0;tom cruise's first wife;12;0.00308637;TUTA1-S-E-1A
+0073;0;tom cruise accident;1;0.05555556;0;tom cruise didn't expect divorce;13;0.00308636;TUTA1-S-E-1A
+0073;0;tom cruise accident;1;0.05555556;0;tom cruise girlfriend;14;0.00308635;TUTA1-S-E-1A
+0073;0;tom cruise accident;1;0.05555556;0;tom cruise height;15;0.00308634;TUTA1-S-E-1A
+0073;0;tom cruise accident;1;0.05555556;0;tom cruise top gun 2;16;0.00308633;TUTA1-S-E-1A
+0073;0;tom cruise accident;1;0.05555556;0;tom cruise net worth;17;0.00308632;TUTA1-S-E-1A
+0074;0;top free ipad games;1;0.05;0;top ipad games for kids;1;0.0275;TUTA1-S-E-1A
+0074;0;top free ipad games;1;0.05;0;hack ipad games;2;0.0025;TUTA1-S-E-1A
+0074;0;top free ipad games;1;0.05;0;ipad wallpapers;3;0.00249999;TUTA1-S-E-1A
+0074;0;top free ipad games;1;0.05;0;top ipad apps;4;0.00249998;TUTA1-S-E-1A
+0074;0;top free ipad games;1;0.05;0;top ipad game apps;5;0.00249997;TUTA1-S-E-1A
+0074;0;top free ipad games;1;0.05;0;top free ipad games;6;0.00249996;TUTA1-S-E-1A
+0074;0;top free ipad games;1;0.05;0;top iphone apps;7;0.00249995;TUTA1-S-E-1A
+0074;0;top free ipad games;1;0.05;0;great ipad games;8;0.00249994;TUTA1-S-E-1A
+0074;0;top free ipad games;1;0.05;0;free games online;9;0.00249993;TUTA1-S-E-1A
+0075;0;military watches;1;0.05;0;casio watches;1;0.0025;TUTA1-S-E-1A
+0075;0;military watches;1;0.05;0;seiko watches;2;0.00249999;TUTA1-S-E-1A
+0075;0;military watches;1;0.05;0;invicta watches;3;0.00249998;TUTA1-S-E-1A
+0075;0;military watches;1;0.05;0;citizen watches;4;0.00249997;TUTA1-S-E-1A
+0075;0;military watches;1;0.05;0;replica watches;5;0.00249996;TUTA1-S-E-1A
+0075;0;military watches;1;0.05;0;argos watches;6;0.00249995;TUTA1-S-E-1A
+0075;0;military watches;1;0.05;0;armani watches;7;0.00249994;TUTA1-S-E-1A
+0075;0;military watches;1;0.05;0;swatch watches;8;0.00249993;TUTA1-S-E-1A
+0075;0;military watches;1;0.05;0;omega watches;9;0.00249992;TUTA1-S-E-1A
+0075;0;military watches;1;0.05;0;rolex watches;10;0.00249991;TUTA1-S-E-1A
+0075;0;military watches;1;0.05;0;mens watches;11;0.0024999;TUTA1-S-E-1A
+0075;0;military watches;1;0.05;0;watches for men;12;0.00249989;TUTA1-S-E-1A
+0075;0;military watches;1;0.05;0;michael kors watches;13;0.00249988;TUTA1-S-E-1A
+0075;0;military watches;1;0.05;0;cool watches;14;0.00249987;TUTA1-S-E-1A
+0075;0;military watches;1;0.05;0;swiss watches;15;0.00249986;TUTA1-S-E-1A
+0075;0;military watches;1;0.05;0;fossil watches;16;0.00249985;TUTA1-S-E-1A
+0075;0;military watches;1;0.05;0;military watches;17;0.00249984;TUTA1-S-E-1A
+0075;0;military watches;1;0.05;0;ladies watches;18;0.00249983;TUTA1-S-E-1A
+0075;0;military watches;1;0.05;0;brands of watches;19;0.00249982;TUTA1-S-E-1A
+0076;0;thai speciality;2;0.125;0;thai specialty brea coupon;1;0.03125;TUTA1-S-E-1A
+0076;0;thai food specialties;1;0.07142857;0;thai specialties brea;2;0.01020408;TUTA1-S-E-1A
+0076;0;thai speciality;2;0.125;0;thai specialty menu;3;0.01020407;TUTA1-S-E-1A
+0076;0;thai speciality;2;0.125;0;thai specialty 2 tustin;4;0.01020406;TUTA1-S-E-1A
+0076;0;thai food specialties;1;0.07142857;0;thai specialties menu;5;0.00510204;TUTA1-S-E-1A
+0076;0;thai speciality;2;0.125;0;thai speciality;6;0.00510203;TUTA1-S-E-1A
+0076;0;thai speciality;2;0.125;0;thai yellow;7;0.00510202;TUTA1-S-E-1A
+0076;0;thai food specialties;1;0.07142857;0;aloi thai specialties;8;0.00510201;TUTA1-S-E-1A
+0076;0;thai speciality;2;0.125;0;thai specialty hacienda heights;9;0.005102;TUTA1-S-E-1A
+0076;0;thai food specialties;1;0.07142857;0;thai food specialties;10;0.00510199;TUTA1-S-E-1A
+0076;0;thai food specialties;1;0.07142857;0;thai specialties chili sauce;11;0.00510198;TUTA1-S-E-1A
+0076;0;thai food specialties;1;0.07142857;0;thai specialties jasmine rice;12;0.00510197;TUTA1-S-E-1A
+0076;0;thai food specialties;1;0.07142857;0;thai specialties shrimp skewers;13;0.00510196;TUTA1-S-E-1A
+0076;0;thai food specialties;1;0.07142857;0;thai specialties soy sauce;14;0.00510195;TUTA1-S-E-1A
+0076;0;thai food specialties;1;0.07142857;0;thai specialties backgrounds;15;0.00510194;TUTA1-S-E-1A
+0076;0;thai food specialties;1;0.07142857;0;thai food tustin;16;0.00510193;TUTA1-S-E-1A
+0076;0;thai food specialties;1;0.07142857;0;thai food santa ana ca;17;0.00510192;TUTA1-S-E-1A
+0076;0;thai food specialties;1;0.07142857;0;thai food in rowland heights;18;0.00510191;TUTA1-S-E-1A
+0077;0;fisher scientific;2;0.5;0;fisher scientific;1;0.25;TUTA1-S-E-1A
+0077;0;american scientist vs scientific american;1;0.05882353;0;scientific american mind;2;0.01038062;TUTA1-S-E-1A
+0077;0;american scientist vs scientific american;1;0.05882353;0;scientific american articles;3;0.00692042;TUTA1-S-E-1A
+0077;0;american scientist vs scientific american;1;0.05882353;0;scientific american frontiers;4;0.00346021;TUTA1-S-E-1A
+0077;0;american scientist vs scientific american;1;0.05882353;0;scientific american book club;5;0.0034602;TUTA1-S-E-1A
+0077;0;american scientist vs scientific american;1;0.05882353;0;scientific american magazine;6;0.00346019;TUTA1-S-E-1A
+0077;0;american scientist vs scientific american;1;0.05882353;0;american scientist vs scientific american;7;0.00346018;TUTA1-S-E-1A
+0077;0;american scientist vs scientific american;1;0.05882353;0;scientific american ipad;8;0.00346017;TUTA1-S-E-1A
+0077;0;american scientist vs scientific american;1;0.05882353;0;scientific american jobs;9;0.00346016;TUTA1-S-E-1A
+0077;0;american scientist vs scientific american;1;0.05882353;0;scientific american download;10;0.00346015;TUTA1-S-E-1A
+0077;0;american scientist vs scientific american;1;0.05882353;0;scientific american subscription;11;0.00346014;TUTA1-S-E-1A
+0077;0;american scientist vs scientific american;1;0.05882353;0;scientific american library;12;0.00346013;TUTA1-S-E-1A
+0077;0;american scientist vs scientific american;1;0.05882353;0;scientific american archives;13;0.00346012;TUTA1-S-E-1A
+0077;0;american scientist vs scientific american;1;0.05882353;0;american scientific products;14;0.00346011;TUTA1-S-E-1A
+0078;0;types of persian cats;2;0.5;0;types of persian cats;1;0.25;TUTA1-S-E-1A
+0078;0;pictures of persian cats;3;0.5;0;pictures of persian cats;2;0.24999999;TUTA1-S-E-1A
+0078;0;persian cats for adoption;4;0.5;0;persian cats for adoption;3;0.24999998;TUTA1-S-E-1A
+0078;0;teacup persian kittens;5;0.5;0;teacup persian kittens;4;0.24999997;TUTA1-S-E-1A
+0078;0;persian cat temperament;1;0.06666667;0;persian cat grooming;5;0.00444444;TUTA1-S-E-1A
+0078;0;persian cat temperament;1;0.06666667;0;persian cat for sale;6;0.00444443;TUTA1-S-E-1A
+0078;0;persian cat temperament;1;0.06666667;0;persian cat pictures;7;0.00444442;TUTA1-S-E-1A
+0078;0;persian cat temperament;1;0.06666667;0;persian cat names;8;0.00444441;TUTA1-S-E-1A
+0078;0;persian cat temperament;1;0.06666667;0;siamese cat;9;0.0044444;TUTA1-S-E-1A
+0078;0;persian cat temperament;1;0.06666667;0;persian cat personality;10;0.00444439;TUTA1-S-E-1A
+0078;0;persian cat temperament;1;0.06666667;0;persian cat adoption;11;0.00444438;TUTA1-S-E-1A
+0078;0;persian cat temperament;1;0.06666667;0;persian cat breed;12;0.00444437;TUTA1-S-E-1A
+0078;0;persian cat temperament;1;0.06666667;0;persian cat breeders;13;0.00444436;TUTA1-S-E-1A
+0078;0;persian cat temperament;1;0.06666667;0;persian cat care;14;0.00444435;TUTA1-S-E-1A
+0078;0;persian cat temperament;1;0.06666667;0;persian cat rescue;15;0.00444434;TUTA1-S-E-1A
+0078;0;persian cat temperament;1;0.06666667;0;persian cat sale;16;0.00444433;TUTA1-S-E-1A
+0078;0;persian cat temperament;1;0.06666667;0;persian cat temperament;17;0.00444432;TUTA1-S-E-1A
+0078;0;persian cat temperament;1;0.06666667;0;persian cats health problems;18;0.00444431;TUTA1-S-E-1A
+0079;0;standard bathtub size;1;0.07142857;0;bathtub drain;1;0.00510204;TUTA1-S-E-1A
+0079;0;standard bathtub size;1;0.07142857;0;bathtub faucets;2;0.00510203;TUTA1-S-E-1A
+0079;0;standard bathtub size;1;0.07142857;0;bathtub repair;3;0.00510202;TUTA1-S-E-1A
+0079;0;standard bathtub size;1;0.07142857;0;bathtub liners;4;0.00510201;TUTA1-S-E-1A
+0079;0;standard bathtub size;1;0.07142857;0;bathtub reglazing;5;0.005102;TUTA1-S-E-1A
+0079;0;standard bathtub size;1;0.07142857;0;bathtub refinishing;6;0.00510199;TUTA1-S-E-1A
+0079;0;standard bathtub size;1;0.07142857;0;archimedes bathtub;7;0.00510198;TUTA1-S-E-1A
+0079;0;standard bathtub size;1;0.07142857;0;narrow bathtub;8;0.00510197;TUTA1-S-E-1A
+0079;0;standard bathtub size;1;0.07142857;0;bathtub admiral;9;0.00510196;TUTA1-S-E-1A
+0079;0;standard bathtub size;1;0.07142857;0;portable bathtub;10;0.00510195;TUTA1-S-E-1A
+0079;0;standard bathtub size;1;0.07142857;0;bathtub battle;11;0.00510194;TUTA1-S-E-1A
+0079;0;standard bathtub size;1;0.07142857;0;standard bathtub size;12;0.00510193;TUTA1-S-E-1A
+0079;0;standard bathtub size;1;0.07142857;0;bathtub replacement;13;0.00510192;TUTA1-S-E-1A
+0080;0;wedding ring pictures;1;0.5;0;wedding ring pictures;1;0.02941176;TUTA1-S-E-1A
+0080;0;engagement ring;2;0.5;0;engagement ring;2;0.02941175;TUTA1-S-E-1A
+0080;0;wedding ring pictures;1;0.5;0;beyonce wedding ring;3;0.02941174;TUTA1-S-E-1A
+0080;0;wedding ring pictures;1;0.5;0;wedding ring quilt;4;0.02941173;TUTA1-S-E-1A
+0080;0;wedding ring pictures;1;0.5;0;wedding ring designs;5;0.02941172;TUTA1-S-E-1A
+0080;0;wedding ring pictures;1;0.5;0;wedding ring finger;6;0.02941171;TUTA1-S-E-1A
+0080;0;wedding ring pictures;1;0.5;0;wedding ring tattoos;7;0.0294117;TUTA1-S-E-1A
+0080;0;wedding ring pictures;1;0.5;0;make your own wedding ring;8;0.02941169;TUTA1-S-E-1A
+0080;0;wedding ring pictures;1;0.5;0;white gold wedding ring;9;0.02941168;TUTA1-S-E-1A
+0080;0;wedding ring pictures;1;0.5;0;diamond wedding ring;10;0.02941167;TUTA1-S-E-1A
+0080;0;wedding ring pictures;1;0.5;0;wedding ring argos;11;0.02941166;TUTA1-S-E-1A
+0080;0;wedding ring pictures;1;0.5;0;wedding ring sets;12;0.02941165;TUTA1-S-E-1A
+0080;0;wedding ring pictures;1;0.5;0;wedding ring men;13;0.02941164;TUTA1-S-E-1A
+0080;0;wedding ring pictures;1;0.5;0;palladium wedding ring;14;0.02941163;TUTA1-S-E-1A
+0080;0;wedding ring pictures;1;0.5;0;platinum wedding ring;15;0.02941162;TUTA1-S-E-1A
+0080;0;wedding ring pictures;1;0.5;0;wedding rings sets;16;0.02941161;TUTA1-S-E-1A
+0080;0;wedding ring pictures;1;0.5;0;vintage wedding sets;17;0.0294116;TUTA1-S-E-1A
+0080;0;wedding ring pictures;1;0.5;0;engagement and wedding rings;18;0.02941159;TUTA1-S-E-1A
+0081;0;samsung galaxy tab;1;0.04545455;0;samsung galaxy s3;1;0.00413223;TUTA1-S-E-1A
+0081;0;samsung galaxy tab;1;0.04545455;0;samsung tv;2;0.00413222;TUTA1-S-E-1A
+0081;0;samsung galaxy tab;1;0.04545455;0;samsung tablet;3;0.00413221;TUTA1-S-E-1A
+0081;0;samsung galaxy tab;1;0.04545455;0;samsung galaxy note;4;0.00206612;TUTA1-S-E-1A
+0081;0;samsung galaxy tab;1;0.04545455;0;samsung malaysia;5;0.00206611;TUTA1-S-E-1A
+0081;0;samsung galaxy tab;1;0.04545455;0;samsung galaxy tab;6;0.0020661;TUTA1-S-E-1A
+0081;0;samsung galaxy tab;1;0.04545455;0;samsung galaxy s4 2013;7;0.00206609;TUTA1-S-E-1A
+0081;0;samsung galaxy tab;1;0.04545455;0;samsung dive;8;0.00206608;TUTA1-S-E-1A
+0081;0;samsung galaxy tab;1;0.04545455;0;samsung es8000;9;0.00206607;TUTA1-S-E-1A
+0081;0;samsung galaxy tab;1;0.04545455;0;samsung cashback;10;0.00206606;TUTA1-S-E-1A
+0081;0;samsung galaxy tab;1;0.04545455;0;samsung kies;11;0.00206605;TUTA1-S-E-1A
+0081;0;samsung galaxy tab;1;0.04545455;0;samsung apps;12;0.00206604;TUTA1-S-E-1A
+0081;0;samsung galaxy tab;1;0.04545455;0;samsung refrigerators;13;0.00206603;TUTA1-S-E-1A
+0081;0;samsung galaxy tab;1;0.04545455;0;samsung televisions;14;0.00206602;TUTA1-S-E-1A
+0081;0;samsung galaxy tab;1;0.04545455;0;samsung electronics;15;0.00206601;TUTA1-S-E-1A
+0081;0;samsung galaxy tab;1;0.04545455;0;samsung cell phones;16;0.002066;TUTA1-S-E-1A
+0081;0;samsung galaxy tab;1;0.04545455;0;samsung parts;17;0.00206599;TUTA1-S-E-1A
+0081;0;samsung galaxy tab;1;0.04545455;0;samsung appliances;18;0.00206598;TUTA1-S-E-1A
+0082;0;watch the hunger games online;2;0.5;0;watch the hunger games online;1;0.25;TUTA1-S-E-1A
+0082;0;hunger games movie sequels;1;0.06666667;0;the hunger games catching fire;2;0.04888889;TUTA1-S-E-1A
+0082;0;hunger games movie sequels;1;0.06666667;0;hunger games trilogy box set;3;0.00444444;TUTA1-S-E-1A
+0082;0;hunger games movie sequels;1;0.06666667;0;hunger games characters;4;0.00444443;TUTA1-S-E-1A
+0082;0;hunger games movie sequels;1;0.06666667;0;hunger games movie sequels;5;0.00444442;TUTA1-S-E-1A
+0083;0;harry potter cast;1;0.05882353;0;harry potter and the half blood prince;1;0.00692042;TUTA1-S-E-1A
+0083;0;harry potter cast;1;0.05882353;0;harry potter books;2;0.00346021;TUTA1-S-E-1A
+0083;0;harry potter cast;1;0.05882353;0;harry potter premiere 2013;3;0.0034602;TUTA1-S-E-1A
+0083;0;harry potter cast;1;0.05882353;0;harry potter 7;4;0.00346019;TUTA1-S-E-1A
+0083;0;harry potter cast;1;0.05882353;0;harry potter movie;5;0.00346018;TUTA1-S-E-1A
+0083;0;harry potter cast;1;0.05882353;0;harry potter world;6;0.00346017;TUTA1-S-E-1A
+0083;0;harry potter cast;1;0.05882353;0;harry potter wiki;7;0.00346016;TUTA1-S-E-1A
+0083;0;harry potter cast;1;0.05882353;0;harry potter imdb;8;0.00346015;TUTA1-S-E-1A
+0083;0;harry potter cast;1;0.05882353;0;harry potter quiz;9;0.00346014;TUTA1-S-E-1A
+0083;0;harry potter cast;1;0.05882353;0;harry potter spells;10;0.00346013;TUTA1-S-E-1A
+0083;0;harry potter cast;1;0.05882353;0;harry potter games;11;0.00346012;TUTA1-S-E-1A
+0083;0;harry potter cast;1;0.05882353;0;lego harry potter;12;0.00346011;TUTA1-S-E-1A
+0083;0;harry potter cast;1;0.05882353;0;harry potter movies in order;13;0.0034601;TUTA1-S-E-1A
+0083;0;harry potter cast;1;0.05882353;0;harry potter characters;14;0.00346009;TUTA1-S-E-1A
+0083;0;harry potter cast;1;0.05882353;0;harry potter cast;15;0.00346008;TUTA1-S-E-1A
+0085;0;7zip command line examples;1;0.1;0;7zip command line examples;1;0.02;TUTA1-S-E-1A
+0085;0;7zip command line examples;1;0.1;0;7zip download mac;2;0.01999999;TUTA1-S-E-1A
+0085;0;7zip command line examples;1;0.1;0;7zip extract command line;3;0.01;TUTA1-S-E-1A
+0085;0;7zip command line examples;1;0.1;0;jzip vs 7zip;4;0.00999999;TUTA1-S-E-1A
+0085;0;7zip command line examples;1;0.1;0;7zip portable;5;0.00999998;TUTA1-S-E-1A
+0085;0;7zip command line examples;1;0.1;0;7zip review;6;0.00999997;TUTA1-S-E-1A
+0086;0;signs of appendix pain;2;0.5;0;signs of appendix pain;1;0.25;TUTA1-S-E-1A
+0086;0;symptoms of mild appendicitis;3;0.5;0;symptoms of mild appendicitis;2;0.24999999;TUTA1-S-E-1A
+0086;0;appendix pain symptoms in children;1;0.03571429;0;appendix pain symptoms in children;3;0.0127551;TUTA1-S-E-1A
+0086;0;appendix pain symptoms in children;1;0.03571429;0;appendix pain location;4;0.00382653;TUTA1-S-E-1A
+0086;0;appendix pain symptoms in children;1;0.03571429;0;lower left abdominal pain;5;0.00127551;TUTA1-S-E-1A
+0086;0;appendix pain symptoms in children;1;0.03571429;0;pain on left side of abdomen;6;0.0012755;TUTA1-S-E-1A
+0086;0;appendix pain symptoms in children;1;0.03571429;0;gallbladder pain symptoms;7;0.00127549;TUTA1-S-E-1A
+0086;0;appendix pain symptoms in children;1;0.03571429;0;liver pain symptoms;8;0.00127548;TUTA1-S-E-1A
+0086;0;appendix pain symptoms in children;1;0.03571429;0;appendix attack symptoms;9;0.00127547;TUTA1-S-E-1A
+0087;0;tim mcgraw lyrics;2;0.5;0;tim mcgraw lyrics;1;0.25;TUTA1-S-E-1A
+0087;0;she's everything brad paisley lyrics;3;0.5;0;she's everything brad paisley lyrics;2;0.24999999;TUTA1-S-E-1A
+0087;0;toby keith lyrics;4;0.5;0;toby keith lyrics;3;0.24999998;TUTA1-S-E-1A
+0087;0;then brad paisley lyrics;1;0.04761905;0;brad paisley lyrics alcohol;4;0.02947846;TUTA1-S-E-1A
+0087;0;then brad paisley lyrics;1;0.04761905;0;remind me brad paisley lyrics;5;0.00226757;TUTA1-S-E-1A
+0087;0;then brad paisley lyrics;1;0.04761905;0;brad paisley songs;6;0.00226756;TUTA1-S-E-1A
+0087;0;then brad paisley lyrics;1;0.04761905;0;then brad paisley lyrics;7;0.00226755;TUTA1-S-E-1A
+0087;0;then brad paisley lyrics;1;0.04761905;0;brad paisley and carrie underwood;8;0.00226754;TUTA1-S-E-1A
+0087;0;then brad paisley lyrics;1;0.04761905;0;brad paisley videos;9;0.00226753;TUTA1-S-E-1A
+0087;0;then brad paisley lyrics;1;0.04761905;0;brad paisley love songs;10;0.00226752;TUTA1-S-E-1A
+0087;0;then brad paisley lyrics;1;0.04761905;0;brad paisley song list;11;0.00226751;TUTA1-S-E-1A
+0088;0;craigslist phoenix az;3;0.5;0;craigslist phoenix az;1;0.25;TUTA1-S-E-1A
+0088;0;back page phoenix;2;0.16666667;0;craigslist phoenix furniture;2;0.02777778;TUTA1-S-E-1A
+0088;0;craigslist phoenix arizona;1;0.09090909;0;craigslist phoenix arizona;3;0.01652893;TUTA1-S-E-1A
+0088;0;back page phoenix;2;0.16666667;0;craigslist phoenix electronics;4;0.01652892;TUTA1-S-E-1A
+0088;0;back page phoenix;2;0.16666667;0;craigslist phoenix free;5;0.01652891;TUTA1-S-E-1A
+0088;0;craigslist phoenix arizona;1;0.09090909;0;craigslist phoenix cars by owner;6;0.0165289;TUTA1-S-E-1A
+0088;0;back page phoenix;2;0.16666667;0;craigslist phoenix auto parts;7;0.01652889;TUTA1-S-E-1A
+0088;0;back page phoenix;2;0.16666667;0;back page phoenix;8;0.01652888;TUTA1-S-E-1A
+0088;0;craigslist phoenix arizona;1;0.09090909;0;backpage phoenix classified;9;0.00826446;TUTA1-S-E-1A
+0088;0;craigslist phoenix arizona;1;0.09090909;0;craigslist phoenix scottsdale;10;0.00826445;TUTA1-S-E-1A
+0088;0;craigslist phoenix arizona;1;0.09090909;0;craigslist phoenix boats;11;0.00826444;TUTA1-S-E-1A
+0088;0;craigslist phoenix arizona;1;0.09090909;0;craigslist phoenix motorcycles;12;0.00826443;TUTA1-S-E-1A
+0088;0;craigslist phoenix arizona;1;0.09090909;0;craigslist phoenix tools;13;0.00826442;TUTA1-S-E-1A
+0089;0;mcdonalds nutrition guide breakfast;1;0.05263158;0;mcdonald's nutrition guide canada;1;0.01385042;TUTA1-S-E-1A
+0089;0;mcdonalds nutrition guide breakfast;1;0.05263158;0;mcdonalds calories list;2;0.00554017;TUTA1-S-E-1A
+0089;0;mcdonalds nutrition guide breakfast;1;0.05263158;0;hardee nutrition guide;3;0.00277008;TUTA1-S-E-1A
+0089;0;mcdonalds nutrition guide breakfast;1;0.05263158;0;hardee's nutrition guide calories;4;0.00277007;TUTA1-S-E-1A
+0089;0;mcdonalds nutrition guide breakfast;1;0.05263158;0;mcdonalds nutritional information pdf;5;0.00277006;TUTA1-S-E-1A
+0089;0;mcdonalds nutrition guide breakfast;1;0.05263158;0;mcdonalds nutrition table;6;0.00277005;TUTA1-S-E-1A
+0089;0;mcdonalds nutrition guide breakfast;1;0.05263158;0;nutritional values mcdonalds;7;0.00277004;TUTA1-S-E-1A
+0089;0;mcdonalds nutrition guide breakfast;1;0.05263158;0;mcdonalds calories chart;8;0.00277003;TUTA1-S-E-1A
+0089;0;mcdonalds nutrition guide breakfast;1;0.05263158;0;mcdonalds nutrition guide breakfast;9;0.00277002;TUTA1-S-E-1A
+0089;0;mcdonalds nutrition guide breakfast;1;0.05263158;0;burger king nutrition guide;10;0.00277001;TUTA1-S-E-1A
+0089;0;mcdonalds nutrition guide breakfast;1;0.05263158;0;arby's nutrition guide;11;0.00277;TUTA1-S-E-1A
+0089;0;mcdonalds nutrition guide breakfast;1;0.05263158;0;applebee's nutrition guide;12;0.00276999;TUTA1-S-E-1A
+0089;0;mcdonalds nutrition guide breakfast;1;0.05263158;0;taco bell nutrition guide;13;0.00276998;TUTA1-S-E-1A
+0090;0;sausalito restaurants;2;0.5;0;sausalito restaurants;1;0.25;TUTA1-S-E-1A
+0090;0;sausalito art festival parking;1;0.02631579;0;sausalito art festival parking;2;0.01177285;TUTA1-S-E-1A
+0090;0;sausalito art festival parking;1;0.02631579;0;sausalito ferry;3;0.00138504;TUTA1-S-E-1A
+0090;0;sausalito art festival parking;1;0.02631579;0;sausalito chamber of commerce;4;0.00069252;TUTA1-S-E-1A
+0090;0;sausalito art festival parking;1;0.02631579;0;sausalito ca;5;0.00069251;TUTA1-S-E-1A
+0091;0;state of tennessee unemployment;4;0.5;0;state of tennessee unemployment;1;0.25;TUTA1-S-E-1A
+0091;0;tennessee jobs;5;0.5;0;tennessee jobs;2;0.24999999;TUTA1-S-E-1A
+0091;0;tennessee unemployment rates;6;0.5;0;tennessee unemployment rates;3;0.24999998;TUTA1-S-E-1A
+0091;0;tennessee unemployment telephone number;3;0.25;0;tennessee unemployment weekly certification;4;0.0625;TUTA1-S-E-1A
+0091;0;tennessee unemployment benefits;2;0.16666667;0;tennessee unemployment benefits;5;0.06249999;TUTA1-S-E-1A
+0091;0;tennessee unemployment telephone number;3;0.25;0;tennessee unemployment phone number;6;0.06249998;TUTA1-S-E-1A
+0091;0;tennessee unemployment telephone number;3;0.25;0;tennessee unemployment telephone number;7;0.06249997;TUTA1-S-E-1A
+0091;0;tennessee unemployment rate;1;0.07142857;0;tennessee unemployment extension;8;0.01020408;TUTA1-S-E-1A
+0091;0;tennessee unemployment rate;1;0.07142857;0;tennessee unemployment office;9;0.01020407;TUTA1-S-E-1A
+0091;0;tennessee unemployment rate;1;0.07142857;0;tennessee unemployment rate;10;0.01020406;TUTA1-S-E-1A
+0091;0;tennessee unemployment rate;1;0.07142857;0;tennessee unemployment claim;11;0.00510204;TUTA1-S-E-1A
+0091;0;tennessee unemployment rate;1;0.07142857;0;tennessee unemployment insurance;12;0.00510203;TUTA1-S-E-1A
+0091;0;tennessee unemployment rate;1;0.07142857;0;tennessee emergency unemployment;13;0.00510202;TUTA1-S-E-1A
+0091;0;tennessee unemployment rate;1;0.07142857;0;tennessee unemployment tax;14;0.00510201;TUTA1-S-E-1A
+0091;0;tennessee unemployment rate;1;0.07142857;0;tennessee unemployment job search;15;0.005102;TUTA1-S-E-1A
+0091;0;tennessee unemployment rate;1;0.07142857;0;tennessee unemployment information;16;0.00510199;TUTA1-S-E-1A
+0092;0;eu 41 shoe size to australian;4;0.5;0;eu 41 shoe size to australian;1;0.25;TUTA1-S-E-1A
+0092;0;male shoe size converter;2;0.16666667;0;male shoe size converter;2;0.02777778;TUTA1-S-E-1A
+0092;0;size 10 men's shoes conversion;3;0.16666667;0;men size 43 to us;3;0.02777777;TUTA1-S-E-1A
+0092;0;men's shoe sizes conversion women's;1;0.1;0;men shoe chart;4;0.01;TUTA1-S-E-1A
+0092;0;male shoe size converter;2;0.16666667;0;mens shoe size chart;5;0.00999999;TUTA1-S-E-1A
+0092;0;size 10 men's shoes conversion;3;0.16666667;0;men size 42 in us;6;0.00999998;TUTA1-S-E-1A
+0092;0;male shoe size converter;2;0.16666667;0;euro shoe size chart;7;0.00999997;TUTA1-S-E-1A
+0092;0;size 10 men's shoes conversion;3;0.16666667;0;size 9 men in europe;8;0.00999996;TUTA1-S-E-1A
+0092;0;men's shoe sizes conversion women's;1;0.1;0;boys shoe sizes;9;0.00999995;TUTA1-S-E-1A
+0092;0;male shoe size converter;2;0.16666667;0;convert shoe size;10;0.00999994;TUTA1-S-E-1A
+0092;0;size 10 men's shoes conversion;3;0.16666667;0;size 9 shoes conversion;11;0.00999993;TUTA1-S-E-1A
+0092;0;men's shoe sizes conversion women's;1;0.1;0;uk men's shoe sizes conversion;12;0.00999992;TUTA1-S-E-1A
+0092;0;male shoe size converter;2;0.16666667;0;man woman shoe size conversion;13;0.00999991;TUTA1-S-E-1A
+0092;0;size 10 men's shoes conversion;3;0.16666667;0;size 10 men's shoes conversion;14;0.0099999;TUTA1-S-E-1A
+0092;0;men's shoe sizes conversion women's;1;0.1;0;international men's shoe sizes conversion chart;15;0.00999989;TUTA1-S-E-1A
+0092;0;men's shoe sizes conversion women's;1;0.1;0;mens shoe sizes widths;16;0.00999988;TUTA1-S-E-1A
+0092;0;men's shoe sizes conversion women's;1;0.1;0;men's shoe sizes conversion women's;17;0.00999987;TUTA1-S-E-1A
+0092;0;men's shoe sizes conversion women's;1;0.1;0;women's shoe sizes conversion;18;0.00999986;TUTA1-S-E-1A
+0092;0;men's shoe sizes conversion women's;1;0.1;0;european shoe size conversion men;19;0.00999985;TUTA1-S-E-1A
+0092;0;men's shoe sizes conversion women's;1;0.1;0;men women shoe size converter;20;0.00999984;TUTA1-S-E-1A
+0093;0;obama timeline;3;0.5;0;obama timeline;1;0.25;TUTA1-S-E-1A
+0093;0;obama pictures;4;0.5;0;obama pictures;2;0.24999999;TUTA1-S-E-1A
+0093;0;obama jokes;5;0.5;0;obama jokes;3;0.24999998;TUTA1-S-E-1A
+0093;0;mitt romney biography;2;0.25;0;mitt romney biography;4;0.125;TUTA1-S-E-1A
+0093;0;obama biography movie;1;0.05555556;0;barack obama biography;5;0.00617284;TUTA1-S-E-1A
+0093;0;obama biography movie;1;0.05555556;0;senator barack obama biography;6;0.00308642;TUTA1-S-E-1A
+0093;0;obama biography movie;1;0.05555556;0;sasha obama biography;7;0.00308641;TUTA1-S-E-1A
+0093;0;obama biography movie;1;0.05555556;0;president obama biography;8;0.0030864;TUTA1-S-E-1A
+0093;0;obama biography movie;1;0.05555556;0;obama autobiography;9;0.00308639;TUTA1-S-E-1A
+0093;0;obama biography movie;1;0.05555556;0;obama biography amazon;10;0.00308638;TUTA1-S-E-1A
+0093;0;obama biography movie;1;0.05555556;0;obama biography for kids;11;0.00308637;TUTA1-S-E-1A
+0093;0;obama biography movie;1;0.05555556;0;obama biography youtube;12;0.00308636;TUTA1-S-E-1A
+0093;0;obama biography movie;1;0.05555556;0;obama biography pdf;13;0.00308635;TUTA1-S-E-1A
+0093;0;obama biography movie;1;0.05555556;0;obama biography movie;14;0.00308634;TUTA1-S-E-1A
+0093;0;obama biography movie;1;0.05555556;0;obama biography education;15;0.00308633;TUTA1-S-E-1A
+0093;0;obama biography movie;1;0.05555556;0;obama biography in hindi;16;0.00308632;TUTA1-S-E-1A
+0093;0;obama biography movie;1;0.05555556;0;michelle obama biography;17;0.00308631;TUTA1-S-E-1A
+0093;0;obama biography movie;1;0.05555556;0;obama biography book;18;0.0030863;TUTA1-S-E-1A
+0093;0;obama biography movie;1;0.05555556;0;obama is still a muslim;19;0.00308629;TUTA1-S-E-1A
+0093;0;obama biography movie;1;0.05555556;0;obama background;20;0.00308628;TUTA1-S-E-1A
+0094;0;list causes of obesity;1;0.04545455;0;causes of obesity in adults;1;0.01446281;TUTA1-S-E-1A
+0094;0;list causes of obesity;1;0.04545455;0;10 causes of obesity;2;0.00413223;TUTA1-S-E-1A
+0094;0;list causes of obesity;1;0.04545455;0;genetic causes of obesity;3;0.00206612;TUTA1-S-E-1A
+0094;0;list causes of obesity;1;0.04545455;0;effects of obesity;4;0.00206611;TUTA1-S-E-1A
+0094;0;list causes of obesity;1;0.04545455;0;psychological causes of obesity;5;0.0020661;TUTA1-S-E-1A
+0094;0;list causes of obesity;1;0.04545455;0;what is obesity;6;0.00206609;TUTA1-S-E-1A
+0094;0;list causes of obesity;1;0.04545455;0;obesity symptom checker;7;0.00206608;TUTA1-S-E-1A
+0094;0;list causes of obesity;1;0.04545455;0;health effects of obesity;8;0.00206607;TUTA1-S-E-1A
+0094;0;list causes of obesity;1;0.04545455;0;treatment of obesity;9;0.00206606;TUTA1-S-E-1A
+0094;0;list causes of obesity;1;0.04545455;0;symptoms of obesity;10;0.00206605;TUTA1-S-E-1A
+0094;0;list causes of obesity;1;0.04545455;0;factors of obesity;11;0.00206604;TUTA1-S-E-1A
+0094;0;list causes of obesity;1;0.04545455;0;major causes of obesity;12;0.00206603;TUTA1-S-E-1A
+0094;0;list causes of obesity;1;0.04545455;0;list causes of obesity;13;0.00206602;TUTA1-S-E-1A
+0094;0;list causes of obesity;1;0.04545455;0;main causes of obesity;14;0.00206601;TUTA1-S-E-1A
+0095;0;what is a natural number;1;1;0;what is a natural number;1;1;TUTA1-S-E-1A
+0096;0;causes for yellow teeth;4;0.5;0;causes for yellow teeth;1;0.25;TUTA1-S-E-1A
+0096;0;causes of yellow teeth;5;0.5;0;causes of yellow teeth;2;0.24999999;TUTA1-S-E-1A
+0096;0;yellow tooth;6;0.5;0;yellow tooth;3;0.24999998;TUTA1-S-E-1A
+0096;0;get rid yellow teeth;7;0.5;0;get rid yellow teeth;4;0.24999997;TUTA1-S-E-1A
+0096;0;how to get rid of yellow teeth;3;0.25;0;how to get rid of yellow teeth;5;0.125;TUTA1-S-E-1A
+0096;0;home treatment for yellow teeth;2;0.2;0;well water and yellow teeth;6;0.04;TUTA1-S-E-1A
+0096;0;home treatment for yellow teeth;2;0.2;0;help for yellow teeth;7;0.03999999;TUTA1-S-E-1A
+0096;0;yellow teeth 1;1;0.06666667;0;yellow teeth causes;8;0.00888889;TUTA1-S-E-1A
+0096;0;home treatment for yellow teeth;2;0.2;0;home treatment for yellow teeth;9;0.00888888;TUTA1-S-E-1A
+0096;0;home treatment for yellow teeth;2;0.2;0;home remedies yellow teeth;10;0.00888887;TUTA1-S-E-1A
+0096;0;yellow teeth 1;1;0.06666667;0;turn yellow teeth white;11;0.00444444;TUTA1-S-E-1A
+0096;0;yellow teeth 1;1;0.06666667;0;yellow teeth jokes;12;0.00444443;TUTA1-S-E-1A
+0096;0;yellow teeth 1;1;0.06666667;0;yellow teeth pictures;13;0.00444442;TUTA1-S-E-1A
+0096;0;yellow teeth 1;1;0.06666667;0;brown teeth;14;0.00444441;TUTA1-S-E-1A
+0096;0;yellow teeth 1;1;0.06666667;0;yellow teeth in children;15;0.0044444;TUTA1-S-E-1A
+0096;0;yellow teeth 1;1;0.06666667;0;yellow teeth 1;16;0.00444439;TUTA1-S-E-1A
+0096;0;yellow teeth 1;1;0.06666667;0;treating yellow teeth;17;0.00444438;TUTA1-S-E-1A
+0096;0;yellow teeth 1;1;0.06666667;0;yellow teeth treatment home remedies;18;0.00444437;TUTA1-S-E-1A
+0096;0;yellow teeth 1;1;0.06666667;0;i have yellow teeth;19;0.00444436;TUTA1-S-E-1A
+0096;0;yellow teeth 1;1;0.06666667;0;teeth naturally yellow;20;0.00444435;TUTA1-S-E-1A
+0096;0;yellow teeth 1;1;0.06666667;0;yellow teeth home remedies;21;0.00444434;TUTA1-S-E-1A
+0096;0;yellow teeth 1;1;0.06666667;0;is yellow teeth bad;22;0.00444433;TUTA1-S-E-1A
+0097;0;astigmatism treatment;2;0.5;0;astigmatism treatment;1;0.25;TUTA1-S-E-1A
+0097;0;hyperopia treatment;3;0.5;0;hyperopia treatment;2;0.24999999;TUTA1-S-E-1A
+0097;0;myopia causes;4;0.5;0;myopia causes;3;0.24999998;TUTA1-S-E-1A
+0097;0;myopia symptoms;5;0.5;0;myopia symptoms;4;0.24999997;TUTA1-S-E-1A
+0097;0;myopia treatment in children;1;0.04761905;0;myopia treatment in children;5;0.00680272;TUTA1-S-E-1A
+0097;0;myopia treatment in children;1;0.04761905;0;progressive myopia treatment;6;0.00453515;TUTA1-S-E-1A
+0097;0;myopia treatment in children;1;0.04761905;0;degenerative myopia treatment;7;0.00226757;TUTA1-S-E-1A
+0097;0;myopia treatment in children;1;0.04761905;0;eye myopia treatment;8;0.00226756;TUTA1-S-E-1A
+0097;0;myopia treatment in children;1;0.04761905;0;pathological myopia treatment;9;0.00226755;TUTA1-S-E-1A
+0097;0;myopia treatment in children;1;0.04761905;0;high myopia treatment;10;0.00226754;TUTA1-S-E-1A
+0097;0;myopia treatment in children;1;0.04761905;0;myopia treatment lasik;11;0.00226753;TUTA1-S-E-1A
+0097;0;myopia treatment in children;1;0.04761905;0;myopia treatment options;12;0.00226752;TUTA1-S-E-1A
+0097;0;myopia treatment in children;1;0.04761905;0;myopia treatment home remedies;13;0.00226751;TUTA1-S-E-1A
+0097;0;myopia treatment in children;1;0.04761905;0;myopia treatment 2013;14;0.0022675;TUTA1-S-E-1A
+0097;0;myopia treatment in children;1;0.04761905;0;myopia treatment naturally & that easy;15;0.00226749;TUTA1-S-E-1A
+0097;0;myopia treatment in children;1;0.04761905;0;surgery for myopia;16;0.00226748;TUTA1-S-E-1A
+0097;0;myopia treatment in children;1;0.04761905;0;can myopia be reversed;17;0.00226747;TUTA1-S-E-1A
+0097;0;myopia treatment in children;1;0.04761905;0;myopia surgery options;18;0.00226746;TUTA1-S-E-1A
+0097;0;myopia treatment in children;1;0.04761905;0;cure myopia in one day;19;0.00226745;TUTA1-S-E-1A
+0098;0;how to find my ip address;1;1;0;how to find my ip address;1;1;TUTA1-S-E-1A
+0099;0;uk postcode finder;2;0.2;0;address finder;1;0.08;TUTA1-S-E-1A
+0099;0;uk postcode finder;2;0.2;0;postcode finder usa;2;0.04;TUTA1-S-E-1A
+0099;0;uk postcode finder;2;0.2;0;uk postcode finder;3;0.03999999;TUTA1-S-E-1A
+0099;0;post office postcode finder;1;0.05555556;0;postcode finder anywhere;4;0.00617284;TUTA1-S-E-1A
+0099;0;post office postcode finder;1;0.05555556;0;post office postcode finder;5;0.00308642;TUTA1-S-E-1A
+0099;0;post office postcode finder;1;0.05555556;0;postcode finder malaysia;6;0.00308641;TUTA1-S-E-1A
+0099;0;post office postcode finder;1;0.05555556;0;postcode finder australia;7;0.0030864;TUTA1-S-E-1A
+0099;0;post office postcode finder;1;0.05555556;0;postcode finder nz;8;0.00308639;TUTA1-S-E-1A
+0099;0;post office postcode finder;1;0.05555556;0;postcode finder api;9;0.00308638;TUTA1-S-E-1A
+0099;0;post office postcode finder;1;0.05555556;0;postcode finder hamilton;10;0.00308637;TUTA1-S-E-1A
+0099;0;post office postcode finder;1;0.05555556;0;postcode finder vic;11;0.00308636;TUTA1-S-E-1A
+0099;0;post office postcode finder;1;0.05555556;0;postcode finder software;12;0.00308635;TUTA1-S-E-1A
+0099;0;post office postcode finder;1;0.05555556;0;reverse postcode finder;13;0.00308634;TUTA1-S-E-1A
+0099;0;post office postcode finder;1;0.05555556;0;postcode finder map;14;0.00308633;TUTA1-S-E-1A
+0099;0;post office postcode finder;1;0.05555556;0;royal mail postcode finder;15;0.00308632;TUTA1-S-E-1A
+0099;0;post office postcode finder;1;0.05555556;0;free postcode finder;16;0.00308631;TUTA1-S-E-1A
+0099;0;post office postcode finder;1;0.05555556;0;postcode search;17;0.0030863;TUTA1-S-E-1A
+0099;0;post office postcode finder;1;0.05555556;0;postcode finder new zealand;18;0.00308629;TUTA1-S-E-1A
+0099;0;post office postcode finder;1;0.05555556;0;what is postcode;19;0.00308628;TUTA1-S-E-1A
+0100;0;best online photo printing;2;0.14285714;0;best online photo printing;1;0.04081633;TUTA1-S-E-1A
+0100;0;best online photo printing;2;0.14285714;0;online photo editor;2;0.02040816;TUTA1-S-E-1A
+0100;0;best online photo printing;2;0.14285714;0;best quality online photo printing;3;0.02040815;TUTA1-S-E-1A
+0100;0;online photo printing uk;1;0.04545455;0;online photo printing uk;4;0.01446281;TUTA1-S-E-1A
+0100;0;best online photo printing;2;0.14285714;0;free online photo printing;5;0.0144628;TUTA1-S-E-1A
+0100;0;online photo printing uk;1;0.04545455;0;cheap online photo printing;6;0.00413223;TUTA1-S-E-1A
+0100;0;online photo printing uk;1;0.04545455;0;professional online photo printing;7;0.00206612;TUTA1-S-E-1A
+0100;0;online photo printing uk;1;0.04545455;0;jessops online photo printing;8;0.00206611;TUTA1-S-E-1A
+0100;0;online photo printing uk;1;0.04545455;0;professional photo printing;9;0.0020661;TUTA1-S-E-1A
+0100;0;online photo printing uk;1;0.04545455;0;digital photo printing online;10;0.00206609;TUTA1-S-E-1A
+0100;0;online photo printing uk;1;0.04545455;0;kodak online photo printing;11;0.00206608;TUTA1-S-E-1A
+0100;0;online photo printing uk;1;0.04545455;0;walmart online photo printing;12;0.00206607;TUTA1-S-E-1A

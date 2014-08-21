@@ -1,0 +1,880 @@
+<SYSDESC>A continuous vector space model was used to represent each querySuggestion (intent) candidate as a vector. Then, top-k vectors that better cover the set of candidates (querySuggestions) are considered as the main top-k topics. Finally, the remaining candidates are considered subtopics and assigned to one (or many) of the selected top-k topics.</SYSDESC>
+0051;0;apple vacations;1;0.962588488481;0;apple vacations;1;1.0;hultech-S-E-4A
+0051;0;apple vacations;1;0.962588488481;0;apple hulu;2;0.962588488481;hultech-S-E-4A
+0051;0;apple vacations;1;0.962588488481;0;apple iphone;3;0.962588488481;hultech-S-E-4A
+0051;0;apple vacations;1;0.962588488481;0;apple iphone 5;4;0.962588488481;hultech-S-E-4A
+0051;0;apple vacations;1;0.962588488481;0;apple ipod;5;0.914075799477;hultech-S-E-4A
+0051;0;apple vacations;1;0.962588488481;0;apple stores;6;0.844946309233;hultech-S-E-4A
+0051;0;apple vacations;1;0.962588488481;0;apple commercial;7;0.81806744445;hultech-S-E-4A
+0051;0;apple vacations;1;0.962588488481;0;apple store;8;0.800169705284;hultech-S-E-4A
+0051;0;apple vacations;1;0.962588488481;0;apple new ipad;9;0.783432778428;hultech-S-E-4A
+0051;0;apple vacations;1;0.962588488481;0;apple tv;10;0.698924966042;hultech-S-E-4A
+0051;0;apple stock price;2;0.629718260655;0;apple stock price;1;1.0;hultech-S-E-4A
+0051;0;att;3;0.0509908568312;0;att;1;1.0;hultech-S-E-4A
+0051;0;att;3;0.0509908568312;0;samsung;2;0.347467316621;hultech-S-E-4A
+0051;0;best buy;4;0.097543176911;0;best buy;1;1.0;hultech-S-E-4A
+0051;0;amazon;5;-0.0493279067952;0;amazon;1;1.0;hultech-S-E-4A
+0052;0;gothic cathedral;1;0.845993281285;0;gothic cathedral;1;1.0;hultech-S-E-4A
+0052;0;gothic cathedral;1;0.845993281285;0;gothic cathedrals;2;0.826246818821;hultech-S-E-4A
+0052;0;gothic cathedral;1;0.845993281285;0;cathedral band;3;0.708142960342;hultech-S-E-4A
+0052;0;gothic cathedral;1;0.845993281285;0;cathedral school;4;0.692106033517;hultech-S-E-4A
+0052;0;gothic cathedral;1;0.845993281285;0;cathedral city ca;5;0.673138173871;hultech-S-E-4A
+0052;0;gothic cathedral;1;0.845993281285;0;crystal cathedral;6;0.668660764158;hultech-S-E-4A
+0052;0;gothic cathedral;1;0.845993281285;0;cathedral game;7;0.626002160933;hultech-S-E-4A
+0052;0;gothic cathedral;1;0.845993281285;0;cathedral short story;8;0.604970706871;hultech-S-E-4A
+0052;0;gothic cathedral;1;0.845993281285;0;cathedral high school;9;0.573815018817;hultech-S-E-4A
+0052;0;national cathedral;2;0.785271470583;0;national cathedral;1;1.0;hultech-S-E-4A
+0052;0;cathedral raymond carver;3;0.725752464485;0;cathedral raymond carver;1;1.0;hultech-S-E-4A
+0052;0;cathedral raymond carver;3;0.725752464485;0;cathedral by raymond carver;2;0.948744189045;hultech-S-E-4A
+0052;0;cathedral raymond carver;3;0.725752464485;0;cathedral raymond carver summary;3;0.927944935269;hultech-S-E-4A
+0052;0;cathedral raymond carver;3;0.725752464485;0;st patrick's cathedral;4;0.712484450673;hultech-S-E-4A
+0052;0;medieval cathedrals;4;0.403241655992;0;medieval cathedrals;1;1.0;hultech-S-E-4A
+0052;0;cathedral of our lady of the angels;5;0.565752464515;0;cathedral of our lady of the angels;1;1.0;hultech-S-E-4A
+0052;0;cathedral of our lady of the angels;5;0.565752464515;0;murder in the cathedral;2;0.636687448156;hultech-S-E-4A
+0053;0;eclipse yacht;1;0.922275624422;0;eclipse yacht;1;1.0;hultech-S-E-4A
+0053;0;eclipse yacht;1;0.922275624422;0;eclipse 2012;2;0.922275624422;hultech-S-E-4A
+0053;0;eclipse yacht;1;0.922275624422;0;eclipse 2013;3;0.922275624422;hultech-S-E-4A
+0053;0;eclipse yacht;1;0.922275624422;0;twilight eclipse;4;0.859246689897;hultech-S-E-4A
+0053;0;eclipse yacht;1;0.922275624422;0;mitsubishi eclipse;5;0.846050504826;hultech-S-E-4A
+0053;0;eclipse yacht;1;0.922275624422;0;eclipse android;6;0.835648327499;hultech-S-E-4A
+0053;0;eclipse yacht;1;0.922275624422;0;nasa eclipse 2013;7;0.803698830605;hultech-S-E-4A
+0053;0;eclipse yacht;1;0.922275624422;0;eclipse ide;8;0.784933332741;hultech-S-E-4A
+0053;0;eclipse yacht;1;0.922275624422;0;eclipse tonight;9;0.773399067342;hultech-S-E-4A
+0053;0;eclipse yacht;1;0.922275624422;0;eclipse movie;10;0.720235407805;hultech-S-E-4A
+0053;0;solar eclipse;2;0.894429886012;0;solar eclipse;1;1.0;hultech-S-E-4A
+0053;0;solar eclipse;2;0.894429886012;0;annular solar eclipse 2012;2;0.984050694836;hultech-S-E-4A
+0053;0;solar eclipse;2;0.894429886012;0;lunar eclipse;3;0.849317602804;hultech-S-E-4A
+0053;0;solar eclipse;2;0.894429886012;0;lunar eclipse 2013;4;0.849317602804;hultech-S-E-4A
+0053;0;solar eclipse;2;0.894429886012;0;lunar eclipse 2014;5;0.849317602804;hultech-S-E-4A
+0053;0;solar eclipse;2;0.894429886012;0;next lunar eclipse;6;0.785497845806;hultech-S-E-4A
+0053;0;eclipse java;3;0.690185196561;0;eclipse java;1;1.0;hultech-S-E-4A
+0053;0;eclipse java;3;0.690185196561;0;eclipse download;2;0.728152040995;hultech-S-E-4A
+0053;0;eclipse player;4;0.70104971564;0;eclipse mp3 player;1;1.0;hultech-S-E-4A
+0053;0;eclipse november;5;0.781266785525;0;eclipse november 2013;1;1.0;hultech-S-E-4A
+0054;0;fas ligand;1;0.856827029292;0;fas ligand;1;1.0;hultech-S-E-4A
+0054;0;fas ligand;1;0.856827029292;0;fas 109;2;0.856827029292;hultech-S-E-4A
+0054;0;fas ligand;1;0.856827029292;0;fas 157;3;0.856827029292;hultech-S-E-4A
+0054;0;fas ligand;1;0.856827029292;0;fas 5;4;0.856827029292;hultech-S-E-4A
+0054;0;fas ligand;1;0.856827029292;0;fas 133;5;0.856827029292;hultech-S-E-4A
+0054;0;fas ligand;1;0.856827029292;0;fas 157 fetal;6;0.856827029292;hultech-S-E-4A
+0054;0;fas ligand;1;0.856827029292;0;fas 91;7;0.856827029292;hultech-S-E-4A
+0054;0;fas ligand;1;0.856827029292;0;fas asset;8;0.682003493522;hultech-S-E-4A
+0054;0;fas ligand;1;0.856827029292;0;fas gene;9;0.664245301784;hultech-S-E-4A
+0054;0;fas ligand;1;0.856827029292;0;fas jobs;10;0.530640276014;hultech-S-E-4A
+0054;0;sage fas;2;0.81031644593;0;sage fas;1;1.0;hultech-S-E-4A
+0054;0;sage fas;2;0.81031644593;0;fas quote;2;0.587753625779;hultech-S-E-4A
+0054;0;sage fas;2;0.81031644593;0;fas book;3;0.533230595693;hultech-S-E-4A
+0054;0;sage fas;2;0.81031644593;0;fas accounting;4;0.530743322221;hultech-S-E-4A
+0054;0;field asset services;3;0.168967438968;0;field asset services;1;1.0;hultech-S-E-4A
+0054;0;alcohol syndrome;4;0.313610044056;0;alcohol syndrome;1;1.0;hultech-S-E-4A
+0054;0;alcohol syndrome;4;0.313610044056;0;fas syndrome;2;0.779181929322;hultech-S-E-4A
+0054;0;alcohol syndrome;4;0.313610044056;0;fas symptoms;3;0.661502982563;hultech-S-E-4A
+0054;0;fas ireland;5;0.438966618222;0;fas ireland;1;1.0;hultech-S-E-4A
+0055;0;flesh wounds;1;0.860426825078;0;flesh wounds;1;1.0;hultech-S-E-4A
+0055;0;flesh wounds;1;0.860426825078;0;flesh and blood;2;0.747419517156;hultech-S-E-4A
+0055;0;flesh wounds;1;0.860426825078;0;flesh eating disease;3;0.704862589626;hultech-S-E-4A
+0055;0;flesh wounds;1;0.860426825078;0;flesh-eating disease;4;0.704862589626;hultech-S-E-4A
+0055;0;flesh wounds;1;0.860426825078;0;flesh eating bacteria;5;0.694151204342;hultech-S-E-4A
+0055;0;flesh wounds;1;0.860426825078;0;flesh out;6;0.686119346261;hultech-S-E-4A
+0055;0;flesh wounds;1;0.860426825078;0;flesh and spirit;7;0.681925843195;hultech-S-E-4A
+0055;0;flesh wounds;1;0.860426825078;0;flesh eating drug;8;0.678239314126;hultech-S-E-4A
+0055;0;flesh wounds;1;0.860426825078;0;pictures flesh-eating disease;9;0.653942232945;hultech-S-E-4A
+0055;0;flesh wounds;1;0.860426825078;0;flesh movie;10;0.605819229022;hultech-S-E-4A
+0055;0;flesh gordon;2;0.672718918402;0;flesh gordon;1;1.0;hultech-S-E-4A
+0055;0;flesh gordon;2;0.672718918402;0;flesh simon curtis;2;0.70208539647;hultech-S-E-4A
+0055;0;flash;3;-0.0729793622512;0;flash;1;1.0;hultech-S-E-4A
+0055;0;flesh in the bible;4;0.547909167404;0;flesh in the bible;1;1.0;hultech-S-E-4A
+0055;0;flesh in the bible;4;0.547909167404;0;devil in the flesh;2;0.733692141608;hultech-S-E-4A
+0055;0;fungus;5;0.39327382527;0;fungus;1;1.0;hultech-S-E-4A
+0056;0;ir extender;1;0.995332446075;0;ir extender;1;1.0;hultech-S-E-4A
+0056;0;ir extender;1;0.995332446075;0;ir blaster;2;0.954369216834;hultech-S-E-4A
+0056;0;ir extender;1;0.995332446075;0;ir repeater;3;0.914463187169;hultech-S-E-4A
+0056;0;ir extender;1;0.995332446075;0;ir camera;4;0.799446314257;hultech-S-E-4A
+0056;0;ir extender;1;0.995332446075;0;ir receiver;5;0.778745943423;hultech-S-E-4A
+0056;0;ir extender;1;0.995332446075;0;ir tools;6;0.745069947728;hultech-S-E-4A
+0056;0;ir extender;1;0.995332446075;0;ir film;7;0.661917328089;hultech-S-E-4A
+0056;0;ir extender;1;0.995332446075;0;sbux;8;0.0;hultech-S-E-4A
+0056;0;iranian;2;0.131559197981;0;iranian;1;1.0;hultech-S-E-4A
+0056;0;irs where s my refund;3;-0.0171769553604;0;irs where's my refund;1;1.0;hultech-S-E-4A
+0056;0;ir spectrum;4;0.742492387348;0;ir spectrum;1;1.0;hultech-S-E-4A
+0056;0;ir spectrum;4;0.742492387348;0;ir spectrum table;2;0.85489577072;hultech-S-E-4A
+0056;0;ir spectrum;4;0.742492387348;0;ir spectroscopy;3;0.76344564059;hultech-S-E-4A
+0056;0;ir equipment;5;0.73850288451;0;ir equipment;1;1.0;hultech-S-E-4A
+0057;0;lost spoilers;1;0.964252580323;0;lost spoilers;1;1.0;hultech-S-E-4A
+0057;0;lost spoilers;1;0.964252580323;0;lost surfboards;2;0.964252580323;hultech-S-E-4A
+0057;0;lost spoilers;1;0.964252580323;0;lost finale;3;0.819262767166;hultech-S-E-4A
+0057;0;lost spoilers;1;0.964252580323;0;lost rumours;4;0.79917703842;hultech-S-E-4A
+0057;0;lost spoilers;1;0.964252580323;0;lost cast;5;0.770026478603;hultech-S-E-4A
+0057;0;lost spoilers;1;0.964252580323;0;lost ending;6;0.749974781988;hultech-S-E-4A
+0057;0;lost spoilers;1;0.964252580323;0;lost season 1;7;0.721032709442;hultech-S-E-4A
+0057;0;lost spoilers;1;0.964252580323;0;sawyer from lost;8;0.709528413611;hultech-S-E-4A
+0057;0;lost spoilers;1;0.964252580323;0;lost episodes;9;0.707825855647;hultech-S-E-4A
+0057;0;lost spoilers;1;0.964252580323;0;lost characters;10;0.702527089053;hultech-S-E-4A
+0057;0;lost actress;2;0.530937995866;0;lost actress raymonde;1;1.0;hultech-S-E-4A
+0057;0;lost actress;2;0.530937995866;0;kate lost;2;0.751051720699;hultech-S-E-4A
+0057;0;lost actress;2;0.530937995866;0;ost prophets singer;3;0.38344641812;hultech-S-E-4A
+0057;0;lost theories;3;0.596227037545;0;lost theories;1;1.0;hultech-S-E-4A
+0057;0;lilly;4;-0.0280018386965;0;evangeline lilly;1;1.0;hultech-S-E-4A
+0057;0;all is lost movie;5;0.543211050025;0;all is lost movie;1;1.0;hultech-S-E-4A
+0057;0;all is lost movie;5;0.543211050025;0;lost tv show;2;0.540546187376;hultech-S-E-4A
+0058;0;shrew rodent;1;0.865619734729;0;shrew rodent;1;1.0;hultech-S-E-4A
+0058;0;shrew rodent;1;0.865619734729;0;shrew venom;2;0.786288839271;hultech-S-E-4A
+0058;0;shrew rodent;1;0.865619734729;0;shrew vpn;3;0.745486049712;hultech-S-E-4A
+0058;0;shrew rodent;1;0.865619734729;0;shrew habitat;4;0.723925990382;hultech-S-E-4A
+0058;0;shrew rodent;1;0.865619734729;0;elephant shrew;5;0.615352386158;hultech-S-E-4A
+0058;0;shrew rodent;1;0.865619734729;0;shrew diet;6;0.568357958754;hultech-S-E-4A
+0058;0;shrew rodent;1;0.865619734729;0;shrew soft vpn;7;0.564049098538;hultech-S-E-4A
+0058;0;shrew rodent;1;0.865619734729;0;taming of the shrew;8;0.480077085815;hultech-S-E-4A
+0058;0;shrew rodent;1;0.865619734729;0;shrew identification photos;9;0.336922617915;hultech-S-E-4A
+0058;0;shrew rodent;1;0.865619734729;0;shrew pictures;10;0.312042126804;hultech-S-E-4A
+0058;0;rascal knock upon your gate shrew;2;0.295592846233;0;rascal knock upon your gate shrew;1;1.0;hultech-S-E-4A
+0058;0;rascal knock upon your gate shrew;2;0.295592846233;0;what do shrews eat;2;0.403215056635;hultech-S-E-4A
+0058;0;rascal knock upon your gate shrew;2;0.295592846233;0;shrew woman;3;0.344960886865;hultech-S-E-4A
+0058;0;rascal knock upon your gate shrew;2;0.295592846233;0;shrew facts;4;0.310187315095;hultech-S-E-4A
+0058;0;shrew in house;3;0.326982481798;0;shrew in house;1;1.0;hultech-S-E-4A
+0058;0;shrew in house;3;0.326982481798;0;house shrew;2;0.907567287368;hultech-S-E-4A
+0058;0;shrew definition;4;0.203626198367;0;shrew definition;1;1.0;hultech-S-E-4A
+0058;0;shrew definition;4;0.203626198367;0;shrew control;2;0.258874349283;hultech-S-E-4A
+0058;0;killer shrews;5;0.545645470773;0;killer shrews;1;1.0;hultech-S-E-4A
+0059;0;radial symmetry;1;0.884573017245;0;radial symmetry;1;1.0;hultech-S-E-4A
+0059;0;radial symmetry;1;0.884573017245;0;rotational symmetry;2;0.919541971095;hultech-S-E-4A
+0059;0;radial symmetry;1;0.884573017245;0;symmetry worksheets;3;0.884573017245;hultech-S-E-4A
+0059;0;radial symmetry;1;0.884573017245;0;symmetry math;4;0.753046702865;hultech-S-E-4A
+0059;0;radial symmetry;1;0.884573017245;0;axis of symmetry;5;0.742673176317;hultech-S-E-4A
+0059;0;radial symmetry;1;0.884573017245;0;elementary symmetry;6;0.696504690294;hultech-S-E-4A
+0059;0;radial symmetry;1;0.884573017245;0;bilateral symmetry;7;0.69082146719;hultech-S-E-4A
+0059;0;radial symmetry;1;0.884573017245;0;lines of symmetry;8;0.629345475214;hultech-S-E-4A
+0059;0;symmetry definition;2;0.795307180438;0;symmetry definition;1;1.0;hultech-S-E-4A
+0059;0;symmetry definition;2;0.795307180438;0;symmetry definition for kids;2;0.814632862141;hultech-S-E-4A
+0059;0;symmetry definition;2;0.795307180438;0;examples of symmetry;3;0.688636238864;hultech-S-E-4A
+0059;0;symmetry definition;2;0.795307180438;0;symmetry in mathematics;4;0.643572975243;hultech-S-E-4A
+0059;0;symmetry definition;2;0.795307180438;0;types of symmetry;5;0.634184833064;hultech-S-E-4A
+0059;0;symmetry definition;2;0.795307180438;0;line of symmetry;6;0.614829157304;hultech-S-E-4A
+0059;0;symmetry partners;3;0.581932302587;0;symmetry partners;1;1.0;hultech-S-E-4A
+0059;0;symmetry games;4;0.505748693821;0;symmetry games;1;1.0;hultech-S-E-4A
+0059;0;symmetry medical;5;0.598751854711;0;symmetry medical;1;1.0;hultech-S-E-4A
+0060;0;all the presidents of the united states of america;1;0.987327488365;0;all the presidents of the united states of america;1;1.0;hultech-S-E-4A
+0060;0;all the presidents of the united states of america;1;0.987327488365;0;peaches by the presidents of the united states of america;2;0.973212701421;hultech-S-E-4A
+0060;0;all the presidents of the united states of america;1;0.987327488365;0;the presidents of the united states of america band;3;0.960358938993;hultech-S-E-4A
+0060;0;all the presidents of the united states of america;1;0.987327488365;0;list of the presidents of the united states of america;4;0.957308932316;hultech-S-E-4A
+0060;0;president united states america;2;0.8587923097;0;27th president united states america;1;1.0;hultech-S-E-4A
+0060;0;president united states america;2;0.8587923097;0;35th president united states america;2;1.0;hultech-S-E-4A
+0060;0;president united states america;2;0.8587923097;0;36th president united states america;3;1.0;hultech-S-E-4A
+0060;0;president united states america;2;0.8587923097;0;44th president united states america;4;1.0;hultech-S-E-4A
+0060;0;president united states america;2;0.8587923097;0;presidents united states america band;5;0.914555493988;hultech-S-E-4A
+0060;0;lyrics;3;-0.110666733684;0;pusa lyrics;1;1.0;hultech-S-E-4A
+0060;0;institute;4;0.145776640674;0;pusa institute;1;1.0;hultech-S-E-4A
+0060;0;presidents of the united states;5;0.955522671457;0;presidents of the united states;1;1.0;hultech-S-E-4A
+0060;0;presidents of the united states;5;0.955522671457;0;presidents of the united states list;2;0.92545135118;hultech-S-E-4A
+0061;0;windows xp;1;0.939536886312;0;windows xp;1;1.0;hultech-S-E-4A
+0061;0;windows xp;1;0.939536886312;0;milgard windows;2;0.939536886312;hultech-S-E-4A
+0061;0;windows xp;1;0.939536886312;0;windows 7;3;0.939536886312;hultech-S-E-4A
+0061;0;windows xp;1;0.939536886312;0;windows update;4;0.907744200758;hultech-S-E-4A
+0061;0;windows xp;1;0.939536886312;0;windows 7 upgrade;5;0.907123024839;hultech-S-E-4A
+0061;0;windows xp;1;0.939536886312;0;windows 8 upgrade;6;0.907123024839;hultech-S-E-4A
+0061;0;windows xp;1;0.939536886312;0;windows 7 download;7;0.871914855975;hultech-S-E-4A
+0061;0;windows xp;1;0.939536886312;0;replacement windows;8;0.865466853554;hultech-S-E-4A
+0061;0;windows xp;1;0.939536886312;0;oovoo for windows 8;9;0.862224595572;hultech-S-E-4A
+0061;0;windows xp;1;0.939536886312;0;itunes download windows 8;10;0.839656725289;hultech-S-E-4A
+0061;0;windows live;2;0.817237698619;0;windows live;1;1.0;hultech-S-E-4A
+0061;0;windows live;2;0.817237698619;0;windows live messenger;2;0.917900375152;hultech-S-E-4A
+0061;0;window replacement;3;0.467119358572;0;window replacement;1;1.0;hultech-S-E-4A
+0061;0;windows media player;4;0.754915150881;0;windows media player;1;1.0;hultech-S-E-4A
+0061;0;microsoft;5;0.758130035937;0;microsoft;1;1.0;hultech-S-E-4A
+0062;0;prophet isaiah;1;0.922185678853;0;prophet isaiah;1;1.0;hultech-S-E-4A
+0062;0;prophet isaiah;1;0.922185678853;0;prophet crysis;2;0.922185678853;hultech-S-E-4A
+0062;0;prophet isaiah;1;0.922185678853;0;biblical prophet;3;0.88739203157;hultech-S-E-4A
+0062;0;prophet isaiah;1;0.922185678853;0;prophets of god;4;0.750056542747;hultech-S-E-4A
+0062;0;prophet isaiah;1;0.922185678853;0;chuck prophet;5;0.724880534871;hultech-S-E-4A
+0062;0;prophet isaiah;1;0.922185678853;0;prophet film;6;0.710909779084;hultech-S-E-4A
+0062;0;prophet isaiah;1;0.922185678853;0;prophets of the bible;7;0.704566658844;hultech-S-E-4A
+0062;0;prophet isaiah;1;0.922185678853;0;definition of prophet;8;0.680630510355;hultech-S-E-4A
+0062;0;prophet isaiah;1;0.922185678853;0;prophet comic;9;0.65442337719;hultech-S-E-4A
+0062;0;prophet isaiah;1;0.922185678853;0;prophets of the old testament;10;0.630934206302;hultech-S-E-4A
+0062;0;prophet muhammad;2;0.905688648364;0;prophet muhammad;1;1.0;hultech-S-E-4A
+0062;0;prophet muhammad;2;0.905688648364;0;prophet yusuf;2;0.900714765207;hultech-S-E-4A
+0062;0;prophet muhammad;2;0.905688648364;0;prophet ibrahim;3;0.892903891742;hultech-S-E-4A
+0062;0;prophet muhammad;2;0.905688648364;0;prophet manasseh jordan;4;0.793625776541;hultech-S-E-4A
+0062;0;prophet muhammad;2;0.905688648364;0;prophet band;5;0.705038431076;hultech-S-E-4A
+0062;0;prophet todd hall;3;0.60361979322;0;prophet todd hall;1;1.0;hultech-S-E-4A
+0062;0;prophetic ministries;4;0.423664114929;0;prophetic ministries;1;1.0;hultech-S-E-4A
+0062;0;evangelist;5;0.368521783514;0;evangelist;1;1.0;hultech-S-E-4A
+0062;0;evangelist;5;0.368521783514;0;apostle;2;0.621943548579;hultech-S-E-4A
+0063;0;gold miner;1;0.920929388047;0;gold miner;1;1.0;hultech-S-E-4A
+0063;0;gold miner;1;0.920929388047;0;gold minecraft;2;0.920929388047;hultech-S-E-4A
+0063;0;gold miner;1;0.920929388047;0;gold britt nicole;3;0.887029889654;hultech-S-E-4A
+0063;0;gold miner;1;0.920929388047;0;gold rush;4;0.872121658822;hultech-S-E-4A
+0063;0;gold miner;1;0.920929388047;0;gold coins;5;0.807843935487;hultech-S-E-4A
+0063;0;gold miner;1;0.920929388047;0;black gold;6;0.800987861219;hultech-S-E-4A
+0063;0;gold miner;1;0.920929388047;0;white gold;7;0.788689586431;hultech-S-E-4A
+0063;0;gold miner;1;0.920929388047;0;gold vs platinum;8;0.749724400609;hultech-S-E-4A
+0063;0;gold miner;1;0.920929388047;0;gold facts;9;0.747694235275;hultech-S-E-4A
+0063;0;gold miner;1;0.920929388047;0;gold news;10;0.649288220415;hultech-S-E-4A
+0063;0;gold element;2;0.774876679813;0;gold element;1;1.0;hultech-S-E-4A
+0063;0;how much gold is worth;3;0.58182479798;0;how much gold is worth;1;1.0;hultech-S-E-4A
+0063;0;live gold prices;4;0.683067140833;0;live gold prices;1;1.0;hultech-S-E-4A
+0063;0;live gold prices;4;0.683067140833;0;gold prices;2;0.885896653955;hultech-S-E-4A
+0063;0;live gold prices;4;0.683067140833;0;current gold prices;3;0.843129272924;hultech-S-E-4A
+0063;0;live gold prices;4;0.683067140833;0;current gold and silver prices;4;0.817955579668;hultech-S-E-4A
+0063;0;live gold prices;4;0.683067140833;0;gold price today;5;0.781827498096;hultech-S-E-4A
+0063;0;live gold prices;4;0.683067140833;0;gold price chart;6;0.74135699626;hultech-S-E-4A
+0063;0;live gold prices;4;0.683067140833;0;closing price of gold today;7;0.72479674351;hultech-S-E-4A
+0063;0;live gold prices;4;0.683067140833;0;gold price per ounce;8;0.681885672378;hultech-S-E-4A
+0063;0;live gold prices;4;0.683067140833;0;current gold price per ounce;9;0.680641513112;hultech-S-E-4A
+0063;0;silver;5;0.795676579677;0;silver;1;1.0;hultech-S-E-4A
+0064;0;origami owl;1;0.966282271083;0;origami owl;1;1.0;hultech-S-E-4A
+0064;0;origami owl;1;0.966282271083;0;owl cengage;2;0.966282271083;hultech-S-E-4A
+0064;0;origami owl;1;0.966282271083;0;owl apa;3;0.841275507527;hultech-S-E-4A
+0064;0;origami owl;1;0.966282271083;0;owl tattoos;4;0.83961867395;hultech-S-E-4A
+0064;0;origami owl;1;0.966282271083;0;owl purdue;5;0.781546654155;hultech-S-E-4A
+0064;0;origami owl;1;0.966282271083;0;elf owl;6;0.760732049438;hultech-S-E-4A
+0064;0;origami owl;1;0.966282271083;0;rainbow owl;7;0.751981436196;hultech-S-E-4A
+0064;0;origami owl;1;0.966282271083;0;owl symbolism;8;0.732940245369;hultech-S-E-4A
+0064;0;origami owl;1;0.966282271083;0;long-eared owl;9;0.718583683229;hultech-S-E-4A
+0064;0;origami owl;1;0.966282271083;0;great horned owl;10;0.682403536641;hultech-S-E-4A
+0064;0;owl bird;2;0.821659599173;0;owl bird;1;1.0;hultech-S-E-4A
+0064;0;owl bird;2;0.821659599173;0;owl species;2;0.741707171143;hultech-S-E-4A
+0064;0;owl bird;2;0.821659599173;0;owl facts;3;0.63984083208;hultech-S-E-4A
+0064;0;owl bird;2;0.821659599173;0;owl pictures;4;0.578450015141;hultech-S-E-4A
+0064;0;all about owls;3;0.167334219134;0;all about owls;1;1.0;hultech-S-E-4A
+0064;0;owl chemistry;4;0.261984811199;0;owl chemistry;1;1.0;hultech-S-E-4A
+0064;0;owl city;5;0.607745776653;0;owl city;1;1.0;hultech-S-E-4A
+0065;0;adobe acrobat;1;0.9599455169;0;adobe acrobat;1;1.0;hultech-S-E-4A
+0065;0;adobe acrobat;1;0.9599455169;0;adobe shockwave;2;0.94676782692;hultech-S-E-4A
+0065;0;adobe acrobat;1;0.9599455169;0;adobe photoshop;3;0.935260269864;hultech-S-E-4A
+0065;0;adobe acrobat;1;0.9599455169;0;adobe acrobat reader 11;4;0.86094943827;hultech-S-E-4A
+0065;0;adobe acrobat;1;0.9599455169;0;adobe flash 10;5;0.8513450331;hultech-S-E-4A
+0065;0;adobe acrobat;1;0.9599455169;0;adobe illustrator;6;0.825844564989;hultech-S-E-4A
+0065;0;adobe acrobat;1;0.9599455169;0;adobe premiere;7;0.806334253334;hultech-S-E-4A
+0065;0;adobe acrobat;1;0.9599455169;0;adobe reader;8;0.782151359219;hultech-S-E-4A
+0065;0;adobe acrobat;1;0.9599455169;0;adobe reader 9;9;0.782151359219;hultech-S-E-4A
+0065;0;adobe update;2;0.847465215111;0;adobe update;1;1.0;hultech-S-E-4A
+0065;0;adobe update;2;0.847465215111;0;adobe download;2;0.841172831988;hultech-S-E-4A
+0065;0;adobe update;2;0.847465215111;0;free adobe reader download;3;0.713488855614;hultech-S-E-4A
+0065;0;adobe air;3;0.671178415701;0;adobe air;1;1.0;hultech-S-E-4A
+0065;0;java;4;0.410059465478;0;java;1;1.0;hultech-S-E-4A
+0065;0;adobe flash player;5;0.633961178235;0;adobe flash player;1;1.0;hultech-S-E-4A
+0065;0;adobe flash player;5;0.633961178235;0;adobe flash player free download;2;0.843218667398;hultech-S-E-4A
+0066;0;legend of;1;0.857246786977;0;legend of korra;1;1.0;hultech-S-E-4A
+0066;0;legend of;1;0.857246786977;0;legend of zelda;2;0.875403399464;hultech-S-E-4A
+0066;0;legend of;1;0.857246786977;0;legend of the seeker;3;0.868565422176;hultech-S-E-4A
+0066;0;legend of;1;0.857246786977;0;legend of sleepy hollow;4;0.822291768913;hultech-S-E-4A
+0066;0;legend of;1;0.857246786977;0;legend book;5;0.75094661333;hultech-S-E-4A
+0066;0;legend of;1;0.857246786977;0;legend thesaurus;6;0.749356340717;hultech-S-E-4A
+0066;0;legend of;1;0.857246786977;0;legend movie;7;0.723170786675;hultech-S-E-4A
+0066;0;legend of;1;0.857246786977;0;legend stories;8;0.700818847412;hultech-S-E-4A
+0066;0;legend of;1;0.857246786977;0;legend footwear;9;0.697932821132;hultech-S-E-4A
+0066;0;legend of;1;0.857246786977;0;legend definition;10;0.670473948555;hultech-S-E-4A
+0066;0;legend bob marley;2;0.689302135317;0;legend bob marley;1;1.0;hultech-S-E-4A
+0066;0;i am legend;3;0.491728623393;0;i am legend;1;1.0;hultech-S-E-4A
+0066;0;legends store;4;0.372182536976;0;legends store;1;1.0;hultech-S-E-4A
+0066;0;legends store;4;0.372182536976;0;legends restaurant;2;0.639424038243;hultech-S-E-4A
+0066;0;legends store;4;0.372182536976;0;texas legends;3;0.491750533046;hultech-S-E-4A
+0066;0;john legend;5;0.728577501323;0;john legend;1;1.0;hultech-S-E-4A
+0067;0;beijing subway;1;0.895968603357;0;beijing subway 2013;1;1.0;hultech-S-E-4A
+0067;0;beijing subway;1;0.895968603357;0;beijing subway station;2;0.911251056511;hultech-S-E-4A
+0067;0;beijing subway;1;0.895968603357;0;beijing metro;3;0.909325663816;hultech-S-E-4A
+0067;0;beijing subway;1;0.895968603357;0;beijing subway network;4;0.903554185686;hultech-S-E-4A
+0067;0;beijing subway;1;0.895968603357;0;beijing subway system;5;0.887047314179;hultech-S-E-4A
+0067;0;beijing subway;1;0.895968603357;0;beijing subway line 6;6;0.881780431124;hultech-S-E-4A
+0067;0;beijing subway;1;0.895968603357;0;beijing subway line 10;7;0.881780431124;hultech-S-E-4A
+0067;0;beijing subway;1;0.895968603357;0;beijing subway english;8;0.857692750362;hultech-S-E-4A
+0067;0;beijing subway;1;0.895968603357;0;beijing underground train;9;0.828408722869;hultech-S-E-4A
+0067;0;beijing subway;1;0.895968603357;0;beijing subway wiki;10;0.812279822542;hultech-S-E-4A
+0067;0;beijing metro guide;2;0.751978682395;0;beijing metro guide;1;1.0;hultech-S-E-4A
+0067;0;beijing metro guide;2;0.751978682395;0;beijing subway guide;2;0.946990858403;hultech-S-E-4A
+0067;0;new delhi metro;3;0.592256160097;0;new delhi metro;1;1.0;hultech-S-E-4A
+0067;0;beijing subway interactive map;4;0.671250876565;0;beijing subway interactive map;1;1.0;hultech-S-E-4A
+0067;0;beijing subway interactive map;4;0.671250876565;0;beijing subway map 2011;2;0.928871299092;hultech-S-E-4A
+0067;0;beijing subway interactive map;4;0.671250876565;0;beijing subway map;3;0.928871299092;hultech-S-E-4A
+0067;0;beijing subway interactive map;4;0.671250876565;0;beijing subway map 2013;4;0.928871299092;hultech-S-E-4A
+0067;0;beijing subway interactive map;4;0.671250876565;0;beijing metro map;5;0.880146395914;hultech-S-E-4A
+0067;0;beijing subway cost;5;0.778935091295;0;beijing subway cost;1;1.0;hultech-S-E-4A
+0068;0;ritz camera;1;0.913685539258;0;ritz camera;1;1.0;hultech-S-E-4A
+0068;0;ritz camera;1;0.913685539258;0;gopro camera;2;0.913685539258;hultech-S-E-4A
+0068;0;ritz camera;1;0.913685539258;0;nikon camera;3;0.913685539258;hultech-S-E-4A
+0068;0;ritz camera;1;0.913685539258;0;camera argos;4;0.826500754732;hultech-S-E-4A
+0068;0;ritz camera;1;0.913685539258;0;camera warehouse;5;0.789947804121;hultech-S-E-4A
+0068;0;ritz camera;1;0.913685539258;0;camera shop;6;0.779621937626;hultech-S-E-4A
+0068;0;ritz camera;1;0.913685539258;0;olympus digital camera;7;0.760672248956;hultech-S-E-4A
+0068;0;ritz camera;1;0.913685539258;0;digital camera;8;0.759067084049;hultech-S-E-4A
+0068;0;ritz camera;1;0.913685539258;0;wolf camera;9;0.723986347091;hultech-S-E-4A
+0068;0;ritz camera;1;0.913685539258;0;sony digital camera;10;0.721292797913;hultech-S-E-4A
+0068;0;online camera;2;0.643691035256;0;online camera;1;1.0;hultech-S-E-4A
+0068;0;online camera;2;0.643691035256;0;canon digital camera;2;0.59889556348;hultech-S-E-4A
+0068;0;cameras;3;0.644029430985;0;nikon cameras;1;1.0;hultech-S-E-4A
+0068;0;cameras;3;0.644029430985;0;spy cameras;2;0.790945131142;hultech-S-E-4A
+0068;0;cameras;3;0.644029430985;0;surveillance cameras;3;0.760776841169;hultech-S-E-4A
+0068;0;cameras;3;0.644029430985;0;best digital cameras;4;0.735871501814;hultech-S-E-4A
+0068;0;camera exchange;4;0.622343593226;0;camera exchange;1;1.0;hultech-S-E-4A
+0068;0;cyber monday camera deals;5;0.580860009559;0;cyber monday camera deals;1;1.0;hultech-S-E-4A
+0069;0;rz free dvd burner;1;0.965771315483;0;rz free dvd burner;1;1.0;hultech-S-E-4A
+0069;0;rz free dvd burner;1;0.965771315483;0;free dvd ripper;2;0.925073931041;hultech-S-E-4A
+0069;0;rz free dvd burner;1;0.965771315483;0;free avi to dvd burner;3;0.912663239173;hultech-S-E-4A
+0069;0;rz free dvd burner;1;0.965771315483;0;free dvd burner downloads;4;0.911945238811;hultech-S-E-4A
+0069;0;rz free dvd burner;1;0.965771315483;0;free dvd burner download;5;0.908863470755;hultech-S-E-4A
+0069;0;rz free dvd burner;1;0.965771315483;0;free nero dvd burner;6;0.900825221417;hultech-S-E-4A
+0069;0;rz free dvd burner;1;0.965771315483;0;free dvd video burner;7;0.887362808971;hultech-S-E-4A
+0069;0;rz free dvd burner;1;0.965771315483;0;free dvd burner trial;8;0.881824280239;hultech-S-E-4A
+0069;0;rz free dvd burner;1;0.965771315483;0;free trial dvd burner;9;0.881824280239;hultech-S-E-4A
+0069;0;rz free dvd burner;1;0.965771315483;0;free dvd burner program;10;0.876474196849;hultech-S-E-4A
+0069;0;free dvd burning software;2;0.85604928374;0;free dvd burning software;1;1.0;hultech-S-E-4A
+0069;0;free dvd burning software;2;0.85604928374;0;free dvd burner software download;2;0.916737174015;hultech-S-E-4A
+0069;0;free dvd burning software;2;0.85604928374;0;best free dvd burner software;3;0.889348053811;hultech-S-E-4A
+0069;0;free dvd burning software;2;0.85604928374;0;ree dvd burner software;4;0.852030556601;hultech-S-E-4A
+0069;0;free dvd burning software;2;0.85604928374;0;windows dvd burner free downloads;5;0.818972449095;hultech-S-E-4A
+0069;0;burn free dvd movies;3;0.841657246938;0;burn free dvd movies;1;1.0;hultech-S-E-4A
+0069;0;burner free;4;0.746070972446;0;roxio cd/dvd burner free;1;1.0;hultech-S-E-4A
+0069;0;burner free;4;0.746070972446;0;free cd/dvd burner downloads;2;0.873244192454;hultech-S-E-4A
+0069;0;dvd burning freeware;5;0.799697259845;0;dvd burning freeware;1;1.0;hultech-S-E-4A
+0070;0;lost season torrent;1;0.988367130934;0;lost season 5 torrent;1;1.0;hultech-S-E-4A
+0070;0;lost season torrent;1;0.988367130934;0;lost season 6;2;0.988367130934;hultech-S-E-4A
+0070;0;lost season torrent;1;0.988367130934;0;lost season 7;3;0.988367130934;hultech-S-E-4A
+0070;0;lost season torrent;1;0.988367130934;0;lost season 5 subtitles;4;0.960974405074;hultech-S-E-4A
+0070;0;lost season torrent;1;0.988367130934;0;lost season finale;5;0.948404170334;hultech-S-E-4A
+0070;0;lost season torrent;1;0.988367130934;0;lost season 5 premiere;6;0.933481420544;hultech-S-E-4A
+0070;0;lost season torrent;1;0.988367130934;0;lost season 5 cast;7;0.906087102065;hultech-S-E-4A
+0070;0;lost season torrent;1;0.988367130934;0;watch lost season 5;8;0.892419124013;hultech-S-E-4A
+0070;0;lost season torrent;1;0.988367130934;0;lost season 5 episode 1;9;0.888870652564;hultech-S-E-4A
+0070;0;lost season torrent;1;0.988367130934;0;lost season 5 episode 14;10;0.888870652564;hultech-S-E-4A
+0070;0;lost season online;2;0.827969532007;0;lost season 5 online;1;1.0;hultech-S-E-4A
+0070;0;lost season online;2;0.827969532007;0;watch lost season 5 online;2;0.939283295523;hultech-S-E-4A
+0070;0;lost season online;2;0.827969532007;0;lost season 5 download;3;0.830194573084;hultech-S-E-4A
+0070;0;lost season episode list;3;0.760628238765;0;lost season 5 episode list;1;1.0;hultech-S-E-4A
+0070;0;watch lost season online for free;4;0.616587711531;0;watch lost season 5 online for free;1;1.0;hultech-S-E-4A
+0070;0;watch lost season online for free;4;0.616587711531;0;watch lost season 5 online free;2;0.975171317713;hultech-S-E-4A
+0070;0;lost season explained;5;0.895568533244;0;lost season 5 explained;1;1.0;hultech-S-E-4A
+0071;0;recycle mobile phones;1;0.998471381723;0;recycle mobile phones;1;1.0;hultech-S-E-4A
+0071;0;recycle mobile phones;1;0.998471381723;0;mobile phones $0.00 younevercall;2;0.998471381723;hultech-S-E-4A
+0071;0;recycle mobile phones;1;0.998471381723;0;samsung mobile phones;3;0.989547029377;hultech-S-E-4A
+0071;0;recycle mobile phones;1;0.998471381723;0;mobile phones argos;4;0.976907766059;hultech-S-E-4A
+0071;0;recycle mobile phones;1;0.998471381723;0;boost mobile phones;5;0.965781609514;hultech-S-E-4A
+0071;0;recycle mobile phones;1;0.998471381723;0;compare mobile phones;6;0.96336686323;hultech-S-E-4A
+0071;0;recycle mobile phones;1;0.998471381723;0;latest mobile phones;7;0.952808736117;hultech-S-E-4A
+0071;0;recycle mobile phones;1;0.998471381723;0;contract mobile phones;8;0.920568290104;hultech-S-E-4A
+0071;0;recycle mobile phones;1;0.998471381723;0;selling mobile phones;9;0.916902349989;hultech-S-E-4A
+0071;0;recycle mobile phones;1;0.998471381723;0;mobile phones for sale;10;0.913612711678;hultech-S-E-4A
+0071;0;mobile phones in india;2;0.886334824126;0;mobile phones in india;1;1.0;hultech-S-E-4A
+0071;0;mobile phones in india;2;0.886334824126;0;mobile phones in india 2013;2;1.0;hultech-S-E-4A
+0071;0;mobile phone reviews;3;0.866791653733;0;mobile phone reviews;1;1.0;hultech-S-E-4A
+0071;0;t mobile phones;4;0.874495635086;0;t-mobile phones;1;1.0;hultech-S-E-4A
+0071;0;t mobile phones;4;0.874495635086;0;wirefly t-mobile phones;2;1.0;hultech-S-E-4A
+0071;0;t mobile phones;4;0.874495635086;0;younevercall t-mobile phones;3;1.0;hultech-S-E-4A
+0071;0;samsung usb driver for mobile phones;5;0.859488039837;0;samsung usb driver for mobile phones;1;1.0;hultech-S-E-4A
+0072;0;latest programming languages;1;0.952772905531;0;latest programming languages;1;1.0;hultech-S-E-4A
+0072;0;latest programming languages;1;0.952772905531;0;latest programming language;2;0.953807755339;hultech-S-E-4A
+0072;0;latest programming languages;1;0.952772905531;0;programming languages comparison;3;0.934083964492;hultech-S-E-4A
+0072;0;latest programming languages;1;0.952772905531;0;computer programming languages;4;0.907249768265;hultech-S-E-4A
+0072;0;latest programming languages;1;0.952772905531;0;programming languages for kids;5;0.901005387552;hultech-S-E-4A
+0072;0;latest programming languages;1;0.952772905531;0;web programming languages;6;0.89777106238;hultech-S-E-4A
+0072;0;latest programming languages;1;0.952772905531;0;new programming languages;7;0.895937127744;hultech-S-E-4A
+0072;0;latest programming languages;1;0.952772905531;0;popular programming languages;8;0.89535614723;hultech-S-E-4A
+0072;0;latest programming languages;1;0.952772905531;0;java programming language;9;0.88954871203;hultech-S-E-4A
+0072;0;latest programming languages;1;0.952772905531;0;history of programming languages;10;0.874413302186;hultech-S-E-4A
+0072;0;different programming languages;2;0.934974373852;0;different programming languages;1;1.0;hultech-S-E-4A
+0072;0;different programming languages;2;0.934974373852;0;types of programming languages;2;0.926515608243;hultech-S-E-4A
+0072;0;different programming languages;2;0.934974373852;0;list of programming languages;3;0.827578787424;hultech-S-E-4A
+0072;0;most used programming languages;3;0.885465573125;0;most used programming languages;1;1.0;hultech-S-E-4A
+0072;0;most used programming languages;3;0.885465573125;0;most popular programming languages;2;0.922020301323;hultech-S-E-4A
+0072;0;most used programming languages;3;0.885465573125;0;most popular programming language;3;0.875796690355;hultech-S-E-4A
+0072;0;basic computer programming;4;0.720856970941;0;basic computer programming langua…;1;1.0;hultech-S-E-4A
+0072;0;event driven programming languages;5;0.879737666342;0;event driven programming languages;1;1.0;hultech-S-E-4A
+0073;0;laura tom cruise;1;0.920215962443;0;laura prepon tom cruise;1;1.0;hultech-S-E-4A
+0073;0;laura tom cruise;1;0.920215962443;0;tom cruise girlfriend;2;0.928998663154;hultech-S-E-4A
+0073;0;laura tom cruise;1;0.920215962443;0;tom cruise and nicole kidman;3;0.926590373019;hultech-S-E-4A
+0073;0;laura tom cruise;1;0.920215962443;0;tom cruise swatted;4;0.920215962443;hultech-S-E-4A
+0073;0;laura tom cruise;1;0.920215962443;0;tom cruise katie holmes;5;0.889826187757;hultech-S-E-4A
+0073;0;laura tom cruise;1;0.920215962443;0;tom cruise divorce katie 2012;6;0.864779510943;hultech-S-E-4A
+0073;0;laura tom cruise;1;0.920215962443;0;tom cruise divorce;7;0.842846075892;hultech-S-E-4A
+0073;0;laura tom cruise;1;0.920215962443;0;tom cruise children;8;0.820321589876;hultech-S-E-4A
+0073;0;laura tom cruise;1;0.920215962443;0;tom cruise katie holmes split;9;0.814058188176;hultech-S-E-4A
+0073;0;laura tom cruise;1;0.920215962443;0;tom cruise accident;10;0.8101014737;hultech-S-E-4A
+0073;0;tom cruise top gun;2;0.804577369964;0;tom cruise top gun 2;1;1.0;hultech-S-E-4A
+0073;0;tom cruise top gun;2;0.804577369964;0;tom cruise height;2;0.76128250653;hultech-S-E-4A
+0073;0;tom cruise top gun;2;0.804577369964;0;how tall is tom cruise;3;0.682763017375;hultech-S-E-4A
+0073;0;tom cruise top gun;2;0.804577369964;0;tom cruise films list;4;0.629145314782;hultech-S-E-4A
+0073;0;tom cruise net worth;3;0.667344430723;0;tom cruise net worth;1;1.0;hultech-S-E-4A
+0073;0;katie holmes;4;0.255017576587;0;katie holmes;1;1.0;hultech-S-E-4A
+0073;0;tom cruise didn t expect divorce;5;0.46480505235;0;tom cruise didn't expect divorce;1;1.0;hultech-S-E-4A
+0074;0;top games ign;1;0.994877067521;0;top ipad games ign;1;1.0;hultech-S-E-4A
+0074;0;top games ign;1;0.994877067521;0;top ipad games 2012;2;0.994877067521;hultech-S-E-4A
+0074;0;top games ign;1;0.994877067521;0;top ipad games 2013;3;0.994877067521;hultech-S-E-4A
+0074;0;top games ign;1;0.994877067521;0;top ipad games apps;4;0.968498066235;hultech-S-E-4A
+0074;0;top games ign;1;0.994877067521;0;top ipad games rpg;5;0.945964390602;hultech-S-E-4A
+0074;0;top games ign;1;0.994877067521;0;top ipad games for toddlers;6;0.926663887697;hultech-S-E-4A
+0074;0;top games ign;1;0.994877067521;0;top ipad games for kids;7;0.889524632865;hultech-S-E-4A
+0074;0;top games ign;1;0.994877067521;0;top ipad games paid;8;0.885523760441;hultech-S-E-4A
+0074;0;top games ign;1;0.994877067521;0;top ipad game apps;9;0.877952611419;hultech-S-E-4A
+0074;0;top games ign;1;0.994877067521;0;top free ipad games;10;0.870787176754;hultech-S-E-4A
+0074;0;top apps;2;0.678178615696;0;top iphone apps;1;1.0;hultech-S-E-4A
+0074;0;top apps;2;0.678178615696;0;top ipad apps;2;1.0;hultech-S-E-4A
+0074;0;great games;3;0.691676839113;0;great ipad games;1;1.0;hultech-S-E-4A
+0074;0;wallpapers;4;0.0687842534714;0;ipad wallpapers;1;1.0;hultech-S-E-4A
+0074;0;top games september;5;0.876440068843;0;top ipad games september 2012;1;1.0;hultech-S-E-4A
+0075;0;casio watches;1;0.901583142431;0;casio watches;1;1.0;hultech-S-E-4A
+0075;0;casio watches;1;0.901583142431;0;armani watches;2;0.901583142431;hultech-S-E-4A
+0075;0;casio watches;1;0.901583142431;0;invicta watches;3;0.901583142431;hultech-S-E-4A
+0075;0;casio watches;1;0.901583142431;0;rolex watches;4;0.901583142431;hultech-S-E-4A
+0075;0;casio watches;1;0.901583142431;0;seiko watches;5;0.901583142431;hultech-S-E-4A
+0075;0;casio watches;1;0.901583142431;0;swatch watches;6;0.901583142431;hultech-S-E-4A
+0075;0;casio watches;1;0.901583142431;0;mens watches;7;0.824249104115;hultech-S-E-4A
+0075;0;casio watches;1;0.901583142431;0;replica watches;8;0.698952972087;hultech-S-E-4A
+0075;0;casio watches;1;0.901583142431;0;argos watches;9;0.6761862948;hultech-S-E-4A
+0075;0;casio watches;1;0.901583142431;0;brands of watches;10;0.604844399157;hultech-S-E-4A
+0075;0;ladies watches;2;0.699404751926;0;ladies watches;1;1.0;hultech-S-E-4A
+0075;0;ladies watches;2;0.699404751926;0;watches for men;2;0.383114705014;hultech-S-E-4A
+0075;0;ladies watches;2;0.699404751926;0;citizen watches;3;0.371685600761;hultech-S-E-4A
+0075;0;ladies watches;2;0.699404751926;0;michael kors watches;4;0.347181012662;hultech-S-E-4A
+0075;0;military watches;3;0.27290983699;0;military watches;1;1.0;hultech-S-E-4A
+0075;0;omega watches;4;0.312478445457;0;omega watches;1;1.0;hultech-S-E-4A
+0075;0;fossil watches;5;0.284663948511;0;fossil watches;1;1.0;hultech-S-E-4A
+0076;0;thai speciality;1;0.950716248367;0;thai speciality;1;1.0;hultech-S-E-4A
+0076;0;thai speciality;1;0.950716248367;0;aloi thai specialties;2;0.950716248367;hultech-S-E-4A
+0076;0;thai speciality;1;0.950716248367;0;thai specialties brea;3;0.950716248367;hultech-S-E-4A
+0076;0;thai speciality;1;0.950716248367;0;thai specialty 2 tustin;4;0.923181167198;hultech-S-E-4A
+0076;0;thai speciality;1;0.950716248367;0;thai specialty brea;5;0.923181167198;hultech-S-E-4A
+0076;0;thai speciality;1;0.950716248367;0;thai specialty brea coupon;6;0.904347668878;hultech-S-E-4A
+0076;0;thai speciality;1;0.950716248367;0;thai food tustin;7;0.829209097304;hultech-S-E-4A
+0076;0;thai speciality;1;0.950716248367;0;thai specialty menu;8;0.82888391287;hultech-S-E-4A
+0076;0;thai speciality;1;0.950716248367;0;thai food specialties;9;0.823355106589;hultech-S-E-4A
+0076;0;thai speciality;1;0.950716248367;0;thai specialties brea ca;10;0.80213889361;hultech-S-E-4A
+0076;0;thai specialties backgrounds;2;0.931595438089;0;thai specialties backgrounds;1;1.0;hultech-S-E-4A
+0076;0;thai specialties backgrounds;2;0.931595438089;0;thai specialties menu;2;0.860201005008;hultech-S-E-4A
+0076;0;thai food santa ana ca;3;0.464593079662;0;thai food santa ana ca;1;1.0;hultech-S-E-4A
+0076;0;thai specialties soy sauce;4;0.693188007039;0;thai specialties soy sauce;1;1.0;hultech-S-E-4A
+0076;0;thai specialties soy sauce;4;0.693188007039;0;thai specialties chili sauce;2;0.964176171064;hultech-S-E-4A
+0076;0;thai specialties soy sauce;4;0.693188007039;0;thai specialties shrimp skewers;3;0.886732299693;hultech-S-E-4A
+0076;0;thai specialties soy sauce;4;0.693188007039;0;thai specialties jasmine rice;4;0.860699641543;hultech-S-E-4A
+0076;0;thai specialty hacienda heights;5;0.725067543273;0;thai specialty hacienda heights;1;1.0;hultech-S-E-4A
+0076;0;thai specialty hacienda heights;5;0.725067543273;0;thai food in rowland heights;2;0.83981405569;hultech-S-E-4A
+0077;0;scientific american frontiers;1;0.929192050363;0;scientific american frontiers;1;1.0;hultech-S-E-4A
+0077;0;scientific american frontiers;1;0.929192050363;0;scientific american ipad;2;0.929192050363;hultech-S-E-4A
+0077;0;scientific american frontiers;1;0.929192050363;0;scientific american subscription;3;0.854804601219;hultech-S-E-4A
+0077;0;scientific american frontiers;1;0.929192050363;0;scientific american jobs;4;0.824678887639;hultech-S-E-4A
+0077;0;scientific american frontiers;1;0.929192050363;0;scientific american mind;5;0.803345903277;hultech-S-E-4A
+0077;0;scientific american frontiers;1;0.929192050363;0;scientific american mind ipad;6;0.803345903277;hultech-S-E-4A
+0077;0;scientific american frontiers;1;0.929192050363;0;scientific american archives;7;0.789322960262;hultech-S-E-4A
+0077;0;scientific american frontiers;1;0.929192050363;0;scientific american articles;8;0.777253047194;hultech-S-E-4A
+0077;0;scientific american frontiers;1;0.929192050363;0;scientific american library;9;0.752673920848;hultech-S-E-4A
+0077;0;scientific american frontiers;1;0.929192050363;0;scientific american download;10;0.713820018195;hultech-S-E-4A
+0077;0;american scientist vs scientific american;2;0.859207617341;0;american scientist vs scientific american;1;1.0;hultech-S-E-4A
+0077;0;american scientist vs scientific american;2;0.859207617341;0;scientific american magazine;2;0.797449715254;hultech-S-E-4A
+0077;0;american scientist vs scientific american;2;0.859207617341;0;scientific american mind uk;3;0.735145952418;hultech-S-E-4A
+0077;0;american scientist vs scientific american;2;0.859207617341;0;scientific american book club;4;0.724862352115;hultech-S-E-4A
+0077;0;popular science;3;0.341059227381;0;popular science;1;1.0;hultech-S-E-4A
+0077;0;popular science;3;0.341059227381;0;science news;2;0.632396265259;hultech-S-E-4A
+0077;0;national geographic;4;0.213859919749;0;national geographic;1;1.0;hultech-S-E-4A
+0077;0;discover magazine;5;0.221276092245;0;discover magazine;1;1.0;hultech-S-E-4A
+0078;0;persian cat grooming;1;0.977322047297;0;persian cat grooming;1;1.0;hultech-S-E-4A
+0078;0;persian cat grooming;1;0.977322047297;0;persian cat breeders;2;0.972637433027;hultech-S-E-4A
+0078;0;persian cat grooming;1;0.977322047297;0;persian cat breed;3;0.92633774133;hultech-S-E-4A
+0078;0;persian cat grooming;1;0.977322047297;0;persian cat rescue;4;0.901764970089;hultech-S-E-4A
+0078;0;persian cat grooming;1;0.977322047297;0;persian cat adoption;5;0.895534932259;hultech-S-E-4A
+0078;0;persian cat grooming;1;0.977322047297;0;persian cat personality;6;0.878753544331;hultech-S-E-4A
+0078;0;persian cat grooming;1;0.977322047297;0;persian cat names;7;0.874649008158;hultech-S-E-4A
+0078;0;persian cat grooming;1;0.977322047297;0;persian cat sale;8;0.87170493634;hultech-S-E-4A
+0078;0;persian cat grooming;1;0.977322047297;0;persian cat pictures;9;0.845771597715;hultech-S-E-4A
+0078;0;persian cat grooming;1;0.977322047297;0;persian cat care;10;0.843287678885;hultech-S-E-4A
+0078;0;persian kittens;2;0.794539060285;0;teacup persian kittens;1;1.0;hultech-S-E-4A
+0078;0;persian kittens;2;0.794539060285;0;persian cats for adoption;2;0.698969735379;hultech-S-E-4A
+0078;0;siamese cat;3;0.629278906422;0;siamese cat;1;1.0;hultech-S-E-4A
+0078;0;persian cats health problems;4;0.502462720609;0;persian cats health problems;1;1.0;hultech-S-E-4A
+0078;0;himalayan cats;5;0.357797001136;0;himalayan cats;1;1.0;hultech-S-E-4A
+0079;0;bathtub liners;1;0.908703075259;0;bathtub liners;1;1.0;hultech-S-E-4A
+0079;0;bathtub liners;1;0.908703075259;0;bathtub faucets;2;0.908703075259;hultech-S-E-4A
+0079;0;bathtub liners;1;0.908703075259;0;bathtub refinishing;3;0.908703075259;hultech-S-E-4A
+0079;0;bathtub liners;1;0.908703075259;0;bathtub reglazing;4;0.908703075259;hultech-S-E-4A
+0079;0;bathtub liners;1;0.908703075259;0;bathtub repair;5;0.640277905999;hultech-S-E-4A
+0079;0;bathtub liners;1;0.908703075259;0;bathtub drain;6;0.620350517971;hultech-S-E-4A
+0079;0;bathtub liners;1;0.908703075259;0;soaking tubs;7;0.595761632464;hultech-S-E-4A
+0079;0;bathtub liners;1;0.908703075259;0;bathtub replacement;8;0.528224580365;hultech-S-E-4A
+0079;0;bathtub liners;1;0.908703075259;0;portable bathtub;9;0.481510592928;hultech-S-E-4A
+0079;0;bathtub liners;1;0.908703075259;0;shower;10;0.463667017906;hultech-S-E-4A
+0079;0;archimedes bathtub;2;0.701780150262;0;archimedes bathtub;1;1.0;hultech-S-E-4A
+0079;0;beasts of the southern wild;3;0.00884418426507;0;beasts of the southern wild;1;1.0;hultech-S-E-4A
+0079;0;beasts of the southern wild;3;0.00884418426507;0;home depot;2;0.168541912841;hultech-S-E-4A
+0079;0;beasts of the southern wild;3;0.00884418426507;0;kohler cast iron bathtubs;3;0.133193467906;hultech-S-E-4A
+0079;0;kohler;4;0.180245704745;0;kohler bathtubs;1;1.0;hultech-S-E-4A
+0079;0;kohler;4;0.180245704745;0;bathtub admiral;2;0.313808875602;hultech-S-E-4A
+0079;0;standard bathtub size;5;0.261255013314;0;standard bathtub size;1;1.0;hultech-S-E-4A
+0080;0;wedding ring quilt;1;0.989988844539;0;wedding ring quilt;1;1.0;hultech-S-E-4A
+0080;0;wedding ring quilt;1;0.989988844539;0;beyonce wedding ring;2;0.989988844539;hultech-S-E-4A
+0080;0;wedding ring quilt;1;0.989988844539;0;wedding ring argos;3;0.952341490967;hultech-S-E-4A
+0080;0;wedding ring quilt;1;0.989988844539;0;wedding ring tattoos;4;0.949680762283;hultech-S-E-4A
+0080;0;wedding ring quilt;1;0.989988844539;0;palladium wedding ring;5;0.91641092059;hultech-S-E-4A
+0080;0;wedding ring quilt;1;0.989988844539;0;wedding ring finger;6;0.901012350657;hultech-S-E-4A
+0080;0;wedding ring quilt;1;0.989988844539;0;diamond wedding ring;7;0.868799814354;hultech-S-E-4A
+0080;0;wedding ring quilt;1;0.989988844539;0;wedding ring designs;8;0.851563032374;hultech-S-E-4A
+0080;0;wedding ring quilt;1;0.989988844539;0;wedding ring pictures;9;0.845733845159;hultech-S-E-4A
+0080;0;wedding ring quilt;1;0.989988844539;0;wedding ring men;10;0.844530751847;hultech-S-E-4A
+0080;0;wedding ring sets;2;0.864739618708;0;wedding ring sets;1;1.0;hultech-S-E-4A
+0080;0;wedding ring sets;2;0.864739618708;0;wedding rings sets;2;0.839910588885;hultech-S-E-4A
+0080;0;wedding ring sets;2;0.864739618708;0;vintage wedding sets;3;0.730883320313;hultech-S-E-4A
+0080;0;kay jewelers;3;0.067486511505;0;kay jewelers;1;1.0;hultech-S-E-4A
+0080;0;make your own wedding ring;4;0.623417375566;0;make your own wedding ring;1;1.0;hultech-S-E-4A
+0080;0;vintage engagement rings;5;0.430663299093;0;vintage engagement rings;1;1.0;hultech-S-E-4A
+0080;0;vintage engagement rings;5;0.430663299093;0;engagement and wedding rings;2;0.783978581409;hultech-S-E-4A
+0081;0;samsung refrigerators;1;0.889278746635;0;samsung refrigerators;1;1.0;hultech-S-E-4A
+0081;0;samsung refrigerators;1;0.889278746635;0;samsung cashback;2;0.889278746635;hultech-S-E-4A
+0081;0;samsung refrigerators;1;0.889278746635;0;samsung es8000;3;0.889278746635;hultech-S-E-4A
+0081;0;samsung refrigerators;1;0.889278746635;0;samsung kies;4;0.889278746635;hultech-S-E-4A
+0081;0;samsung refrigerators;1;0.889278746635;0;samsung s3;5;0.889278746635;hultech-S-E-4A
+0081;0;samsung refrigerators;1;0.889278746635;0;samsung appliances;6;0.842113831144;hultech-S-E-4A
+0081;0;samsung refrigerators;1;0.889278746635;0;samsung apps;7;0.821483132077;hultech-S-E-4A
+0081;0;samsung refrigerators;1;0.889278746635;0;samsung electronics;8;0.712693306501;hultech-S-E-4A
+0081;0;samsung refrigerators;1;0.889278746635;0;samsung tablet;9;0.701725970408;hultech-S-E-4A
+0081;0;samsung refrigerators;1;0.889278746635;0;samsung dive;10;0.6718393135;hultech-S-E-4A
+0081;0;samsung led tv;2;0.296052260714;0;samsung led tv;1;1.0;hultech-S-E-4A
+0081;0;samsung led tv;2;0.296052260714;0;samsung tv;2;0.836446408164;hultech-S-E-4A
+0081;0;samsung malaysia;3;0.378457666788;0;samsung malaysia;1;1.0;hultech-S-E-4A
+0081;0;best buy;4;-0.0139967934555;0;best buy;1;1.0;hultech-S-E-4A
+0081;0;samsung galaxy tablet;5;0.411929937734;0;samsung galaxy tablet;1;1.0;hultech-S-E-4A
+0081;0;samsung galaxy tablet;5;0.411929937734;0;samsung galaxy s3;2;0.929782810072;hultech-S-E-4A
+0081;0;samsung galaxy tablet;5;0.411929937734;0;samsung galaxy s4 2013;3;0.929782810072;hultech-S-E-4A
+0081;0;samsung galaxy tablet;5;0.411929937734;0;samsung galaxy tab;4;0.913488050756;hultech-S-E-4A
+0081;0;samsung galaxy tablet;5;0.411929937734;0;samsung galaxy note;5;0.782145583423;hultech-S-E-4A
+0082;0;the hunger games trailer;1;0.958958780121;0;the hunger games trailer;1;1.0;hultech-S-E-4A
+0082;0;the hunger games trailer;1;0.958958780121;0;the hunger games catching fire trailer;2;0.89827334404;hultech-S-E-4A
+0082;0;the hunger games trailer;1;0.958958780121;0;the hunger games movie;3;0.896903940097;hultech-S-E-4A
+0082;0;the hunger games trailer;1;0.958958780121;0;the hunger games cast;4;0.889913450214;hultech-S-E-4A
+0082;0;the hunger games trailer;1;0.958958780121;0;the hunger games film;5;0.874306874429;hultech-S-E-4A
+0082;0;the hunger games trailer;1;0.958958780121;0;the hunger games catching fire;6;0.874091355667;hultech-S-E-4A
+0082;0;the hunger games trailer;1;0.958958780121;0;the hunger games trilogy;7;0.859352528438;hultech-S-E-4A
+0082;0;the hunger games trailer;1;0.958958780121;0;hunger games characters;8;0.829358267834;hultech-S-E-4A
+0082;0;the hunger games trailer;1;0.958958780121;0;hunger games movie sequels;9;0.829107709845;hultech-S-E-4A
+0082;0;the hunger games review;2;0.838434645518;0;the hunger games review;1;1.0;hultech-S-E-4A
+0082;0;the hunger games review;2;0.838434645518;0;the hunger games watch online;2;0.798701176824;hultech-S-E-4A
+0082;0;the hunger games review;2;0.838434645518;0;watch the hunger games online;3;0.798701176824;hultech-S-E-4A
+0082;0;the hunger games book;3;0.867527479733;0;the hunger games book;1;1.0;hultech-S-E-4A
+0082;0;hunger games trilogy box set;4;0.675784556354;0;hunger games trilogy box set;1;1.0;hultech-S-E-4A
+0082;0;the hunger games wiki;5;0.755417575309;0;the hunger games wiki;1;1.0;hultech-S-E-4A
+0083;0;harry potter premiere;1;0.961555420406;0;harry potter premiere 2013;1;1.0;hultech-S-E-4A
+0083;0;harry potter premiere;1;0.961555420406;0;harry potter 7;2;0.961555420406;hultech-S-E-4A
+0083;0;harry potter premiere;1;0.961555420406;0;harry potter quiz;3;0.945977300347;hultech-S-E-4A
+0083;0;harry potter premiere;1;0.961555420406;0;harry potter cast;4;0.923214054792;hultech-S-E-4A
+0083;0;harry potter premiere;1;0.961555420406;0;harry potter imdb;5;0.920820474771;hultech-S-E-4A
+0083;0;harry potter premiere;1;0.961555420406;0;harry potter movie;6;0.920028111531;hultech-S-E-4A
+0083;0;harry potter premiere;1;0.961555420406;0;harry potter spells;7;0.91531801318;hultech-S-E-4A
+0083;0;harry potter premiere;1;0.961555420406;0;harry potter characters;8;0.897401694798;hultech-S-E-4A
+0083;0;harry potter premiere;1;0.961555420406;0;lego harry potter;9;0.895186225672;hultech-S-E-4A
+0083;0;harry potter premiere;1;0.961555420406;0;harry potter and the deathly hallows;10;0.892990419114;hultech-S-E-4A
+0083;0;harry potter and the half blood prince;2;0.690645209993;0;harry potter and the half blood prince;1;1.0;hultech-S-E-4A
+0083;0;emma watson;3;0.296208440028;0;emma watson;1;1.0;hultech-S-E-4A
+0083;0;harry potter games;4;0.867877923391;0;harry potter games;1;1.0;hultech-S-E-4A
+0083;0;daniel radcliffe;5;0.417737670451;0;daniel radcliffe;1;1.0;hultech-S-E-4A
+0084;0;weeks pregnant and;1;0.966558095871;0;21 weeks pregnant and cramping;1;1.0;hultech-S-E-4A
+0084;0;weeks pregnant and;1;0.966558095871;0;21 weeks pregnant with twins;2;0.865480580343;hultech-S-E-4A
+0084;0;weeks pregnant and;1;0.966558095871;0;miscarriage at 21 weeks pregnant;3;0.861059673938;hultech-S-E-4A
+0084;0;weeks pregnant and;1;0.966558095871;0;21 weeks pregnant how many months;4;0.843700552628;hultech-S-E-4A
+0084;0;weeks pregnant and;1;0.966558095871;0;21 weeks pregnant pictures;5;0.834795161352;hultech-S-E-4A
+0084;0;weeks pregnant and;1;0.966558095871;0;21 weeks pregnant fetal movement;6;0.81705576097;hultech-S-E-4A
+0084;0;weeks pregnant and;1;0.966558095871;0;21 weeks pregnant pictures of baby;7;0.788172941165;hultech-S-E-4A
+0084;0;weeks pregnant and;1;0.966558095871;0;21 weeks pregnant video;8;0.781630705928;hultech-S-E-4A
+0084;0;weeks pregnant and;1;0.966558095871;0;21 weeks pregnant no movement;9;0.770669227223;hultech-S-E-4A
+0084;0;weeks pregnant and;1;0.966558095871;0;21 weeks pregnant weight gain;10;0.754083641875;hultech-S-E-4A
+0084;0;weeks pregnant belly;2;0.938118456334;0;21 weeks pregnant belly;1;1.0;hultech-S-E-4A
+0084;0;weeks pregnant belly;2;0.938118456334;0;21 weeks pregnant ultrasound;2;0.912582074235;hultech-S-E-4A
+0084;0;sixth month of pregnancy;3;0.452016967843;0;sixth month of pregnancy;1;1.0;hultech-S-E-4A
+0084;0;sixth month of pregnancy;3;0.452016967843;0;pregnancy week 21 weight gain;2;0.571942976336;hultech-S-E-4A
+0084;0;weeks pregnancy image;4;0.590925322839;0;21 weeks pregnancy image 3d;1;1.0;hultech-S-E-4A
+0084;0;week old fetus;5;0.452089354591;0;21 week old fetus;1;1.0;hultech-S-E-4A
+0085;0;zip windows;1;0.0;0;7-zip windows 8;1;1.0;hultech-S-E-4A
+0085;0;zip windows;1;0.0;0;windows 7 zip;2;1.0;hultech-S-E-4A
+0085;0;zip windows;1;0.0;0;windows 7 zip files;3;0.950050630962;hultech-S-E-4A
+0085;0;zip windows;1;0.0;0;7 zip mac;4;0.840663719582;hultech-S-E-4A
+0085;0;zip windows;1;0.0;0;7-zip for mac;5;0.804162856453;hultech-S-E-4A
+0085;0;zip windows;1;0.0;0;7zip download mac;6;0.752842328876;hultech-S-E-4A
+0085;0;zip windows;1;0.0;0;7-zip portable download free;7;0.734524812755;hultech-S-E-4A
+0085;0;zip windows;1;0.0;0;7zip mac;8;0.686354538921;hultech-S-E-4A
+0085;0;zip windows;1;0.0;0;7 zip free download;9;0.662497081165;hultech-S-E-4A
+0085;0;zip windows;1;0.0;0;7zip portable;10;0.615538585053;hultech-S-E-4A
+0085;0;review;2;0.0;0;7zip review;1;1.0;hultech-S-E-4A
+0085;0;command line;3;0.0;0;7zip command line;1;1.0;hultech-S-E-4A
+0085;0;command line;3;0.0;0;7zip command line examples;2;0.894773158169;hultech-S-E-4A
+0085;0;command line;3;0.0;0;7zip extract command line;3;0.88762177774;hultech-S-E-4A
+0085;0;vs;4;0.0;0;jzip vs 7zip;1;1.0;hultech-S-E-4A
+0085;0;zip extractor;5;0.0;0;7 zip extractor;1;1.0;hultech-S-E-4A
+0085;0;zip extractor;5;0.0;0;7 zip freeware;2;0.857386558505;hultech-S-E-4A
+0085;0;zip extractor;5;0.0;0;7-zip tutorial;3;0.819441962488;hultech-S-E-4A
+0085;0;zip extractor;5;0.0;0;7 zip file;4;0.815339870438;hultech-S-E-4A
+0085;0;zip extractor;5;0.0;0;7-zip download;5;0.779917885725;hultech-S-E-4A
+0085;0;zip extractor;5;0.0;0;is 7 zip safe;6;0.66262605003;hultech-S-E-4A
+0085;0;zip extractor;5;0.0;0;7-zip reviews;7;0.656807392006;hultech-S-E-4A
+0086;0;appendix pain symptoms nhs;1;0.986238571401;0;appendix pain symptoms nhs;1;1.0;hultech-S-E-4A
+0086;0;appendix pain symptoms nhs;1;0.986238571401;0;appendix pain symptoms of appendicitis;2;0.963452046944;hultech-S-E-4A
+0086;0;appendix pain symptoms nhs;1;0.986238571401;0;appendix pain symptoms treatment;3;0.951788797677;hultech-S-E-4A
+0086;0;appendix pain symptoms nhs;1;0.986238571401;0;appendix pain symptoms appendix pain location;4;0.945284551966;hultech-S-E-4A
+0086;0;appendix pain symptoms nhs;1;0.986238571401;0;appendix pain symptoms in teenagers;5;0.941464567796;hultech-S-E-4A
+0086;0;appendix pain symptoms nhs;1;0.986238571401;0;gallbladder pain symptoms;6;0.939961284888;hultech-S-E-4A
+0086;0;appendix pain symptoms nhs;1;0.986238571401;0;appendix pain symptoms in adults;7;0.919426445909;hultech-S-E-4A
+0086;0;appendix pain symptoms nhs;1;0.986238571401;0;appendix pain symptoms mayo;8;0.917311479479;hultech-S-E-4A
+0086;0;appendix pain symptoms nhs;1;0.986238571401;0;appendix location appendix pain symptoms;9;0.91445661951;hultech-S-E-4A
+0086;0;appendix pain symptoms nhs;1;0.986238571401;0;liver pain symptoms;10;0.896871994612;hultech-S-E-4A
+0086;0;appendix pain symptoms how long;2;0.894533590478;0;appendix pain symptoms how long;1;1.0;hultech-S-E-4A
+0086;0;appendix location;3;0.19926587168;0;appendix location;1;1.0;hultech-S-E-4A
+0086;0;lower left abdominal pain;4;0.57158063272;0;lower left abdominal pain;1;1.0;hultech-S-E-4A
+0086;0;lower left abdominal pain;4;0.57158063272;0;pain on left side of abdomen;2;0.78917687226;hultech-S-E-4A
+0086;0;symptoms of mild appendicitis;5;0.775885840616;0;symptoms of mild appendicitis;1;1.0;hultech-S-E-4A
+0087;0;brad paisley lyrics ticks;1;0.994569736225;0;brad paisley lyrics ticks;1;1.0;hultech-S-E-4A
+0087;0;brad paisley lyrics ticks;1;0.994569736225;0;brad paisley lyrics then;2;0.942026995784;hultech-S-E-4A
+0087;0;brad paisley lyrics ticks;1;0.994569736225;0;then brad paisley lyrics;3;0.942026995784;hultech-S-E-4A
+0087;0;brad paisley lyrics ticks;1;0.994569736225;0;brad paisley songs;4;0.897685749334;hultech-S-E-4A
+0087;0;brad paisley lyrics ticks;1;0.994569736225;0;brad paisley videos;5;0.870862257529;hultech-S-E-4A
+0087;0;brad paisley lyrics ticks;1;0.994569736225;0;brad paisley lyrics little moments;6;0.85989404068;hultech-S-E-4A
+0087;0;brad paisley lyrics ticks;1;0.994569736225;0;brad paisley;7;0.821815438465;hultech-S-E-4A
+0087;0;brad paisley lyrics ticks;1;0.994569736225;0;brad paisley lyrics alcohol;8;0.802399489086;hultech-S-E-4A
+0087;0;brad paisley lyrics ticks;1;0.994569736225;0;brad paisley and carrie underwood;9;0.778987824895;hultech-S-E-4A
+0087;0;brad paisley lyrics ticks;1;0.994569736225;0;brad paisley lyrics those crazy christians;10;0.776887332771;hultech-S-E-4A
+0087;0;brad paisley song lyrics;2;0.932796102145;0;brad paisley song lyrics;1;1.0;hultech-S-E-4A
+0087;0;brad paisley song lyrics;2;0.932796102145;0;brad paisley love songs;2;0.862196431015;hultech-S-E-4A
+0087;0;brad paisley song lyrics;2;0.932796102145;0;toby keith lyrics;3;0.859970522219;hultech-S-E-4A
+0087;0;brad paisley song lyrics;2;0.932796102145;0;brad paisley lyrics - remind me;4;0.856155613095;hultech-S-E-4A
+0087;0;brad paisley song lyrics;2;0.932796102145;0;remind me brad paisley lyrics;5;0.856155613095;hultech-S-E-4A
+0087;0;brad paisley song lyrics;2;0.932796102145;0;brad paisley lyrics she's everything;6;0.790216458186;hultech-S-E-4A
+0087;0;brad paisley song lyrics;2;0.932796102145;0;she's everything brad paisley lyrics;7;0.790216458186;hultech-S-E-4A
+0087;0;brad paisley lyrics to he didn t have to be;3;0.458149587516;0;brad paisley lyrics to he didn't have to be;1;1.0;hultech-S-E-4A
+0087;0;brad paisley lyrics to he didn t have to be;3;0.458149587516;0;brad paisley lyrics when i get where i'm going;2;0.629221077352;hultech-S-E-4A
+0087;0;brad paisley song list;4;0.647701827649;0;brad paisley song list;1;1.0;hultech-S-E-4A
+0087;0;brad paisley song list;4;0.647701827649;0;brad paisley lyrics list;2;0.927075556132;hultech-S-E-4A
+0087;0;tim mcgraw lyrics;5;0.7302001924;0;tim mcgraw lyrics;1;1.0;hultech-S-E-4A
+0088;0;back page phoenix;1;0.528787793561;0;back page phoenix;1;1.0;hultech-S-E-4A
+0088;0;back page phoenix;1;0.528787793561;0;craigslist phoenix boats;2;0.482938664279;hultech-S-E-4A
+0088;0;back page phoenix;1;0.528787793561;0;craigslist phoenix cars;3;0.474727473895;hultech-S-E-4A
+0088;0;back page phoenix;1;0.528787793561;0;craigslist phoenix auto parts;4;0.427082751472;hultech-S-E-4A
+0088;0;back page phoenix;1;0.528787793561;0;craigslist phoenix cars by owner;5;0.417183970887;hultech-S-E-4A
+0088;0;prescott;2;0.261941684947;0;craigslist prescott;1;1.0;hultech-S-E-4A
+0088;0;prescott;2;0.261941684947;0;craigslist tucson;2;0.563990131099;hultech-S-E-4A
+0088;0;phoenix free;3;0.471984799154;0;craigslist phoenix free;1;1.0;hultech-S-E-4A
+0088;0;phoenix free;3;0.471984799154;0;craigslist phoenix phoenix;2;0.687600134747;hultech-S-E-4A
+0088;0;phoenix free;3;0.471984799154;0;craigslist phoenix scottsdale;3;0.670739724273;hultech-S-E-4A
+0088;0;phoenix free;3;0.471984799154;0;craigslist phoenix tools;4;0.649652586353;hultech-S-E-4A
+0088;0;phoenix free;3;0.471984799154;0;craigslist phoenix arizona;5;0.603180909067;hultech-S-E-4A
+0088;0;phoenix free;3;0.471984799154;0;craigslist phoenix furniture;6;0.557826348786;hultech-S-E-4A
+0088;0;phoenix free;3;0.471984799154;0;craigslist phoenix az;7;0.521863626183;hultech-S-E-4A
+0088;0;phoenix free;3;0.471984799154;0;craigslist phoenix motorcycles;8;0.520352240579;hultech-S-E-4A
+0088;0;phoenix free;3;0.471984799154;0;backpage phoenix classified;9;0.473111606975;hultech-S-E-4A
+0088;0;phoenix free;3;0.471984799154;0;craigslist phoenix electronics;10;0.449714252291;hultech-S-E-4A
+0088;0;las vegas;4;0.135094123079;0;craigslist las vegas;1;1.0;hultech-S-E-4A
+0088;0;las vegas;4;0.135094123079;0;craigslist portland;2;0.430481920112;hultech-S-E-4A
+0088;0;las vegas;4;0.135094123079;0;craigslist los angeles;3;0.330908947558;hultech-S-E-4A
+0088;0;flagstaff;5;0.160456223369;0;craigslist flagstaff;1;1.0;hultech-S-E-4A
+0089;0;nutrition guide;1;0.97738071372;0;hardee nutrition guide;1;1.0;hultech-S-E-4A
+0089;0;nutrition guide;1;0.97738071372;0;applebee's nutrition guide;2;0.911950178722;hultech-S-E-4A
+0089;0;nutrition guide;1;0.97738071372;0;arby's nutrition guide;3;0.911950178722;hultech-S-E-4A
+0089;0;nutrition guide;1;0.97738071372;0;mcdonalds nutrition guide breakfast;4;0.896138227828;hultech-S-E-4A
+0089;0;nutrition guide;1;0.97738071372;0;hardee's nutrition guide calories;5;0.891626902203;hultech-S-E-4A
+0089;0;nutrition guide;1;0.97738071372;0;mcdonald's nutrition guide hardee's nutrition guide;6;0.883824762925;hultech-S-E-4A
+0089;0;nutrition guide;1;0.97738071372;0;taco bell nutrition guide;7;0.823691299176;hultech-S-E-4A
+0089;0;nutrition guide;1;0.97738071372;0;mcdonald's nutrition guide calories;8;0.822577501791;hultech-S-E-4A
+0089;0;nutrition guide;1;0.97738071372;0;mcdonald's nutrition guide foods;9;0.800365968817;hultech-S-E-4A
+0089;0;nutrition guide;1;0.97738071372;0;mcdonald's nutrition guide fast food;10;0.763017020914;hultech-S-E-4A
+0089;0;calories mcdonalds;2;0.305915472228;0;calories mcdonalds;1;1.0;hultech-S-E-4A
+0089;0;calories mcdonalds;2;0.305915472228;0;mcdonalds calories chart;2;0.588409404496;hultech-S-E-4A
+0089;0;mcdonald s nutrition list;3;0.458930632667;0;mcdonald's nutrition list;1;1.0;hultech-S-E-4A
+0089;0;mcdonald s nutrition list;3;0.458930632667;0;mcdonalds calories list;2;0.794160682679;hultech-S-E-4A
+0089;0;mcdonald s nutrition list;3;0.458930632667;0;mcdonald's nutrition information;3;0.704037884728;hultech-S-E-4A
+0089;0;mcdonald s nutrition list;3;0.458930632667;0;wendy's nutrition;4;0.595157948486;hultech-S-E-4A
+0089;0;mcdonald s nutrition list;3;0.458930632667;0;mcdonald's nutrition print out;5;0.589630510247;hultech-S-E-4A
+0089;0;mcdonald s nutrition list;3;0.458930632667;0;mcdonald's nutrition calculator;6;0.572886139246;hultech-S-E-4A
+0089;0;mcdonald s nutrition list;3;0.458930632667;0;mcdonald nutrition facts;7;0.538959565881;hultech-S-E-4A
+0089;0;burger king nutrition guide;4;0.805817949388;0;burger king nutrition guide;1;1.0;hultech-S-E-4A
+0089;0;nutritional values mcdonalds;5;0.334949233438;0;nutritional values mcdonalds;1;1.0;hultech-S-E-4A
+0089;0;nutritional values mcdonalds;5;0.334949233438;0;mcdonalds nutrition table;2;0.535362753318;hultech-S-E-4A
+0090;0;art festival gala;1;0.981271174692;0;sausalito art festival gala;1;1.0;hultech-S-E-4A
+0090;0;art festival gala;1;0.981271174692;0;sausalito art festival 2006;2;0.981271174692;hultech-S-E-4A
+0090;0;art festival gala;1;0.981271174692;0;sausalito art festival 2013;3;0.981271174692;hultech-S-E-4A
+0090;0;art festival gala;1;0.981271174692;0;sausalito art festival sausalito;4;0.981271174692;hultech-S-E-4A
+0090;0;art festival gala;1;0.981271174692;0;sausalito art festival ticketss;5;0.981271174692;hultech-S-E-4A
+0090;0;art festival gala;1;0.981271174692;0;sausalito art festival posters;6;0.954295528255;hultech-S-E-4A
+0090;0;art festival gala;1;0.981271174692;0;sausalito art festival poster;7;0.949701586452;hultech-S-E-4A
+0090;0;art festival gala;1;0.981271174692;0;sausalito art festival tickets;8;0.935658340053;hultech-S-E-4A
+0090;0;art festival gala;1;0.981271174692;0;sausalito art festival entertainment;9;0.905423860489;hultech-S-E-4A
+0090;0;art festival gala;1;0.981271174692;0;sausalito art festival scholarship;10;0.905383362787;hultech-S-E-4A
+0090;0;art festival artists;2;0.923518802943;0;sausalito art festival 2011 artists;1;1.0;hultech-S-E-4A
+0090;0;art festival artists;2;0.923518802943;0;sausalito art festival 2012 artists;2;1.0;hultech-S-E-4A
+0090;0;art festival artists;2;0.923518802943;0;sausalito restaurants;3;0.344933437077;hultech-S-E-4A
+0090;0;ca;3;0.161271696444;0;sausalito ca;1;1.0;hultech-S-E-4A
+0090;0;ferry;4;0.0558929246558;0;sausalito ferry;1;1.0;hultech-S-E-4A
+0090;0;ferry;4;0.0558929246558;0;sausalito ferry schedule;2;0.682362150154;hultech-S-E-4A
+0090;0;chamber of commerce;5;0.256754570692;0;sausalito chamber of commerce;1;1.0;hultech-S-E-4A
+0091;0;tennessee unemployment benefits;1;0.915531984548;0;tennessee unemployment benefits;1;1.0;hultech-S-E-4A
+0091;0;tennessee unemployment benefits;1;0.915531984548;0;tennessee unemployment insurance;2;0.904481942227;hultech-S-E-4A
+0091;0;tennessee unemployment benefits;1;0.915531984548;0;tennessee unemployment benefits calculator;3;0.900764378677;hultech-S-E-4A
+0091;0;tennessee unemployment benefits;1;0.915531984548;0;tennessee unemployment tax;4;0.880514839247;hultech-S-E-4A
+0091;0;tennessee unemployment benefits;1;0.915531984548;0;tennessee emergency unemployment;5;0.850581943946;hultech-S-E-4A
+0091;0;tennessee unemployment benefits;1;0.915531984548;0;tennessee unemployment claim;6;0.837754546784;hultech-S-E-4A
+0091;0;tennessee unemployment benefits;1;0.915531984548;0;tennessee unemployment information;7;0.820817285506;hultech-S-E-4A
+0091;0;tennessee unemployment benefits;1;0.915531984548;0;tennessee unemployment office;8;0.81844487069;hultech-S-E-4A
+0091;0;tennessee unemployment benefits;1;0.915531984548;0;tennessee unemployment extension;9;0.816841605979;hultech-S-E-4A
+0091;0;tennessee unemployment benefits;1;0.915531984548;0;tennessee unemployment extension 2013;10;0.816841605979;hultech-S-E-4A
+0091;0;state of tennessee unemployment;2;0.850268573972;0;state of tennessee unemployment;1;1.0;hultech-S-E-4A
+0091;0;tennessee jobs;3;0.634252236599;0;tennessee jobs;1;1.0;hultech-S-E-4A
+0091;0;tennessee unemployment rate;4;0.860396286459;0;tennessee unemployment rate;1;1.0;hultech-S-E-4A
+0091;0;tennessee unemployment rate;4;0.860396286459;0;tennessee unemployment rate 2013;2;1.0;hultech-S-E-4A
+0091;0;tennessee unemployment rate;4;0.860396286459;0;tennessee unemployment rates;3;0.921038690222;hultech-S-E-4A
+0091;0;unemployment benefits;5;0.636616625543;0;unemployment benefits;1;1.0;hultech-S-E-4A
+0092;0;women s shoe sizes conversion;1;0.948813284618;0;women's shoe sizes conversion;1;1.0;hultech-S-E-4A
+0092;0;women s shoe sizes conversion;1;0.948813284618;0;men's shoe sizes conversion women's;2;0.929270900225;hultech-S-E-4A
+0092;0;women s shoe sizes conversion;1;0.948813284618;0;uk men's shoe sizes conversion;3;0.869232723746;hultech-S-E-4A
+0092;0;women s shoe sizes conversion;1;0.948813284618;0;size 10 men's shoes conversion;4;0.798912941576;hultech-S-E-4A
+0092;0;women s shoe sizes conversion;1;0.948813284618;0;international men's shoe sizes conversion chart;5;0.794597332698;hultech-S-E-4A
+0092;0;women s shoe sizes conversion;1;0.948813284618;0;men women shoe size converter;6;0.758058798377;hultech-S-E-4A
+0092;0;women s shoe sizes conversion;1;0.948813284618;0;european shoe size conversion men;7;0.732487376681;hultech-S-E-4A
+0092;0;women s shoe sizes conversion;1;0.948813284618;0;man woman shoe size conversion;8;0.642021580669;hultech-S-E-4A
+0092;0;men size to us;2;0.582699083003;0;men size 43 to us;1;1.0;hultech-S-E-4A
+0092;0;men size to us;2;0.582699083003;0;men size 42 in us;2;0.915737013243;hultech-S-E-4A
+0092;0;men size to us;2;0.582699083003;0;size 9 men in europe;3;0.706377143704;hultech-S-E-4A
+0092;0;men size to us;2;0.582699083003;0;eu 41 shoe size to australian;4;0.628312130262;hultech-S-E-4A
+0092;0;mens shoe sizes widths;3;0.627288832557;0;mens shoe sizes widths;1;1.0;hultech-S-E-4A
+0092;0;mens shoe sizes widths;3;0.627288832557;0;boys shoe sizes;2;0.713735702293;hultech-S-E-4A
+0092;0;men shoe chart;4;0.567564440302;0;men shoe chart;1;1.0;hultech-S-E-4A
+0092;0;men shoe chart;4;0.567564440302;0;mens shoe size chart;2;0.721144704992;hultech-S-E-4A
+0092;0;men shoe chart;4;0.567564440302;0;euro shoe size chart;3;0.61619626373;hultech-S-E-4A
+0092;0;size;5;0.445960849507;0;size 10 44;1;1.0;hultech-S-E-4A
+0092;0;size;5;0.445960849507;0;size 9 shoes conversion;2;0.764981131653;hultech-S-E-4A
+0092;0;size;5;0.445960849507;0;size 42 mens shoes;3;0.718576987673;hultech-S-E-4A
+0092;0;size;5;0.445960849507;0;convert shoe size;4;0.646012091584;hultech-S-E-4A
+0092;0;size;5;0.445960849507;0;male shoe size converter;5;0.567178819345;hultech-S-E-4A
+0093;0;barack obama biography;1;0.982865339382;0;barack obama biography;1;1.0;hultech-S-E-4A
+0093;0;barack obama biography;1;0.982865339382;0;obama biography youtube;2;0.982865339382;hultech-S-E-4A
+0093;0;barack obama biography;1;0.982865339382;0;romney biography;3;0.957987412489;hultech-S-E-4A
+0093;0;barack obama biography;1;0.982865339382;0;mitt romney biography;4;0.953440119462;hultech-S-E-4A
+0093;0;barack obama biography;1;0.982865339382;0;sasha obama biography;5;0.948689965379;hultech-S-E-4A
+0093;0;barack obama biography;1;0.982865339382;0;michelle obama biography;6;0.928723882124;hultech-S-E-4A
+0093;0;barack obama biography;1;0.982865339382;0;senator barack obama biography;7;0.862205203703;hultech-S-E-4A
+0093;0;barack obama biography;1;0.982865339382;0;obama biography pdf;8;0.824539723859;hultech-S-E-4A
+0093;0;barack obama biography;1;0.982865339382;0;obama biography movie;9;0.821835055376;hultech-S-E-4A
+0093;0;barack obama biography;1;0.982865339382;0;obama biography for kids;10;0.806325905004;hultech-S-E-4A
+0093;0;obama biography book;2;0.871133963773;0;obama biography book;1;1.0;hultech-S-E-4A
+0093;0;obama biography book;2;0.871133963773;0;barack obama biography book;2;0.989421250155;hultech-S-E-4A
+0093;0;obama is still a muslim;3;0.0163582062887;0;obama is still a muslim;1;1.0;hultech-S-E-4A
+0093;0;obama pictures;4;0.413725511225;0;obama pictures;1;1.0;hultech-S-E-4A
+0093;0;obama jokes;5;0.167068650772;0;obama jokes;1;1.0;hultech-S-E-4A
+0094;0;causes of obesity ppt;1;0.946024506434;0;causes of obesity ppt;1;1.0;hultech-S-E-4A
+0094;0;causes of obesity ppt;1;0.946024506434;0;10 causes of obesity;2;0.946024506434;hultech-S-E-4A
+0094;0;causes of obesity ppt;1;0.946024506434;0;causes of obesity in teenagers;3;0.847980299186;hultech-S-E-4A
+0094;0;causes of obesity ppt;1;0.946024506434;0;causes of childhood obesity;4;0.836958715861;hultech-S-E-4A
+0094;0;causes of obesity ppt;1;0.946024506434;0;causes of obesity in adults;5;0.83606225666;hultech-S-E-4A
+0094;0;causes of obesity ppt;1;0.946024506434;0;causes of obesity in dogs;6;0.826989174951;hultech-S-E-4A
+0094;0;causes of obesity ppt;1;0.946024506434;0;major causes of obesity;7;0.803277991144;hultech-S-E-4A
+0094;0;causes of obesity ppt;1;0.946024506434;0;causes of obesity in children;8;0.771555750767;hultech-S-E-4A
+0094;0;causes of obesity ppt;1;0.946024506434;0;main causes of obesity;9;0.755008914216;hultech-S-E-4A
+0094;0;causes of obesity ppt;1;0.946024506434;0;causes of obesity in america;10;0.712566231626;hultech-S-E-4A
+0094;0;psychological causes of obesity;2;0.913660927933;0;psychological causes of obesity;1;1.0;hultech-S-E-4A
+0094;0;psychological causes of obesity;2;0.913660927933;0;genetic causes of obesity;2;0.850834898121;hultech-S-E-4A
+0094;0;psychological causes of obesity;2;0.913660927933;0;symptoms of obesity;3;0.827896852331;hultech-S-E-4A
+0094;0;psychological causes of obesity;2;0.913660927933;0;factors of obesity;4;0.80574553408;hultech-S-E-4A
+0094;0;psychological causes of obesity;2;0.913660927933;0;effects of obesity;5;0.791301759017;hultech-S-E-4A
+0094;0;psychological causes of obesity;2;0.913660927933;0;treatment of obesity;6;0.778764006542;hultech-S-E-4A
+0094;0;psychological causes of obesity;2;0.913660927933;0;health effects of obesity;7;0.769353620848;hultech-S-E-4A
+0094;0;what is obesity;3;0.520122929101;0;what is obesity;1;1.0;hultech-S-E-4A
+0094;0;list causes of obesity;4;0.736355448081;0;list causes of obesity;1;1.0;hultech-S-E-4A
+0094;0;obesity symptom checker;5;0.567261772993;0;obesity symptom checker;1;1.0;hultech-S-E-4A
+0094;0;obesity symptom checker;5;0.567261772993;0;obesity;2;0.80030459694;hultech-S-E-4A
+0095;0;what is a natural number example;1;0.958421016764;0;what is a natural number example;1;1.0;hultech-S-E-4A
+0095;0;what is a natural number example;1;0.958421016764;0;what is a natural number elements;2;0.917494814693;hultech-S-E-4A
+0095;0;what is a natural number example;1;0.958421016764;0;what is a natural number in math;3;0.904163026979;hultech-S-E-4A
+0095;0;what is a natural number example;1;0.958421016764;0;what is a natural number for kids;4;0.894244936152;hultech-S-E-4A
+0095;0;what is a natural number example;1;0.958421016764;0;is 0 a natural number;5;0.880959749966;hultech-S-E-4A
+0095;0;what is a natural number example;1;0.958421016764;0;is 3.7 a natural number;6;0.880959749966;hultech-S-E-4A
+0095;0;what is a natural number example;1;0.958421016764;0;what is a composite number;7;0.837725377705;hultech-S-E-4A
+0095;0;what is a natural number example;1;0.958421016764;0;what is a whole number;8;0.836318532287;hultech-S-E-4A
+0095;0;what is a natural number example;1;0.958421016764;0;whats a natural number;9;0.818594906538;hultech-S-E-4A
+0095;0;what is a natural number example;1;0.958421016764;0;what is a rational number;10;0.818562604638;hultech-S-E-4A
+0095;0;what is a natural number mathematics;2;0.906683307309;0;what is a natural number mathematics;1;1.0;hultech-S-E-4A
+0095;0;what is a natural number mathematics;2;0.906683307309;0;what is a natural number algebra;2;0.889741383254;hultech-S-E-4A
+0095;0;what is a natural number mathematics;2;0.906683307309;0;what is a natural number in algebra;3;0.885857996418;hultech-S-E-4A
+0095;0;what is a natural number mathematics;2;0.906683307309;0;natural number definition;4;0.724439307507;hultech-S-E-4A
+0095;0;examples of rational numbers;3;0.490095018363;0;examples of rational numbers;1;1.0;hultech-S-E-4A
+0095;0;what is a natural number yahoo;4;0.848437790738;0;what is a natural number yahoo;1;1.0;hultech-S-E-4A
+0095;0;what is a natural number yahoo;4;0.848437790738;0;what is a natural number yahoo answers;2;0.953933568556;hultech-S-E-4A
+0095;0;what is an integer;5;0.646227715715;0;what is an integer;1;1.0;hultech-S-E-4A
+0095;0;what is an integer;5;0.646227715715;0;what is a integer;2;0.924842430411;hultech-S-E-4A
+0095;0;what is an integer;5;0.646227715715;0;what is a integer number;3;0.875541749794;hultech-S-E-4A
+0095;0;what is an integer;5;0.646227715715;0;what is an irrational number;4;0.843532549184;hultech-S-E-4A
+0096;0;treating yellow teeth;1;0.920554732222;0;treating yellow teeth;1;1.0;hultech-S-E-4A
+0096;0;treating yellow teeth;1;0.920554732222;0;yellow teeth 1;2;0.918062583615;hultech-S-E-4A
+0096;0;treating yellow teeth;1;0.920554732222;0;causes yellow teeth;3;0.896676913391;hultech-S-E-4A
+0096;0;treating yellow teeth;1;0.920554732222;0;yellow teeth causes;4;0.896676913391;hultech-S-E-4A
+0096;0;treating yellow teeth;1;0.920554732222;0;teeth naturally yellow;5;0.88425774404;hultech-S-E-4A
+0096;0;treating yellow teeth;1;0.920554732222;0;causes of yellow teeth;6;0.855698671893;hultech-S-E-4A
+0096;0;treating yellow teeth;1;0.920554732222;0;causes for yellow teeth;7;0.854992642343;hultech-S-E-4A
+0096;0;treating yellow teeth;1;0.920554732222;0;yellow tooth;8;0.848161969272;hultech-S-E-4A
+0096;0;treating yellow teeth;1;0.920554732222;0;turn yellow teeth white;9;0.832825146223;hultech-S-E-4A
+0096;0;treating yellow teeth;1;0.920554732222;0;yellow teeth jokes;10;0.828973449845;hultech-S-E-4A
+0096;0;yellow teeth treatment home remedies;2;0.903186625425;0;yellow teeth treatment home remedies;1;1.0;hultech-S-E-4A
+0096;0;yellow teeth treatment home remedies;2;0.903186625425;0;yellow teeth home remedies;2;0.911907764767;hultech-S-E-4A
+0096;0;yellow teeth treatment home remedies;2;0.903186625425;0;home remedies yellow teeth;3;0.911907764767;hultech-S-E-4A
+0096;0;how to get rid of yellow teeth;3;0.585459988257;0;how to get rid of yellow teeth;1;1.0;hultech-S-E-4A
+0096;0;how to get rid of yellow teeth;3;0.585459988257;0;get rid yellow teeth;2;0.884121948804;hultech-S-E-4A
+0096;0;how to get rid of yellow teeth;3;0.585459988257;0;how to cure yellow teeth;3;0.864058443524;hultech-S-E-4A
+0096;0;brown teeth;4;0.642416755571;0;brown teeth;1;1.0;hultech-S-E-4A
+0096;0;home treatment for yellow teeth;5;0.869922107403;0;home treatment for yellow teeth;1;1.0;hultech-S-E-4A
+0096;0;home treatment for yellow teeth;5;0.869922107403;0;help for yellow teeth;2;0.848935803528;hultech-S-E-4A
+0097;0;treatment;1;0.976669068515;0;hyperopia treatment;1;1.0;hultech-S-E-4A
+0097;0;treatment;1;0.976669068515;0;myopia treatment 2013;2;0.976669068515;hultech-S-E-4A
+0097;0;treatment;1;0.976669068515;0;myopia treatment lasik;3;0.976669068515;hultech-S-E-4A
+0097;0;treatment;1;0.976669068515;0;astigmatism treatment;4;0.940420179952;hultech-S-E-4A
+0097;0;treatment;1;0.976669068515;0;degenerative myopia treatment;5;0.924164952656;hultech-S-E-4A
+0097;0;treatment;1;0.976669068515;0;pathological myopia treatment;6;0.881799101256;hultech-S-E-4A
+0097;0;treatment;1;0.976669068515;0;myopia treatment options;7;0.850962288091;hultech-S-E-4A
+0097;0;treatment;1;0.976669068515;0;myopia treatment in ayurveda;8;0.831280390795;hultech-S-E-4A
+0097;0;treatment;1;0.976669068515;0;myopia treatment home remedies;9;0.817209319179;hultech-S-E-4A
+0097;0;treatment;1;0.976669068515;0;eye myopia treatment;10;0.801339204669;hultech-S-E-4A
+0097;0;myopia;2;0.432124438946;0;myopia;1;1.0;hultech-S-E-4A
+0097;0;myopia;2;0.432124438946;0;myopia causes;2;0.456053502942;hultech-S-E-4A
+0097;0;can myopia be reversed;3;0.224704541395;0;can myopia be reversed;1;1.0;hultech-S-E-4A
+0097;0;cure myopia in one day;4;0.30527168552;0;cure myopia in one day;1;1.0;hultech-S-E-4A
+0097;0;myopia surgery options;5;0.662167023519;0;myopia surgery options;1;1.0;hultech-S-E-4A
+0097;0;myopia surgery options;5;0.662167023519;0;surgery for myopia;2;0.791980633185;hultech-S-E-4A
+0098;0;how to find my router ip address;1;0.987655641569;0;how to find my router ip address;1;1.0;hultech-S-E-4A
+0098;0;how to find my router ip address;1;0.987655641569;0;how to find my ip address using cmd;2;0.983141663689;hultech-S-E-4A
+0098;0;how to find my router ip address;1;0.987655641569;0;how to find your ip address;3;0.970816788636;hultech-S-E-4A
+0098;0;how to find my router ip address;1;0.987655641569;0;how to find my ip address on ipad;4;0.964245781907;hultech-S-E-4A
+0098;0;how to find my router ip address;1;0.987655641569;0;how to find my ip address on my router;5;0.960910271887;hultech-S-E-4A
+0098;0;how to find my router ip address;1;0.987655641569;0;how to find my computers ip address;6;0.960313263361;hultech-S-E-4A
+0098;0;how to find my router ip address;1;0.987655641569;0;how to find my ip address on vista;7;0.957743043038;hultech-S-E-4A
+0098;0;how to find my router ip address;1;0.987655641569;0;how to find ip address;8;0.955051508238;hultech-S-E-4A
+0098;0;how to find my router ip address;1;0.987655641569;0;how to find my ip address on xp;9;0.941787899351;hultech-S-E-4A
+0098;0;how to find my router ip address;1;0.987655641569;0;how to find my ip address on windows 7;10;0.930743371014;hultech-S-E-4A
+0098;0;how to find my mac address;2;0.869031118637;0;how to find my mac address;1;1.0;hultech-S-E-4A
+0098;0;how to find my mac address;2;0.869031118637;0;how to find my ip address on mac;2;0.937845492237;hultech-S-E-4A
+0098;0;recovering ip address;3;0.751935592406;0;recovering ip address;1;1.0;hultech-S-E-4A
+0098;0;recovering ip address;3;0.751935592406;0;my ip address;2;0.895130914156;hultech-S-E-4A
+0098;0;how to find my subnet mask;4;0.785616099615;0;how to find my subnet mask;1;1.0;hultech-S-E-4A
+0098;0;ip address finder;5;0.717941741647;0;ip address finder;1;1.0;hultech-S-E-4A
+0098;0;ip address finder;5;0.717941741647;0;ip address lookup;2;0.968529759851;hultech-S-E-4A
+0099;0;postcode finder api;1;0.90649668201;0;postcode finder api;1;1.0;hultech-S-E-4A
+0099;0;postcode finder api;1;0.90649668201;0;postcode finder software;2;0.837840754308;hultech-S-E-4A
+0099;0;postcode finder api;1;0.90649668201;0;postcode finder vic;3;0.824152343628;hultech-S-E-4A
+0099;0;postcode finder api;1;0.90649668201;0;postcode finder nz;4;0.80518575424;hultech-S-E-4A
+0099;0;postcode finder api;1;0.90649668201;0;reverse postcode finder;5;0.746309780785;hultech-S-E-4A
+0099;0;postcode finder api;1;0.90649668201;0;address finder;6;0.722777511359;hultech-S-E-4A
+0099;0;postcode finder api;1;0.90649668201;0;free postcode finder;7;0.715709495871;hultech-S-E-4A
+0099;0;postcode finder api;1;0.90649668201;0;postcode finder hamilton;8;0.639960948371;hultech-S-E-4A
+0099;0;postcode finder api;1;0.90649668201;0;address finder uk;9;0.631564086693;hultech-S-E-4A
+0099;0;postcode finder api;1;0.90649668201;0;uk postcode finder;10;0.624393744806;hultech-S-E-4A
+0099;0;postcode finder anywhere;2;0.748323928166;0;postcode finder anywhere;1;1.0;hultech-S-E-4A
+0099;0;postcode finder anywhere;2;0.748323928166;0;postcode anywhere;2;0.779601077597;hultech-S-E-4A
+0099;0;what is postcode;3;0.0719514274821;0;what is postcode;1;1.0;hultech-S-E-4A
+0099;0;postcode finder new zealand;4;0.415043298889;0;postcode finder new zealand;1;1.0;hultech-S-E-4A
+0099;0;postcode finder new zealand;4;0.415043298889;0;postcode finder australia;2;0.704988934227;hultech-S-E-4A
+0099;0;post office postcode finder;5;0.591141476449;0;post office postcode finder;1;1.0;hultech-S-E-4A
+0100;0;jessops online photo printing;1;0.988380710476;0;jessops online photo printing;1;1.0;hultech-S-E-4A
+0100;0;jessops online photo printing;1;0.988380710476;0;walmart online photo printing;2;0.988380710476;hultech-S-E-4A
+0100;0;jessops online photo printing;1;0.988380710476;0;kodak online photo printing;3;0.974733202761;hultech-S-E-4A
+0100;0;jessops online photo printing;1;0.988380710476;0;online photo printing offers;4;0.949700644324;hultech-S-E-4A
+0100;0;jessops online photo printing;1;0.988380710476;0;cheap online photo printing;5;0.946774950853;hultech-S-E-4A
+0100;0;jessops online photo printing;1;0.988380710476;0;cheap photo printing online;6;0.946774950853;hultech-S-E-4A
+0100;0;jessops online photo printing;1;0.988380710476;0;online photo printing review;7;0.926527585465;hultech-S-E-4A
+0100;0;jessops online photo printing;1;0.988380710476;0;free online photo printing;8;0.913092578765;hultech-S-E-4A
+0100;0;jessops online photo printing;1;0.988380710476;0;professional online photo printing;9;0.908105838516;hultech-S-E-4A
+0100;0;jessops online photo printing;1;0.988380710476;0;online photo printing companies;10;0.905424198952;hultech-S-E-4A
+0100;0;digital photo printing online;2;0.927577438338;0;digital photo printing online;1;1.0;hultech-S-E-4A
+0100;0;best online photo printing uk;3;0.859267078729;0;best online photo printing uk;1;1.0;hultech-S-E-4A
+0100;0;best online photo printing uk;3;0.859267078729;0;best online photo printing;2;0.951699762668;hultech-S-E-4A
+0100;0;best online photo printing uk;3;0.859267078729;0;online photo printing uk;3;0.931102336323;hultech-S-E-4A
+0100;0;best online photo printing uk;3;0.859267078729;0;best quality online photo printing;4;0.902597653276;hultech-S-E-4A
+0100;0;professional photo printing;4;0.766353942032;0;professional photo printing;1;1.0;hultech-S-E-4A
+0100;0;professional photo printing;4;0.766353942032;0;online photo printing professional-quality;2;0.870146596433;hultech-S-E-4A
+0100;0;online photo editor;5;0.866803637466;0;online photo editor;1;1.0;hultech-S-E-4A

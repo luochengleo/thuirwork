@@ -1,0 +1,408 @@
+51,apple_company_applications ,19,19,18,56
+51,apple_company_product,20,17,16,53
+51,apple_company_accessory,18,16,17,51
+51,apple_company_website ,11,20,20,51
+51,apple_company_system ,13,18,19,50
+51,apple_company_games,15,14,13,42
+51,apple_company_free,14,13,14,41
+51,apple_botanical_introduction,8,15,12,35
+51,apple_company_developer ,17,11,7,35
+51,apple_botanical_fruit product,10,10,11,31
+51,apple_company_event,16,7,6,29
+51,apple_company_support,12,6,9,27
+51,apple_company_logo,9,2,15,26
+51,apple_company_brand,3,8,10,21
+51,apple_company_invest,4,12,5,21
+51,apple_company_stock ,5,3,8,16
+51,apple_botanical_fruit,1,9,3,13
+51,apple_botanical_culture ,6,4,2,12
+51,apple_botanical_festival ,7,0,0,7
+51,apple_company_specifications,2,1,4,7
+51,apple_botanical_plant ,0,0,1,1
+52,cathedral_architecture_buildings,20,20,16,56
+52,cathedral_religion_church,19,15,20,54
+52,cathedral_religion_saint,17,13,19,49
+52,cathedral_architecture_material,14,18,15,47
+52,cathedral_religion_events,16,14,17,47
+52,cathedral_info_national,13,17,14,44
+52,cathedral_religion_relationship,18,7,18,43
+52,cathedral_architecture_designs,15,19,8,42
+52,cathedral_info_references,11,16,11,38
+52,cathedral_info_roles,10,12,13,35
+52,cathedral_info_services,9,8,12,29
+52,cathedral_info_practices,8,11,7,26
+52,cathedral_architecture_rituals,7,9,9,25
+52,cathedral_info_daily,12,10,1,23
+53,eclipse_automobile_product,16,17,19,52
+53,eclipse_movie_twilight,20,14,18,52
+53,eclipse_astronomy_calendar,18,12,21,51
+53,eclipse_automobile_mitsubishi,15,16,20,51
+53,eclipse_astronomy_solar system,17,19,14,50
+53,eclipse_software_manufacturer,19,15,16,50
+53,eclipse_astronomy_nasa,13,20,15,48
+53,eclipse_software_applications,14,13,17,44
+53,eclipse_astronomy_resource,12,18,13,43
+53,eclipse_astronomy_all,11,11,11,33
+54,fas_software_program,17,15,20,52
+54,fas_software_accounting,18,14,19,51
+54,fas_harvard_school,19,20,8,47
+54,fas_company_business,12,17,16,45
+54,fas_company_history,9,16,17,42
+54,fas_company_job,14,18,10,42
+54,fas_harvard_job,13,19,9,41
+54,fas_book_overview,20,4,14,38
+54,fas_book_stories,10,13,13,36
+54,fas_company_applications,11,10,15,36
+54,fas_syndrome_information,16,9,7,32
+54,fas_book_course,5,12,12,29
+54,fas_company_agriculture,6,11,11,28
+54,fas_company_location,15,7,6,28
+54,fas_company_service,4,6,18,28
+54,fas_company_home,8,8,4,20
+54,fas_company_course,7,5,5,17
+55,flesh_information_media,18,14,20,52
+55,flesh_body_health issues,15,19,16,50
+55,flesh_religion_church,20,15,14,49
+55,flesh_information_body,16,17,15,48
+55,flesh_information_accesories,17,16,12,45
+55,flesh_literature_information,19,13,13,45
+55,flesh_fly_illness,11,12,18,41
+55,flesh_fly_insect,12,11,17,40
+55,flesh_information_definition,10,9,19,38
+55,flesh_body_free,14,18,5,37
+55,flesh_body_live,13,10,11,34
+55,flesh_information_drinks,9,8,10,27
+55,flesh_body_anatomy,3,20,3,26
+55,flesh_information_heat,8,7,9,24
+55,flesh_information_location,7,5,8,20
+55,flesh_information_hook,6,6,7,19
+55,flesh_information_form,5,4,6,15
+55,flesh_information_blood,4,3,4,11
+56,ir_chemistry_science,20,20,20,60
+56,ir_country_location,19,17,19,55
+56,ir_country_abbreviation,16,19,18,53
+56,ir_country_school,18,15,17,50
+56,ir_country_city,17,16,16,49
+56,ir_website_application,14,18,15,47
+56,ir_country_investor,15,12,14,41
+56,ir_interest rate_relations,13,14,13,40
+56,ir_interest rate_investor,10,13,12,35
+56,ir_languages_Chinese,12,9,9,30
+56,ir_languages_english,9,11,10,30
+56,ir_languages_portuguese,8,10,11,29
+56,ir_languages_french,7,6,6,19
+56,ir_languages_bulgarian,1,8,8,17
+56,ir_languages_czech,2,7,7,16
+56,ir_languages_german,6,5,5,16
+56,ir_languages_grammar,5,4,4,13
+56,ir_languages_spanish,11,1,1,13
+56,ir_languages_iranian,4,3,3,10
+56,ir_languages_irish,3,2,2,7
+57,lost_blog_content,20,20,20,60
+57,lost_series_online,19,18,19,56
+57,lost_series_spoiler,17,16,18,51
+57,lost_movie_title,15,19,17,51
+57,lost_movie_motion picture,16,17,16,49
+57,lost_series_cast,18,15,14,47
+57,lost_music_song,13,11,13,37
+57,lost_property_items,6,14,15,35
+57,lost_movie_entertainment,10,12,12,34
+57,lost_property_information,12,9,10,31
+57,lost_music_band,14,8,8,30
+57,lost_series_episodes,9,10,11,30
+57,lost_movie_publicity,7,13,9,29
+57,lost_property_pets,11,6,6,23
+57,lost_music_cast,8,7,7,22
+57,lost_property_children,5,5,5,15
+58,shrew_software_application,20,20,19,59
+58,shrew_information_movie,15,19,20,54
+58,shrew_animal_movie,17,18,18,53
+58,shrew_literature_story,19,14,15,48
+58,shrew_animal_species,16,17,14,47
+58,shrew_information_classification,11,16,17,44
+58,shrew_information_online,14,13,16,43
+58,shrew_archery_woman,18,12,12,42
+58,shrew_archery_information,12,15,13,40
+58,shrew_information_issue,13,10,10,33
+58,shrew_information_women,10,11,11,32
+59,symmetry_art_graphics,19,20,19,58
+59,symmetry_science_physics,20,18,20,58
+59,symmetry_art_design,15,16,17,48
+59,symmetry_science_medical,17,14,14,45
+59,symmetry_business_application,13,17,12,42
+59,symmetry_game_types,10,15,16,41
+59,symmetry_math_topics,4,19,18,41
+59,symmetry_art_culture,14,12,13,39
+59,symmetry_art_mediums,16,10,11,37
+59,symmetry_science_biology,18,9,8,35
+59,symmetry_business_characterize,5,13,15,33
+59,symmetry_math_figures,11,11,10,32
+59,symmetry_math_operations,12,7,7,26
+59,symmetry_business_information,7,8,9,24
+59,symmetry_math_learning,8,6,6,20
+59,symmetry_game_problems,9,5,5,19
+59,symmetry_business_corporation,6,4,4,14
+60,the presidents of the united states of america_politics_states,20,20,19,59
+60,the presidents of the united states of america_history_details,18,19,20,57
+60,the presidents of the united states of america_picture_facts,17,18,18,53
+60,the presidents of the united states of america_music_entertainment,19,17,16,52
+60,the presidents of the united states of america_duties_district,16,16,17,49
+61,windows_operating system_version,17,20,19,56
+61,windows_software_program,18,18,20,56
+61,windows_software_social,19,19,18,56
+61,windows_software_communication,20,17,17,54
+61,windows_software_itunes,15,15,16,46
+61,windows_house_type,10,16,15,41
+61,windows_website_news,14,14,12,40
+61,windows_software_update,12,13,14,39
+61,windows_house_architecture,16,12,10,38
+61,windows_website_help,13,13,11,37
+61,windows_musical group_record,11,11,13,35
+62,prophet_music_entertainment,20,19,20,59
+62,prophet_music_activities,19,20,19,58
+62,prophet_religion_christian,17,18,17,52
+62,prophet_religion_muslim,18,17,16,51
+62,prophet_comics_book,15,16,18,49
+62,prophet_music_productions,16,15,15,46
+62,prophet_religion_other,14,14,14,42
+63,gold_characteristics_physical ,20,19,19,58
+63,gold_facts_information,15,20,20,55
+63,gold_facts_products,14,14,25,53
+63,gold_characteristics_specifications,19,17,16,52
+63,gold_characteristics_periodic table,17,15,18,50
+63,gold_price_industry,13,18,17,48
+63,gold_company_standard,16,16,14,46
+63,gold_characteristics_weight,18,13,13,44
+63,gold_company_number,12,11,12,35
+63,gold_company_density,11,12,11,34
+64,owl_music_information,20,19,20,59
+64,owl_animal_facts,17,20,18,55
+64,owl_education_subject,18,17,19,54
+64,owl_company_industry,14,18,16,48
+64,owl_animal_media,15,16,15,46
+64,owl_tattoo_design,19,14,13,46
+64,owl_animal_type,13,15,17,45
+64,owl_animal_anatomy,16,13,12,41
+64,owl_education_writing,12,12,14,38
+65,adobe_software_multimedia,19,31,17,67
+65,adobe_software_desktop apps,20,20,20,60
+65,adobe_architecture_build,14,19,13,46
+65,adobe_service_products,17,14,15,46
+65,adobe_service_marketing,16,12,16,44
+65,adobe_software_online service,18,7,19,44
+65,adobe_architecture_plans,12,18,12,42
+65,adobe_software_design,9,15,18,42
+65,adobe_architecture_brick,13,17,11,41
+65,adobe_service_class,8,11,14,33
+65,adobe_architecture_roof,7,16,8,31
+65,adobe_material_resources,15,10,6,31
+65,adobe_company_sales,11,8,9,28
+65,adobe_company_globe,10,6,10,26
+65,adobe_material_program,6,9,7,22
+66,legend_game_video,19,20,18,57
+66,legend_car_manufacture,20,18,15,53
+66,legend_game_information,12,19,20,51
+66,legend_movie_film,17,15,17,49
+66,legend_music_online,13,17,19,49
+66,legend_novel_book,14,16,16,46
+66,legend_game_zelda,18,13,13,44
+66,legend_music_famous,15,12,14,41
+66,legend_movie_novel,16,14,5,35
+66,legend_game_equipment,10,10,12,32
+66,legend_game_patches,9,9,10,28
+66,legend_game_play online,4,11,11,26
+66,legend_game_gifts,11,8,7,26
+66,legend_car_facts,8,6,6,20
+66,legend_music_entertainment,6,5,9,20
+66,legend_movie_book,7,7,4,18
+66,legend_game_east,3,4,8,15
+66,legend_novel_name,5,3,3,11
+66,legend_game_kids,2,2,2,6
+67,beijing subways_information_destination,20,20,18,58
+67,beijing subways_game_app,19,19,17,55
+67,beijing subways_information_facts,18,16,20,54
+67,beijing subways_information_transportation,16,18,19,53
+67,beijing subways_video_content,17,17,15,49
+67,beijing subways_video_facts,15,15,16,46
+68,camera_art_content,17,18,20,55
+68,camera_information_facts,19,19,17,55
+68,camera_model_type,16,20,19,55
+68,camera_model_manufacturer,20,17,16,53
+68,camera_information_type,15,16,18,49
+68,camera_information_accessories,18,15,14,47
+68,camera_information_social media,14,14,15,43
+68,camera_art_place,13,13,13,39
+69,free dvd burner_platform_operating system,18,19,19,56
+69,free dvd burner_software_application,19,20,17,56
+69,free dvd burner_software_type,20,17,18,55
+69,free dvd burner_software_introduction,15,18,20,53
+69,free dvd burner_platform_mobile,17,15,16,48
+69,free dvd burner_software_support,16,14,14,44
+69,free dvd burner_software_facts,13,13,15,41
+69,free dvd burner_software_shareware,10,16,12,38
+69,free dvd burner_software_trial,14,11,11,36
+69,free dvd burner_software_freeware,11,12,13,36
+69,free dvd burner_software_format,12,10,10,32
+70,lost season 5_download_video,19,20,20,59
+70,lost season 5_online_media,20,19,19,58
+70,lost season 5_online_information,18,18,18,54
+71,mobile phones_brand_manufacturer,20,20,18,58
+71,mobile phones_information_Operating System,19,18,20,57
+71,mobile phones_service_features,17,19,17,53
+71,mobile phones_information_sales,14,17,19,50
+71,mobile phones_information_specifications,18,15,16,49
+71,mobile phones_service_providers,16,14,14,44
+71,mobile phones_information_usage,10,16,15,41
+71,mobile phones_information_computers,13,13,12,38
+71,mobile phones_information_health issues,12,12,13,37
+71,mobile phones_service_countries,15,10,10,35
+71,mobile phones_information_countries,11,11,11,33
+72,programming languages_taxonomy_information,18,20,19,57
+72,programming languages_taxonomy_applications,17,19,20,56
+72,programming languages_taxonomy_education,19,16,18,53
+72,programming languages_particular language_components,14,18,17,49
+72,programming languages_taxonomy_difference,20,14,15,49
+72,programming languages_particular language_language types,15,17,16,48
+72,programming languages_particular language_uses,16,15,13,44
+72,programming languages_history_computer language,13,13,14,40
+72,programming languages_history_development,12,12,12,36
+73,tom cruise_biography_facts,20,20,18,58
+73,tom cruise_biography_pictures,18,19,20,57
+73,tom cruise_biography_family,17,17,15,49
+73,tom cruise_biography_romances,19,14,16,49
+73,tom cruise_biography_career,14,13,17,44
+73,tom cruise_book_biography,7,18,19,44
+73,tom cruise_movie_famous,13,16,13,42
+73,tom cruise_movie_reviews,12,15,11,38
+73,tom cruise_business_entertainment,15,11,9,35
+73,tom cruise_business_advertisement,6,12,14,32
+73,tom cruise_news_life,10,8,12,30
+73,tom cruise_business_associates,16,6,6,28
+73,tom cruise_movie_films latest,11,9,8,28
+73,tom cruise_news_latest news,9,7,10,26
+73,tom cruise_movie_films stuff,8,10,7,25
+74,top ipad games_2013_best games,20,19,19,58
+74,top ipad games_apps_best games,15,20,20,55
+74,top ipad games_free_apple games,19,18,17,54
+74,top ipad games_sports_best sports games,18,16,18,52
+74,top ipad games_apps_kids,17,15,15,47
+74,top ipad games_wallpapers_downloads,14,17,16,47
+74,top ipad games_apps_book,16,14,14,44
+74,top ipad games_apps_apple,13,13,13,39
+75,watches_brand_watch maker,20,20,19,59
+75,watches_category_quality,18,17,20,55
+75,watches_category_manufacturer,19,18,16,53
+75,watches_functions_features,17,15,18,50
+75,watches_category_designer,13,19,17,49
+75,watches_category_type,15,16,14,45
+75,watches_functions_usage,18,12,15,45
+75,watches_category_sex,14,14,13,41
+75,watches_category_deals,12,13,12,37
+75,watches_adornment_accesories,11,11,11,33
+75,watches_history_story,10,10,10,30
+75,watches_history_unique,9,9,9,27
+75,watches_category_all,8,8,8,24
+76,thai specialies_specialties_location,19,20,20,59
+76,thai specialties_restaurant_special food,20,18,19,57
+76,thai specialties_speciality_purchases,16,19,18,53
+76,thai specialties_speciality_meals,18,17,17,52
+76,thai specialties_food_stores,17,16,16,49
+76,thai specialties_food_dishes,15,15,15,45
+76,thai specialies_specialties_asian,14,14,14,42
+76,thai specialties_restaurant_california,13,13,13,39
+77,scientific american_magazine_readers,19,20,20,59
+77,scientific american_magazine_online,20,19,18,57
+77,scientific american_products_article,17,15,16,48
+77,scientific american_series_learning,11,18,19,48
+77,scientific american_jobs_careers,15,14,15,44
+77,scientific american_computer_information,13,13,14,40
+77,scientific american_computer_website,16,6,17,39
+77,scientific american_magazines_countries,14,17,6,37
+77,scientific american_magazine_maps,18,10,8,36
+77,scientific american_magazine_research,9,12,13,34
+77,scientific american_magazine_sales,6,16,12,34
+77,scientific american_products_digital,10,11,10,31
+77,scientific american_series_book,12,9,9,30
+77,scientific american_magazine_company,8,8,11,27
+77,scientific american_jobs_work places,7,7,7,21
+78,persian cat_animal_description,18,20,20,58
+78,persian cat_category_media,19,19,18,56
+78,persian cat_category_cat care,20,17,16,53
+78,persian cat_animal_sale,15,18,19,52
+78,persian cat_animal_pet care,16,16,17,49
+78,persian cat_category_introduction,17,15,15,47
+78,persian cat_necklace_products,14,14,14,42
+79,bathtub_contents_appearance,20,20,20,60
+79,bathtub_contents_types,19,19,19,57
+79,bathtub_manufacturer_accesories,18,18,18,54
+79,bathtub_manufacturer_costs,17,15,14,46
+79,bathtub_manufacturer_discount,16,16,13,45
+79,bathtub_manufacturer_brands,10,17,15,42
+79,bathtub_manufacturer_specifications,13,13,16,42
+79,bathtub_manufacturer_information,15,14,12,41
+79,bathtub_manufacturer_modern,14,10,17,41
+79,bathtub_manufacturer_supplier,11,11,10,32
+79,bathtub_manufacturer_repair,12,8,11,31
+79,bathtub_manufacturer_sterling,9,12,9,30
+79,bathtub_manufacturer_refinishing,7,9,8,24
+79,bathtub_manufacturer_history,8,7,7,22
+79,bathtub_manufacturer_china,6,6,6,18
+80,wedding ring_design_Jewelry store,20,20,20,60
+80,wedding ring_design_styles,19,18,19,56
+80,wedding ring_design_band material,17,19,18,54
+80,wedding ring_design_stone,18,15,17,50
+80,wedding ring_tradition_ceremony,10,17,14,41
+80,wedding ring_tradition_etiquette,8,16,16,40
+80,wedding ring_tradition_religion,13,14,13,40
+80,wedding ring_tradition_womens,14,13,11,38
+80,wedding ring_tradition_mens,15,12,10,37
+80,wedding ring_tradition_accessories,16,11,9,36
+80,wedding ring_tradition_history,9,10,15,34
+80,wedding ring_tradition_unique,12,9,12,33
+80,wedding ring_tradition_bands,11,8,8,27
+81,samsung_product_business,20,18,20,58
+81,samsung_mobile_galaxy,19,19,19,57
+81,samsung_product_manufacture,18,16,18,52
+81,samsung_software_downloads,10,20,17,47
+81,samsung_tv_sales,17,15,15,47
+81,samsung_tv_types,13,14,14,41
+81,samsung_software_retailer,5,17,16,38
+81,samsung_mobile_accessories,15,12,10,37
+81,samsung_mobile_phone,12,13,11,36
+81,samsung_software_online,11,11,9,31
+81,samsung_tablet_tablet computer,16,7,8,31
+81,samsung_product_information,6,10,13,29
+81,samsung_mobile_operator,7,9,12,28
+81,samsung_tv_model,14,6,6,26
+81,samsung_mobile_competitor,9,8,7,24
+81,samsung_product_electronics,8,5,5,18
+82,the hunger games_movie_story,20,19,19,58
+82,the hunger games_movie_website,17,20,18,55
+82,the hunger games_movie_review,19,16,17,52
+82,the hunger games_movie_series,13,18,20,51
+82,the hunger games_novel_information,16,14,16,46
+82,the hunger games_movie_advertisement,14,17,13,44
+82,the hunger games_novel_details,15,13,14,42
+82,the hunger games_movie_production,18,11,11,40
+82,the hunger games_movie_release,12,15,12,39
+82,the hunger games_novel_book,9,12,15,36
+82,the hunger games_movie_theaters,11,10,9,30
+82,the hunger games_novel_characters,10,9,10,29
+82,the hunger games_novel_fans,8,8,8,24
+83,harry potter series_information,14,2,8,24
+83,harry potter series_title,11,11,13,35
+83,harry potter book_character,12,15,16,43
+83,harry potter book_scene,1,14,11,26
+83,harry potter book_quotes,7,3,4,14
+83,harry potter book_magics,8,12,14,34
+83,harry potter book_reading,15,13,9,37
+83,harry potter film_watch,16,17,15,48
+83,harry potter film_cast,13,9,17,39
+83,harry potter film_information,17,16,5,38
+83,harry potter film_music,10,8,3,21
+83,harry potter film_activity,2,7,12,21
+83,harry potter themepark_information,6,4,10,20
+83,harry potter themepark_products,5,10,7,22
+83,harry potter games_quiz,4,6,2,12
+83,harry potter games_word game,3,5,1,9
+83,harry potter games_others,9,1,6,16
