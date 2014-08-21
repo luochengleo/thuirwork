@@ -1,1 +1,0 @@
-print 'a'.__hash__()
