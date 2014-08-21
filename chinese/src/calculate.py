@@ -155,6 +155,11 @@ if __name__=="__main__":
 #     print calculateHscore('CNU-S-C-2A')
 #     print len(calculateHscore('CNU-S-C-2A'))
 #     print calculateHscore('CNU-S-C-2A')
+    fout = open('../data/cnhscorepertopic.csv','w')
     for f in os.listdir('../data/cnrun/'):
         runname = f.replace('.txt','')
-        print runname,'\t',mean(calculateFscore(runname))
+        count =1
+        for item in calculateHscore(runname):
+            fout.write(runname+','+str(count)+','+str(item)+'\n')
+            count +=1
+    fout.close()

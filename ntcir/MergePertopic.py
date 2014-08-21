@@ -43,24 +43,48 @@ for f in os.listdir(dir):
 
     if Dsharpcount==IRel50count and IRel50count==Dcount:
         print Dsharpcount,f
-        pt = open(tag+'.dsharpndcg.csv','r')
-        pt.write(f.replace('.txt',''))
-        for i in range(0,Dsharpcount,1):
-            pt.write(','+str(Dsharp[i]))
-        pt.close()
+        if tag+'.dsharpndcg.csv' in os.listdir('.'):
+            pt = open(tag+'.dsharpndcg.csv','a')
+            pt.write(f.replace('.txt',''))
+            for i in range(0,int(Dsharpcount),1):
+                pt.write(','+str(Dsharp[i]))
+            pt.close()
+        else:
+            pt = open(tag+'.dsharpndcg.csv','w')
+            pt.write(f.replace('.txt',''))
+            for i in range(0,int(Dsharpcount),1):
+                pt.write(','+str(Dsharp[i]))
+            pt.close()
 
-        pt = open(tag+'.irecall.csv','r')
-        pt.write(f.replace('.txt',''))
-        for i in range(0,Dsharpcount,1):
-            pt.write(','+str(Irecall[i]))
-        pt.close()
+        if tag+'.irecall.csv' in os.listdir('.'):
+            pt = open(tag+'.irecall.csv','a')
+            pt.write(f.replace('.txt',''))
+            for i in range(0,int(Dsharpcount),1):
+                pt.write(','+str(Irecall[i]))
+            pt.close()
+        else:
+            pt = open(tag+'.irecall.csv','w')
 
-        pt = open(tag+'.dndcg.csv','r')
-        pt.write(f.replace('.txt',''))
-        for i in range(0,Dsharpcount,1):
-            pt.write(','+str(D[i]))
-        pt.close()
+            pt.write(f.replace('.txt',''))
+            for i in range(0,int(Dsharpcount),1):
+                pt.write(','+str(Irecall[i]))
+            pt.close()
+
+        if tag+'.dndcg.csv' in os.listdir('.'):
+            pt = open(tag+'.dndcg.csv','a')
+            pt.write(f.replace('.txt',''))
+            for i in range(0,int(Dsharpcount),1):
+                pt.write(','+str(D[i]))
+            pt.close()
+
+        else:
+            pt = open(tag+'.dndcg.csv','w')
+            pt.write(f.replace('.txt',''))
+            for i in range(0,int(Dsharpcount),1):
+                pt.write(','+str(D[i]))
+            pt.close()
 
     else:
         print 'error'
+        print f,Dsharpcount,IRel50count,Dcount
    

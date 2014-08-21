@@ -62,7 +62,7 @@ def calculateHscore(runname):
         topicid = item.topicid
         rankfls = item.rankfls
         
-        if int(topicid)>50 and int(topicid)<83:
+        if int(topicid)>50 and int(topicid)<84:
             try:
                 accu = accuracy[(item.topicid,item.fls,item.sls)]
             except:
@@ -116,7 +116,7 @@ def ndcg(r ):
 #     return map(div, dcg(r), dcg(sorted(r, reverse=True)))
 def evaid():
     rtr = []
-    for i in range(51,83,1):
+    for i in range(51,84,1):
         if i <10:
             rtr.append('000'+str(i))
         else:
@@ -130,37 +130,44 @@ def mean(r):
         return 0.0
     else:
         return rtr/float(len(r))
-def calculateFscore(runname):
-    
-    filename = '../data/enrun/'+runname+'.txt'
-    results = loadfile(filename)
-    flsrel = dict()
-    queryid = set()
-    for l in loadcsv('../data/csv/task1.csv'):
-#         segs = l.replace(codecs.BOM_UTF8,'').strip().split(',')
-        id = l[0]
-        fls = l[1]
-        rel = int(l[3])
-        flsrel[(id,fls)] = rel
-        queryid.add(id)
-
-    fls = defaultdict(lambda : list())
-    alreadyin = defaultdict(lambda: set())
-    for r in results:
-        if r.topicid in queryid and r.fls not in alreadyin[r.topicid]:
-            try:
-                fls[r.topicid].append(flsrel[(r.topicid,r.fls)])
-            except:
-#                 print 'miss',r.topicid,r.fls
-                fls[r.topicid].append(0)
-            alreadyin[r.topicid].add(r.fls)
-    rtr = []
-    for id in evaid():
-        rtr.append(ndcg(fls[id])[-1])
-    return rtr
+# def calculateFscore(runname):
+#     
+#     filename = '../data/enrun/'+runname+'.txt'
+#     results = loadfile(filename)
+#     flsrel = dict()
+#     queryid = set()
+#     for l in loadcsv('../data/csv/task1.csv'):
+# #         segs = l.replace(codecs.BOM_UTF8,'').strip().split(',')
+#         id = l[0]
+#         fls = l[1]
+#         rel = int(l[3])
+#         flsrel[(id,fls)] = rel
+#         queryid.add(id)
+# 
+#     fls = defaultdict(lambda : list())
+#     alreadyin = defaultdict(lambda: set())
+#     for r in results:
+#         if r.topicid in queryid and r.fls not in alreadyin[r.topicid]:
+#             try:
+#                 fls[r.topicid].append(flsrel[(r.topicid,r.fls)])
+#             except:
+# #                 print 'miss',r.topicid,r.fls
+#                 fls[r.topicid].append(0)
+#             alreadyin[r.topicid].add(r.fls)
+#     rtr = []
+#     for id in evaid():
+#         rtr.append(ndcg(fls[id])[-1])
+#     return rtr
 
 if __name__=="__main__":
 #     print calculateHscore('hultech-S-E-4A')
+    fout = open('../data/hscorepertopic.csv','w')
+    
     for f in os.listdir('../data/enrun/'):
         runname = f.replace('.txt','')
-        print runname,'\t',mean(calculateHscore(runname))
+        count = 51
+        for item in calculateHscore(runname):
+            fout.write(runname+','+str(count)+','+str(item)+'\n')
+            count +=1
+        print runname,'\t',len(calculateHscore(runname)),mean(calculateHscore(runname))
+    fout.close()
