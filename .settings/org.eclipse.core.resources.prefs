@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//sm/chinese/src/ForFLSevaluation.py=utf8
+encoding//sm/chinese/src/GenerateXml.py=utf8
+encoding//sm/chinese/src/ResultFile2Xml.py=utf8
+encoding//sm/chinese/src/calculate.py=utf8
+encoding//sm/english/src/ForFLSevaluation.py=utf8
+encoding//sm/english/src/ForSLSevaluation.py=utf8
+encoding//sm/japanese/src/ForFLSevaluation.py=utf8
+encoding//sm/japanese/src/ForSLSevaluation.py=utf8
+encoding//sm/japanese/src/ParseMarkFile.py=utf8
+encoding//sm/japanese/src/calculate.py=utf8
+encoding//sm/japanese/src/generatetask3.py=utf8
+encoding//sm/japanese/src/generatetask6.py=utf8

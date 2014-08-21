@@ -18,11 +18,8 @@ def loadcsv(filename):
 
 def evaid():
     rtr = []
-    for i in range(1,34,1):
-        if i <10:
-            rtr.append('000'+str(i))
-        else:
-            rtr.append('00'+str(i))
+    for i in range(101,135,1):
+        rtr.append('0'+str(i))
     return rtr
 
 if 'flseva' not in os.listdir('../data'):
@@ -30,10 +27,9 @@ if 'flseva' not in os.listdir('../data'):
 
 ####################################################
 userfls2annofls = defaultdict(lambda:'')
-
 for l in loadcsv('../data/csv/task3.csv'):
-    if l[1].strip() not in userfls2annofls.keys():
-        userfls2annofls[l[1].strip()] = l[2].strip()
+    userfls2annofls[l[1].strip()] = l[2].strip()
+
 ####################################################
 annofls2idx = dict()
 id = ''
@@ -49,15 +45,14 @@ for l in open('../data/temp/flsposs.txt').readlines():
         count +=1
     annofls2idx[(id,annofls)] = count
     iprob.write(id+' '+str(count)+' '+segs[2]+'\n')
-for k in annofls2idx:
-    print k,annofls2idx[k]
+
 ######################################################
 
 allsubfls = defaultdict(lambda:set())
 dqrels = open('../data/flseva/imine.Dqrels','w')
-for f in os.listdir('../data/cnrun'):
+for f in os.listdir('../data/jprun'):
     print f
-    for l in open('../data/cnrun/'+f).readlines()[1:]:
+    for l in open('../data/jprun/'+f).readlines()[1:]:
         segs = l.strip().replace('&amp;','').split(';')
         id = segs[0].strip()
         userfls = segs[2].strip()
@@ -67,6 +62,8 @@ for f in os.listdir('../data/cnrun'):
     for id in evaid():
         for ufls in allsubfls[id]:
             annofls = userfls2annofls[ufls]
+            print ufls
+            print annofls
             if annofls != '':
                 try:
                     intent = annofls2idx[(id,annofls)]
@@ -95,13 +92,13 @@ for f in os.listdir('../data/cnrun'):
 #############################################################################
 runlist = open('../data/flseva/iminerunlist','w')
 
-for f in os.listdir('../data/cnrun'):
+for f in os.listdir('../data/jprun'):
     runlist.write(f.replace('txt','run')+'\n')
     runout = open('../data/flseva/'+f.replace('txt','run'),'w')
     alreadyin = set()
     allsubfls = defaultdict(lambda:list())
 
-    for l in open('../data/cnrun/'+f).readlines()[1:]:
+    for l in open('../data/jprun/'+f).readlines()[1:]:
         segs = l.strip().replace('&amp;','').split(';')
         id = segs[0].strip()
         userfls = segs[2].strip()

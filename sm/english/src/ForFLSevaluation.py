@@ -28,8 +28,7 @@ if 'flseva' not in os.listdir('../data'):
 
 ####################################################
 userfls2annofls = defaultdict(lambda:'')
-for l in loadcsv('../data/csv/task6.csv'):
-    userfls2annofls[l[1].strip()] = l[3].strip()
+
 for l in loadcsv('../data/csv/task3.csv'):
     if l[1].strip() not in userfls2annofls.keys():
         userfls2annofls[l[1].strip()] = l[3].strip()

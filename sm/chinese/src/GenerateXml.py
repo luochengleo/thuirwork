@@ -30,6 +30,14 @@ for l in open('../data/temp/slsposs.txt').readlines():
     sls2id[segs[1]] = segs[0]
 id2fls2sls2queries = defaultdict(lambda:defaultdict(lambda:defaultdict(lambda:set())))
 
+idannofls2userfls = defaultdict(lambda:list())
+for l in loadcsv('../data/csv/task3.csv'):
+    id = l[0]
+    userfls = l[1]
+    annofls = l[2]
+    
+    idannofls2userfls[(id,annofls)].append(userfls)
+
 for l in loadcsv('../data/csv/task6.csv'):
     query = l[1]
     fls = l[3]
@@ -73,6 +81,12 @@ for id in evaid():
     for fls in id2fls[id]:
         print id,fls
         flsnode = ET.Element('fls',{'content':fls,'poss':str(id2flsposs[id][fls])})
+        examplesnode = ET.Element('examples')
+        for item in idannofls2userfls[(id,fls)]:
+            flsexpnode = ET.Element('example')
+            flsexpnode.text = item
+            examplesnode.append(flsexpnode)
+        flsnode.append(examplesnode)
         for sls in id2sls[id]:
             if sls in id2fls2sls2queries[id][fls]:
                 slsnode = ET.Element('sls',{'content':sls,'poss':str(id2slsposs[id][sls])})
