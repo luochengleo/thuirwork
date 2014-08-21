@@ -1,0 +1,391 @@
+0051	apple_company_applications 	0.0896
+0051	apple_company_product	0.0848
+0051	apple_company_website 	0.0816
+0051	apple_company_accessory	0.0816
+0051	apple_company_system 	0.08
+0051	apple_company_games	0.0672
+0051	apple_company_free	0.0656
+0051	apple_company_developer 	0.056
+0051	apple_botanical_introduction	0.056
+0051	apple_botanical_fruit product	0.0496
+0051	apple_company_event	0.0464
+0051	apple_company_support	0.0432
+0051	apple_company_logo	0.0416
+0051	apple_company_invest	0.0336
+0051	apple_company_brand	0.0336
+0051	apple_company_stock 	0.0256
+0051	apple_botanical_fruit	0.0208
+0051	apple_botanical_culture 	0.0192
+0051	apple_company_specifications	0.0112
+0051	apple_botanical_festival 	0.0112
+0051	apple_botanical_plant 	0.0016
+0052	cathedral_architecture_buildings	0.100358422939
+0052	cathedral_religion_church	0.0967741935484
+0052	cathedral_religion_saint	0.0878136200717
+0052	cathedral_religion_events	0.084229390681
+0052	cathedral_architecture_material	0.084229390681
+0052	cathedral_info_national	0.078853046595
+0052	cathedral_religion_relationship	0.0770609318996
+0052	cathedral_architecture_designs	0.0752688172043
+0052	cathedral_info_references	0.0681003584229
+0052	cathedral_info_roles	0.0627240143369
+0052	cathedral_info_services	0.0519713261649
+0052	cathedral_info_practices	0.0465949820789
+0052	cathedral_architecture_rituals	0.0448028673835
+0052	cathedral_info_daily	0.0412186379928
+0053	eclipse_movie_twilight	0.10970464135
+0053	eclipse_automobile_product	0.10970464135
+0053	eclipse_automobile_mitsubishi	0.107594936709
+0053	eclipse_astronomy_calendar	0.107594936709
+0053	eclipse_software_manufacturer	0.105485232068
+0053	eclipse_astronomy_solar system	0.105485232068
+0053	eclipse_astronomy_nasa	0.101265822785
+0053	eclipse_software_applications	0.0928270042194
+0053	eclipse_astronomy_resource	0.0907172995781
+0053	eclipse_astronomy_all	0.0696202531646
+0054	fas_software_program	0.0849673202614
+0054	fas_software_accounting	0.0833333333333
+0054	fas_harvard_school	0.0767973856209
+0054	fas_company_business	0.0735294117647
+0054	fas_company_job	0.0686274509804
+0054	fas_company_history	0.0686274509804
+0054	fas_harvard_job	0.0669934640523
+0054	fas_book_overview	0.062091503268
+0054	fas_company_applications	0.0588235294118
+0054	fas_book_stories	0.0588235294118
+0054	fas_syndrome_information	0.0522875816993
+0054	fas_book_course	0.047385620915
+0054	fas_company_service	0.0457516339869
+0054	fas_company_location	0.0457516339869
+0054	fas_company_agriculture	0.0457516339869
+0054	fas_company_home	0.0326797385621
+0054	fas_company_course	0.0277777777778
+0055	flesh_information_media	0.0837359098229
+0055	flesh_body_health issues	0.0805152979066
+0055	flesh_religion_church	0.0789049919485
+0055	flesh_information_body	0.0772946859903
+0055	flesh_literature_information	0.0724637681159
+0055	flesh_information_accesories	0.0724637681159
+0055	flesh_fly_illness	0.0660225442834
+0055	flesh_fly_insect	0.0644122383253
+0055	flesh_information_definition	0.061191626409
+0055	flesh_body_free	0.0595813204509
+0055	flesh_body_live	0.0547504025765
+0055	flesh_information_drinks	0.0434782608696
+0055	flesh_body_anatomy	0.0418679549114
+0055	flesh_information_heat	0.0386473429952
+0055	flesh_information_location	0.0322061191626
+0055	flesh_information_hook	0.0305958132045
+0055	flesh_information_form	0.024154589372
+0055	flesh_information_blood	0.0177133655395
+0056	ir_chemistry_science	0.0952380952381
+0056	ir_country_location	0.0873015873016
+0056	ir_country_abbreviation	0.084126984127
+0056	ir_country_school	0.0793650793651
+0056	ir_country_city	0.0777777777778
+0056	ir_website_application	0.0746031746032
+0056	ir_country_investor	0.0650793650794
+0056	ir_interest rate_relations	0.0634920634921
+0056	ir_interest rate_investor	0.0555555555556
+0056	ir_languages_english	0.047619047619
+0056	ir_languages_Chinese	0.047619047619
+0056	ir_languages_portuguese	0.0460317460317
+0056	ir_languages_french	0.0301587301587
+0056	ir_languages_bulgarian	0.0269841269841
+0056	ir_languages_german	0.0253968253968
+0056	ir_languages_czech	0.0253968253968
+0056	ir_languages_spanish	0.0206349206349
+0056	ir_languages_grammar	0.0206349206349
+0056	ir_languages_iranian	0.015873015873
+0056	ir_languages_irish	0.0111111111111
+0057	lost_blog_content	0.1
+0057	lost_series_online	0.0933333333333
+0057	lost_series_spoiler	0.085
+0057	lost_movie_title	0.085
+0057	lost_movie_motion picture	0.0816666666667
+0057	lost_series_cast	0.0783333333333
+0057	lost_music_song	0.0616666666667
+0057	lost_property_items	0.0583333333333
+0057	lost_movie_entertainment	0.0566666666667
+0057	lost_property_information	0.0516666666667
+0057	lost_series_episodes	0.05
+0057	lost_music_band	0.05
+0057	lost_movie_publicity	0.0483333333333
+0057	lost_property_pets	0.0383333333333
+0057	lost_music_cast	0.0366666666667
+0057	lost_property_children	0.025
+0058	shrew_software_application	0.119191919192
+0058	shrew_information_movie	0.109090909091
+0058	shrew_animal_movie	0.107070707071
+0058	shrew_literature_story	0.0969696969697
+0058	shrew_animal_species	0.0949494949495
+0058	shrew_information_classification	0.0888888888889
+0058	shrew_information_online	0.0868686868687
+0058	shrew_archery_woman	0.0848484848485
+0058	shrew_archery_information	0.0808080808081
+0058	shrew_information_issue	0.0666666666667
+0058	shrew_information_women	0.0646464646465
+0059	symmetry_science_physics	0.0947712418301
+0059	symmetry_art_graphics	0.0947712418301
+0059	symmetry_art_design	0.078431372549
+0059	symmetry_science_medical	0.0735294117647
+0059	symmetry_business_application	0.0686274509804
+0059	symmetry_math_topics	0.0669934640523
+0059	symmetry_game_types	0.0669934640523
+0059	symmetry_art_culture	0.0637254901961
+0059	symmetry_art_mediums	0.0604575163399
+0059	symmetry_science_biology	0.0571895424837
+0059	symmetry_business_characterize	0.0539215686275
+0059	symmetry_math_figures	0.0522875816993
+0059	symmetry_math_operations	0.0424836601307
+0059	symmetry_business_information	0.0392156862745
+0059	symmetry_math_learning	0.0326797385621
+0059	symmetry_game_problems	0.031045751634
+0059	symmetry_business_corporation	0.0228758169935
+0060	the presidents of the united states of america_politics_states	0.218518518519
+0060	the presidents of the united states of america_history_details	0.211111111111
+0060	the presidents of the united states of america_picture_facts	0.196296296296
+0060	the presidents of the united states of america_music_entertainment	0.192592592593
+0060	the presidents of the united states of america_duties_district	0.181481481481
+0061	windows_software_social	0.112449799197
+0061	windows_software_program	0.112449799197
+0061	windows_operating system_version	0.112449799197
+0061	windows_software_communication	0.10843373494
+0061	windows_software_itunes	0.0923694779116
+0061	windows_house_type	0.0823293172691
+0061	windows_website_news	0.0803212851406
+0061	windows_software_update	0.078313253012
+0061	windows_house_architecture	0.0763052208835
+0061	windows_website_help	0.074297188755
+0061	windows_musical group_record	0.070281124498
+0062	prophet_music_entertainment	0.165266106443
+0062	prophet_music_activities	0.162464985994
+0062	prophet_religion_christian	0.145658263305
+0062	prophet_religion_muslim	0.142857142857
+0062	prophet_comics_book	0.137254901961
+0062	prophet_music_productions	0.128851540616
+0062	prophet_religion_other	0.117647058824
+0063	gold_characteristics_physical 	0.122105263158
+0063	gold_facts_information	0.115789473684
+0063	gold_facts_products	0.111578947368
+0063	gold_characteristics_specifications	0.109473684211
+0063	gold_characteristics_periodic table	0.105263157895
+0063	gold_price_industry	0.101052631579
+0063	gold_company_standard	0.0968421052632
+0063	gold_characteristics_weight	0.0926315789474
+0063	gold_company_number	0.0736842105263
+0063	gold_company_density	0.0715789473684
+0064	owl_music_information	0.136574074074
+0064	owl_animal_facts	0.127314814815
+0064	owl_education_subject	0.125
+0064	owl_company_industry	0.111111111111
+0064	owl_tattoo_design	0.106481481481
+0064	owl_animal_media	0.106481481481
+0064	owl_animal_type	0.104166666667
+0064	owl_animal_anatomy	0.0949074074074
+0064	owl_education_writing	0.087962962963
+0065	adobe_software_multimedia	0.111111111111
+0065	adobe_software_desktop apps	0.0995024875622
+0065	adobe_service_products	0.0762852404643
+0065	adobe_architecture_build	0.0762852404643
+0065	adobe_software_online service	0.0729684908789
+0065	adobe_service_marketing	0.0729684908789
+0065	adobe_software_design	0.0696517412935
+0065	adobe_architecture_plans	0.0696517412935
+0065	adobe_architecture_brick	0.0679933665008
+0065	adobe_service_class	0.0547263681592
+0065	adobe_material_resources	0.0514096185738
+0065	adobe_architecture_roof	0.0514096185738
+0065	adobe_company_sales	0.0464344941957
+0065	adobe_company_globe	0.0431177446103
+0065	adobe_material_program	0.0364842454395
+0066	legend_game_video	0.0909090909091
+0066	legend_car_manufacture	0.0845295055821
+0066	legend_game_information	0.0813397129187
+0066	legend_music_online	0.0781499202552
+0066	legend_movie_film	0.0781499202552
+0066	legend_novel_book	0.07336523126
+0066	legend_game_zelda	0.0701754385965
+0066	legend_music_famous	0.0653907496013
+0066	legend_movie_novel	0.0558213716108
+0066	legend_game_equipment	0.0510366826156
+0066	legend_game_patches	0.0446570972887
+0066	legend_game_play online	0.0414673046252
+0066	legend_game_gifts	0.0414673046252
+0066	legend_music_entertainment	0.0318979266348
+0066	legend_car_facts	0.0318979266348
+0066	legend_movie_book	0.0287081339713
+0066	legend_game_east	0.0239234449761
+0066	legend_novel_name	0.0175438596491
+0066	legend_game_kids	0.00956937799043
+0067	beijing subways_information_destination	0.184126984127
+0067	beijing subways_game_app	0.174603174603
+0067	beijing subways_information_facts	0.171428571429
+0067	beijing subways_information_transportation	0.168253968254
+0067	beijing subways_video_content	0.155555555556
+0067	beijing subways_video_facts	0.146031746032
+0068	camera_model_type	0.138888888889
+0068	camera_information_facts	0.138888888889
+0068	camera_art_content	0.138888888889
+0068	camera_model_manufacturer	0.133838383838
+0068	camera_information_type	0.123737373737
+0068	camera_information_accessories	0.118686868687
+0068	camera_information_social media	0.108585858586
+0068	camera_art_place	0.0984848484848
+0069	free dvd burner_software_application	0.113131313131
+0069	free dvd burner_platform_operating system	0.113131313131
+0069	free dvd burner_software_type	0.111111111111
+0069	free dvd burner_software_introduction	0.107070707071
+0069	free dvd burner_platform_mobile	0.0969696969697
+0069	free dvd burner_software_support	0.0888888888889
+0069	free dvd burner_software_facts	0.0828282828283
+0069	free dvd burner_software_shareware	0.0767676767677
+0069	free dvd burner_software_trial	0.0727272727273
+0069	free dvd burner_software_freeware	0.0727272727273
+0069	free dvd burner_software_format	0.0646464646465
+0070	lost season 5_download_video	0.345029239766
+0070	lost season 5_online_media	0.33918128655
+0070	lost season 5_online_information	0.315789473684
+0071	mobile phones_brand_manufacturer	0.117171717172
+0071	mobile phones_information_Operating System	0.115151515152
+0071	mobile phones_service_features	0.107070707071
+0071	mobile phones_information_sales	0.10101010101
+0071	mobile phones_information_specifications	0.0989898989899
+0071	mobile phones_service_providers	0.0888888888889
+0071	mobile phones_information_usage	0.0828282828283
+0071	mobile phones_information_computers	0.0767676767677
+0071	mobile phones_information_health issues	0.0747474747475
+0071	mobile phones_service_countries	0.0707070707071
+0071	mobile phones_information_countries	0.0666666666667
+0072	programming languages_taxonomy_information	0.131944444444
+0072	programming languages_taxonomy_applications	0.12962962963
+0072	programming languages_taxonomy_education	0.122685185185
+0072	programming languages_taxonomy_difference	0.113425925926
+0072	programming languages_particular language_components	0.113425925926
+0072	programming languages_particular language_language types	0.111111111111
+0072	programming languages_particular language_uses	0.101851851852
+0072	programming languages_history_computer language	0.0925925925926
+0072	programming languages_history_development	0.0833333333333
+0073	tom cruise_biography_facts	0.0991452991453
+0073	tom cruise_biography_pictures	0.0974358974359
+0073	tom cruise_biography_romances	0.0837606837607
+0073	tom cruise_biography_family	0.0837606837607
+0073	tom cruise_book_biography	0.0752136752137
+0073	tom cruise_biography_career	0.0752136752137
+0073	tom cruise_movie_famous	0.0717948717949
+0073	tom cruise_movie_reviews	0.0649572649573
+0073	tom cruise_business_entertainment	0.0598290598291
+0073	tom cruise_business_advertisement	0.0547008547009
+0073	tom cruise_news_life	0.0512820512821
+0073	tom cruise_movie_films latest	0.0478632478632
+0073	tom cruise_business_associates	0.0478632478632
+0073	tom cruise_news_latest news	0.0444444444444
+0073	tom cruise_movie_films stuff	0.042735042735
+0074	top ipad games_2013_best games	0.146464646465
+0074	top ipad games_apps_best games	0.138888888889
+0074	top ipad games_free_apple games	0.136363636364
+0074	top ipad games_sports_best sports games	0.131313131313
+0074	top ipad games_wallpapers_downloads	0.118686868687
+0074	top ipad games_apps_kids	0.118686868687
+0074	top ipad games_apps_book	0.111111111111
+0074	top ipad games_apps_apple	0.0984848484848
+0075	watches_brand_watch maker	0.107664233577
+0075	watches_category_quality	0.100364963504
+0075	watches_category_manufacturer	0.0967153284672
+0075	watches_functions_features	0.0912408759124
+0075	watches_category_designer	0.0894160583942
+0075	watches_functions_usage	0.0821167883212
+0075	watches_category_type	0.0821167883212
+0075	watches_category_sex	0.0748175182482
+0075	watches_category_deals	0.0675182481752
+0075	watches_adornment_accesories	0.0602189781022
+0075	watches_history_story	0.0547445255474
+0075	watches_history_unique	0.0492700729927
+0075	watches_category_all	0.043795620438
+0076	thai specialies_specialties_location	0.14898989899
+0076	thai specialties_restaurant_special food	0.143939393939
+0076	thai specialties_speciality_purchases	0.133838383838
+0076	thai specialties_speciality_meals	0.131313131313
+0076	thai specialties_food_stores	0.123737373737
+0076	thai specialties_food_dishes	0.113636363636
+0076	thai specialies_specialties_asian	0.106060606061
+0076	thai specialties_restaurant_california	0.0984848484848
+0077	scientific american_magazine_readers	0.100854700855
+0077	scientific american_magazine_online	0.0974358974359
+0077	scientific american_series_learning	0.0820512820513
+0077	scientific american_products_article	0.0820512820513
+0077	scientific american_jobs_careers	0.0752136752137
+0077	scientific american_computer_information	0.0683760683761
+0077	scientific american_computer_website	0.0666666666667
+0077	scientific american_magazines_countries	0.0632478632479
+0077	scientific american_magazine_maps	0.0615384615385
+0077	scientific american_magazine_sales	0.0581196581197
+0077	scientific american_magazine_research	0.0581196581197
+0077	scientific american_products_digital	0.0529914529915
+0077	scientific american_series_book	0.0512820512821
+0077	scientific american_magazine_company	0.0461538461538
+0077	scientific american_jobs_work places	0.0358974358974
+0078	persian cat_animal_description	0.162464985994
+0078	persian cat_category_media	0.156862745098
+0078	persian cat_category_cat care	0.148459383754
+0078	persian cat_animal_sale	0.145658263305
+0078	persian cat_animal_pet care	0.137254901961
+0078	persian cat_category_introduction	0.131652661064
+0078	persian cat_necklace_products	0.117647058824
+0079	bathtub_contents_appearance	0.102564102564
+0079	bathtub_contents_types	0.0974358974359
+0079	bathtub_manufacturer_accesories	0.0923076923077
+0079	bathtub_manufacturer_costs	0.0786324786325
+0079	bathtub_manufacturer_discount	0.0769230769231
+0079	bathtub_manufacturer_specifications	0.0717948717949
+0079	bathtub_manufacturer_brands	0.0717948717949
+0079	bathtub_manufacturer_modern	0.0700854700855
+0079	bathtub_manufacturer_information	0.0700854700855
+0079	bathtub_manufacturer_supplier	0.0547008547009
+0079	bathtub_manufacturer_repair	0.0529914529915
+0079	bathtub_manufacturer_sterling	0.0512820512821
+0079	bathtub_manufacturer_refinishing	0.0410256410256
+0079	bathtub_manufacturer_history	0.0376068376068
+0079	bathtub_manufacturer_china	0.0307692307692
+0080	wedding ring_design_Jewelry store	0.10989010989
+0080	wedding ring_design_styles	0.102564102564
+0080	wedding ring_design_band material	0.0989010989011
+0080	wedding ring_design_stone	0.0915750915751
+0080	wedding ring_tradition_ceremony	0.0750915750916
+0080	wedding ring_tradition_religion	0.0732600732601
+0080	wedding ring_tradition_etiquette	0.0732600732601
+0080	wedding ring_tradition_womens	0.0695970695971
+0080	wedding ring_tradition_mens	0.0677655677656
+0080	wedding ring_tradition_accessories	0.0659340659341
+0080	wedding ring_tradition_history	0.0622710622711
+0080	wedding ring_tradition_unique	0.0604395604396
+0080	wedding ring_tradition_bands	0.0494505494505
+0081	samsung_product_business	0.0966666666667
+0081	samsung_mobile_galaxy	0.095
+0081	samsung_product_manufacture	0.0866666666667
+0081	samsung_tv_sales	0.0783333333333
+0081	samsung_software_downloads	0.0783333333333
+0081	samsung_tv_types	0.0683333333333
+0081	samsung_software_retailer	0.0633333333333
+0081	samsung_mobile_accessories	0.0616666666667
+0081	samsung_mobile_phone	0.06
+0081	samsung_tablet_tablet computer	0.0516666666667
+0081	samsung_software_online	0.0516666666667
+0081	samsung_product_information	0.0483333333333
+0081	samsung_mobile_operator	0.0466666666667
+0081	samsung_tv_model	0.0433333333333
+0081	samsung_mobile_competitor	0.04
+0081	samsung_product_electronics	0.03
+0082	the hunger games_movie_story	0.106227106227
+0082	the hunger games_movie_website	0.100732600733
+0082	the hunger games_movie_review	0.0952380952381
+0082	the hunger games_movie_series	0.0934065934066
+0082	the hunger games_novel_information	0.0842490842491
+0082	the hunger games_movie_advertisement	0.0805860805861
+0082	the hunger games_novel_details	0.0769230769231
+0082	the hunger games_movie_production	0.0732600732601
+0082	the hunger games_movie_release	0.0714285714286
+0082	the hunger games_novel_book	0.0659340659341
+0082	the hunger games_movie_theaters	0.0549450549451
+0082	the hunger games_novel_characters	0.0531135531136
+0082	the hunger games_novel_fans	0.043956043956

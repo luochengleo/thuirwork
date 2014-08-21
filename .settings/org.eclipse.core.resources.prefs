@@ -1,4 +1,8 @@
 eclipse.preferences.version=1
+encoding//dr/chinese/src/FLSevaluate.py=utf8
+encoding//dr/chinese/src/SLSevaluate.py=utf8
+encoding//dr/english/src/FLSevaluate.py=utf8
+encoding//dr/english/src/SLSevaluate.py=utf8
 encoding//sm/chinese/src/ForFLSevaluation.py=utf8
 encoding//sm/chinese/src/GenerateXml.py=utf8
 encoding//sm/chinese/src/ResultFile2Xml.py=utf8
