@@ -89,7 +89,7 @@
 0089	mcdonalds nutrition guide
 0090	sausalito art festival
 0091	tennessee unemployment
-0092	men's shoe sizes conversion
+0092	men's shoe sizes conversion
 0093	obama biography
 0094	causes of obesity
 0095	what is a natural number
@@ -148,3 +148,5 @@
 0148	IPアドレスを確認するには
 0149	メンズ靴サイズ対応表
 0150	郵便番号検索
+0100	online photo printing
+0092	men's shoe sizes conversion

@@ -95,4 +95,4 @@ for id in evaid():
     root.append(topicnode)
 
 tree = ET.ElementTree(root)
-tree.write('../data/test.xml','utf-8')
+tree.write('../data/IMine.Qrel.SME.xml','utf-8')

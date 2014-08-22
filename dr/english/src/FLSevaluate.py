@@ -36,7 +36,10 @@ def evaid():
     return rtr
 def sls2fls(sls):
     segs = sls.strip().split('_')
-    return segs[0]+'_'+segs[1]
+    if len(segs)==2:
+        return segs[0]
+    if len(segs)==3:
+        return segs[0]+'_'+segs[1]
 
 
 if 'flseva' not in os.listdir('../data'):
@@ -63,7 +66,6 @@ for l in loadcsv('../data/csv/dr2.csv'):
         if item !='':
             docid2rel[(queryid,docid)] = int(rel)
             docid2annofls[(queryid,docid)].add(sls2fls(item))
-            print 'add',queryid,docid,sls2fls(item)
 ####################################################
 annofls2idx = dict()
 id = ''
@@ -82,6 +84,8 @@ for l in open('../data/temp/flsposs.txt').readlines():
 
 ######################################################
 # 0101 0 clueweb12-0006-97-23810 1 27.73 MSRA-D-E-1A
+
+debug = open('../data/debug.txt','w')
 allsubdocs = defaultdict(lambda:set())
 dqrels = open('../data/flseva/imine.Dqrels','w')
 for f in os.listdir('../data/run'):
@@ -91,6 +95,8 @@ for f in os.listdir('../data/run'):
         id = segs[0].strip()
         docid  = segs[2].strip()
         allsubdocs[id].add(docid)
+        debug.write(f+' '+id+' '+docid+'\n')
+debug.close()
     
 for id in evaid():
     for doc in allsubdocs[id]:
@@ -107,11 +113,11 @@ for id in evaid():
                     print id
                     print doc
                     print fls_
-#                     bug = open('../data/out.debug','w')
-#                     bug.write('fail key '+annofls+'\n')
-#                     for item in annofls2idx.keys():
-#                         bug.write(item[0]+'\t'+item[1]+'\n')
-#                     bug.close()
+                    bug = open('../data/out.debug','w')
+                    bug.write('fail key '+fls_+'\n')
+                    for item in annofls2idx.keys():
+                        bug.write(item[0]+'\t'+item[1]+'\n')
+                    bug.close()
                     intent = 0
                     rel = 'L0'
                 if intent != 0:

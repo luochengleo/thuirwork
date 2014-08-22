@@ -85,7 +85,7 @@
 0071	mobile phones_service	0.320987654321
 0072	programming languages_history	0.333333333333
 0072	programming languages_particular language	0.345679012346
-0072	programming languages_taxnonmy	0.320987654321
+0072	programming languages_taxonomy	0.320987654321
 0073	tom cruise_biography	0.236363636364
 0073	tom cruise_book	0.163636363636
 0073	tom cruise_business	0.145454545455
@@ -103,7 +103,7 @@
 0075	watches_history	0.161016949153
 0076	thai specialties_food	0.345679012346
 0076	thai specialties_restaurant	0.320987654321
-0076	thai specialties_speciality	0.333333333333
+0076	thai specialties_specialties	0.333333333333
 0077	scientific american_computer	0.176991150442
 0077	scientific american_jobs	0.203539823009
 0077	scientific american_magazine	0.238938053097

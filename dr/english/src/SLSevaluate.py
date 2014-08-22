@@ -6,8 +6,8 @@ import codecs
 import csv
 
 
-start = 1
-end = 33
+start = 51
+end = 84
 mid =74
 query2id = dict()
 for l in open('../data/temp/IMine.Query.txt'):
@@ -50,9 +50,8 @@ if 'slseva' not in os.listdir('../data'):
 docid2annosls = defaultdict(lambda:set())
 docid2rel = defaultdict(lambda: 0)
 for l in loadcsv('../data/csv/dr2.csv'):
-    
-    query = l[0]
-    queryid = query2id[l[0]]
+    query = l[0].strip()
+    queryid = query2id[l[0]].strip()
     if len(queryid ) ==2:
         queryid='00'+queryid
     if len(queryid ) ==3:
@@ -67,7 +66,7 @@ for l in loadcsv('../data/csv/dr2.csv'):
     for item in slses:
         if item !='':
             docid2rel[(queryid,docid)] = int(rel)
-            docid2annosls[(queryid,docid)].add(item)
+            docid2annosls[(queryid,docid)].add(item.strip())
             print 'add',queryid,docid,item
 ####################################################
 annosls2idx = dict()
@@ -112,11 +111,11 @@ for id in evaid():
                     print id
                     print doc
                     print sls_
-#                     bug = open('../data/out.debug','w')
-#                     bug.write('fail key '+annofls+'\n')
-#                     for item in annofls2idx.keys():
-#                         bug.write(item[0]+'\t'+item[1]+'\n')
-#                     bug.close()
+                    bug = open('../data/out.debug','w')
+                    bug.write('fail key '+sls_+'\n')
+                    for item in annosls2idx.keys():
+                        bug.write(item[0]+'\t'+item[1]+'\n')
+                    bug.close()
                     intent = 0
                     rel = 'L0'
                 if intent != 0:
