@@ -24,10 +24,11 @@ for l in open('jp.pertopic.csv').read().split('\n')[2:]:
     hscore = float(segs[8])
     
     run2hscore[runname]+=hscore
-    run2fscore[runname]+=fscore
+    
     run2sscore[runname]+=sscore
     
     if getQueryType(queryid) == 0:
+        run2fscore[runname]+=fscore
         hmeasure = hscore*(fscore+sscore)/2.0
     else:
         hmeasure = hscore*sscore
@@ -38,6 +39,6 @@ pertopicout.close()
 allout = open('jp.final.perrun.csv','w')
 allout.write('runname,h-score,f-score,s-score,h-measure\n')
 for r in sorted(list(run2hscore.keys())):
-    allout.write(r+','+str(run2hscore[r]/33.0)+','+str(run2fscore[r]/33.0))
-    allout.write(','+str(run2sscore[r]/33.0)+','+str(run2hmeasure[r]/33.0)+'\n')
+    allout.write(r+','+str(run2hscore[r]/34.0)+','+str(run2fscore[r]/17.0))
+    allout.write(','+str(run2sscore[r]/34.0)+','+str(run2hmeasure[r]/34.0)+'\n')
 allout.close()
