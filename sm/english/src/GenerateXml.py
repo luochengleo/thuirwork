@@ -23,10 +23,13 @@ def evaid():
 sls2id = dict()
 for l in open('../data/temp/slsposs.txt').readlines():
     segs = l.strip().split('\t')
-    sls2id[segs[1]] = segs[0]
+    sls2id[segs[1].strip()] = segs[0].strip()
 id2fls2sls2queries = defaultdict(lambda:defaultdict(lambda:defaultdict(lambda:set())))
 
+count =0
 for l in loadcsv('../data/csv/task6.csv'):
+    count +=1
+    print count
     query = l[1].strip().decode('utf8','ignore').encode('utf8')
     fls = l[3].strip().decode('utf8','ignore').encode('utf8')
     sls = l[4].strip().decode('utf8','ignore').encode('utf8')
@@ -34,7 +37,8 @@ for l in loadcsv('../data/csv/task6.csv'):
         if query != '' and fls != '' and sls != '':
             id  = sls2id[sls]
             id2fls2sls2queries[id][fls][sls].add(query)
-
+    else:
+        print 'sls miss',sls
 id2fls = defaultdict(lambda:list())
 id2flsposs = defaultdict(lambda:dict())
 for l in open('../data/temp/flsposs.txt'):
@@ -96,3 +100,6 @@ for id in evaid():
 
 tree = ET.ElementTree(root)
 tree.write('../data/IMine.Qrel.SME.xml','utf-8')
+for item in id2fls2sls2queries['0051'].keys():
+    print item
+    print id2fls2sls2queries['0051'][item].keys()

@@ -22,14 +22,14 @@ def loadfile(filename):
     rtr = list()
     for l in open(filename).readlines()[1:]:
         segs=  l.replace(codecs.BOM_UTF8,'').replace(codecs.BOM_UTF8,'').strip().split(';')
-        topicid = segs[0]
-        fls = segs[2]
-        rankfls = segs[3]
-        scorefls = segs[4]
-        sls = segs[6]
-        ranksls = segs[7]
-        scoresls = segs[8]
-        runname = segs[9]
+        topicid = segs[0].strip()
+        fls = segs[2].strip()
+        rankfls = segs[3].strip()
+        scorefls = segs[4].strip()
+        sls = segs[6].strip()
+        ranksls = segs[7].strip()
+        scoresls = segs[8].strip()
+        runname = segs[9].strip()
         r = result(topicid, fls,rankfls,scorefls,sls,ranksls,scoresls,runname)
         rtr.append(r)
     return rtr
@@ -51,10 +51,11 @@ def calculateHscore(runname):
         count +=1
         queryid ='00'+ l[0]
         
-        fls = l[1]
-        sls = l[2]
-        freq = l[3]
-        accu = l[3]
+        fls = l[1].strip()
+        sls = l[2].strip()
+        freq = l[3].strip()
+        accu = l[3].strip()
+        
         if queryid.isdigit():
             accuracy[(queryid,fls,sls)] = int(accu)
     
