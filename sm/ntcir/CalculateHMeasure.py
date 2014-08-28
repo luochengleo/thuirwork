@@ -1,7 +1,11 @@
 from collections import defaultdict
 
+tag = 'cn'
+querynum = 33.0
+ambiquerynum = 16.0
+
 def getQueryType(queryid):
-    if queryid <118:
+    if queryid <17:
         return 0
     else:
         return 1
@@ -11,10 +15,13 @@ run2fscore = defaultdict(lambda: 0.0)
 run2sscore = defaultdict(lambda: 0.0)
 run2hmeasure = defaultdict(lambda: 0.0)
 
-pertopicout = open('jp.final.pertopic.csv','w')
+
+
+pertopicout = open(tag+'.release.pertopic.csv','w')
+pertopicout.write('queryid,topicid,Fscore:D-nDCG@5,Fscore:D#nDCG@5,FscoreI-rel@5,Sscore:D-nDCG@50,Fscore:D#nDCG@50,FscoreI-rel@50,Hscore,Hmeasure\n')
 print 'read pertopic data'
 
-for l in open('jp.pertopic.csv').read().split('\n')[2:]:
+for l in open(tag+'.pertopic.csv').read().split('\n')[2:]:
     print l
     segs = l.strip().split(',')
     runname = segs[0]
@@ -36,9 +43,9 @@ for l in open('jp.pertopic.csv').read().split('\n')[2:]:
     pertopicout.write(l.strip()+','+str(hmeasure)+'\n')
 
 pertopicout.close()
-allout = open('jp.final.perrun.csv','w')
+allout = open(tag+'.release.perrun.csv','w')
 allout.write('runname,h-score,f-score,s-score,h-measure\n')
 for r in sorted(list(run2hscore.keys())):
-    allout.write(r+','+str(run2hscore[r]/34.0)+','+str(run2fscore[r]/17.0))
-    allout.write(','+str(run2sscore[r]/34.0)+','+str(run2hmeasure[r]/34.0)+'\n')
+    allout.write(r+','+str(run2hscore[r]/querynum)+','+str(run2fscore[r]/ambiquerynum))
+    allout.write(','+str(run2sscore[r]/querynum)+','+str(run2hmeasure[r]/querynum)+'\n')
 allout.close()
