@@ -1,7 +1,7 @@
 from collections import defaultdict
 
 def getQueryType(queryid):
-    if queryid <=118:
+    if queryid <118:
         return 0
     if queryid >=118 and queryid <135:
         return 1
@@ -13,7 +13,7 @@ run2fscore = defaultdict(lambda: 0.0)
 run2sscore = defaultdict(lambda: 0.0)
 run2hmeasure = defaultdict(lambda: 0.0)
 
-pertopicout = open('jp.final.pertopoc.csv','w')
+pertopicout = open('jp.final.pertopic.csv','w')
 
 for l in open('jp.pertopic.csv').readlines()[1:]:
     segs = l.strip().split(',')

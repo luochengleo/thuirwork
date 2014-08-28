@@ -163,12 +163,12 @@ def mean(r):
 if __name__=="__main__":
 #     print calculateHscore('hultech-S-E-4A')
     fout = open('../data/hscorepertopic.csv','w')
-    
+    runout = open('../data/hscoreperrun.csv','w')
     for f in os.listdir('../data/enrun/'):
         runname = f.replace('.txt','')
         count = 51
         for item in calculateHscore(runname):
             fout.write(runname+','+str(count)+','+str(item)+'\n')
             count +=1
-        print runname,'\t',len(calculateHscore(runname)),mean(calculateHscore(runname))
+        runout.write(runname+','+str(len(calculateHscore(runname)))+','+str(mean(calculateHscore(runname)))+'\n')
     fout.close()
