@@ -67,7 +67,10 @@ def calculateHscore(runname):
             try:
                 accu = accuracy[(item.topicid,item.fls,item.sls)]
             except:
-#                 print 'miss',item.topicid,item.fls,item.sls
+                fout = open('../data/hscoredebug.txt','a')
+                if item.sls!='':
+                    fout.write(runname+'miss'+item.topicid+'FLS:('+item.fls+')SLS:('+ item.sls+')\n')
+                fout.close()
                 accu = 0
             hscore[topicid][rankfls]+=(accu)
             hcount[topicid][rankfls]+=1
@@ -161,10 +164,11 @@ def mean(r):
 #     return rtr
 
 if __name__=="__main__":
+    
 #     print calculateHscore('hultech-S-E-4A')
     fout = open('../data/hscorepertopic.csv','w')
     runout = open('../data/hscoreperrun.csv','w')
-    for f in os.listdir('../data/enrun/'):
+    for f in sorted(os.listdir('../data/enrun/')):
         runname = f.replace('.txt','')
         count = 51
         for item in calculateHscore(runname):

@@ -4,6 +4,10 @@ from xml.etree.ElementTree import Element
 from collections import defaultdict
 import sys,csv 
 import codecs
+
+import codecs
+reload(sys) 
+sys.setdefaultencoding("utf8")
 query2id = dict()
 for l in open('../data/temp/IMine.Query.txt'):
     id,query = l.strip().split('\t')

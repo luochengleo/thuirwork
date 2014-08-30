@@ -302,13 +302,13 @@
 0075	watches_history_story	0.0547445255474
 0075	watches_history_unique	0.0492700729927
 0075	watches_category_all	0.043795620438
-0076	thai specialies_specialties_location	0.14898989899
+0076	thai specialties_speciality_location	0.14898989899
 0076	thai specialties_restaurant_special food	0.143939393939
 0076	thai specialties_speciality_purchases	0.133838383838
 0076	thai specialties_speciality_meals	0.131313131313
 0076	thai specialties_food_stores	0.123737373737
 0076	thai specialties_food_dishes	0.113636363636
-0076	thai specialies_specialties_asian	0.106060606061
+0076	thai specialties_speciality_asian	0.106060606061
 0076	thai specialties_restaurant_california	0.0984848484848
 0077	scientific american_magazine_readers	0.100854700855
 0077	scientific american_magazine_online	0.0974358974359

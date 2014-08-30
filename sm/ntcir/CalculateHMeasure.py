@@ -1,11 +1,11 @@
 from collections import defaultdict
 
-tag = 'cn'
+tag = 'en'
 querynum = 33.0
 ambiquerynum = 16.0
 
 def getQueryType(queryid):
-    if queryid <17:
+    if queryid <67:
         return 0
     else:
         return 1

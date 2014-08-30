@@ -85,7 +85,7 @@
 0071	mobile phones_service	0.320987654321
 0072	programming languages_history	0.333333333333
 0072	programming languages_particular language	0.345679012346
-0072	programming languages_taxnonmy	0.320987654321
+0072	programming languages_taxonomy	0.320987654321
 0073	tom cruise_biography	0.236363636364
 0073	tom cruise_book	0.163636363636
 0073	tom cruise_business	0.145454545455

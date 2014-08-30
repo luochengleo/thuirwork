@@ -782,7 +782,7 @@
 1,flesh eating bacteria images,1,flesh_fly,flesh_fly_illness
 1,flesh and blood 1985 film,1,flesh_literature,flesh_literature_information
 1,flesh eating bacteria cdc,1,flesh_fly,flesh_fly_illness
-1,flesh eating drug,12,flesh_information_,flesh_information_body
+1,flesh eating drug,12,flesh_information,flesh_information_body
 1,tattoos in the flesh,2,flesh_religion,flesh_religion_church
 1,flesh vimeo vimeo,1,flesh_literature,flesh_literature_information
 1,flesh make someone,1,flesh_information,flesh_information_definition
@@ -823,7 +823,7 @@
 1,rare flesh eating disease,1,flesh_body,flesh_body_health issues
 1,flesh flesh fly,1,flesh_fly,flesh_fly_insect
 1,flesh and blood body,4,flesh_body,flesh_body_anatomy
-1,crocodile drugs flesh eating,1,flesh_information_,flesh_information_body
+1,crocodile drugs flesh eating,1,flesh_information,flesh_information_body
 1,flesh spirit christ,1,flesh_religion,flesh_religion_church
 1,flesh greek,1,flesh_literature,flesh_literature_information
 1,flesh bulgarian,1,flesh_literature,flesh_literature_information
@@ -848,14 +848,14 @@
 1,flesh latin,1,flesh_literature,flesh_literature_information
 1,devil in the flesh,13,flesh_religion,flesh_religion_church
 1,flesh pound of,1,flesh_literature,flesh_literature_information
-1,flesh arms,2,flesh_information_,flesh_information_body
+1,flesh arms,2,flesh_information,flesh_information_body
 1,flesh free body,1,flesh_body,flesh_body_free
 1,flesh german,1,flesh_literature,flesh_literature_information
 1,flesh club,15,flesh_information,flesh_information_definition
 1,flesh out,20,flesh_information,flesh_information_definition
 1,flesh-eating disease,12,flesh_body,flesh_body_health issues
 1,flesh eating strep pictures,1,flesh_body,flesh_body_health issues
-1,put flesh on,7,flesh_information_,flesh_information_body
+1,put flesh on,7,flesh_information,flesh_information_body
 1,flesh wounds,17,flesh_body,flesh_body_health issues
 1,word made flesh,4,flesh_information,flesh_information_definition
 1,facts about flesh eating bacteria,1,flesh_body,flesh_body_health issues
@@ -887,7 +887,7 @@
 1,flesh in flesh and blood,1,flesh_religion,flesh_religion_church
 1,flesh flesh wound,1,flesh_body,flesh_body_health issues
 1,flesh and spirit,18,flesh_religion,flesh_religion_church
-1,pictures of flesh eating drug,1,flesh_information_,flesh_information_body
+1,pictures of flesh eating drug,1,flesh_information,flesh_information_body
 1,devil in the flesh trailer,1,flesh_literature,flesh_literature_information
 1,lucifer the devil in the flesh,1,flesh_religion,flesh_religion_church
 1,flesh wiki terraria,1,flesh_information,flesh_information_definition
@@ -937,7 +937,7 @@
 1,ir investor panasonic,1,ir_interest rate,ir_interest rate_investor
 1,ir iran ucla,1,ir_country,ir_country_school
 1,ir voy,1,,
-1,ir is located in tehran,4,ir_country_,ir_country_location
+1,ir is located in tehran,4,ir_country,ir_country_location
 1,polyurethane ir spectrum,1,ir_chemistry,ir_chemistry_science
 1,ireland,3,ir_country,ir_country_abbreviation
 1,ir infrared,1,ir_chemistry,ir_chemistry_science

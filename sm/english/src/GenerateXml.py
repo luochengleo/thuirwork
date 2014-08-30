@@ -6,6 +6,12 @@ from bs4 import BeautifulSoup
 reload(sys) 
 sys.setdefaultencoding("utf8")
 
+def sls2fls(sls):
+    segs = sls.strip().split('_')
+    if len(segs)==2:
+        return segs[0]
+    if len(segs)==3:
+        return segs[0]+'_'+segs[1]
 def loadcsv(filename):
     return csv.reader(open(filename))
 id2topic = dict()
@@ -29,7 +35,6 @@ id2fls2sls2queries = defaultdict(lambda:defaultdict(lambda:defaultdict(lambda:se
 count =0
 for l in loadcsv('../data/csv/task6.csv'):
     count +=1
-    print count
     query = l[1].strip().decode('utf8','ignore').encode('utf8')
     fls = l[3].strip().decode('utf8','ignore').encode('utf8')
     sls = l[4].strip().decode('utf8','ignore').encode('utf8')
@@ -78,7 +83,6 @@ for id in evaid():
     topicnode = ET.Element('topic',{'id':id,'content':topic})
     
     for fls in id2fls[id]:
-        print id,fls
         flsnode = ET.Element('fls',{'content':fls,'poss':str(id2flsposs[id][fls])})
         examplesnode = ET.Element('examples')
         for item in idannofls2userfls[(id,fls)]:
@@ -87,19 +91,18 @@ for id in evaid():
             examplesnode.append(flsexpnode)
         flsnode.append(examplesnode)
         for sls in id2sls[id]:
-            if sls in id2fls2sls2queries[id][fls]:
+            if sls2fls(sls)==fls:
                 slsnode = ET.Element('sls',{'content':sls,'poss':str(id2slsposs[id][sls])})
-                for q in id2fls2sls2queries[id][fls][sls]:
-                    expnode = ET.Element('example')
-                    expnode.text = q
-                    slsnode.append(expnode)
-                flsnode.append(slsnode)
+                if sls in id2fls2sls2queries[id][fls]:
+                    for q in id2fls2sls2queries[id][fls][sls]:
+                        expnode = ET.Element('example')
+                        expnode.text = q
+                        slsnode.append(expnode)
+                    flsnode.append(slsnode)
+
         
         topicnode.append(flsnode)
     root.append(topicnode)
 
 tree = ET.ElementTree(root)
 tree.write('../data/IMine.Qrel.SME.xml','utf-8')
-for item in id2fls2sls2queries['0051'].keys():
-    print item
-    print id2fls2sls2queries['0051'][item].keys()
